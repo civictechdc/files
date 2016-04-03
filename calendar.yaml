@@ -82,62 +82,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 8
 other:
-- created: 1456402619000
-  description: "<p>Do you want to join a\_<b>high-impact team\_</b>and work on\_<b>10x\
-    \ ideas and Moonshots\_</b>towards solving some of the most difficult challenges\
-    \ facing humanity?</p> <p>On\_<b>Saturday, April 2nd 2016,</b>\_<a href=\"http://teamexponent.com/\"\
-    >Team Exponent</a>, in partnership with\_<a href=\"http://www.meetup.com/gdg-dc/\"\
-    >GDG DC</a>\_and Capital One, is hosting a 1-day\_<b>10x Moonshot Sprint</b>\_\
-    session to solve for\_<i>Climate Change through robotics, artificial intelligence\
-    \ and biotech</i>. This is your chance to be a part of something with high-value\
-    \ and high-impact potential.</p> <p><br/>Whether you're an Engineer, Scientist,\
-    \ Designer, PM or purely passionate about solving for this challenge through moonshot\
-    \ thinking, this is a chance to meet like minded individuals with the various\
-    \ skills needed to ideate, prototype and bring a potential moonshot project to\
-    \ life.</p> <p><br/><a href=\"http://apply.teamexponent.com/\"><b>Apply now</b></a>\_\
-    for an opportunity to join this unique experience.</p> <p><br/>For more details,\
-    \ visit\_<a href=\"http://teamexponent.com/\"><a href=\"http://TeamExponent.com\"\
-    \ class=\"linkified\">http://TeamExponent.com</a></a>. To apply, visit\_<a href=\"\
-    http://apply.teamexponent.com/\"><a href=\"http://apply.teamexponent.com\" class=\"\
-    linkified\">http://apply.teamexponent.com</a></a></p> <p><br/><i>(We will review\
-    \ all applications and notify you if you are selected, participation is through\
-    \ invitation only and will require a $20 admin registration fee upon confirmation.\_\
-    </i><i>The event session will include meals and drinks, and materials required\
-    \ for the sprint.)</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/2/b/5/600_447217557.jpeg\"\
-    \ /></p> <p><i>Katy Kasmai is the Founder of <a href=\"http://teamexponent.com/\"\
-    >Team Exponent</a>, building high-impact teams for 10x Moonshots, and a senior\
-    \ level Engineering PM at Google, Inc. She is passionate about 10x thinking, moonshots,\
-    \ sustainability and the pursuit of change and innovation. Katy develops and executes\
-    \ strategies to solve complex problems using technology, with a focus on achieving\
-    \ product excellence. <a href=\"http://twitter.com/katykasmai\">@KatyKasmai</a>\_\
-    <br/></i></p> <p><i>Team Exponent, Inc. is a non-profit organization based in\
-    \ New York City, inspiring 10x Moonshot thinking and education. We believe in\
-    \ the potential of 10x Moonshot ideas and high-impact teams to help us solve our\
-    \ toughest challenges. <a href=\"https://twitter.com/teamexponent\">@TeamExponent</a>\
-    \ | <a href=\"http://teamexponent.com/\">TeamExponent.com</a><br/></i></p> <p>Sponsors:\
-    \ <a href=\"http://www.capitalone.com\">Capital One</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\"\
-    \ /></p>"
-  duration: 32400000
-  event_url: http://www.meetup.com/gdg-dc/events/229122044/
-  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
-    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
-    urlname: gdg-dc, who: Google Techies and Users}
-  headcount: 0
-  how_to_find_us: 'Moonshot, Startups, Venture, Climate, #BioTech'
-  id: '229122044'
-  maybe_rsvp_count: 0
-  name: 10x Moonshot Sprint in Washington DC
-  rsvp_limit: 3
-  status: upcoming
-  time: 1459603800000
-  updated: 1457635339000
-  utc_offset: -14400000
-  venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
-    lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
-    state: VA}
-  visibility: public
-  waitlist_count: 38
-  yes_rsvp_count: 3
 - created: 1459347644000
   description: "<p><a href=\"https://www.hackerrank.com/challenges/botclean\" class=\"\
     linkified\">https://www.hackerrank.com/challenges/botclean</a></p> <p>Interested\
@@ -175,7 +119,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -225,7 +169,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 73
 - created: 1459379311000
   description: "<p><b><i>WWC DC would like to introduce Jen Aprahamian, co-founder\
     \ and CTO of <a href=\"http://www.vina.io/\">VINA, Inc</a>. a company dedicated\
@@ -372,7 +316,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 45
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -416,7 +360,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1456431672000
   description: "<p><b>Intro to Git/Github:</b></p> <p>Ever make changes that broke\
     \ your code and forgot how it was working before? Want to work together with someone\
@@ -530,7 +474,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 70
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -646,7 +590,7 @@ other:
       Building Auditorium, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1457035881000
   description: "<p>Welcome everyone. We'll be having our second tech talk of the year\
     \ on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when\
@@ -697,7 +641,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 102
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -730,7 +674,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 10
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -956,7 +900,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1459089487000
   description: '<p>This meetup that will examine how data and data science can help
     tackle the global pandemic of sexual assault and rape, featuring multiple speakers
@@ -1004,7 +948,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1154,7 +1098,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1369,7 +1313,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\

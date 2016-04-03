@@ -83,47 +83,6 @@
     ], 
     "other": [
         {
-            "created": 1456402619000, 
-            "description": "<p>Do you want to join a\u00a0<b>high-impact team\u00a0</b>and work on\u00a0<b>10x ideas and Moonshots\u00a0</b>towards solving some of the most difficult challenges facing humanity?</p> <p>On\u00a0<b>Saturday, April 2nd 2016,</b>\u00a0<a href=\"http://teamexponent.com/\">Team Exponent</a>, in partnership with\u00a0<a href=\"http://www.meetup.com/gdg-dc/\">GDG DC</a>\u00a0and Capital One, is hosting a 1-day\u00a0<b>10x Moonshot Sprint</b>\u00a0session to solve for\u00a0<i>Climate Change through robotics, artificial intelligence and biotech</i>. This is your chance to be a part of something with high-value and high-impact potential.</p> <p><br/>Whether you're an Engineer, Scientist, Designer, PM or purely passionate about solving for this challenge through moonshot thinking, this is a chance to meet like minded individuals with the various skills needed to ideate, prototype and bring a potential moonshot project to life.</p> <p><br/><a href=\"http://apply.teamexponent.com/\"><b>Apply now</b></a>\u00a0for an opportunity to join this unique experience.</p> <p><br/>For more details, visit\u00a0<a href=\"http://teamexponent.com/\"><a href=\"http://TeamExponent.com\" class=\"linkified\">http://TeamExponent.com</a></a>. To apply, visit\u00a0<a href=\"http://apply.teamexponent.com/\"><a href=\"http://apply.teamexponent.com\" class=\"linkified\">http://apply.teamexponent.com</a></a></p> <p><br/><i>(We will review all applications and notify you if you are selected, participation is through invitation only and will require a $20 admin registration fee upon confirmation.\u00a0</i><i>The event session will include meals and drinks, and materials required for the sprint.)</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/9/2/b/5/600_447217557.jpeg\" /></p> <p><i>Katy Kasmai is the Founder of <a href=\"http://teamexponent.com/\">Team Exponent</a>, building high-impact teams for 10x Moonshots, and a senior level Engineering PM at Google, Inc. She is passionate about 10x thinking, moonshots, sustainability and the pursuit of change and innovation. Katy develops and executes strategies to solve complex problems using technology, with a focus on achieving product excellence. <a href=\"http://twitter.com/katykasmai\">@KatyKasmai</a>\u00a0<br/></i></p> <p><i>Team Exponent, Inc. is a non-profit organization based in New York City, inspiring 10x Moonshot thinking and education. We believe in the potential of 10x Moonshot ideas and high-impact teams to help us solve our toughest challenges. <a href=\"https://twitter.com/teamexponent\">@TeamExponent</a> | <a href=\"http://teamexponent.com/\">TeamExponent.com</a><br/></i></p> <p>Sponsors: <a href=\"http://www.capitalone.com\">Capital One</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
-            "duration": 32400000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/229122044/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Moonshot, Startups, Venture, Climate, #BioTech", 
-            "id": "229122044", 
-            "maybe_rsvp_count": 0, 
-            "name": "10x Moonshot Sprint in Washington DC", 
-            "rsvp_limit": 3, 
-            "status": "upcoming", 
-            "time": 1459603800000, 
-            "updated": 1457635339000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1680 Capital One Drive", 
-                "city": "McLean", 
-                "country": "us", 
-                "id": 23933274, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "Capital One", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 38, 
-            "yes_rsvp_count": 3
-        }, 
-        {
             "created": 1459347644000, 
             "description": "<p><a href=\"https://www.hackerrank.com/challenges/botclean\" class=\"linkified\">https://www.hackerrank.com/challenges/botclean</a></p> <p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p>- Dinner</p> <p>- Work on the following problems -\u00a0</p> <p><b>These are intro problems for anyone who is new to algorithms or interview type questions! We'll continue working through several of these\u00a0</b></p> <p><b>\u2022\u00a0<a href=\"https://www.hackerrank.com/challenges/tutorial-intro\"><a href=\"https://www.hackerrank.com/challenges/tutorial-intro\" class=\"linkified\">https://www.hackerrank.com/challenges/tutorial-intro</a></a><br/></b></p> <p><b>For those who want more of a challenge</b></p> <p>\u2022\u00a0<b><a href=\"https://www.hackerrank.com/challenges/botclean\"><a href=\"https://www.hackerrank.com/challenges/botclean\" class=\"linkified\">https://www.hackerrank.com/challenges/botclean</a></a></b></p> <p><br/>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -162,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1457035701000, 
@@ -202,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1459379311000, 
@@ -348,7 +307,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1452612310000, 
@@ -387,7 +346,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1456431672000, 
@@ -474,7 +433,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1456426141000, 
@@ -600,7 +559,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1457035881000, 
@@ -628,7 +587,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1451511328000, 
@@ -666,7 +625,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -896,7 +855,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459089487000, 
@@ -934,7 +893,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1459265642000, 
@@ -1045,7 +1004,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1459265642000, 
@@ -1215,7 +1174,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1457035701000, 
