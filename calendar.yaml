@@ -119,7 +119,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -169,7 +169,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 75
 - created: 1459379311000
   description: "<p><b><i>WWC DC would like to introduce Jen Aprahamian, co-founder\
     \ and CTO of <a href=\"http://www.vina.io/\">VINA, Inc</a>. a company dedicated\
@@ -248,7 +248,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1459265642000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? Looking to build your first app or build on existing skills?\
@@ -427,7 +427,7 @@ other:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -714,7 +714,9 @@ other:
     \ while simultaneously using legal skills to promote technological innovation\
     \ and exploration.</p> <p><b>Join us on Wednesday, April 13, \_2015 to\_discuss\
     \ everything FBI v. Apple\_over pizza and beer featuring some surprise expert\
-    \ guests.</b></p>"
+    \ guests.</b></p> <p>Thank you to New America for hosting!</p> <p><img src=\"\
+    http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\"\
+    \ /></p>"
   duration: 10800000
   event_url: http://www.meetup.com/DCLegalHackers/events/229947703/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -726,11 +728,11 @@ other:
   name: '#LegalHack FBI v. Apple'
   status: upcoming
   time: 1460584800000
-  updated: 1459231046000
+  updated: 1459655626000
   utc_offset: -14400000
-  venue: {address_1: NW, city: Washington, country: us, id: 24453979, lat: 38.938091,
-    localized_country_name: USA, lon: -77.044929999999994, name: 'TBD ', repinned: false,
-    state: DC}
+  venue: {address_1: '740 15th St NW #900', city: Washington, country: us, id: 24453919,
+    lat: 38.899749999999997, localized_country_name: USA, lon: -77.033835999999994,
+    name: New America Foundation, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 34
@@ -948,7 +950,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come

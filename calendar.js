@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1457035701000, 
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1459379311000, 
@@ -238,7 +238,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1459265642000, 
@@ -394,7 +394,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
@@ -657,7 +657,7 @@ calendar({
         }, 
         {
             "created": 1459207945000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><b>Join us on Wednesday, April 13, \u00a02015 to\u00a0discuss everything FBI v. Apple\u00a0over pizza and beer featuring some surprise expert guests.</b></p>", 
+            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><b>Join us on Wednesday, April 13, \u00a02015 to\u00a0discuss everything FBI v. Apple\u00a0over pizza and beer featuring some surprise expert guests.</b></p> <p>Thank you to New America for hosting!</p> <p><img src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\" /></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/229947703/", 
             "group": {
@@ -676,17 +676,17 @@ calendar({
             "name": "#LegalHack FBI v. Apple", 
             "status": "upcoming", 
             "time": 1460584800000, 
-            "updated": 1459231046000, 
+            "updated": 1459655626000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "NW", 
+                "address_1": "740 15th St NW #900", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24453979, 
-                "lat": 38.938091, 
+                "id": 24453919, 
+                "lat": 38.899749999999997, 
                 "localized_country_name": "USA", 
-                "lon": -77.044929999999994, 
-                "name": "TBD ", 
+                "lon": -77.033835999999994, 
+                "name": "New America Foundation", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -893,7 +893,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1459265642000, 
