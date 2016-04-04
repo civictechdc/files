@@ -1,6 +1,6 @@
-- activity: [4, 8, 6, 3, 0, 4, 0, 3, 3, 4, 4, 0, 0, 8, 2, 7, 9, 0, 9, 63, 11, 0, 2,
-    3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+- activity: [5, 7, 6, 3, 0, 4, 0, 5, 1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54, 10, 0,
+    2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -973,9 +973,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 24, 11, 6, 15, 0, 3, 4,
-    6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1,
-    0, 32, 104, 2, 3, 0, 0]
+- activity: [0, 0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 26, 9, 6, 15, 0, 7, 0, 6,
+    0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0,
+    33, 103, 2, 3, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1368,7 +1368,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 58
+  open_issues: 59
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-04-03T22:04:02Z'
@@ -1427,10 +1427,10 @@
     thumbnail: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 142,
+    link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 135,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 126,
-    link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 20,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 18,
@@ -1452,9 +1452,9 @@
   id: 46313726
   languages:
   - [R, 76415]
-  - [HTML, 38964]
-  - [CSS, 25627]
-  - [Python, 6152]
+  - [HTML, 39625]
+  - [CSS, 25925]
+  - [Python, 6087]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: R
@@ -1462,9 +1462,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-03T21:45:59Z'
+  pushed_at: '2016-04-04T01:13:59Z'
   short_name: school-modernization
-  size: 16162
+  size: 16178
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1523,7 +1523,7 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [15, 40, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [29, 26, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}

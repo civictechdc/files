@@ -1,27 +1,27 @@
 [
     {
         "activity": [
-            4, 
-            8, 
+            5, 
+            7, 
             6, 
             3, 
             0, 
             4, 
             0, 
-            3, 
-            3, 
+            5, 
+            1, 
             4, 
             4, 
             0, 
             0, 
-            8, 
-            2, 
+            9, 
             7, 
+            1, 
             9, 
             0, 
-            9, 
-            63, 
-            11, 
+            19, 
+            54, 
+            10, 
             0, 
             2, 
             3, 
@@ -38,8 +38,8 @@
             0, 
             2, 
             0, 
-            3, 
-            2, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -3161,17 +3161,17 @@
             0, 
             27, 
             2, 
-            24, 
-            11, 
+            26, 
+            9, 
             6, 
             15, 
             0, 
-            3, 
-            4, 
+            7, 
+            0, 
             6, 
             0, 
-            14, 
-            66, 
+            42, 
+            38, 
             0, 
             0, 
             8, 
@@ -3194,8 +3194,8 @@
             1, 
             1, 
             0, 
-            32, 
-            104, 
+            33, 
+            103, 
             2, 
             3, 
             0, 
@@ -4409,7 +4409,7 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 58, 
+        "open_issues": 59, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
@@ -4610,16 +4610,16 @@
         }, 
         "contributors": [
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3870635?v=3", 
+                "contributions": 142, 
+                "link": "https://github.com/samiam151", 
+                "name": "samiam151"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
                 "contributions": 135, 
                 "link": "https://github.com/katerabinowitz", 
                 "name": "katerabinowitz"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/3870635?v=3", 
-                "contributions": 126, 
-                "link": "https://github.com/samiam151", 
-                "name": "samiam151"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1095794?v=3", 
@@ -4668,15 +4668,15 @@
             ], 
             [
                 "HTML", 
-                38964
+                39625
             ], 
             [
                 "CSS", 
-                25627
+                25925
             ], 
             [
                 "Python", 
-                6152
+                6087
             ]
         ], 
         "license": {
@@ -4694,9 +4694,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-04-03T21:45:59Z", 
+        "pushed_at": "2016-04-04T01:13:59Z", 
         "short_name": "school-modernization", 
-        "size": 16162, 
+        "size": 16178, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 
@@ -4868,8 +4868,8 @@
     }, 
     {
         "activity": [
-            15, 
-            40, 
+            29, 
+            26, 
             28, 
             0, 
             0, 
