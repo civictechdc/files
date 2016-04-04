@@ -40,7 +40,7 @@ codefordc:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 30
-- announced: false
+- announced: true
   created: 1459093369000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
     >DataKind DC</a>!</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_</p>\
@@ -80,7 +80,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 21
 other:
 - created: 1459347644000
   description: "<p><a href=\"https://www.hackerrank.com/challenges/botclean\" class=\"\
@@ -119,7 +119,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 26
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -169,7 +169,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 76
 - created: 1459379311000
   description: "<p><b><i>WWC DC would like to introduce Jen Aprahamian, co-founder\
     \ and CTO of <a href=\"http://www.vina.io/\">VINA, Inc</a>. a company dedicated\
@@ -219,7 +219,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 22
 - created: 1458531639000
   description: "<p>Spring weather is (~generally)\_here. \_:) \_\_And with the cool,\
     \ refreshing evening breeze of April 5, you can add in some high quality API talks!\
@@ -248,7 +248,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 76
 - created: 1459265642000
   description: "<p>Interested in learning how to build Android apps with an awesome\
     \ group of women? Looking to build your first app or build on existing skills?\
@@ -279,23 +279,26 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1459895400000
-  updated: 1459470044000
+  updated: 1459784517000
   utc_offset: -14400000
+  venue: {address_1: 901 G Street NW, city: Washington, country: us, id: 24466964,
+    lat: 38.898693000000002, localized_country_name: USA, lon: -77.024780000000007,
+    name: 'MLK Library, Digital Commons #2', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1446219481000
-  description: <p>We're a group of women who want to learn and develop our Python
-    scripting skills. Some of us are professional developers and data scientists,
-    others are hobbyists, and some are just beginning. The study group is intended
-    for everyone who wishes to learn more about the Python programming language. Folks
-    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
-    Wednesday of every month, which caters especially for absolute beginners and people
-    with basic familiarity.</p> <p>All other study group nights will generally cover
-    more advanced topics and work on projects more in depth, according to everyone's
-    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
-    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
-    for women; we are trans* friendly.</p>
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p>This Women\
+    \ Who Code DC event is intended to be exclusively open for women; we are trans*\
+    \ friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387914/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -309,14 +312,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1459981800000
-  updated: 1459371645000
+  updated: 1459789419000
   utc_offset: -14400000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -474,7 +477,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 76
 - created: 1456426141000
   description: "<p>Due to the restrictions of Meetup's registration, we can't schedule\
     \ multi-day events, so keep in mind that this Meetup event serves as registration\
@@ -591,6 +594,57 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 17
+- created: 1459777528000
+  description: "<p>Welcome to IDEAA's second annual DC Code Kitchen + Meat &amp; Greet!\
+    \ Join us this year as we embark on another action-packed <b>day full of Android\
+    \ learning</b>, coding, and fun. In addition to our developer talks and menu of\
+    \ challenges (and prizes - - - woohoo!!!), we\u2019ve added a student track specifically\
+    \ focused on delivering hands-on training to <b>ANYONE interested in becoming\
+    \ a developer</b>.</p> <p>Your day will begin with a few lightning talks from\
+    \ leading developers. From there, you will divide into two groups:</p> <p><b>Developers</b>:\
+    \ You will be issued a menu of code challenges that look something like\_<a href=\"\
+    https://drive.google.com/file/d/0B4h3GAtEbxMTQVdDeWZ2UUZWNnc/view\">THIS</a>.\
+    \ There are challenges for every degree of expertise, from beginner to expert.\
+    \ These challenges are developed and submitted by our sponsors. Prizes are awarded\
+    \ at the end of the day for those that win the challenge or successfully complete\
+    \ the task.</p> <p><b>Students</b>:\_You will be provided with very easy-to-follow\
+    \ instructions that will walk you through writing your first lines of code. You\u2019\
+    ll be working in a relaxed classroom atmosphere with some of the best instructors\
+    \ around. Our crew will leave you with the tools needed to continue your journey\
+    \ into coding after the event! If you are under the age of 18, please have your\
+    \ parent/guardian fill out this\_<a href=\"https://drive.google.com/open?id=0B-2IMRDGa71AODh0SmdHX0J3Rnc\"\
+    >participation form</a>.</p> <p><b>Registration</b></p> <p>This year the event\
+    \ will take place at United States Patent and Trademark Office (USPTO) in Alexandria\
+    \ on Saturday April 9. More information is available on the event website ---&gt;\
+    \ <a href=\"https://nvite.com/IDEAADC/e1bc\"><a href=\"https://nvite.com/IDEAADC/e1bc\"\
+    \ class=\"linkified\">https://nvite.com/IDEAADC/e1bc</a></a></p> <p><b>Call for\_\
+    Speakers and Teaching assistants</b></p> <p>DC Code Kitchen is currently\_looking\
+    \ for two things:<br/>1) Speakers and Teaching assistants for the student track\
+    \ that can share their story of how they became a developer and then hang around\
+    \ and help if they need any help getting through the Udacity \"Android for Beginners\"\
+    \ class.</p> <p><br/>2) Speakers to talk to the seasoned developers that will\
+    \ be showing up to tackle the Code Challenges. A talk on a cutting edge topic\
+    \ or something that would be of interest to current Android developers.</p> <p><br/>**\
+    \ If you're interested, please contact\_Corry Robb\_&lt;[masked]&gt; **</p>"
+  duration: 39600000
+  event_url: http://www.meetup.com/gdg-dc/events/230114454/
+  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
+    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
+    urlname: gdg-dc, who: Google Techies and Users}
+  headcount: 0
+  id: '230114454'
+  maybe_rsvp_count: 0
+  name: 'Partner event: DC Code Kitchen + Meat & Greet'
+  status: upcoming
+  time: 1460205000000
+  updated: 1459777528000
+  utc_offset: -14400000
+  venue: {address_1: 600 Dulany St, city: Alexandria, country: US, id: 23617611, lat: 38.801780999999998,
+    localized_country_name: USA, lon: -77.063766000000001, name: United States Patent
+      and Trademark Office, repinned: false}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 15
 - created: 1457035881000
   description: "<p>Welcome everyone. We'll be having our second tech talk of the year\
     \ on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when\
@@ -641,7 +695,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 108
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -674,7 +728,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -735,7 +789,7 @@ other:
     name: New America Foundation, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1459398068000
   description: "<p>Join\_<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\_\
     and members of the DC\_business &amp; tech\_communities as we celebrate Powerful\
@@ -950,7 +1004,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 52
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1164,7 +1218,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -1267,17 +1321,16 @@ other:
     \ if you have an app, hack, map, dataviz or other project you'd like to present.\_\
     </p> <p>\u2022\_Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a>\
     \ will share some new projects.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/1littlevictory\"\
-    >Anna Petrone</a> will show how she built an\_<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\"\
+    >Anna Petrone</a> will show her\_<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\"\
     >interactive visualization tool for CaBi trip data</a> built with Amazon Web Services\
     \ and Leaflet.\_</p> <p>\u2022\_<a href=\"https://twitter.com/mapping_sam\">Sam\
     \ Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\"\
-    >data analysis</a> on CaBi's\_first and last mile contribution to Metro's multi-modal\
-    \ transportation solution.</p> <p><br/>\u2022\_Amir Farhangi and Matt Triner of\_\
-    <a href=\"http://district.ninja/\">District Ninja</a>\_will show how they calculated\_\
-    <a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\"\
-    >DC neighborhoods with the most capital bikeshare use</a>.</p> <p>\u2022\_Hans\
-    \ Engler will show how he\_extracts spatio-temporal trip patterns from historic\
-    \ CaBi data.</p> <p><br/>\u2022\_<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\"\
+    >data analysis</a> on CaBi's\_first and last mile contribution to Metro's transportation\
+    \ solution.</p> <p><br/>\u2022\_Amir Farhangi and Matt Triner of\_<a href=\"http://district.ninja/\"\
+    >District Ninja</a>\_will show how they calculated\_<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\"\
+    >DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\_Hans Engler will\
+    \ show how he\_extracts spatio-temporal trip patterns from historic CaBi data.</p>\
+    \ <p><br/>\u2022\_<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\"\
     >Alex Rixey</a> will share\_Fehr and Peers'\_work on CaBi\_ridership forecasting\
     \ and measuring\_low-stress bikeways.</p> <p><br/>\u2022\_<a href=\"https://www.dylanbarlett.com/\"\
     >Dylan Barlett</a>\_will show his\_<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\"\
@@ -1310,14 +1363,14 @@ other:
   rsvp_limit: 125
   status: upcoming
   time: 1461880800000
-  updated: 1459742007000
+  updated: 1459792905000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\

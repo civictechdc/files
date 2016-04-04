@@ -41,7 +41,7 @@
             "yes_rsvp_count": 30
         }, 
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1459093369000, 
             "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 21
         }
     ], 
     "other": [
@@ -121,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1457035701000, 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1459379311000, 
@@ -200,7 +200,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1458531639000, 
@@ -238,7 +238,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1459265642000, 
@@ -262,15 +262,27 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1459895400000, 
-            "updated": 1459470044000, 
+            "updated": 1459784517000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24466964, 
+                "lat": 38.898693000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.024780000000007, 
+                "name": "MLK Library, Digital Commons #2", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387914/", 
             "group": {
@@ -291,7 +303,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1459981800000, 
-            "updated": 1459371645000, 
+            "updated": 1459789419000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1200 18th St. NW Ste 650", 
@@ -307,7 +319,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1452612310000, 
@@ -433,7 +445,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1456426141000, 
@@ -562,6 +574,44 @@
             "yes_rsvp_count": 17
         }, 
         {
+            "created": 1459777528000, 
+            "description": "<p>Welcome to IDEAA's second annual DC Code Kitchen + Meat &amp; Greet! Join us this year as we embark on another action-packed <b>day full of Android learning</b>, coding, and fun. In addition to our developer talks and menu of challenges (and prizes - - - woohoo!!!), we\u2019ve added a student track specifically focused on delivering hands-on training to <b>ANYONE interested in becoming a developer</b>.</p> <p>Your day will begin with a few lightning talks from leading developers. From there, you will divide into two groups:</p> <p><b>Developers</b>: You will be issued a menu of code challenges that look something like\u00a0<a href=\"https://drive.google.com/file/d/0B4h3GAtEbxMTQVdDeWZ2UUZWNnc/view\">THIS</a>. There are challenges for every degree of expertise, from beginner to expert. These challenges are developed and submitted by our sponsors. Prizes are awarded at the end of the day for those that win the challenge or successfully complete the task.</p> <p><b>Students</b>:\u00a0You will be provided with very easy-to-follow instructions that will walk you through writing your first lines of code. You\u2019ll be working in a relaxed classroom atmosphere with some of the best instructors around. Our crew will leave you with the tools needed to continue your journey into coding after the event! If you are under the age of 18, please have your parent/guardian fill out this\u00a0<a href=\"https://drive.google.com/open?id=0B-2IMRDGa71AODh0SmdHX0J3Rnc\">participation form</a>.</p> <p><b>Registration</b></p> <p>This year the event will take place at United States Patent and Trademark Office (USPTO) in Alexandria on Saturday April 9. More information is available on the event website ---&gt; <a href=\"https://nvite.com/IDEAADC/e1bc\"><a href=\"https://nvite.com/IDEAADC/e1bc\" class=\"linkified\">https://nvite.com/IDEAADC/e1bc</a></a></p> <p><b>Call for\u00a0Speakers and Teaching assistants</b></p> <p>DC Code Kitchen is currently\u00a0looking for two things:<br/>1) Speakers and Teaching assistants for the student track that can share their story of how they became a developer and then hang around and help if they need any help getting through the Udacity \"Android for Beginners\" class.</p> <p><br/>2) Speakers to talk to the seasoned developers that will be showing up to tackle the Code Challenges. A talk on a cutting edge topic or something that would be of interest to current Android developers.</p> <p><br/>** If you're interested, please contact\u00a0Corry Robb\u00a0&lt;[masked]&gt; **</p>", 
+            "duration": 39600000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/230114454/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "id": "230114454", 
+            "maybe_rsvp_count": 0, 
+            "name": "Partner event: DC Code Kitchen + Meat & Greet", 
+            "status": "upcoming", 
+            "time": 1460205000000, 
+            "updated": 1459777528000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "600 Dulany St", 
+                "city": "Alexandria", 
+                "country": "US", 
+                "id": 23617611, 
+                "lat": 38.801780999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.063766000000001, 
+                "name": "United States Patent and Trademark Office", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 15
+        }, 
+        {
             "created": 1457035881000, 
             "description": "<p>Welcome everyone. We'll be having our second tech talk of the year on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when she was 10 years old, back in the weird-old-days of Geocities and table-based layouts. She continued working with web design/development in college, where she minored in studio art at Tulane University and went to the Art Institute of Washington.\u00a0</p> <p>She is a graduate of the Front End development program at Iron Yard and\u00a0currently works at <a href=\"http://540.co/\">540.co</a>, where she works to help evangelize APIs and open source software/open data and of course, helps the government #getshitdone (the official motto).</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -587,7 +637,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1451511328000, 
@@ -625,7 +675,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -692,7 +742,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1459398068000, 
@@ -893,7 +943,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1459265642000, 
@@ -1070,7 +1120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1457709309000, 
@@ -1139,7 +1189,7 @@
         }, 
         {
             "created": 1458758791000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show how she built an\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's multi-modal transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most capital bikeshare use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will share\u00a0Fehr and Peers'\u00a0work on CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0David Erickson will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show her\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will share\u00a0Fehr and Peers'\u00a0work on CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0David Erickson will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
             "group": {
                 "created": 1384372275000, 
@@ -1158,7 +1208,7 @@
             "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1461880800000, 
-            "updated": 1459742007000, 
+            "updated": 1459792905000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1174,7 +1224,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1457035701000, 
