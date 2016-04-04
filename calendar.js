@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "announced": false, 
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1459379311000, 
@@ -433,7 +433,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1456426141000, 
@@ -480,7 +480,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459355635000, 
@@ -587,7 +587,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1451511328000, 
@@ -625,7 +625,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1459265642000, 
@@ -731,7 +731,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -855,7 +855,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1459089487000, 
