@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "announced": true, 
@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1458531639000, 
@@ -157,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1459265642000, 
@@ -197,7 +197,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1446219481000, 
@@ -237,7 +237,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -277,7 +277,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1456431672000, 
@@ -364,7 +364,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1456426141000, 
@@ -490,7 +490,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
+        }, 
+        {
+            "created": 1459876967000, 
+            "description": "<p>Eventbrite RSVP (sign up here too!!):\u00a0<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291\"><a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291\" class=\"linkified\">https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291</a></a></p> <p>Join Women Who Code's CEO, Alaina Percival (and other awesome women!), for a screening of the documentary \"<a href=\"http://www.codedoc.co/\">CODE - Debugging the Gender Gap(link is external)</a>\", on\u00a0Friday April 8 at 1PM ET. This event is sponsored by the<a href=\"http://www.uspto.gov/\">\u00a0U.S. Patent and Trademark Office</a>\u00a0(USPTO),\u00a0<a href=\"https://www.capitalone.com/\">Capital One</a>, and\u00a0<a href=\"http://local.anitaborg.org/groups/abi-washington-dc/\">ABI.DC Community</a>.</p> <p>CODE exposes the dearth of American female and minority software engineers and explores the reasons for this gender gap.\u00a0 CODE raises the question: what would society gain from having more women and minorities code?\u00a0<a href=\"https://www.dropbox.com/s/f2an3jj0d6rue2g/CODE_Trailer_v13_Stereo_Web_h264.mov?n=12275723\">Watch the trailer</a>.</p> <p>There is an awesome panelist lineup - including Women Who Code CEO Alaina Percival!!</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/5/b/6/600_448606518.jpeg\" /></p> <p><b>Panelists:</b></p> <p><a href=\"https://www.linkedin.com/in/robinhauserreynolds\">Robin Hauser-Reynolds</a>,\u00a0Director of CODE, Debugging the Gender Gap</p> <p><a href=\"https://www.linkedin.com/in/alainapercival\">Alaina Percival</a>,\u00a0CEO Women of Code</p> <p><a href=\"https://www.linkedin.com/in/julie-elberfeld-25b9a85\">Julie Elberfeld</a>, SVP, Commercial Bank CIO, Capital One\u00a0</p> <p><a href=\"http://schedule.gracehopper.org/speaker/danielle-cummings/\">Danielle Cummings</a>, PhD,\u00a0Department of Defense,\u00a0Moderator</p> <p><a href=\"https://www.linkedin.com/in/jennifer-anastasoff-99889\">Jennifer Anastasoff</a>,\u00a0U.S.\u00a0Digital Service</p> <p><a href=\"https://www.linkedin.com/in/vivianmotti\">Vivian Motti</a>, Assistant Professor, George Mason University</p> <p>\n\n\n<b>Agenda:</b></p> <p>1:00 PM Opening remarks by\u00a0Chief of Staff of the U.S. Patent and Trademark Office\u00a0<a href=\"http://www.uspto.gov/about-us/executive-biographies/vikrum-d-aiyer\">Vikrum D. Aiyer</a>.</p> <p>1:05-2:20 Screening of CODE, Debugging the Gender Gap</p> <p>2:20-3:00\u00a0Panel Discussion and\u00a0Q&amp;A,\u00a0featuring:</p> <p>3:20-5:00 PM\u00a0Coding activity for students</p> <p>3:20-5:00 PM Networking session in the atrium adjacent to the auditorium.\u00a0Meet our panelists and connect with fellow #womenintech in the DC area.\u00a0</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230147460/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Metro Stops Nearby:  King St  - Old Town on Blue and Yellow line Eisenhower on Yellow line", 
+            "id": "230147460", 
+            "maybe_rsvp_count": 0, 
+            "name": "CODE - Debugging the Gender Gap", 
+            "status": "upcoming", 
+            "time": 1460134800000, 
+            "updated": 1459877002000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "600 Dulaney Street", 
+                "city": "Alexandria", 
+                "country": "us", 
+                "id": 24428792, 
+                "lat": 38.801155000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.063744, 
+                "name": "Madison Building Auditorium", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1459777528000, 
@@ -528,7 +568,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457035881000, 
@@ -556,7 +596,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1451511328000, 
@@ -622,7 +662,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459207945000, 
@@ -818,10 +858,10 @@ calendar({
             "id": "230128252", 
             "maybe_rsvp_count": 0, 
             "name": "Overview of Google BigQuery Architecture", 
-            "rsvp_limit": 100, 
+            "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1460673000000, 
-            "updated": 1459821655000, 
+            "updated": 1459878465000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Explorer St", 
@@ -837,7 +877,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1457965726000, 
@@ -865,7 +905,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459089487000, 
@@ -903,7 +943,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1459265642000, 
@@ -1080,7 +1120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1457709309000, 
@@ -1224,7 +1264,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -1347,33 +1387,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1457035881000, 
-            "description": "<p>Hi, everybody. We're doing our third tech talk of the year on May 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p> <p>*this will be on Angular 1 (since angular 2 is in Beta)</p> <p>Joanna Johnson is a software engineer at a non profit venture capital firm. She focuses on front-end software development and delivery. Outside of the office she\u2019s a globe trotting mother who enjoys running marathons in foreign places and playing tennis.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365788/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "ghkdrlyvhbmb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab - Angular.js Talk", 
-            "status": "upcoming", 
-            "time": 1462833000000, 
-            "updated": 1458666174000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 48
         }, 
         {
             "created": 1459703387000, 
