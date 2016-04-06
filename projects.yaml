@@ -93,7 +93,7 @@
   size: 21734
   updated_at: '2016-04-02T15:40:47Z'
   watchers: 29
-- activity: [0, 4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [3, 1, 1, 6, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -127,14 +127,12 @@
     link: 'https://github.com/mesb', name: mesb}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 4,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1551510?v=3', contributions: 3,
-    link: 'https://github.com/mcwhittemore', name: mcwhittemore}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2487968?v=3', contributions: 3,
     link: 'https://github.com/tvanantwerp', name: tvanantwerp}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/899591?v=3', contributions: 3,
-    link: 'https://github.com/Copper-Head', name: Copper-Head}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/903759?v=3', contributions: 3,
     link: 'https://github.com/kdurril', name: kdurril}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/899591?v=3', contributions: 3,
+    link: 'https://github.com/Copper-Head', name: Copper-Head}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/125098?v=3', contributions: 2,
     link: 'https://github.com/joshfinnie', name: joshfinnie}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6344446?v=3', contributions: 2,
@@ -149,7 +147,7 @@
     link: 'https://github.com/tmcw', name: tmcw}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3248065?v=3', contributions: 1,
     link: 'https://github.com/shannonturner', name: shannonturner}
-  contributors_count: 16
+  contributors_count: 15
   created_at: '2013-03-11T23:54:30Z'
   default_branch: master
   description: A website about DC's Advisory Neighborhood Commission system.
@@ -882,7 +880,7 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [2, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14, 0, 0, 0, 0,
+- activity: [1, 1, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 5, 12, 0, 0, 0, 0,
     4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
