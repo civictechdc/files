@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "announced": true, 
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }
     ], 
     "other": [
@@ -120,84 +120,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 24
-        }, 
-        {
-            "created": 1458531639000, 
-            "description": "<p>Spring weather is (~generally)\u00a0here. \u00a0:) \u00a0\u00a0And with the cool, refreshing evening breeze of April 5, you can add in some high quality API talks! \u00a0</p> <p>There'll be plenty of good food and good drink to go along with the all of the solid folks who'll be there, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you soon! \u00a0</p> <p><br/>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Jennifer Rondeau - Capital One<br/>* Sabrina Williams<br/>* Christen Geile - National Institutes of Health<br/>* Ben Morris - STSI</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/229750566/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "229750566", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - April Edition", 
-            "status": "upcoming", 
-            "time": 1459893600000, 
-            "updated": 1459183665000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 89
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Meetup Format</p> <p>This week we will be presenting a code along. It doesn\u2019t matter if you\u2019re a professional or a hobbyist, you can join us and create a new android app with Android Studio. We encourage you to look over the\u00a0 \u201cAndroid Getting Started Guide\u201d located in the resource section below. Also, don\u2019t forget to install the Android Studio. See you there!</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229962225/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvgbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1459895400000, 
-            "updated": 1459784517000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G Street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24466964, 
-                "lat": 38.898693000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.024780000000007, 
-                "name": "MLK Library, Digital Commons #2", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446219481000, 
@@ -277,7 +199,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1456431672000, 
@@ -325,7 +247,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
@@ -364,7 +286,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1456426141000, 
@@ -530,7 +452,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1459777528000, 
@@ -596,7 +518,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 123
         }, 
         {
             "created": 1451511328000, 
@@ -662,7 +584,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459207945000, 
@@ -836,7 +758,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1459807879000, 
@@ -877,7 +799,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1457965726000, 
@@ -1120,7 +1042,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1457709309000, 
@@ -1387,6 +1309,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1457035881000, 
+            "description": "<p>Hi, everybody. We're doing our third tech talk of the year on May 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p> <p>*this will be on Angular 1 (since angular 2 is in Beta)</p> <p>Joanna Johnson is a software engineer at a non profit venture capital firm. She focuses on front-end software development and delivery. Outside of the office she\u2019s a globe trotting mother who enjoys running marathons in foreign places and playing tennis.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365788/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "ghkdrlyvhbmb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab - Angular.js Talk", 
+            "status": "upcoming", 
+            "time": 1462833000000, 
+            "updated": 1458666174000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1459703387000, 
