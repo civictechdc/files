@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "announced": true, 
@@ -197,7 +197,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446219481000, 
@@ -237,7 +237,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -325,7 +325,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
@@ -364,7 +364,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1456426141000, 
@@ -490,7 +490,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1459876967000, 
@@ -530,7 +530,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459777528000, 
@@ -568,7 +568,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457035881000, 
@@ -596,7 +596,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1451511328000, 
@@ -701,7 +701,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459398068000, 
@@ -840,7 +840,7 @@
         }, 
         {
             "created": 1459807879000, 
-            "description": "<p>Join us for the inaugural event at\u00a0Google Reston office\u00a0with Google Cloud Team and learn about\u00a0Overview of Google BigQuery Architecture.\u00a0</p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p> <p>Date: Apr 14,[masked]:00 PM</p> <p>Location: Google Reston,\u00a01875 Explorer St. Suite 1000. Reston, VA 20190</p> <p><b>Speaker</b>:</p> <p><a href=\"https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3\" class=\"linkified\">https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3</a></p> <p><br/>Al Marsella\u00a0is a Senior Solutions Engineer at Google with Google\u2019s Cloud Platform team. Possessing over 20 years of experience in the Enterprise deploying and managing solutions across multiple industry sectors, Mr. Marsella brings a wealth of knowledge to Google\u2019s Cloud Platform customers and focuses on Big Data, Information Governance, Content Management, and the applications and the software that power these practices. Al is currently based in the northeast US and is a trusted advisor for Google\u2019s East Coast based Cloud Platform customers.</p> <p><br/>Sponsors:\u00a0<a href=\"http://cloud.google.com/\">Google Cloud Platform</a>\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/5/8/8/7/600_448582663.jpeg\" /></p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p>", 
+            "description": "<p>Join us for the inaugural event at\u00a0Google Reston office\u00a0with Google Cloud Team and learn about\u00a0Overview of Google BigQuery Architecture. We will also have Jim Bartus from Fastly speaking about the next generation CDN (Content Delivery Network) integrating with Google Cloud Platform.</p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p> <p>Date: Apr 14,[masked]:00 PM</p> <p>Location: Google Reston,\u00a01875 Explorer St. Suite 1000. Reston, VA 20190</p> <p>Agenda:\u00a0</p> <p>6:00 - 6:45 PM Networking and Pizza!</p> <p>6:45 - 7:30 Google BigQuery Architecture - Al Marselia - Google</p> <p>7:30 - 8:00\u00a0Accelerating Site Performance with Cloud Storage, Analytics and CDN - Jim Bartus, <a href=\"https://www.fastly.com/\">Fastly</a></p> <p>8:00 - 8:30 Post Event Networking\u00a0</p> <p><b>Speakers:</b></p> <p><b>Al Marsella, Senior Solution Engineer, Google<br/></b></p> <p><a href=\"https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3\" class=\"linkified\">https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3</a></p> <p><br/>Al Marsella\u00a0is a Senior Solutions Engineer at Google with Google\u2019s Cloud Platform team. Possessing over 20 years of experience in the Enterprise deploying and managing solutions across multiple industry sectors, Mr. Marsella brings a wealth of knowledge to Google\u2019s Cloud Platform customers and focuses on Big Data, Information Governance, Content Management, and the applications and the software that power these practices. Al is currently based in the northeast US and is a trusted advisor for Google\u2019s East Coast based Cloud Platform customers.</p> <p><b>Jim Bartus</b>,\u00a0<b>Senior Systems Engineer,\u00a0Fastly Team</b></p> <p><a href=\"https://lh5.googleusercontent.com/nz0RD49z_okxv1f6Fm6raX3zKPbSwTluofbcD6Olm1maXgA4B9HpMCa47wr8n8DwrggxmsV2LgkdqFZLaGoxUZN1Zk9F_Aup6WFGZHaZCcAIeoninyw03EPmhuiM-071ZwVgha0z\" class=\"linkified\">https://lh5.googleusercontent.com/nz0RD49z_okxv1f6Fm6raX3zKPbSwTluofbcD6Olm1maXgA4B9HpMCa47wr8n8DwrggxmsV2LgkdqFZLaGoxUZN1Zk9F_Aup6WFGZHaZCcAIeoninyw03EPmhuiM-071ZwVgha0z</a></p> <p><br/>Jim Bartus is a Senior Systems Engineer at <a href=\"http://fastly.com/\">Fastly</a>. \u00a0He has over 12 years of experience in Web and Systems Administration in the media industry with Sling Media, Huffington Post and Gawker before coming to Fastly last October. \u00a0He is based in Fastly\u2019s New York City office and supports customers up and down the East Coast.</p> <p><br/>Sponsors:\u00a0<a href=\"http://cloud.google.com/\">Google Cloud Platform</a>\u00a0, <a href=\"https://www.fastly.com/\">Fastly</a>\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/5/8/8/7/600_448582663.jpeg\" /></p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/230128252/", 
             "group": {
@@ -857,11 +857,11 @@
             "how_to_find_us": "GCP, Google Cloud, BigQuery, Big Data, Analytics, Architecture, PaaS, Database, SQL", 
             "id": "230128252", 
             "maybe_rsvp_count": 0, 
-            "name": "Overview of Google BigQuery Architecture", 
+            "name": "Overview of Google BigQuery Architecture &  Fastly + GCP", 
             "rsvp_limit": 150, 
             "status": "upcoming", 
             "time": 1460673000000, 
-            "updated": 1459878465000, 
+            "updated": 1459892993000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Explorer St", 
@@ -877,7 +877,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1457965726000, 
@@ -1026,7 +1026,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1457212385000, 
@@ -1264,7 +1264,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
@@ -1347,7 +1347,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
@@ -1386,7 +1386,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1459703387000, 
