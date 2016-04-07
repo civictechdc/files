@@ -80,7 +80,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -121,7 +121,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 other:
 - created: 1459379311000
   description: "<p><b><i>WWC DC would like to introduce Jen Aprahamian, co-founder\
@@ -225,7 +225,7 @@ other:
     name: GovDelivery, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1459355635000
   description: "<p>Let's join up and attend ABI.DC's screening of the documentary\
     \ \u201CCODE \u2013 Debugging the Gender Gap\u201C, on Friday April 8 at 1PM ET.\
@@ -341,7 +341,7 @@ other:
       Building Auditorium, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1459777528000
   description: "<p>Welcome to IDEAA's second annual DC Code Kitchen + Meat &amp; Greet!\
     \ Join us this year as we embark on another action-packed <b>day full of Android\
@@ -476,7 +476,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -509,7 +509,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1459207945000
   description: "<p>Join DC Legal Hackers at the New America Foundation on Wednesday,\
     \ April 13, 2015 from 6-9pm to #LegalHack the FBI\u2013Apple encryption dispute.\_\
@@ -548,7 +548,7 @@ other:
     name: New America Foundation, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1459398068000
   description: "<p>Join\_<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\_\
     and members of the DC\_business &amp; tech\_communities as we celebrate Powerful\
@@ -621,7 +621,7 @@ other:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 8
 - created: 1457885761000
   description: "<p><b>DC FemTech Awards Reception</b></p> <p><br/>Next week, Python\
     \ Lab will join 2016 DC FemTech Awards Reception to celebrate Powerful Women Programmers\
@@ -673,7 +673,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1459807879000
   description: "<p>Join us for the inaugural event at\_Google Reston office\_with\
     \ Google Cloud Team and learn about\_Overview of Google BigQuery Architecture.\
@@ -728,7 +728,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 119
+  yes_rsvp_count: 121
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -771,7 +771,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1459089487000
   description: '<p>This meetup that will examine how data and data science can help
     tackle the global pandemic of sexual assault and rape, featuring multiple speakers
@@ -896,7 +896,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1002,20 +1002,27 @@ other:
   yes_rsvp_count: 4
 - created: 1455651624000
   description: "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\"\
-    >Eventbrite</a>\_(early registration though next week).</b></p> <p>Google defines\
-    \ User Experience (UX) as \"the overall experience of a person using a product\
-    \ such as a website...especially in terms of how easy or pleasing it is to use\"\
-    .</p> <p><br/>- Is your website easy and pleasing to use?\_</p> <p>- Are you visitors\
-    \ able to accomplish tasks with ease and leave with a positive experience?\_</p>\
-    \ <p>- What are your options for improving website UX?\_</p> <p>This event will\
-    \ help answer those questions.</p> <p>We will discuss 3 elements of website UX:</p>\
-    \ <p>\u2022\_What makes for good website user experience, including mobile web</p>\
-    \ <p>\u2022\_How to evaluate your website UX and do basic user research</p> <p>\u2022\
-    \ What changes you can make to your website to enhance usability and UX</p> <p>We\
-    \ begin at 6:30 with wine, beer, soda and light appetizers. Presentation at 7pm.</p>\
-    \ <p><br/>This event is focused on people who manage and build websites, as well\
-    \ as those interested in user experience.</p> <p>If you are interested in sponsorship,\
-    \ contact [masked].</p>"
+    >Eventbrite</a></b></p> <p><b>OVERVIEW</b></p> <p>Google defines User Experience\
+    \ (UX) as \"the overall experience of a person using a product such as a website...especially\
+    \ in terms of how easy or pleasing it is to use\".</p> <p><br/>- Is your website\
+    \ easy and pleasing to use?\_</p> <p>- Are you visitors able to accomplish tasks\
+    \ with ease and leave with a positive experience?\_</p> <p>- What are your options\
+    \ for improving website UX?\_</p> <p>This event will help answer those questions.</p>\
+    \ <p>We will discuss 3 elements of website UX:</p> <p>\u2022\_What makes for good\
+    \ website user experience, including mobile web</p> <p>\u2022\_How to evaluate\
+    \ your website UX and do basic user research</p> <p>\u2022 What changes you can\
+    \ make to your website to enhance usability and UX</p> <p><b>AGENDA &amp; AUDIENCE</b></p>\
+    \ <p>We begin at 6:30 with wine, beer, soda and light appetizers. Presentation\
+    \ at 7pm.</p> <p><br/>This event is focused on people who manage and build websites,\
+    \ as well as those interested in user experience.</p> <p><b>PRESENTER</b></p>\
+    \ <p><img src=\"https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/2339/thumb_thumb_FazBW2.png\"\
+    \ /></p> <p><b>Faz Besharatian</b>, Instructor, General Assembly</p> <p>Faz has\
+    \ been teaching with General Assembly since the first User Experience course in\
+    \ DC. He started his migration away from print design in 1996 and has been building\
+    \ digital experiences ever since. Throughout his design career Faz has worked\
+    \ for AARP, AOL, US Airways, USWeb/CKS, and others. Today he is an independent\
+    \ design consultant focused on product design for companies big and small.</p>\
+    \ <p><br/>If you are interested in sponsorship, contact [masked].</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/228899649/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1026,7 +1033,7 @@ other:
   name: Website User Experience
   status: upcoming
   time: 1461711600000
-  updated: 1459200712000
+  updated: 1460033922000
   utc_offset: -14400000
   venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
     id: 19625362, lat: 38.904330999999999, localized_country_name: USA, lon: -77.033278999999993,
@@ -1130,7 +1137,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -1189,7 +1196,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 76
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
