@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "announced": true, 
@@ -78,7 +78,87 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
+        }, 
+        {
+            "announced": false, 
+            "created": 1459986472000, 
+            "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
+            "duration": 9900000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/230184466/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "230184466", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1462228200000, 
+            "updated": 1459986472000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "419 7th St NW, Third Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23752411, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "Impact Hub DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
+            "announced": false, 
+            "created": 1459986500000, 
+            "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
+            "duration": 9900000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/230184472/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "230184472", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1464129000000, 
+            "updated": 1459986500000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "419 7th St NW, Third Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23752411, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "Impact Hub DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }
     ], 
     "other": [
@@ -160,7 +240,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 5, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1452612310000, 
@@ -199,7 +279,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1456431672000, 
@@ -247,7 +327,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1326383071000, 
@@ -286,7 +366,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1456426141000, 
@@ -490,7 +570,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1457035881000, 
@@ -596,11 +676,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459207945000, 
-            "description": "<p>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0</p> <p>A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p><b>Join us on Wednesday, April 13, \u00a02015 to\u00a0discuss everything FBI v. Apple\u00a0over pizza and beer featuring some surprise expert guests.</b></p> <p>Thank you to New America for hosting!</p> <p><img src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\" /></p>", 
+            "description": "<p>Join DC Legal Hackers at the New America Foundation on Wednesday, April 13, 2015 from 6-9pm to #LegalHack the FBI\u2013Apple encryption dispute.\u00a0</p> <p><br/>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>The FBI\u2013Apple encryption dispute has been hailed the \"biggest tech case this year\". The dispute refers to a district court order by the FBI under the All Writs Act to compel Apple to create a new version of their phone's iOS operating system that could disable certain security features prohibiting investigation of a phone linked to the San Bernardino attacks. Apple filed a motion to vacate the court order and since the FBI has unlocked the phone without any new software in place. This dispute has everything: drama, intrigue, encryption, due process, freedom of speech!\u00a0</p> <p>Join us for a robust discussion over pizza and beer featuring some surprise expert guests.</p> <p>Thank you to New America for hosting!</p> <p><img src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\" /></p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/229947703/", 
             "group": {
@@ -619,7 +699,7 @@
             "name": "#LegalHack FBI v. Apple", 
             "status": "upcoming", 
             "time": 1460584800000, 
-            "updated": 1459655626000, 
+            "updated": 1459968249000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "740 15th St NW #900", 
@@ -628,14 +708,14 @@
                 "id": 24453919, 
                 "lat": 38.899749999999997, 
                 "localized_country_name": "USA", 
-                "lon": -77.033835999999994, 
+                "lon": -77.033839999999998, 
                 "name": "New America Foundation", 
-                "repinned": false, 
+                "repinned": true, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1459398068000, 
@@ -678,6 +758,47 @@
             "yes_rsvp_count": 1
         }, 
         {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>\n\n\n<b>Next week, Python Lab will join 2016 DC Femtech Awards Reception to celebrate Powerful Women Programmers and Powerful Women Designers.</b></p> <p><b>YOU MUST\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=44d0507845&amp;e=c5fb492fa7\">RSVP HERE!</a>\u00a0</b></p> <p><br/>\u00a0<i>Note: If there is a waiting list, please sign up for the waiting list</i></p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745416/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Near Metro Center Station", 
+            "id": "bcxvllyvgbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab - 2016 DCFemTech Awards Reception", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1460584800000, 
+            "updated": 1459985380000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "localized_country_name": "USA", 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
+        }, 
+        {
             "created": 1457885761000, 
             "description": "<p><b>Presentation: How to Use the NASA Photo-of-the-Day App to Build an App</b></p> <p>Want to learn how to use an API with Rails? Here's your chance! I'll walk you through building a simple Rails app that displays the current photo-of-the-day from NASA's APOD (<a href=\"http://apod.nasa.gov/apod/astropix.html\">Astronomy Picture of the Day</a>) API.\u00a0</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Presentation / Demo</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
@@ -715,35 +836,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745416/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvgbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1460586600000, 
-            "updated": 1459264312000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1417881835000, 
@@ -839,7 +932,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1459089487000, 
@@ -877,7 +970,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1459265642000, 
@@ -988,7 +1081,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -1054,7 +1147,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1457709309000, 
@@ -1158,7 +1251,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1457035701000, 
@@ -1253,7 +1346,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1446219481000, 
