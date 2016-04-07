@@ -85,10 +85,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 90
+  open_issues: 92
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-02-01T04:40:07Z'
+  pushed_at: '2016-04-07T00:20:26Z'
   short_name: districthousing
   size: 21734
   updated_at: '2016-04-02T15:40:47Z'
@@ -258,9 +258,9 @@
   size: 40005
   updated_at: '2014-12-19T15:40:35Z'
   watchers: 18
-- activity: [1, 2, 2, 3, 6, 0, 0, 2, 0, 3, 2, 1, 16, 5, 2, 6, 0, 0, 0, 0, 0, 0, 0,
-    2, 0, 0, 0, 5, 5, 1, 0, 5, 1, 2, 7, 6, 7, 0, 4, 1, 1, 0, 3, 0, 0, 0, 1, 0, 0,
-    5, 0, 0]
+- activity: [0, 2, 3, 2, 6, 0, 2, 0, 0, 5, 0, 1, 20, 1, 2, 6, 0, 0, 0, 0, 0, 0, 0,
+    2, 0, 0, 0, 5, 6, 0, 0, 5, 1, 2, 8, 5, 7, 0, 4, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5,
+    0, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
   contributors:
@@ -653,7 +653,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 13
+  open_issues: 16
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-04-03T16:35:07Z'
@@ -971,9 +971,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 0, 1, 35, 19, 36, 2, 66, 0, 1, 7, 22, 4, 27, 6, 4, 15, 0, 7, 2, 4,
-    0, 78, 2, 0, 2, 6, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 11,
-    111, 16, 0, 3, 0, 0]
+- activity: [0, 0, 7, 39, 12, 33, 28, 40, 0, 1, 20, 9, 6, 25, 8, 9, 8, 0, 7, 6, 0,
+    0, 80, 0, 0, 3, 5, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14,
+    120, 4, 3, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1366,10 +1366,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 59
+  open_issues: 61
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-04-06T21:16:14Z'
+  pushed_at: '2016-04-07T00:44:23Z'
   short_name: dcaf_case_management
   size: 6803
   updated_at: '2016-03-29T01:03:36Z'
@@ -1427,7 +1427,7 @@
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 150,
     link: 'https://github.com/samiam151', name: samiam151}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 138,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 143,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 20,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
@@ -1460,9 +1460,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-06T23:55:18Z'
+  pushed_at: '2016-04-07T03:15:23Z'
   short_name: school-modernization
-  size: 16502
+  size: 16825
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1521,9 +1521,9 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [40, 22, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [48, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
