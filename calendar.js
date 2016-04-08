@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "announced": false, 
@@ -118,49 +118,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }
     ], 
     "other": [
-        {
-            "created": 1459379311000, 
-            "description": "<p><b><i>WWC DC would like to introduce Jen Aprahamian, co-founder and CTO of <a href=\"http://www.vina.io/\">VINA, Inc</a>. a company dedicated to building global communities of women who make each other feel supported, inspired, free and happy.</i></b></p> <p><b><br/></b></p> <p><b>About Jen and VINA:</b></p> <p>\u2022\u00a0Jen is a full-stack developer and has developed products for a variety of companies, from large financial institutions to social gaming companies to NBA teams. After falling in love with the startup space, she is enjoying the opportunity to craft meaningful technology products for women. Jen enjoys baking and writing crime novels, and watches a lot of Star Trek while she works.</p> <p>\u2022\u00a0Jen works primarily with Swift, Ruby, Rails, Sinatra, JavaScript, MongoDB, and AWS Aurora.</p> <p>\u2022\u00a0VINA aims to help women to connect, empower and celebrate one another through the <a href=\"http://heyvina.com/\">Hey! VINA</a> mobile app and <a href=\"http://www.ladybrag.com/\">LadyBrag.com</a>.</p> <p>\n\n\n<b>Event Details</b></p> <p>Members will get a chance to ask her anything related to:</p> <p>\u2022\u00a0\u200bProduct Development and Iteration</p> <p>\u2022\u00a0The various challenges of starting a tech company: leading an all female team, being a technical co-founder, having to change priorities and scale quickly.</p> <p>\n\n\n<b>How do I sign up?</b></p> <p>\u2022\u00a0Request to join our Slack channel: <a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>\u2022\u00a0Join the <a href=\"https://womenwhocodedc.slack.com/messages/ama/\">#ama </a>channel</p> <p>\u2022\u00a0<a href=\"http://ctt.ec/fvcZt\">Click to tweet </a>and show support!</p> <p>\n\n\n<b>Schedule</b></p> <p>\u2022\u00a0Tuesday April 5 @ 12:00PM EST: We will kick off the event and you can start asking your questions</p> <p>\u2022\u00a0Wednesday April 6: We will remind members to ask their final questions by 9:00PM</p> <p>\u2022\u00a0Thursday April 7 @ 5:00PM EST: End of the AMA</p> <p>During this period Jen will answer your questions. Members are welcome to post questions at any point during the AMA from noon Tuesday to 9:00pm EST Wednesday. \u00a0</p> <p>This event is for everyone, and may be really helpful for aspiring entrepreneurs, developers looking to become CTOs and product managers. Come join us on</p> <p><a href=\"https://womenwhocodedc.slack.com/\">slack</a></p> <p>.</p>", 
-            "duration": 190800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230001827/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "230001827", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ask Me Anything! with Jen Aprahamian (Co-Founder and CTO of VINA, Inc.)", 
-            "status": "upcoming", 
-            "time": 1459872000000, 
-            "updated": 1459379311000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Slack", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24125305, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "Online", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 24
-        }, 
         {
             "created": 1456426141000, 
             "description": "<p>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (April 7, 14, 21 and 28; 7-9p).\u00a0\u00a0</p> <p>\n\n\n<b>Introduction to HTML/CSS:\u00a0</b></p> <p>Want to learn how to build your own website? Already have your own Tumblr/Wordpress/etc site, but want to have more control over it? Interested in learning to program but want to start small? This class is for you!\u00a0</p> <p>We will guide you through the basics of HTML and CSS, give you some readily-applicable skills, and answer any questions you may have along the way.</p> <p>\n\n\n<b>Outline of Sessions:</b></p> <p>This 4-class HTML/CSS course runs for two weeks (on Tuesdays and Thursdays).</p> <p>Class 1, HTML Basics:\u00a0Thursday, April 7, 7-9p</p> <p>Class 2, Introduction to CSS: Thursday, April 14, 7-9p</p> <p>Class 3, HTML, Beyond the Basics:\u00a0Thursday, April 21, 7-9p</p> <p>Class 4, CSS, Layouts and Formatting:\u00a0Thursday, April 28, 7-9p</p> <p>Curriculum is available <a href=\"https://www.girldevelopit.com/materials/html-intro\">here</a>. Please note that everything in the curriculum will be covered but there may also be additional material depending on the pace of the class.\u00a0</p> <p><b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/a/7/4/b/600_447222827.jpeg\" /></p> <p>Jisan is a Fullstack Software Developer, originally from NYC. He works as a technical consultant for Blackstone Technology Group. In his day to day, he works constantly with JavaScript, HTML5, CSS, AngularJS, NodeJS, MongoDB, Cordova/Phonegap, and a bit of iOS and Android. In his spare time, he cooks/bakes, blues dances, travels whenever he can.</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>GovDelivery is conveniently located at[masked]th St NW (STE 800) - a few blocks from the Farragut North metro station (on the red line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
@@ -325,7 +286,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459777528000, 
@@ -363,7 +324,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1457035881000, 
@@ -390,7 +351,7 @@ calendar({
             "updated": 1459530511000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 125
         }, 
         {
@@ -508,7 +469,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1459398068000, 
@@ -656,7 +617,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1459807879000, 
@@ -697,7 +658,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1457965726000, 
@@ -725,7 +686,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1459089487000, 
@@ -763,7 +724,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1459265642000, 
@@ -846,7 +807,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457212385000, 
@@ -1005,7 +966,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1458758791000, 
@@ -1045,6 +1006,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 76
+        }, 
+        {
+            "created": 1460057871000, 
+            "description": "<p>Many of you have indicated interest in seeing a Women in Tech Talk and so we've decided to give it a go!\u00a0We'll talk to three successful women in the DC area who work for Accenture. Afterwards, we'll open up for questions. This talk is meant to be an open conversation about being a woman in tech.</p> <p>After signing up you will be provided a link to watch the broadcast, you will also receive a reminder the day of.\u00a0</p> <p>\n\n\n<b>About Accenture:</b></p> <p>Accenture is a global management consulting, technology services and outsourcing company, with more than 373,000 people serving clients in more than 120 countries. Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world\u2019s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments.</p> <p>\n\n\n\n<b>About the Speakers:</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/c/3/0/600_448655888.jpeg\" /></p> <p><b>Numra Tariq</b>\u00a0graduated from George Mason University in 2015 with a degree in Applied Information Technology. She now works for Accenture and is doing database development with technologies like PL/SQL. Her other interests include website development and graphic design.</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/b/f/1/600_448655825.jpeg\" /></p> <p><b>Moona Akhtar</b>\u00a0is a Systems Developer Associate at Accenture Federal Services. She graduated from George Mason University with a B.S. Information System and Operations Management degree. Currently, she is working on a Department of Defense project as an SAP HANA backend developer.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/b/e/5/600_448655813.jpeg\" /></p> <p><b>Cam Pham</b>\u00a0graduated from George Mason University in 2014 with a Bachelors in Software Engineering. She joined Accenture in March 2015 and got hired to her first project with the IRS in May.</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p><br/>Your payment guarantees your reservation for this talk. If something changes after registration and you cannot attend, your link is yours to sell or give to someone else - just please let us know who! As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
+            "duration": 3600000, 
+            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/230206137/", 
+            "group": {
+                "created": 1395687537000, 
+                "group_lat": 38.900001525878906, 
+                "group_lon": -77.040000915527344, 
+                "id": 13526522, 
+                "join_mode": "open", 
+                "name": "Girl Develop It D.C.", 
+                "urlname": "Girl-Develop-It-DC", 
+                "who": "Nerdettes"
+            }, 
+            "headcount": 0, 
+            "id": "230206137", 
+            "maybe_rsvp_count": 0, 
+            "name": "Women in Tech (Virtual Panel)", 
+            "status": "upcoming", 
+            "time": 1461960000000, 
+            "updated": 1460058408000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Virtual (Google Hangouts)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23694109, 
+                "lat": 38.875359000000003, 
+                "localized_country_name": "USA", 
+                "lon": -76.994972000000004, 
+                "name": "Virtual (Google Hangouts)", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1457035701000, 
@@ -1393,6 +1393,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 31
+        }, 
+        {
+            "created": 1457965726000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 612000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230105434/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rzpmrlyvhbvb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1463437800000, 
+            "updated": 1457965726000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
