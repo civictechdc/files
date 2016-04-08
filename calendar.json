@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "announced": false, 
@@ -122,53 +122,6 @@
         }
     ], 
     "other": [
-        {
-            "created": 1456426141000, 
-            "description": "<p>Due to the restrictions of Meetup's registration, we can't schedule multi-day events, so keep in mind that this Meetup event serves as registration for the entire 4-session course (April 7, 14, 21 and 28; 7-9p).\u00a0\u00a0</p> <p>\n\n\n<b>Introduction to HTML/CSS:\u00a0</b></p> <p>Want to learn how to build your own website? Already have your own Tumblr/Wordpress/etc site, but want to have more control over it? Interested in learning to program but want to start small? This class is for you!\u00a0</p> <p>We will guide you through the basics of HTML and CSS, give you some readily-applicable skills, and answer any questions you may have along the way.</p> <p>\n\n\n<b>Outline of Sessions:</b></p> <p>This 4-class HTML/CSS course runs for two weeks (on Tuesdays and Thursdays).</p> <p>Class 1, HTML Basics:\u00a0Thursday, April 7, 7-9p</p> <p>Class 2, Introduction to CSS: Thursday, April 14, 7-9p</p> <p>Class 3, HTML, Beyond the Basics:\u00a0Thursday, April 21, 7-9p</p> <p>Class 4, CSS, Layouts and Formatting:\u00a0Thursday, April 28, 7-9p</p> <p>Curriculum is available <a href=\"https://www.girldevelopit.com/materials/html-intro\">here</a>. Please note that everything in the curriculum will be covered but there may also be additional material depending on the pace of the class.\u00a0</p> <p><b>About the Instructor:\u00a0</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/a/7/4/b/600_447222827.jpeg\" /></p> <p>Jisan is a Fullstack Software Developer, originally from NYC. He works as a technical consultant for Blackstone Technology Group. In his day to day, he works constantly with JavaScript, HTML5, CSS, AngularJS, NodeJS, MongoDB, Cordova/Phonegap, and a bit of iOS and Android. In his spare time, he cooks/bakes, blues dances, travels whenever he can.</p> <p>\n\n\n\n<b>Getting there:\u00a0</b></p> <p>GovDelivery is conveniently located at[masked]th St NW (STE 800) - a few blocks from the Farragut North metro station (on the red line).\u00a0</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p>Your payment guarantees your seat in the course. If something changes after registration and you cannot attend the course, your seat is yours to sell or give to someone else - just please let us know who! \u00a0As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0 That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229129701/", 
-            "fee": {
-                "accepts": "wepay", 
-                "amount": 90, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "229129701", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to HTML/CSS", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1460070000000, 
-            "updated": 1456426141000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1152 15th St NW, STE 800", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24390004, 
-                "lat": 38.904938000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.035278000000005, 
-                "name": "GovDelivery", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
         {
             "created": 1459355635000, 
             "description": "<p>Let's join up and attend ABI.DC's screening of the documentary \u201cCODE \u2013 Debugging the Gender Gap\u201c, on Friday April 8 at 1PM ET. This event is sponsored by the U.S. Patent and Trademark Office, Capital One, an ABI.DC Community, an Anita Borg Institute Community.</p> <p>YOU MUST RSVP HERE:\u00a0<a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\"><a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\" class=\"linkified\">https://local.anitaborg.org/event/code-debugging-the-gender-gap/</a></a></p>", 
@@ -324,7 +277,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1457035881000, 
@@ -351,7 +304,7 @@
             "updated": 1459530511000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 17, 
             "yes_rsvp_count": 125
         }, 
         {
@@ -390,7 +343,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459265642000, 
@@ -469,7 +422,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1459398068000, 
@@ -550,7 +503,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457885761000, 
@@ -617,7 +570,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1459807879000, 
@@ -686,7 +639,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459089487000, 
@@ -724,7 +677,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1459265642000, 
@@ -969,6 +922,47 @@
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1458498286000, 
+            "description": "<p>For our April meetup we are honored to have the creator of the Apache NiFi framework, Joe Witt, come to discuss how Apache NiFi helps support data science.</p> <p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings\u00a0</p> <p>7:05 PM -- <i>Apache NiFi - Joe Witt</i></p> <p>9:00 PM -- Post event drinks</p> <p><b>Talks</b></p> <p><i>Apache NiFi: Because It Aint Data Science Without the Data</i></p> <p>Data Science being oriented on the study of the structure and relationships of data is heavily dependent on readily available and quality feeds of data. This is quite obvious but less obvious is just how complex many enterprises are in the ways that they produce, acquire, transmit, transform that data from end-to-end. \u00a0The goal of NiFi then is to feed data scientists and their favorite analytic environments with data that is timely, high quality, traceable, and reliable.</p> <p><br/>This talk aims to provide the audience with an understanding of the 'Why' of Apache NiFi, the problem it solves, and how it fits into the big data and data science worlds. \u00a0The talk will start with a brief background on where Apache NiFi comes from for those not familiar with its local roots. It will describe the original use cases and those that exist today and how it relates to systems like Kafka, Storm, Spark and the broader Hadoop ecosystem. \u00a0The talk will conclude with an explanation of where the NiFi community is heading and will include a live demo of the latest NiFi release in action.</p> <p><b>Speaker</b></p> <p><a href=\"https://twitter.com/joewitt26\">Joe Witt </a>is a member of the Apache Software Foundation, the Apache NiFi PMC, and is the Director of Engineering leading up development of Hortonworks Dataflow powered by Apache NiFi.</p> <p><br/><b>Projects</b></p> <p><a href=\"https://camo.githubusercontent.com/f943c785014b4a14fc8b5f49be74846c66272d35/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f6e6966692d6c6f676f2e706e67\" class=\"linkified\">https://camo.githubusercontent.com/f943c785014b4a14fc8b5f49be74846c66272d35/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f6e6966692d6c6f676f2e706e67</a></p> <p><a href=\"https://nifi.apache.org/\">Apache NiFi\u00a0</a></p> <p><a href=\"http://hortonworks.com/hdf/\">Hortonworks Dataflow</a></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/229738833/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "229738833", 
+            "maybe_rsvp_count": 0, 
+            "name": "Apache NiFi: Because It Aint Data Science Without the Data", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1461796200000, 
+            "updated": 1460082907000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "11100 Johns Hopkins Road", 
+                "city": "Laurel", 
+                "country": "us", 
+                "id": 11286692, 
+                "lat": 39.164036000000003, 
+                "localized_country_name": "USA", 
+                "lon": -76.896636999999998, 
+                "name": " Johns Hopkins University Applied Physics Laboratory (APL) - Building 200 Room E100", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "20723"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 27
+        }, 
+        {
             "created": 1458758791000, 
             "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show her\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will share\u00a0Fehr and Peers'\u00a0work on CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0David Erickson will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
@@ -1044,7 +1038,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457035701000, 
