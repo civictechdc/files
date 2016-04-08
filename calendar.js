@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "announced": false, 
@@ -199,7 +199,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1459876967000, 
@@ -239,7 +239,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459777528000, 
@@ -277,7 +277,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1457035881000, 
@@ -304,7 +304,7 @@ calendar({
             "updated": 1459530511000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 125
         }, 
         {
@@ -507,7 +507,7 @@ calendar({
         }, 
         {
             "created": 1457885761000, 
-            "description": "<p><b>DC FemTech Awards Reception</b></p> <p><br/>Next week, Python Lab will join 2016 DC FemTech Awards Reception to celebrate Powerful Women Programmers and Powerful Women Designers.</p> <p>YOU MUST\u00a0<a href=\"https://nvite.com/dcft16/ea56\">RSVP HERE</a>!\u00a0\u00a0</p> <p>\u00a0<i>Note: If there is a waiting list, please sign up for the waiting list</i></p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p><b>DC FemTech Awards Reception</b></p> <p><br/>Next week we will join 2016 DC FemTech Awards Reception to celebrate Powerful Women Programmers and Powerful Women Designers.</p> <p>YOU MUST\u00a0<a href=\"https://nvite.com/dcft16/ea56\">RSVP HERE</a>!\u00a0\u00a0</p> <p>\u00a0<i>Note: If there is a waiting list, please sign up for the waiting list</i></p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229556377/", 
             "group": {
@@ -526,20 +526,19 @@ calendar({
             "name": "Ruby on Rails: 2016 DCFemTech Awards Reception", 
             "status": "upcoming", 
             "time": 1460586600000, 
-            "updated": 1460004264000, 
+            "updated": 1460133668000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1445 New York Ave NW,", 
+                "address_1": "1325 G Street, NW, 3rd Floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
+                "id": 24266346, 
+                "lat": 38.898567, 
                 "localized_country_name": "USA", 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -570,7 +569,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1459807879000, 
@@ -611,7 +610,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1457965726000, 
@@ -639,11 +638,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459089487000, 
-            "description": "<p>This meetup that will examine how data and data science can help tackle the global pandemic of sexual assault and rape, featuring multiple speakers from the field.</p> <p><b>Schedule</b></p> <p><i>We will be changing up the format of our event. Please note that we will be starting earlier than in the past.</i></p> <p>6:00 PM - Doors open</p> <p>6:15 PM - Introductions</p> <p>6:25 PM - First Speaker</p> <p>6:50 PM - Intermission and Food</p> <p>7:10 PM - Second Speaker</p> <p>\n\n\n<b>Jessica Ladd</b></p> <p>Jess is the Founder &amp; CEO of Sexual Health Innovations (SHI), a nonprofit dedicated to creating tech to advance sexual health and wellbeing in the United States. SHI's main initiative is Callisto, an online trauma-informed sexual assault reporting system.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/3/7/4/600_448273172.jpeg\" /></p> <p>\n\n\nJess has been honored as a TED Fellow, a Fearless Changemaker by the Case Foundation, an Emerging Innovator by Ashoka and American Express, and as the Civic Hacker of the Year by Baltimore Innovation Week. Before founding Sexual Health Innovations, Jess worked in the White House Office of National AIDS Policy, as a Public Policy Associate at The AIDS Institute, and as a sexual health educator and researcher for a variety of organizations. Jess also founded The Social Innovation Lab in Baltimore and a chapter of FemSex at Pomona College. Jess received her Masters in Public Health at Johns Hopkins and her BA in Public Policy/Human Sexuality at Pomona College. She left a PhD program in infectious disease epidemiology at Johns Hopkins in order to pursue work at Sexual Health Innovations full-time.</p>", 
+            "description": "<p>This meetup that will examine how data and data science can help tackle the global pandemic of sexual assault and rape, featuring multiple speakers from the field.</p> <p><b>Schedule</b></p> <p><i>We will be changing up the format of our event. Please note that we will be starting earlier than in the past.</i></p> <p>6:00 PM - Doors open</p> <p>6:15 PM - Introductions</p> <p>6:25 PM - First Speaker</p> <p>6:50 PM - Intermission and Food</p> <p>7:10 PM - Second Speaker</p> <p>\n\n\n<b>Jessica Ladd</b></p> <p>Jess is the Founder &amp; CEO of Sexual Health Innovations (SHI), a nonprofit dedicated to creating tech to advance sexual health and wellbeing in the United States. SHI's main initiative is Callisto, an online trauma-informed sexual assault reporting system.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/3/7/4/600_448273172.jpeg\" /></p> <p>\n\n\nJess has been honored as a TED Fellow, a Fearless Changemaker by the Case Foundation, an Emerging Innovator by Ashoka and American Express, and as the Civic Hacker of the Year by Baltimore Innovation Week. Before founding Sexual Health Innovations, Jess worked in the White House Office of National AIDS Policy, as a Public Policy Associate at The AIDS Institute, and as a sexual health educator and researcher for a variety of organizations. Jess also founded The Social Innovation Lab in Baltimore and a chapter of FemSex at Pomona College. Jess received her Masters in Public Health at Johns Hopkins and her BA in Public Policy/Human Sexuality at Pomona College. She left a PhD program in infectious disease epidemiology at Johns Hopkins in order to pursue work at Sexual Health Innovations full-time.</p> <p>\n\n\n<b>NATHAN W. GALBREATH, PH.D., M.F.S.</b></p> <p>Dr. Nate Galbreath is the Senior Executive Advisor for the Department of Defense Sexual Assault Prevention and Response Office (SAPRO).\u00a0 In this position, he is the Department\u2019s Highly Qualified Expert for DoD Sexual Assault Prevention and Response (SAPR) programs, training initiatives, and research involving applications of behavioral health, forensic science, criminal investigation, and program evaluation.\u00a0 Dr. Galbreath reports directly to the SAPRO Director, who serves as the single point of authority, accountability, and oversight for the SAPR program in the Department of Defense.</p> <p>Dr. Galbreath was assigned as the first military Deputy Director of the DoD Sexual Assault Prevention and Response Office from 2007 to 2009. He retired from active duty on October 1, 2009 and worked as a licensed clinical psychologist and forensic science specialist in independent practice in the Washington, DC metropolitan area.\u00a0 He was appointed to his current position at SAPRO in May 2012.</p> <p>He entered the Air Force in 1989 after completing a BA in Spanish and International Affairs at the University of Puget Sound, Tacoma, WA. He was assigned to Howard Air Force Base, Panama, from 1989 \u2013 1990 as a Special Agent for the Air Force Office of Special Investigations (AFOSI). He went on to serve a total of 11 years with AFOSI as an agent, a forensic science specialist, and a Detachment Commander (Special Agent in Charge) at Air Force base offices in New Mexico, Colorado, and Utah.</p> <p>Dr. Galbreath was competitively selected by the Air Force to earn a Master of Forensic Science from the George Washington University, Washington, DC (awarded in 1993), and a Ph.D. in Clinical Psychology, from the Uniformed Services University of the Health Sciences (USUHS), Bethesda, MD (awarded in 2004). He has also completed a number of internships and fellowships, including a fellowship in Forensic Medicine at the Office of the Armed Forces Medical Examiner, Armed Forces Institute of Pathology, Washington, DC, and a clinical psychology residency at Malcolm Grow Medical Center, Andrews Air Force Base, MD.</p> <p>Dr. Galbreath\u2019s clinical experience focused on treating and researching sexual dysfunction and sexual disorders. He also evaluated and treated sex offenders with Dr. Fred S. Berlin at the National Institute for the Study, Prevention and Treatment of Sexual Trauma, which is affiliated with the Johns Hopkins Medical School in Baltimore, MD.\u00a0 He also served as the Behavioral Health Clinic director at Minot Air Force Base in North Dakota, where he supervised mental health, family advocacy, and alcohol/drug treatment programs from 2004 to 2007. He is currently a licensed psychologist in the state of Maryland.</p> <p>Dr. Galbreath maintains close ties to the law enforcement community. He has provided training at national and international conferences hosted by the Federal Bureau of Investigation, the Department of Defense, the Department of Justice, the Norwegian Ministry of Defence, and other non-governmental organizations. He serves as a Professorial Lecturer in the Forensic Sciences at the George Washington University, where he created one of the nation\u2019s first graduate level courses on child abuse investigations.\u00a0 He also teaches a graduate course on sexual assault investigations. \u00a0He is an adjunct associate professor in the Department of Medical and Clinical Psychology at USUHS. \u00a0Dr. Galbreath has also published a book chapter on child molesters, co-authored a chapter on sexual disorders and the Internet, and co-authored journal articles relating to sex offender recidivism and online sexual problems.\u00a0 He has been a primary author on the Department of Defense Annual Report on Sexual Assault in the Military since 2007.\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/229912203/", 
             "group": {
@@ -659,10 +658,10 @@ calendar({
             "headcount": 0, 
             "id": "229912203", 
             "maybe_rsvp_count": 0, 
-            "name": "Data to Help Stop the Sexual Assault Pandemic", 
+            "name": "Data, Rape, and Sexual Assault", 
             "status": "upcoming", 
             "time": 1461103200000, 
-            "updated": 1459089487000, 
+            "updated": 1460136916000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -709,7 +708,7 @@ calendar({
         }, 
         {
             "created": 1457889032000, 
-            "description": "<p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Code</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p><i>Threespot will be providing pizza and drinks in addition to the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework that combines the\u00a0Ruby\u00a0programming language with front-end languages such as HTML and CSS to create a web application that runs on a web server.</p> <p>Ruby is a big language, and the subset needed to be productive as a Rails developer is relatively small. In this meetup, we\u2019ll start to cover only that subset and will look at how blocks and iterators work.</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - \"Ruby on Rails: Focus on Fundamentals\"</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?\u00a0</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229557593/", 
             "group": {
@@ -725,14 +724,26 @@ calendar({
             "headcount": 0, 
             "id": "229557593", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Lab", 
+            "name": "Ruby on Rails Lab: Ruby Fundamentals", 
             "status": "upcoming", 
             "time": 1461191400000, 
-            "updated": 1458006623000, 
+            "updated": 1460138301000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "806 7th St NW #201", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24412919, 
+                "lat": 38.900185, 
+                "localized_country_name": "USA", 
+                "lon": -77.022148000000001, 
+                "name": "threespot", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1446220217000, 
@@ -919,7 +930,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1458498286000, 
@@ -960,7 +971,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1458758791000, 
@@ -999,7 +1010,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1460057871000, 
@@ -1038,7 +1049,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457035701000, 
@@ -1078,7 +1089,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1459265642000, 
