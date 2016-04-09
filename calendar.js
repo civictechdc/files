@@ -123,125 +123,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1459355635000, 
-            "description": "<p>Let's join up and attend ABI.DC's screening of the documentary \u201cCODE \u2013 Debugging the Gender Gap\u201c, on Friday April 8 at 1PM ET. This event is sponsored by the U.S. Patent and Trademark Office, Capital One, an ABI.DC Community, an Anita Borg Institute Community.</p> <p>YOU MUST RSVP HERE:\u00a0<a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\"><a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\" class=\"linkified\">https://local.anitaborg.org/event/code-debugging-the-gender-gap/</a></a></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/229992333/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "229992333", 
-            "maybe_rsvp_count": 0, 
-            "name": "CODE \u2014 Debugging the Gender Gap showing", 
-            "rsvp_limit": 1, 
-            "status": "upcoming", 
-            "time": 1460134800000, 
-            "updated": 1459355635000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "600 Dulaney Street  ", 
-                "city": "Alexandria", 
-                "country": "us", 
-                "id": 24457533, 
-                "lat": 38.801155000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.063744, 
-                "name": "Madison Building Auditorium ", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1458049267000, 
-            "description": "<p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you register via the\u00a0<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085\">event registration page</a>.\u00a0</p> <p>\n\n\nJoin in for a screening of the documentary \"<a href=\"http://www.codedoc.co/\">CODE - Debugging the Gender Gap</a>\", on\u00a0Friday April 8 at 1PM ET. This event is sponsored by the\u00a0U.S. Patent and Trademark Office\u00a0(USPTO),\u00a0Capital One, and\u00a0ABI.DC Community.</p> <p>\n\n\n\nCODE exposes the dearth of American female and minority software engineers and explores the reasons for this gender gap.\u00a0 CODE raises the question: what would society gain from having more women and minorities code?\u00a0<a href=\"https://www.dropbox.com/s/f2an3jj0d6rue2g/CODE_Trailer_v13_Stereo_Web_h264.mov?n=12275723\">Watch the trailer</a>.</p> <p>\n\n\n<b>Agenda:</b></p> <p>1:00 PM Opening remarks by\u00a0Under Secretary of Commerce for Intellectual Property and Director of the U.S. Patent and Trademark Office\u00a0<a href=\"http://www.uspto.gov/about-us/executive-biographies/michelle-k-lee\">Michelle K. Lee</a></p> <p>1:05-2:20 Screening of CODE, Debugging the Gender Gap</p> <p>2:20-3:00\u00a0Panel Discussion and\u00a0Q&amp;A,\u00a0featuring:</p> <p>3:00-4:00 PM\u00a0Coding activity for students</p> <p>3:00-4:00 PM Networking session in the atrium adjacent to the auditorium.</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229605995/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "229605995", 
-            "maybe_rsvp_count": 0, 
-            "name": "CODE \u2014 Debugging the Gender Gap (Documentary Screening)", 
-            "status": "upcoming", 
-            "time": 1460134800000, 
-            "updated": 1458049267000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "600 Dulaney Street", 
-                "city": "Alexandria", 
-                "country": "us", 
-                "id": 24428792, 
-                "lat": 38.801155000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.063744, 
-                "name": "Madison Building Auditorium", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 17
-        }, 
-        {
-            "created": 1459876967000, 
-            "description": "<p>Eventbrite RSVP (sign up here too!!):\u00a0<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291\"><a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291\" class=\"linkified\">https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291</a></a></p> <p>Join Women Who Code's CEO, Alaina Percival (and other awesome women!), for a screening of the documentary \"<a href=\"http://www.codedoc.co/\">CODE - Debugging the Gender Gap(link is external)</a>\", on\u00a0Friday April 8 at 1PM ET. This event is sponsored by the<a href=\"http://www.uspto.gov/\">\u00a0U.S. Patent and Trademark Office</a>\u00a0(USPTO),\u00a0<a href=\"https://www.capitalone.com/\">Capital One</a>, and\u00a0<a href=\"http://local.anitaborg.org/groups/abi-washington-dc/\">ABI.DC Community</a>.</p> <p>CODE exposes the dearth of American female and minority software engineers and explores the reasons for this gender gap.\u00a0 CODE raises the question: what would society gain from having more women and minorities code?\u00a0<a href=\"https://www.dropbox.com/s/f2an3jj0d6rue2g/CODE_Trailer_v13_Stereo_Web_h264.mov?n=12275723\">Watch the trailer</a>.</p> <p>There is an awesome panelist lineup - including Women Who Code CEO Alaina Percival!!</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/5/b/6/600_448606518.jpeg\" /></p> <p><b>Panelists:</b></p> <p><a href=\"https://www.linkedin.com/in/robinhauserreynolds\">Robin Hauser-Reynolds</a>,\u00a0Director of CODE, Debugging the Gender Gap</p> <p><a href=\"https://www.linkedin.com/in/alainapercival\">Alaina Percival</a>,\u00a0CEO Women of Code</p> <p><a href=\"https://www.linkedin.com/in/julie-elberfeld-25b9a85\">Julie Elberfeld</a>, SVP, Commercial Bank CIO, Capital One\u00a0</p> <p><a href=\"http://schedule.gracehopper.org/speaker/danielle-cummings/\">Danielle Cummings</a>, PhD,\u00a0Department of Defense,\u00a0Moderator</p> <p><a href=\"https://www.linkedin.com/in/jennifer-anastasoff-99889\">Jennifer Anastasoff</a>,\u00a0U.S.\u00a0Digital Service</p> <p><a href=\"https://www.linkedin.com/in/vivianmotti\">Vivian Motti</a>, Assistant Professor, George Mason University</p> <p>\n\n\n<b>Agenda:</b></p> <p>1:00 PM Opening remarks by\u00a0Chief of Staff of the U.S. Patent and Trademark Office\u00a0<a href=\"http://www.uspto.gov/about-us/executive-biographies/vikrum-d-aiyer\">Vikrum D. Aiyer</a>.</p> <p>1:05-2:20 Screening of CODE, Debugging the Gender Gap</p> <p>2:20-3:00\u00a0Panel Discussion and\u00a0Q&amp;A,\u00a0featuring:</p> <p>3:20-5:00 PM\u00a0Coding activity for students</p> <p>3:20-5:00 PM Networking session in the atrium adjacent to the auditorium.\u00a0Meet our panelists and connect with fellow #womenintech in the DC area.\u00a0</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230147460/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Metro Stops Nearby:  King St  - Old Town on Blue and Yellow line Eisenhower on Yellow line", 
-            "id": "230147460", 
-            "maybe_rsvp_count": 0, 
-            "name": "CODE - Debugging the Gender Gap", 
-            "status": "upcoming", 
-            "time": 1460134800000, 
-            "updated": 1459877002000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "600 Dulaney Street", 
-                "city": "Alexandria", 
-                "country": "us", 
-                "id": 24428792, 
-                "lat": 38.801155000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.063744, 
-                "name": "Madison Building Auditorium", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 11
-        }, 
-        {
             "created": 1459777528000, 
             "description": "<p>Welcome to IDEAA's second annual DC Code Kitchen + Meat &amp; Greet! Join us this year as we embark on another action-packed <b>day full of Android learning</b>, coding, and fun. In addition to our developer talks and menu of challenges (and prizes - - - woohoo!!!), we\u2019ve added a student track specifically focused on delivering hands-on training to <b>ANYONE interested in becoming a developer</b>.</p> <p>Your day will begin with a few lightning talks from leading developers. From there, you will divide into two groups:</p> <p><b>Developers</b>: You will be issued a menu of code challenges that look something like\u00a0<a href=\"https://drive.google.com/file/d/0B4h3GAtEbxMTQVdDeWZ2UUZWNnc/view\">THIS</a>. There are challenges for every degree of expertise, from beginner to expert. These challenges are developed and submitted by our sponsors. Prizes are awarded at the end of the day for those that win the challenge or successfully complete the task.</p> <p><b>Students</b>:\u00a0You will be provided with very easy-to-follow instructions that will walk you through writing your first lines of code. You\u2019ll be working in a relaxed classroom atmosphere with some of the best instructors around. Our crew will leave you with the tools needed to continue your journey into coding after the event! If you are under the age of 18, please have your parent/guardian fill out this\u00a0<a href=\"https://drive.google.com/open?id=0B-2IMRDGa71AODh0SmdHX0J3Rnc\">participation form</a>.</p> <p><b>Registration</b></p> <p>This year the event will take place at United States Patent and Trademark Office (USPTO) in Alexandria on Saturday April 9. More information is available on the event website ---&gt; <a href=\"https://nvite.com/IDEAADC/e1bc\"><a href=\"https://nvite.com/IDEAADC/e1bc\" class=\"linkified\">https://nvite.com/IDEAADC/e1bc</a></a></p> <p><b>Call for\u00a0Speakers and Teaching assistants</b></p> <p>DC Code Kitchen is currently\u00a0looking for two things:<br/>1) Speakers and Teaching assistants for the student track that can share their story of how they became a developer and then hang around and help if they need any help getting through the Udacity \"Android for Beginners\" class.</p> <p><br/>2) Speakers to talk to the seasoned developers that will be showing up to tackle the Code Challenges. A talk on a cutting edge topic or something that would be of interest to current Android developers.</p> <p><br/>** If you're interested, please contact\u00a0Corry Robb\u00a0&lt;[masked]&gt; **</p>", 
             "duration": 39600000, 
@@ -277,7 +158,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1457035881000, 
@@ -304,7 +185,7 @@ calendar({
             "updated": 1459530511000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 125
         }, 
         {
@@ -383,7 +264,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1459207945000, 
@@ -610,7 +491,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
+            "yes_rsvp_count": 127
         }, 
         {
             "created": 1457965726000, 
@@ -638,7 +519,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1459089487000, 
@@ -743,7 +624,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446220217000, 
@@ -971,7 +852,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1458758791000, 
@@ -1397,7 +1278,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1457965726000, 
@@ -1422,6 +1303,34 @@ calendar({
             "status": "upcoming", 
             "time": 1463437800000, 
             "updated": 1457965726000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbwb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvhbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1463524200000, 
+            "updated": 1459265764000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 

@@ -123,122 +123,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1459355635000
-  description: "<p>Let's join up and attend ABI.DC's screening of the documentary\
-    \ \u201CCODE \u2013 Debugging the Gender Gap\u201C, on Friday April 8 at 1PM ET.\
-    \ This event is sponsored by the U.S. Patent and Trademark Office, Capital One,\
-    \ an ABI.DC Community, an Anita Borg Institute Community.</p> <p>YOU MUST RSVP\
-    \ HERE:\_<a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\"\
-    ><a href=\"https://local.anitaborg.org/event/code-debugging-the-gender-gap/\"\
-    \ class=\"linkified\">https://local.anitaborg.org/event/code-debugging-the-gender-gap/</a></a></p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/dc-pyladies/events/229992333/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
-    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
-  headcount: 0
-  id: '229992333'
-  maybe_rsvp_count: 0
-  name: "CODE \u2014 Debugging the Gender Gap showing"
-  rsvp_limit: 1
-  status: upcoming
-  time: 1460134800000
-  updated: 1459355635000
-  utc_offset: -14400000
-  venue: {address_1: '600 Dulaney Street  ', city: Alexandria, country: us, id: 24457533,
-    lat: 38.801155000000001, localized_country_name: USA, lon: -77.063744, name: 'Madison
-      Building Auditorium ', repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 1
-- created: 1458049267000
-  description: "<p>Please note you are\_NOT\_registered for this event by RSVPing\
-    \ on this meetup. Please make sure you register via the\_<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085\"\
-    >event registration page</a>.\_</p> <p>\n\n\nJoin in for a screening of the documentary\
-    \ \"<a href=\"http://www.codedoc.co/\">CODE - Debugging the Gender Gap</a>\",\
-    \ on\_Friday April 8 at 1PM ET. This event is sponsored by the\_U.S. Patent and\
-    \ Trademark Office\_(USPTO),\_Capital One, and\_ABI.DC Community.</p> <p>\n\n\n\
-    \nCODE exposes the dearth of American female and minority software engineers and\
-    \ explores the reasons for this gender gap.\_ CODE raises the question: what would\
-    \ society gain from having more women and minorities code?\_<a href=\"https://www.dropbox.com/s/f2an3jj0d6rue2g/CODE_Trailer_v13_Stereo_Web_h264.mov?n=12275723\"\
-    >Watch the trailer</a>.</p> <p>\n\n\n<b>Agenda:</b></p> <p>1:00 PM Opening remarks\
-    \ by\_Under Secretary of Commerce for Intellectual Property and Director of the\
-    \ U.S. Patent and Trademark Office\_<a href=\"http://www.uspto.gov/about-us/executive-biographies/michelle-k-lee\"\
-    >Michelle K. Lee</a></p> <p>1:05-2:20 Screening of CODE, Debugging the Gender\
-    \ Gap</p> <p>2:20-3:00\_Panel Discussion and\_Q&amp;A,\_featuring:</p> <p>3:00-4:00\
-    \ PM\_Coding activity for students</p> <p>3:00-4:00 PM Networking session in the\
-    \ atrium adjacent to the auditorium.</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Girl-Develop-It-DC/events/229605995/
-  group: {created: 1395687537000, group_lat: 38.900001525878906, group_lon: -77.040000915527344,
-    id: 13526522, join_mode: open, name: Girl Develop It D.C., urlname: Girl-Develop-It-DC,
-    who: Nerdettes}
-  headcount: 0
-  id: '229605995'
-  maybe_rsvp_count: 0
-  name: "CODE \u2014 Debugging the Gender Gap (Documentary Screening)"
-  status: upcoming
-  time: 1460134800000
-  updated: 1458049267000
-  utc_offset: -14400000
-  venue: {address_1: 600 Dulaney Street, city: Alexandria, country: us, id: 24428792,
-    lat: 38.801155000000001, localized_country_name: USA, lon: -77.063744, name: Madison
-      Building Auditorium, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 17
-- created: 1459876967000
-  description: "<p>Eventbrite RSVP (sign up here too!!):\_<a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291\"\
-    ><a href=\"https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291\"\
-    \ class=\"linkified\">https://www.eventbrite.com/e/abidc-event-code-debugging-the-gender-gap-tickets-21675527085?_ga=1.137948600.968020795.1455644291</a></a></p>\
-    \ <p>Join Women Who Code's CEO, Alaina Percival (and other awesome women!), for\
-    \ a screening of the documentary \"<a href=\"http://www.codedoc.co/\">CODE - Debugging\
-    \ the Gender Gap(link is external)</a>\", on\_Friday April 8 at 1PM ET. This event\
-    \ is sponsored by the<a href=\"http://www.uspto.gov/\">\_U.S. Patent and Trademark\
-    \ Office</a>\_(USPTO),\_<a href=\"https://www.capitalone.com/\">Capital One</a>,\
-    \ and\_<a href=\"http://local.anitaborg.org/groups/abi-washington-dc/\">ABI.DC\
-    \ Community</a>.</p> <p>CODE exposes the dearth of American female and minority\
-    \ software engineers and explores the reasons for this gender gap.\_ CODE raises\
-    \ the question: what would society gain from having more women and minorities\
-    \ code?\_<a href=\"https://www.dropbox.com/s/f2an3jj0d6rue2g/CODE_Trailer_v13_Stereo_Web_h264.mov?n=12275723\"\
-    >Watch the trailer</a>.</p> <p>There is an awesome panelist lineup - including\
-    \ Women Who Code CEO Alaina Percival!!</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/b/5/b/6/600_448606518.jpeg\"\
-    \ /></p> <p><b>Panelists:</b></p> <p><a href=\"https://www.linkedin.com/in/robinhauserreynolds\"\
-    >Robin Hauser-Reynolds</a>,\_Director of CODE, Debugging the Gender Gap</p> <p><a\
-    \ href=\"https://www.linkedin.com/in/alainapercival\">Alaina Percival</a>,\_CEO\
-    \ Women of Code</p> <p><a href=\"https://www.linkedin.com/in/julie-elberfeld-25b9a85\"\
-    >Julie Elberfeld</a>, SVP, Commercial Bank CIO, Capital One\_</p> <p><a href=\"\
-    http://schedule.gracehopper.org/speaker/danielle-cummings/\">Danielle Cummings</a>,\
-    \ PhD,\_Department of Defense,\_Moderator</p> <p><a href=\"https://www.linkedin.com/in/jennifer-anastasoff-99889\"\
-    >Jennifer Anastasoff</a>,\_U.S.\_Digital Service</p> <p><a href=\"https://www.linkedin.com/in/vivianmotti\"\
-    >Vivian Motti</a>, Assistant Professor, George Mason University</p> <p>\n\n\n\
-    <b>Agenda:</b></p> <p>1:00 PM Opening remarks by\_Chief of Staff of the U.S. Patent\
-    \ and Trademark Office\_<a href=\"http://www.uspto.gov/about-us/executive-biographies/vikrum-d-aiyer\"\
-    >Vikrum D. Aiyer</a>.</p> <p>1:05-2:20 Screening of CODE, Debugging the Gender\
-    \ Gap</p> <p>2:20-3:00\_Panel Discussion and\_Q&amp;A,\_featuring:</p> <p>3:20-5:00\
-    \ PM\_Coding activity for students</p> <p>3:20-5:00 PM Networking session in the\
-    \ atrium adjacent to the auditorium.\_Meet our panelists and connect with fellow\
-    \ #womenintech in the DC area.\_</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230147460/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: 'Metro Stops Nearby:  King St  - Old Town on Blue and Yellow line
-    Eisenhower on Yellow line'
-  id: '230147460'
-  maybe_rsvp_count: 0
-  name: CODE - Debugging the Gender Gap
-  status: upcoming
-  time: 1460134800000
-  updated: 1459877002000
-  utc_offset: -14400000
-  venue: {address_1: 600 Dulaney Street, city: Alexandria, country: us, id: 24428792,
-    lat: 38.801155000000001, localized_country_name: USA, lon: -77.063744, name: Madison
-      Building Auditorium, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 11
 - created: 1459777528000
   description: "<p>Welcome to IDEAA's second annual DC Code Kitchen + Meat &amp; Greet!\
     \ Join us this year as we embark on another action-packed <b>day full of Android\
@@ -289,7 +173,7 @@ other:
       and Trademark Office, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 38
 - created: 1457035881000
   description: "<p>Welcome everyone. We'll be having our second tech talk of the year\
     \ on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when\
@@ -339,7 +223,7 @@ other:
   updated: 1459530511000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 22
   yes_rsvp_count: 125
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
@@ -406,7 +290,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1459207945000
   description: "<p>Join DC Legal Hackers at the New America Foundation on Wednesday,\
     \ April 13, 2015 from 6-9pm to #LegalHack the FBI\u2013Apple encryption dispute.\_\
@@ -625,7 +509,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 126
+  yes_rsvp_count: 127
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -668,7 +552,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1459089487000
   description: "<p>This meetup that will examine how data and data science can help\
     \ tackle the global pandemic of sexual assault and rape, featuring multiple speakers\
@@ -846,7 +730,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 14
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1135,7 +1019,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 77
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -1621,7 +1505,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1661,6 +1545,36 @@ other:
   status: upcoming
   time: 1463437800000
   updated: 1457965726000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbwb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvhbwb
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1463524200000
+  updated: 1459265764000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
