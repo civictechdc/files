@@ -123,57 +123,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 4
 other:
-- created: 1459777528000
-  description: "<p>Welcome to IDEAA's second annual DC Code Kitchen + Meat &amp; Greet!\
-    \ Join us this year as we embark on another action-packed <b>day full of Android\
-    \ learning</b>, coding, and fun. In addition to our developer talks and menu of\
-    \ challenges (and prizes - - - woohoo!!!), we\u2019ve added a student track specifically\
-    \ focused on delivering hands-on training to <b>ANYONE interested in becoming\
-    \ a developer</b>.</p> <p>Your day will begin with a few lightning talks from\
-    \ leading developers. From there, you will divide into two groups:</p> <p><b>Developers</b>:\
-    \ You will be issued a menu of code challenges that look something like\_<a href=\"\
-    https://drive.google.com/file/d/0B4h3GAtEbxMTQVdDeWZ2UUZWNnc/view\">THIS</a>.\
-    \ There are challenges for every degree of expertise, from beginner to expert.\
-    \ These challenges are developed and submitted by our sponsors. Prizes are awarded\
-    \ at the end of the day for those that win the challenge or successfully complete\
-    \ the task.</p> <p><b>Students</b>:\_You will be provided with very easy-to-follow\
-    \ instructions that will walk you through writing your first lines of code. You\u2019\
-    ll be working in a relaxed classroom atmosphere with some of the best instructors\
-    \ around. Our crew will leave you with the tools needed to continue your journey\
-    \ into coding after the event! If you are under the age of 18, please have your\
-    \ parent/guardian fill out this\_<a href=\"https://drive.google.com/open?id=0B-2IMRDGa71AODh0SmdHX0J3Rnc\"\
-    >participation form</a>.</p> <p><b>Registration</b></p> <p>This year the event\
-    \ will take place at United States Patent and Trademark Office (USPTO) in Alexandria\
-    \ on Saturday April 9. More information is available on the event website ---&gt;\
-    \ <a href=\"https://nvite.com/IDEAADC/e1bc\"><a href=\"https://nvite.com/IDEAADC/e1bc\"\
-    \ class=\"linkified\">https://nvite.com/IDEAADC/e1bc</a></a></p> <p><b>Call for\_\
-    Speakers and Teaching assistants</b></p> <p>DC Code Kitchen is currently\_looking\
-    \ for two things:<br/>1) Speakers and Teaching assistants for the student track\
-    \ that can share their story of how they became a developer and then hang around\
-    \ and help if they need any help getting through the Udacity \"Android for Beginners\"\
-    \ class.</p> <p><br/>2) Speakers to talk to the seasoned developers that will\
-    \ be showing up to tackle the Code Challenges. A talk on a cutting edge topic\
-    \ or something that would be of interest to current Android developers.</p> <p><br/>**\
-    \ If you're interested, please contact\_Corry Robb\_&lt;[masked]&gt; **</p>"
-  duration: 39600000
-  event_url: http://www.meetup.com/gdg-dc/events/230114454/
-  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
-    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
-    urlname: gdg-dc, who: Google Techies and Users}
-  headcount: 0
-  id: '230114454'
-  maybe_rsvp_count: 0
-  name: 'Partner event: DC Code Kitchen + Meat & Greet'
-  status: upcoming
-  time: 1460205000000
-  updated: 1459777528000
-  utc_offset: -14400000
-  venue: {address_1: 600 Dulany St, city: Alexandria, country: US, id: 23617611, lat: 38.801780999999998,
-    localized_country_name: USA, lon: -77.063766000000001, name: United States Patent
-      and Trademark Office, repinned: false}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 40
 - created: 1457035881000
   description: "<p>Welcome everyone. We'll be having our second tech talk of the year\
     \ on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when\
@@ -509,7 +458,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 137
+  yes_rsvp_count: 138
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -642,7 +591,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -971,7 +920,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1458498286000
   description: "<p>For our April meetup we are honored to have the creator of the\
     \ Apache NiFi framework, Joe Witt, come to discuss how Apache NiFi helps support\
@@ -1019,7 +968,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
