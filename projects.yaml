@@ -4,7 +4,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 755,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 757,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 133,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
@@ -20,7 +20,7 @@
     link: 'https://github.com/shiftyp', name: shiftyp}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3814190?v=3', contributions: 13,
     link: 'https://github.com/jasoncorum', name: jasoncorum}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 9,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 11,
     link: 'https://github.com/meiao', name: meiao}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1711330?v=3', contributions: 8,
     link: 'https://github.com/MikeyBurkman', name: MikeyBurkman}
@@ -75,8 +75,8 @@
   id: 10896437
   languages:
   - [Java, 1908503]
-  - [Ruby, 196472]
-  - [HTML, 87944]
+  - [Ruby, 199293]
+  - [HTML, 87982]
   - [CSS, 49846]
   - [JavaScript, 26140]
   - [CoffeeScript, 7895]
@@ -85,12 +85,12 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 92
+  open_issues: 90
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-07T00:20:26Z'
+  pushed_at: '2016-04-11T01:45:08Z'
   short_name: districthousing
-  size: 21734
+  size: 21831
   updated_at: '2016-04-02T15:40:47Z'
   watchers: 29
 - activity: [4, 0, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -612,8 +612,8 @@
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2,
-    7, 1, 4, 6, 0, 0, 0, 2, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2, 11, 19, 21,
-    5, 4, 36, 1]
+    7, 1, 8, 2, 0, 0, 0, 2, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2, 16, 28, 7,
+    6, 3, 37, 6]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -773,7 +773,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 22
+  open_issues: 23
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-04-10T19:16:20Z'
@@ -1000,7 +1000,7 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [1, 4, 2, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 17, 0, 0, 0, 0, 4,
+- activity: [1, 4, 2, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14, 0, 0, 0, 0, 4,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1417,8 +1417,8 @@
   updated_at: '2016-02-02T23:10:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 2, 11, 2, 40, 7, 10, 24, 0, 51, 63, 40,
-    35, 74, 35, 46, 28, 36]
+    1, 0, 0, 0, 0, 10, 0, 13, 15, 0, 0, 9, 2, 12, 30, 11, 16, 8, 17, 9, 62, 56, 27,
+    52, 70, 37, 43, 42, 14]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1549,7 +1549,7 @@
     link: 'https://github.com/samiam151', name: samiam151}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 146,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 20,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 21,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 18,
     link: 'https://github.com/tomBeach', name: tomBeach}
@@ -1580,9 +1580,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-10T21:26:01Z'
+  pushed_at: '2016-04-11T10:56:32Z'
   short_name: school-modernization
-  size: 16831
+  size: 16889
   updated_at: '2016-01-26T17:03:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
