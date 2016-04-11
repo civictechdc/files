@@ -1,26 +1,26 @@
 projects([
     {
         "activity": [
-            10, 
+            7, 
             6, 
-            1, 
-            2, 
+            3, 
+            0, 
             4, 
             0, 
-            3, 
-            3, 
-            2, 
-            6, 
+            5, 
+            1, 
+            4, 
+            4, 
             0, 
             0, 
+            9, 
             7, 
-            3, 
-            6, 
-            10, 
+            1, 
+            9, 
             0, 
-            3, 
-            65, 
-            15, 
+            19, 
+            54, 
+            10, 
             0, 
             2, 
             3, 
@@ -37,8 +37,8 @@ projects([
             0, 
             2, 
             0, 
-            2, 
-            3, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -345,8 +345,8 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            2, 
+            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -836,17 +836,17 @@ projects([
         "activity": [
             0, 
             4, 
+            3, 
+            5, 
             1, 
-            2, 
-            6, 
             0, 
             2, 
             0, 
             0, 
             5, 
             1, 
-            0, 
-            20, 
+            10, 
+            10, 
             1, 
             7, 
             1, 
@@ -864,13 +864,13 @@ projects([
             6, 
             2, 
             0, 
-            0, 
-            5, 
+            1, 
+            4, 
             1, 
             4, 
             11, 
-            1, 
-            6, 
+            4, 
+            3, 
             4, 
             0, 
             1, 
@@ -1425,8 +1425,8 @@ projects([
             2, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             1, 
             0, 
             0, 
@@ -2036,7 +2036,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 115, 
+                "contributions": 121, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2094,7 +2094,217 @@ projects([
         "default_branch": "develop", 
         "description": "Displays data about DC Campaign Finance on a site", 
         "forks": 21, 
-        "help_wanted": [], 
+        "help_wanted": [
+            {
+                "assignee": null, 
+                "body": "[Open Corporate Database](https://opencorporates.com/)\r\n\r\n- [ ] update contributors with a link to the open corporate entry\r\n- [ ] update UI to show link", 
+                "comments": 0, 
+                "created_at": "2016-04-10T18:47:06Z", 
+                "issue": "As a user, I would like to see a link to the open corporate data if the contributor is a business", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/137", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "d93f0b", 
+                        "name": "Priority: Major", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Major"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-04-10T19:30:16Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "", 
+                "comments": 0, 
+                "created_at": "2016-04-10T18:42:59Z", 
+                "issue": "As a user, I want to see the total amount of money a contributor has contributed over a timeframe", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/136", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "d93f0b", 
+                        "name": "Priority: Major", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Major"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-04-10T19:30:16Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "After selecting a contributor, I want to see the campaigns they contributed.  That data should include:\r\n\r\n- [ ] The race name\r\n- [ ] The candidate name\r\n- [ ] How much money was donated\r\n- [ ] Whether or not the candidate won", 
+                "comments": 0, 
+                "created_at": "2016-04-10T18:42:04Z", 
+                "issue": "As a user, I want to see a list of candidates contributed to when I select a contributor", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/135", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "d93f0b", 
+                        "name": "Priority: Major", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Major"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-04-10T19:30:16Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "- [ ] Create an endpoint that takes a string and does a text search on the contributor name and returns all matches\r\n- [ ] Add a new route to the front end code that works as a type ahead for the contributor search endpoint\r\n- [ ] Display the matched contributors", 
+                "comments": 0, 
+                "created_at": "2016-04-10T18:40:34Z", 
+                "issue": "As a user, I want to be able search by a contributor", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/134", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "d93f0b", 
+                        "name": "Priority: Major", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Major"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-04-10T19:30:16Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "Currently the search page is not obvious.  The instructions need to make it clear\r\n\r\n- [ ] the fact that the search is keyed off campaigns\r\n- [ ] how to add multiple campaigns\r\n- [ ] where and what is contained in the selections tab\r\n- [ ] what sort of data will be shown when they get to the next page", 
+                "comments": 0, 
+                "created_at": "2016-04-07T02:05:18Z", 
+                "issue": "Add additional instructions to the search page", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/127", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "c2e0c6", 
+                        "name": "first contributors", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/first%20contributors"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "b60205", 
+                        "name": "Priority: Critical", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Critical"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-04-10T19:31:35Z"
+            }, 
+            {
+                "assignee": {
+                    "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
+                    "events_url": "https://api.github.com/users/mkalish/events{/privacy}", 
+                    "followers_url": "https://api.github.com/users/mkalish/followers", 
+                    "following_url": "https://api.github.com/users/mkalish/following{/other_user}", 
+                    "gists_url": "https://api.github.com/users/mkalish/gists{/gist_id}", 
+                    "gravatar_id": "", 
+                    "html_url": "https://github.com/mkalish", 
+                    "id": 1225895, 
+                    "login": "mkalish", 
+                    "organizations_url": "https://api.github.com/users/mkalish/orgs", 
+                    "received_events_url": "https://api.github.com/users/mkalish/received_events", 
+                    "repos_url": "https://api.github.com/users/mkalish/repos", 
+                    "site_admin": false, 
+                    "starred_url": "https://api.github.com/users/mkalish/starred{/owner}{/repo}", 
+                    "subscriptions_url": "https://api.github.com/users/mkalish/subscriptions", 
+                    "type": "User", 
+                    "url": "https://api.github.com/users/mkalish"
+                }, 
+                "body": "There should be a search field in the race to search to find all the campaigns for currently elected officials", 
+                "comments": 0, 
+                "created_at": "2016-04-03T16:37:10Z", 
+                "issue": "Update search code to search by currently elected officials", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/125", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-04-10T18:53:42Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "Currently, there are contributions through 2014, but we should update this to capture data from the current cycle.\r\n\r\nSteps:\r\n\r\n- [ ]  Download csv from OCF (make sure the dates are correct so we don't double count contributions)\r\n- [ ]  Run the csv through the address updater\r\n- [ ]  Run the csv through the deduper (I have the training file)\r\n- [ ]  Run the importer2 against the csv\r\n- [ ]  Run the upgrade scripts", 
+                "comments": 5, 
+                "created_at": "2016-03-30T11:53:40Z", 
+                "issue": "Update database with up to date contributions", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/121", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-04-10T18:53:42Z"
+            }
+        ], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
         "html_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
         "id": 21773181, 
@@ -2123,16 +2333,16 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 19, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-04-09T23:40:08Z", 
+        "pushed_at": "2016-04-10T19:16:20Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 106032, 
+        "size": 105168, 
         "updated_at": "2016-03-29T16:29:58Z", 
         "watchers": 16
     }, 
@@ -2704,8 +2914,8 @@ projects([
         "activity": [
             0, 
             0, 
-            26, 
-            39, 
+            43, 
+            22, 
             1, 
             0, 
             0, 
@@ -2719,8 +2929,8 @@ projects([
             0, 
             2, 
             0, 
-            2, 
-            6, 
+            7, 
+            1, 
             0, 
             0, 
             0, 
@@ -3146,16 +3356,16 @@ projects([
             0, 
             15, 
             40, 
-            28, 
-            8, 
-            35, 
-            33, 
+            36, 
+            0, 
+            53, 
+            15, 
             1, 
             0, 
             27, 
             2, 
-            21, 
-            14, 
+            24, 
+            11, 
             6, 
             15, 
             0, 
@@ -3163,15 +3373,15 @@ projects([
             4, 
             6, 
             0, 
-            9, 
-            71, 
+            14, 
+            66, 
             0, 
             0, 
-            3, 
             8, 
-            0, 
-            7, 
             3, 
+            0, 
+            9, 
+            1, 
             13, 
             0, 
             0, 
@@ -3187,8 +3397,8 @@ projects([
             1, 
             1, 
             0, 
-            14, 
-            122, 
+            32, 
+            104, 
             2, 
             3, 
             0, 
@@ -3531,10 +3741,10 @@ projects([
     }, 
     {
         "activity": [
-            95, 
-            57, 
-            7, 
-            4, 
+            107, 
+            49, 
+            5, 
+            2, 
             1, 
             0, 
             1, 
@@ -3817,17 +4027,17 @@ projects([
             0, 
             16, 
             0, 
-            17, 
-            15, 
-            4, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
+            25, 
+            10, 
             1, 
-            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -3981,8 +4191,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            4, 
+            2, 
+            2, 
             0, 
             0, 
             0, 
@@ -4688,9 +4898,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-04-10T00:30:55Z", 
+        "pushed_at": "2016-04-10T21:26:01Z", 
         "short_name": "school-modernization", 
-        "size": 16840, 
+        "size": 16831, 
         "updated_at": "2016-01-26T17:03:55Z", 
         "watchers": 4
     }, 

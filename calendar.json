@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "announced": false, 
@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "announced": false, 
@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }
     ], 
     "other": [
@@ -149,6 +149,45 @@
             "visibility": "public", 
             "waitlist_count": 22, 
             "yes_rsvp_count": 125
+        }, 
+        {
+            "created": 1460325179000, 
+            "description": "<p><b>This event is hosted by Data Education DC. Please RSVP <a href=\"http://www.meetup.com/Data-Education-DC/events/229613009/\">here</a>\u00a0for this event.\u00a0</b></p> <p>Have you ever wanted to scale R but are limited due to memory? In this talk Joseph Rickert, blogger, data scientist and R community Ambassador introduces the latest R technology to scale your data analysis.</p> <p>-- TALK OUTLINE --\u00a0\u00a0</p> <p>Microsoft R Server (formerly Revolution R Enterprise)\u00a0has become the foundation for Microsoft\u2019s use or the R language to tackle big-data machine learning and predictive analytics tasks. At the heart of MRS is the RevoScaleR package that implements a number of parallel external memory algorithms. These \u201cPEMAs\u201d are inherently parallel and designed for distributed computing on large data sets. Unlike standard open source R functions they do not require all of the data to be in memory at one time. I will provide an overview of MRS and show some examples of PEMAs working on data sets too large to be processed by open source R algorithms on my laptop.</p> <p>-- SPEAKER --</p> <p>Joseph Rickert\u00a0is a Program Manager and R Community Ambassador for Microsoft. He came to Microsoft with the rest of Revolution Analytics team where he worked as a data scientist, blog editor and special programs manager. \u00a0He is currently Microsoft\u2019s representative to the R Consortium\u2019s Infrastructure Steering Committee and a member of the organizing committee for useR!2016.\u00a0</p> <p>Previously, Joe held a variety of technical and marketing roles while working for technology startups that spanned multiple industries from local area networks to disk drives, test equipment and health care. Joe entered Franklin &amp; Marshall college on a Classics scholarship and end up a Math major. He also earned an M.A. in Humanities and an M.S. in Statistics from the California State University. You can follow Joe on Twitter as @RevoJoe</p> <p>-- TENTATIVE SCHEDULE --</p> <p>6:00-6:30 - Networking\u00a0<br/>6:30-6:40 - Introductions\u00a0<br/>6:40 - 7:40 - Talk\u00a0<br/>7:40 - 8:10 - Socializing</p> <p>-- NOTE --</p> <p>This event has limited seating capacity.\u00a0</p> <p>You can reserve\u00a0<a href=\"https://www.eventbrite.com/e/special-event-scaling-r-using-parallel-external-memory-algorithms-tickets-23311454187\">reserve your place on \u00a0the Eventbrite page*</a>.\u00a0</p> <p>*The event is FREE to attend but reserving your place through Eventbrite guarantee's your place.</p> <p>-- LOCATION --</p> <p>WeWork- Dupont Circle\u00a0<br/><i>WeWork\u00a0is a community for creators.\u00a0We\u00a0transform buildings into beautiful, collaborative workspaces and provide infrastructure, services,\u00a0events\u00a0and technology so our members can focus on doing what they love.\"</i>\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/7/6/3/600_448358755.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/7/6/5/600_448358757.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/8/8/5/600_447699045.jpeg\" /></p>", 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/230276275/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "230276275", 
+            "maybe_rsvp_count": 0, 
+            "name": "Special Event- Scaling R Using Parallel External Memory Algorithms", 
+            "rsvp_limit": 2, 
+            "status": "upcoming", 
+            "time": 1460498400000, 
+            "updated": 1460325179000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1875 Connecticut Avenue Northwest ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23606088, 
+                "lat": 38.915545999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.045379999999994, 
+                "name": "WeWork - Dupont Circle", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 18, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1451511328000, 
@@ -346,7 +385,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1457885761000, 
@@ -412,7 +451,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1459807879000, 
@@ -453,7 +492,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 143
+            "yes_rsvp_count": 144
         }, 
         {
             "created": 1457965726000, 
@@ -519,7 +558,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1459265642000, 
@@ -586,7 +625,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1446220217000, 
@@ -708,7 +747,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1457709309000, 
@@ -814,7 +853,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1458758791000, 
@@ -853,7 +892,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1460057871000, 
@@ -932,7 +971,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1459265642000, 
@@ -1113,7 +1152,7 @@
         }, 
         {
             "created": 1459703387000, 
-            "description": "<p>The details of this event will be published the week of April 11th. You can pre-register via <a href=\"http://wcm-iterate.eventbrite.com\">Eventbrite</a>.</p> <p>Stop doing website redesigns! Instead learn how to create a effective structure for making incremental and iterative changes to your site.</p>", 
+            "description": "<p>Early Bird registration on\u00a0<a href=\"http://wcm-iterate.eventbrite.com\">Eventbrite</a>\u00a0through Friday, 4/15.</p> <p><br/><b>OVERVIEW</b></p> <p>Stop doing website redesigns!\u00a0</p> <p>Join the Web Content Mavens and learn how to to make incremental and iterative changes to your site instead.</p> <p>The event will cover 3 main points:</p> <p>\u00a0 * The benefits of making interative changes.</p> <p>\u00a0 * How to set up an iterative process in your organization including methods for identifying, managing and testing site updates.</p> <p>\u00a0 * How to apply this model to immediate issues as well as larger, structural changes to your website.</p> <p><b>AGENDA</b></p> <p>We will begin at 6:30 with light appetizers and drinks, followed by presentations at 7:00. After Q&amp;A, we will have another 20 minutes of networking.</p> <p><b>SPEAKERS</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/2/b/600_448762571.jpeg\" /></p> <p><b>Tim Maxey</b>,\u00a0Senior Director of IT at\u00a0ARVO (Association for Research in Vision and Ophthalmology)</p> <p>Tim Maxey is the Sr. Director of Information Technology for the Association for Research in Vision and Ophthalmology. With over 20 years working in the not-for-profit industry, his expertise spans a broad range of technologies including infrastructure, security, web presence, project management, database management, application development, and financial management for multiple associations.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/7/3/600_448762643.jpeg\" /></p> <p><b>Frank Klassen</b>, CEO at Brightfind\u00a0</p> <p>Frank is the CEO of Brightfind, where he is responsible for executing on the vision of the company \u2013 to be a nationally recognized creator of digital experiences that deliver provable value to our clients\u2019 customers. Prior to Brightfind, Frank was the VP of Web Technology for Syscom Services. He has more than three decades of experience in the implementation of information system technologies in a wide variety of business environments, for both private and public sector companies. For the last 20 years, Frank has been focused on helping organizations utilize the web to address critical business processes and increase customer engagement.\u00a0 His current passions are in the areas of Taxonomy, Search, Findability, and Web User Experience Design.</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/9/d/a/600_448763002.jpeg\" /></p> <p>Brightfind (<a href=\"http://www.brightfind.com/\">www.brightfind.com</a>) is a specialized digital design and web development agency. We create outstanding experiences for organizations with deep, complex content.\u00a0Every experience we create is designed to address unique audiences, achieve specific goals, and engage visitors through personalization. Our clients enjoy the freedom of informed decision making.</p> <p>We\u2019re hiring User Experience Designers, Project Managers, Front-end and Back-end Developers. Visit our\u00a0<a href=\"http://bit.ly/1Kg4bMO\">Careers page</a>\u00a0to view open positions and apply.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/230094518/", 
             "group": {
                 "created": 1189804715000, 
@@ -1131,7 +1170,7 @@
             "name": "Bye Bye Redesign, Hello Iterative Enhancement", 
             "status": "upcoming", 
             "time": 1462921200000, 
-            "updated": 1459703989000, 
+            "updated": 1460321595000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1141,13 +1180,13 @@
                 "lat": 38.904854, 
                 "localized_country_name": "USA", 
                 "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776 (8th Floor)", 
+                "name": "General Assembly @ 1776", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1451511413000, 
