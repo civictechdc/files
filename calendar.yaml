@@ -80,7 +80,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -175,7 +175,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 6
-  yes_rsvp_count: 116
+  yes_rsvp_count: 96
 - created: 1460325179000
   description: "<p><b>This event is hosted by Data Education DC. Please RSVP <a href=\"\
     http://www.meetup.com/Data-Education-DC/events/229613009/\">here</a>\_for this\
@@ -266,7 +266,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 29
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -299,7 +299,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 19
 - created: 1459207945000
   description: "<p>Join DC Legal Hackers at the New America Foundation on Wednesday,\
     \ April 13, 2015 from 6-9pm to #LegalHack the FBI\u2013Apple encryption dispute.\_\
@@ -338,7 +338,7 @@ other:
     name: New America Foundation, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 59
 - created: 1459398068000
   description: "<p>Join\_<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\_\
     and members of the DC\_business &amp; tech\_communities as we celebrate Powerful\
@@ -463,7 +463,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 73
 - created: 1459807879000
   description: "<p>Join us for the inaugural event at\_Google Reston office\_with\
     \ Google Cloud Team and learn about\_Overview of Google BigQuery Architecture.\
@@ -883,7 +883,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -1028,7 +1028,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 96
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -1087,7 +1087,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1460057871000
   description: "<p>Many of you have indicated interest in seeing a Women in Tech Talk\
     \ and so we've decided to give it a go!\_We'll talk to three successful women\
@@ -1137,7 +1137,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1357,7 +1357,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1548,7 +1548,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
