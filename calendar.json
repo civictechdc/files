@@ -123,34 +123,6 @@
     ], 
     "other": [
         {
-            "created": 1457035881000, 
-            "description": "<p>Welcome everyone. We'll be having our second tech talk of the year on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when she was 10 years old, back in the weird-old-days of Geocities and table-based layouts. She continued working with web design/development in college, where she minored in studio art at Tulane University and went to the Art Institute of Washington.\u00a0</p> <p>She is a graduate of the Front End development program at Iron Yard and\u00a0currently works at <a href=\"http://540.co/\">540.co</a>, where she works to help evangelize APIs and open source software/open data and of course, helps the government #getshitdone (the official motto).</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Thank You to our hosts <b>Social Tables &amp;\u00a0The\u00a0New York Code + Design Academy (<a href=\"https://www.eventbrite.com/e/learn-more-about-the-new-york-code-design-academy-tickets-24461461891\">Learn more about NYCDA + join their community</a>)</b>\u00a0!!</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365784/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "ghkdrlyvgbpb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab - Intro to APIs", 
-            "rsvp_limit": 125, 
-            "status": "upcoming", 
-            "time": 1460413800000, 
-            "updated": 1460389507000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 6, 
-            "yes_rsvp_count": 96
-        }, 
-        {
             "created": 1460325179000, 
             "description": "<p><b>This event is hosted by Data Education DC. Please RSVP <a href=\"http://www.meetup.com/Data-Education-DC/events/229613009/\">here</a>\u00a0for this event.\u00a0</b></p> <p>Have you ever wanted to scale R but are limited due to memory? In this talk Joseph Rickert, blogger, data scientist and R community Ambassador introduces the latest R technology to scale your data analysis.</p> <p>-- TALK OUTLINE --\u00a0\u00a0</p> <p>Microsoft R Server (formerly Revolution R Enterprise)\u00a0has become the foundation for Microsoft\u2019s use or the R language to tackle big-data machine learning and predictive analytics tasks. At the heart of MRS is the RevoScaleR package that implements a number of parallel external memory algorithms. These \u201cPEMAs\u201d are inherently parallel and designed for distributed computing on large data sets. Unlike standard open source R functions they do not require all of the data to be in memory at one time. I will provide an overview of MRS and show some examples of PEMAs working on data sets too large to be processed by open source R algorithms on my laptop.</p> <p>-- SPEAKER --</p> <p>Joseph Rickert\u00a0is a Program Manager and R Community Ambassador for Microsoft. He came to Microsoft with the rest of Revolution Analytics team where he worked as a data scientist, blog editor and special programs manager. \u00a0He is currently Microsoft\u2019s representative to the R Consortium\u2019s Infrastructure Steering Committee and a member of the organizing committee for useR!2016.\u00a0</p> <p>Previously, Joe held a variety of technical and marketing roles while working for technology startups that spanned multiple industries from local area networks to disk drives, test equipment and health care. Joe entered Franklin &amp; Marshall college on a Classics scholarship and end up a Math major. He also earned an M.A. in Humanities and an M.S. in Statistics from the California State University. You can follow Joe on Twitter as @RevoJoe</p> <p>-- TENTATIVE SCHEDULE --</p> <p>6:00-6:30 - Networking\u00a0<br/>6:30-6:40 - Introductions\u00a0<br/>6:40 - 7:40 - Talk\u00a0<br/>7:40 - 8:10 - Socializing</p> <p>-- NOTE --</p> <p>This event has limited seating capacity.\u00a0</p> <p>You can reserve\u00a0<a href=\"https://www.eventbrite.com/e/special-event-scaling-r-using-parallel-external-memory-algorithms-tickets-23311454187\">reserve your place on \u00a0the Eventbrite page*</a>.\u00a0</p> <p>*The event is FREE to attend but reserving your place through Eventbrite guarantee's your place.</p> <p>-- LOCATION --</p> <p>WeWork- Dupont Circle\u00a0<br/><i>WeWork\u00a0is a community for creators.\u00a0We\u00a0transform buildings into beautiful, collaborative workspaces and provide infrastructure, services,\u00a0events\u00a0and technology so our members can focus on doing what they love.\"</i>\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/7/6/3/600_448358755.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/7/6/5/600_448358757.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/8/8/5/600_447699045.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/stats-prog-dc/events/230276275/", 
@@ -424,7 +396,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -451,7 +423,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1459807879000, 
@@ -491,7 +463,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 150
         }, 
         {
@@ -520,7 +492,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459089487000, 
@@ -586,7 +558,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1457889032000, 
@@ -747,7 +719,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1457709309000, 
@@ -853,7 +825,47 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
+        }, 
+        {
+            "created": 1460425577000, 
+            "description": "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"http://www.meetup.com/DC-NLP/\">DCNLP</a>.\u00a0</p> <p><br/>6:30 - 7:00 Food, drinks and meet new people\u00a0<br/>7:00 - 7:15 Intros and announcements\u00a0<br/>7:15 - 8:30 Presentation, Q&amp;A\u00a0<br/>8:30ish Off to the bar</p> <p><br/><b>Abstract:</b></p> <p><a href=\"https://cran.r-project.org/web/packages/textmineR/index.html\">textmineR</a> introduces a framework for natural language processing (NLP) in R that improves upon current NLP frameworks available in R. Specifically, textmineR has a syntax that is more intuitive to experienced R users. It uses objects, methods, and functions that behave like regular R dense matrices. This lowers the barrier to beginning statistical analyses of language to statisticians and other data professionals.\u00a0</p> <p>The development version is <a href=\"https://github.com/TommyJones/textmineR/tree/2.0\">here</a>.</p> <p><b>Bio:</b></p> <p>Tommy Jones is the director of data science at Impact Research, LLC. He holds an MS in mathematics and statistics from Georgetown University and a BA in economics from the College of William and Mary. He is a PhD student in the George Mason University Department of Computational and Data Sciences. He specializes in statistical models of language and time series modeling.</p> <p><a href=\"http://www.twitter.com/thos_jones\">www.twitter.com/thos_jones</a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/stats-prog-dc/events/230306971/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "id": "230306971", 
+            "maybe_rsvp_count": 0, 
+            "name": "textmineR - NLP with R", 
+            "status": "upcoming", 
+            "time": 1461796200000, 
+            "updated": 1460425673000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1458758791000, 
@@ -1120,13 +1132,13 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbnb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230308822/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1148,11 +1160,11 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1459703387000, 
-            "description": "<p>Early Bird registration on\u00a0<a href=\"http://wcm-iterate.eventbrite.com\">Eventbrite</a>\u00a0through Friday, 4/15.</p> <p><br/><b>OVERVIEW</b></p> <p>Stop doing website redesigns!\u00a0</p> <p>Join the Web Content Mavens and learn how to to make incremental and iterative changes to your site instead.</p> <p>The event will cover 3 main points:</p> <p>\u00a0 * The benefits of making interative changes.</p> <p>\u00a0 * How to set up an iterative process in your organization including methods for identifying, managing and testing site updates.</p> <p>\u00a0 * How to apply this model to immediate issues as well as larger, structural changes to your website.</p> <p><b>AGENDA</b></p> <p>We will begin at 6:30 with light appetizers and drinks, followed by presentations at 7:00. After Q&amp;A, we will have another 20 minutes of networking.</p> <p><b>SPEAKERS</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/2/b/600_448762571.jpeg\" /></p> <p><b>Tim Maxey</b>,\u00a0Senior Director of IT at\u00a0ARVO (Association for Research in Vision and Ophthalmology)</p> <p>Tim Maxey is the Sr. Director of Information Technology for the Association for Research in Vision and Ophthalmology. With over 20 years working in the not-for-profit industry, his expertise spans a broad range of technologies including infrastructure, security, web presence, project management, database management, application development, and financial management for multiple associations.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/7/3/600_448762643.jpeg\" /></p> <p><b>Frank Klassen</b>, CEO at Brightfind\u00a0</p> <p>Frank is the CEO of Brightfind, where he is responsible for executing on the vision of the company \u2013 to be a nationally recognized creator of digital experiences that deliver provable value to our clients\u2019 customers. Prior to Brightfind, Frank was the VP of Web Technology for Syscom Services. He has more than three decades of experience in the implementation of information system technologies in a wide variety of business environments, for both private and public sector companies. For the last 20 years, Frank has been focused on helping organizations utilize the web to address critical business processes and increase customer engagement.\u00a0 His current passions are in the areas of Taxonomy, Search, Findability, and Web User Experience Design.</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/9/d/a/600_448763002.jpeg\" /></p> <p>Brightfind (<a href=\"http://www.brightfind.com/\">www.brightfind.com</a>) is a specialized digital design and web development agency. We create outstanding experiences for organizations with deep, complex content.\u00a0Every experience we create is designed to address unique audiences, achieve specific goals, and engage visitors through personalization. Our clients enjoy the freedom of informed decision making.</p> <p>We\u2019re hiring User Experience Designers, Project Managers, Front-end and Back-end Developers. Visit our\u00a0<a href=\"http://bit.ly/1Kg4bMO\">Careers page</a>\u00a0to view open positions and apply.</p>", 
+            "description": "<p>Early Bird registration on\u00a0<a href=\"http://wcm-iterate.eventbrite.com\">Eventbrite</a>\u00a0through Monday, 4/18.</p> <p><br/><b>OVERVIEW</b></p> <p>Stop doing website redesigns!\u00a0</p> <p>Join the Web Content Mavens and learn how to to make incremental and iterative changes to your site instead.</p> <p>The event will cover 3 main points:</p> <p>\u00a0 * The benefits of making interative changes.</p> <p>\u00a0 * How to set up an iterative process in your organization including methods for identifying, managing and testing site updates.</p> <p>\u00a0 * How to apply this model to immediate issues as well as larger, structural changes to your website.</p> <p><b>AGENDA</b></p> <p>We will begin at 6:30 with light appetizers and drinks, followed by presentations at 7:00. After Q&amp;A, we will have another 20 minutes of networking.</p> <p><b>SPEAKERS</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/2/b/600_448762571.jpeg\" /></p> <p><b>Tim Maxey</b>,\u00a0Senior Director of IT at\u00a0ARVO (Association for Research in Vision and Ophthalmology)</p> <p>Tim Maxey is the Sr. Director of Information Technology for the Association for Research in Vision and Ophthalmology. With over 20 years working in the not-for-profit industry, his expertise spans a broad range of technologies including infrastructure, security, web presence, project management, database management, application development, and financial management for multiple associations.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/7/3/600_448762643.jpeg\" /></p> <p><b>Frank Klassen</b>, CEO at Brightfind\u00a0</p> <p>Frank is the CEO of Brightfind, where he is responsible for executing on the vision of the company \u2013 to be a nationally recognized creator of digital experiences that deliver provable value to our clients\u2019 customers. Prior to Brightfind, Frank was the VP of Web Technology for Syscom Services. He has more than three decades of experience in the implementation of information system technologies in a wide variety of business environments, for both private and public sector companies. For the last 20 years, Frank has been focused on helping organizations utilize the web to address critical business processes and increase customer engagement.\u00a0 His current passions are in the areas of Taxonomy, Search, Findability, and Web User Experience Design.</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/9/d/a/600_448763002.jpeg\" /></p> <p>Brightfind (<a href=\"http://www.brightfind.com/\">www.brightfind.com</a>) is a specialized digital design and web development agency. We create outstanding experiences for organizations with deep, complex content.\u00a0Every experience we create is designed to address unique audiences, achieve specific goals, and engage visitors through personalization. Our clients enjoy the freedom of informed decision making.</p> <p>We\u2019re hiring User Experience Designers, Project Managers, Front-end and Back-end Developers. Visit our\u00a0<a href=\"http://bit.ly/1Kg4bMO\">Careers page</a>\u00a0to view open positions and apply.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/230094518/", 
             "group": {
                 "created": 1189804715000, 
@@ -1170,7 +1182,7 @@
             "name": "Bye Bye Redesign, Hello Iterative Enhancement", 
             "status": "upcoming", 
             "time": 1462921200000, 
-            "updated": 1460321595000, 
+            "updated": 1460442686000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -1186,7 +1198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1451511413000, 
@@ -1336,6 +1348,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230106113/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvhbxb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1463610600000, 
+            "updated": 1459264410000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 

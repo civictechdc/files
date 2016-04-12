@@ -123,59 +123,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 5
 other:
-- created: 1457035881000
-  description: "<p>Welcome everyone. We'll be having our second tech talk of the year\
-    \ on Intro to API's with Amanda Hewitt.</p> <p>Amanda started writing code when\
-    \ she was 10 years old, back in the weird-old-days of Geocities and table-based\
-    \ layouts. She continued working with web design/development in college, where\
-    \ she minored in studio art at Tulane University and went to the Art Institute\
-    \ of Washington.\_</p> <p>She is a graduate of the Front End development program\
-    \ at Iron Yard and\_currently works at <a href=\"http://540.co/\">540.co</a>,\
-    \ where she works to help evangelize APIs and open source software/open data and\
-    \ of course, helps the government #getshitdone (the official motto).</p> <p>Front\
-    \ End Hack Night (FEHN) is a study group where women can come together and help\
-    \ each other learn and understand web development. We welcome devs of all levels\
-    \ and encourage those with more experience to help out those that are just starting.\
-    \ There's always at least one mentor or leader present to help you with best practices\
-    \ or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In\
-    \ order to maximize your benefits from FEHN, please bring your laptop. Extra computers\
-    \ will not be available at the event. Even if you have never coded before, you\
-    \ will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the\
-    \ following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick\
-    \ introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm\
-    \ - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github\
-    \ page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p>\
-    \ <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a\
-    \ href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\_\
-    \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"\
-    http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\_\
-    \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"\
-    http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\_\
-    Building Access</p> <p>Certain building management companies require Meetup hosts\
-    \ to let people in and do not encourage them being contacted. Please respect the\
-    \ policy. In case the location requires access to the building, contact the group\
-    \ lead if information is provided or drop a comment on the Meetup page. We'll\
-    \ come and get you.</p> <p>Welcome This event is intended to be exclusively open\
-    \ for women; we are trans* friendly.</p> <p>Thank You to our hosts <b>Social Tables\
-    \ &amp;\_The\_New York Code + Design Academy (<a href=\"https://www.eventbrite.com/e/learn-more-about-the-new-york-code-design-academy-tickets-24461461891\"\
-    >Learn more about NYCDA + join their community</a>)</b>\_!!</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229365784/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: ghkdrlyvgbpb
-  maybe_rsvp_count: 0
-  name: Front End Lab - Intro to APIs
-  rsvp_limit: 125
-  status: upcoming
-  time: 1460413800000
-  updated: 1460389507000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 6
-  yes_rsvp_count: 96
 - created: 1460325179000
   description: "<p><b>This event is hosted by Data Education DC. Please RSVP <a href=\"\
     http://www.meetup.com/Data-Education-DC/events/229613009/\">here</a>\_for this\
@@ -444,7 +391,7 @@ other:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 11
 - created: 1417881835000
   description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
     >Luigi</a> library.</p>"
@@ -463,7 +410,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 75
 - created: 1459807879000
   description: "<p>Join us for the inaugural event at\_Google Reston office\_with\
     \ Google Cloud Team and learn about\_Overview of Google BigQuery Architecture.\
@@ -517,7 +464,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 5
   yes_rsvp_count: 150
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -561,7 +508,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1459089487000
   description: "<p>This meetup that will examine how data and data science can help\
     \ tackle the global pandemic of sexual assault and rape, featuring multiple speakers\
@@ -681,7 +628,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 8
 - created: 1457889032000
   description: "<p><i>Threespot will be providing pizza and drinks in addition to\
     \ the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework\
@@ -883,7 +830,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 52
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -1028,7 +975,44 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
+- created: 1460425577000
+  description: "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"\
+    http://www.meetup.com/DC-NLP/\">DCNLP</a>.\_</p> <p><br/>6:30 - 7:00 Food, drinks\
+    \ and meet new people\_<br/>7:00 - 7:15 Intros and announcements\_<br/>7:15 -\
+    \ 8:30 Presentation, Q&amp;A\_<br/>8:30ish Off to the bar</p> <p><br/><b>Abstract:</b></p>\
+    \ <p><a href=\"https://cran.r-project.org/web/packages/textmineR/index.html\"\
+    >textmineR</a> introduces a framework for natural language processing (NLP) in\
+    \ R that improves upon current NLP frameworks available in R. Specifically, textmineR\
+    \ has a syntax that is more intuitive to experienced R users. It uses objects,\
+    \ methods, and functions that behave like regular R dense matrices. This lowers\
+    \ the barrier to beginning statistical analyses of language to statisticians and\
+    \ other data professionals.\_</p> <p>The development version is <a href=\"https://github.com/TommyJones/textmineR/tree/2.0\"\
+    >here</a>.</p> <p><b>Bio:</b></p> <p>Tommy Jones is the director of data science\
+    \ at Impact Research, LLC. He holds an MS in mathematics and statistics from Georgetown\
+    \ University and a BA in economics from the College of William and Mary. He is\
+    \ a PhD student in the George Mason University Department of Computational and\
+    \ Data Sciences. He specializes in statistical models of language and time series\
+    \ modeling.</p> <p><a href=\"http://www.twitter.com/thos_jones\">www.twitter.com/thos_jones</a></p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/stats-prog-dc/events/230306971/
+  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
+    who: dc-hackeRs}
+  headcount: 0
+  id: '230306971'
+  maybe_rsvp_count: 0
+  name: textmineR - NLP with R
+  status: upcoming
+  time: 1461796200000
+  updated: 1460425673000
+  utc_offset: -14400000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
+      Room 108', repinned: false, state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 78
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -1357,7 +1341,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1372,7 +1356,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbnb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230308822/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1387,10 +1371,10 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1459703387000
   description: "<p>Early Bird registration on\_<a href=\"http://wcm-iterate.eventbrite.com\"\
-    >Eventbrite</a>\_through Friday, 4/15.</p> <p><br/><b>OVERVIEW</b></p> <p>Stop\
+    >Eventbrite</a>\_through Monday, 4/18.</p> <p><br/><b>OVERVIEW</b></p> <p>Stop\
     \ doing website redesigns!\_</p> <p>Join the Web Content Mavens and learn how\
     \ to to make incremental and iterative changes to your site instead.</p> <p>The\
     \ event will cover 3 main points:</p> <p>\_ * The benefits of making interative\
@@ -1437,14 +1421,14 @@ other:
   name: Bye Bye Redesign, Hello Iterative Enhancement
   status: upcoming
   time: 1462921200000
-  updated: 1460321595000
+  updated: 1460442686000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
     lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996, name: General
       Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 - created: 1451511413000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Heads\
     \ up, this is a Wednesday (as opposed to our\_Tuesday\_normal dates).</p> <p>Everyone\
@@ -1622,6 +1606,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1446220217000
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
+    \ This Women Who Code DC event is intended to be exclusively open for women; we\
+    \ are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230106113/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gcxvllyvhbxb
+  maybe_rsvp_count: 0
+  name: Python Lab
+  rsvp_limit: 50
+  status: upcoming
+  time: 1463610600000
+  updated: 1459264410000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
