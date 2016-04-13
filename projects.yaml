@@ -775,7 +775,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 23
+  open_issues: 22
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-04-12T11:43:39Z'
@@ -1034,7 +1034,7 @@
   default_branch: master
   description: "DC Public Library catalog scraper, Twitter feed, Twitter bot, browser\
     \ plug-in\u2026and beyond?"
-  forks: 7
+  forks: 8
   help_wanted: []
   homepage: http://booksfordc.org
   html_url: https://github.com/emanuelfeld/booksfordc
@@ -1093,9 +1093,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 0, 15, 40, 36, 0, 53, 15, 1, 0, 27, 2, 26, 9, 6, 15, 0, 7, 0, 6, 0,
-    42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 33,
-    103, 2, 3, 0, 0, 0]
+- activity: [0, 0, 20, 35, 36, 0, 67, 1, 1, 4, 25, 0, 27, 10, 4, 15, 0, 7, 0, 6, 0,
+    70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 1, 0, 0, 108,
+    28, 2, 3, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1488,12 +1488,12 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 63
+  open_issues: 64
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-04-12T13:44:31Z'
+  pushed_at: '2016-04-12T23:19:43Z'
   short_name: dcaf_case_management
-  size: 6822
+  size: 6826
   updated_at: '2016-03-29T01:03:36Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1547,10 +1547,10 @@
     thumbnail: https://github.com/codefordc/school-modernization
     type: Web App
   contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 152,
+    link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3870635?v=3', contributions: 150,
     link: 'https://github.com/samiam151', name: samiam151}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 149,
-    link: 'https://github.com/katerabinowitz', name: katerabinowitz}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1095794?v=3', contributions: 21,
     link: 'https://github.com/NSkelsey', name: NSkelsey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 18,
@@ -1571,7 +1571,7 @@
   html_url: https://github.com/codefordc/school-modernization
   id: 46313726
   languages:
-  - [R, 78581]
+  - [R, 59491]
   - [HTML, 39708]
   - [CSS, 27133]
   - [Python, 6087]
@@ -1582,13 +1582,13 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-12T11:53:46Z'
+  pushed_at: '2016-04-12T22:37:11Z'
   short_name: school-modernization
-  size: 17385
+  size: 17498
   updated_at: '2016-04-12T01:48:22Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1643,7 +1643,7 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [26, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [28, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}

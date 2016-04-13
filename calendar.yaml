@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - announced: false
   created: 1459986472000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -179,7 +179,7 @@ other:
     id: 23606088, lat: 38.915545999999999, localized_country_name: USA, lon: -77.045379999999994,
     name: WeWork - Dupont Circle, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 27
+  waitlist_count: 28
   yes_rsvp_count: 3
 - created: 1451511328000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
@@ -213,7 +213,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 28
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -246,7 +246,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 14
 - created: 1459207945000
   description: "<p>Join DC Legal Hackers at the New America Foundation on Wednesday,\
     \ April 13, 2015 from 6-9pm to #LegalHack the FBI\u2013Apple encryption dispute.\_\
@@ -285,7 +285,7 @@ other:
     name: New America Foundation, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 61
 - created: 1459398068000
   description: "<p>Join\_<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\_\
     and members of the DC\_business &amp; tech\_communities as we celebrate Powerful\
@@ -321,7 +321,7 @@ other:
     id: 24266346, lat: 38.898567, localized_country_name: USA, lon: -77.031006000000005,
     name: Social Tables, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 4
   yes_rsvp_count: 1
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
@@ -391,7 +391,7 @@ other:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1417881835000
   description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
     >Luigi</a> library.</p>"
@@ -410,7 +410,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 85
 - created: 1459807879000
   description: "<p>Join us for the inaugural event at\_Google Reston office\_with\
     \ Google Cloud Team and learn about\_Overview of Google BigQuery Architecture.\
@@ -508,7 +508,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 33
 - created: 1459089487000
   description: "<p>This meetup that will examine how data and data science can help\
     \ tackle the global pandemic of sexual assault and rape, featuring multiple speakers\
@@ -755,11 +755,14 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1461623400000
-  updated: 1460389962000
+  updated: 1460486072000
   utc_offset: -14400000
+  venue: {address_1: '1211 Connecticut Avenue Northwest #250', city: Washington, country: us,
+    id: 11024172, lat: 38.906216000000001, localized_country_name: USA, lon: -77.041213999999997,
+    name: RepEquity Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 19
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -830,7 +833,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -1012,7 +1015,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 119
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -1071,7 +1074,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 86
 - created: 1460057871000
   description: "<p>Many of you have indicated interest in seeing a Women in Tech Talk\
     \ and so we've decided to give it a go!\_We'll talk to three successful women\
