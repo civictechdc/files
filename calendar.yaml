@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - announced: false
   created: 1459986472000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -133,18 +133,19 @@ other:
     \ law and technology and seeks to improve legal practice through technology while\
     \ simultaneously using legal skills to promote technological innovation and exploration.</p>\
     \ <p>The FBI\u2013Apple encryption dispute has been hailed the \"biggest tech\
-    \ case this year\". The dispute refers to a district court order by the FBI under\
-    \ the All Writs Act to compel Apple to create a new version of their phone's iOS\
-    \ operating system that could disable certain security features prohibiting investigation\
-    \ of a phone linked to the San Bernardino attacks. Apple filed a motion to vacate\
-    \ the court order and since the FBI has unlocked the phone without any new software\
-    \ in place. This dispute has everything: drama, intrigue, encryption, due process,\
-    \ freedom of speech!\_</p> <p>Join us for a robust discussion over pizza and beer\
-    \ featuring some surprise expert guests.</p> <p>Schedule:</p> <p>\u2022\_6-6:45\
-    \ Food, drinks and networking\_\_</p> <p>\u2022\_7:00-7:15 Introductions and Announcements\_\
-    </p> <p>\u2022\_7:15 - 8:45 Discussion</p> <p>\u2022\_8:45 - 9:00 Final Thoughts\
-    \ &amp; clean up!\_</p> <p>Social Media: #LegalHack #FBIvsApple</p> <p>Thank you\
-    \ to New America for hosting!</p> <p><img src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\"\
+    \ case this year\". The dispute refers to a district court order request filed\
+    \ by the FBI under the All Writs Act to compel Apple to create a new version of\
+    \ their phone's iOS operating system that could disable certain security features\
+    \ prohibiting investigation of a phone linked to the San Bernardino attacks. Apple\
+    \ filed a motion to vacate the court order and since the FBI has unlocked the\
+    \ phone without any new software in place. This dispute has everything: drama,\
+    \ intrigue, encryption, due process, freedom of speech!\_</p> <p>Join us for a\
+    \ robust discussion over pizza and beer featuring some surprise expert guests.</p>\
+    \ <p>Schedule:</p> <p>\u2022\_6-6:45 Food, drinks and networking\_\_</p> <p>\u2022\
+    \_7:00-7:15 Introductions and Announcements\_</p> <p>\u2022\_7:15 - 8:45 Discussion</p>\
+    \ <p>\u2022\_8:45 - 9:00 Final Thoughts &amp; clean up!\_</p> <p>Social Media:\
+    \ #LegalHack #FBIvsApple</p> <p>Thank you to New America for hosting!</p> <p><img\
+    \ src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\"\
     \ /></p>"
   duration: 10800000
   event_url: http://www.meetup.com/DCLegalHackers/events/229947703/
@@ -157,14 +158,14 @@ other:
   name: '#LegalHack FBI v. Apple'
   status: upcoming
   time: 1460584800000
-  updated: 1460512060000
+  updated: 1460560594000
   utc_offset: -14400000
   venue: {address_1: '740 15th St NW #900', city: Washington, country: us, id: 24453919,
     lat: 38.899749999999997, localized_country_name: USA, lon: -77.033839999999998,
     name: New America Foundation, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 68
 - created: 1459398068000
   description: "<p>Join\_<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\_\
     and members of the DC\_business &amp; tech\_communities as we celebrate Powerful\
@@ -237,7 +238,7 @@ other:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1457885761000
   description: "<p><b>DC FemTech Awards Reception</b></p> <p><br/>Next week we will\
     \ join 2016 DC FemTech Awards Reception to celebrate Powerful Women Programmers\
@@ -271,25 +272,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 12
-- created: 1417881835000
-  description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
-    >Luigi</a> library.</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/225934654/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclyvgbjb
-  maybe_rsvp_count: 0
-  name: Using Luigi to Build Data Wrangling & Processing Pipelines
-  status: upcoming
-  time: 1460586600000
-  updated: 1452775529000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 85
 - created: 1459807879000
   description: "<p>Join us for the inaugural event at\_Google Reston office\_with\
     \ Google Cloud Team and learn about\_Overview of Google BigQuery Architecture.\
@@ -343,7 +325,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 9
   yes_rsvp_count: 150
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -387,7 +369,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1459089487000
   description: "<p>This meetup that will examine how data and data science can help\
     \ tackle the global pandemic of sexual assault and rape, featuring multiple speakers\
@@ -467,17 +449,17 @@ other:
   headcount: 0
   id: '229912203'
   maybe_rsvp_count: 0
-  name: Data, Rape, and Sexual Assault
+  name: Data for Good - How Data Escrow and Science Can Help End Rape
   status: upcoming
   time: 1461103200000
-  updated: 1460136916000
+  updated: 1460556005000
   utc_offset: -14400000
   venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
     lat: 38.901859000000002, localized_country_name: USA, lon: -77.020995999999997,
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 65
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -507,7 +489,39 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
+- created: 1460494467000
+  description: "<p>The map is wrong! All maps are wrong! If you've seen that <a href=\"\
+    https://www.youtube.com/watch?v=vVX-PrBRtTY\">West Wing clip</a> calling for schools\
+    \ to use different maps, or stumbled on that <a href=\"https://xkcd.com/977/\"\
+    >xkcd projection comic</a>, you know that there are different ways to lay our\
+    \ fair earth on a flat map.</p> <p>Projections are a fundamental component of\
+    \ making maps, and perhaps more importantly, a fundamental component of geographic\
+    \ analysis. We will highlight that, yes, indeed they do matter... but not ALL\
+    \ the time, and showcase a number of examples. We will also discuss some of the\
+    \ cryptic lingo around coordinate systems (NAD83, WGS, HARN... EPSG:4326?), some\
+    \ of the rich history behind them, and the concepts behind how they are created.</p>\
+    \ <p>Bring a laptop if you want to follow along with the presentation and play\
+    \ with some tools to explore different projections.\_</p>"
+  duration: 3600000
+  event_url: http://www.meetup.com/Maptime-DC/events/230325794/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  id: '230325794'
+  maybe_rsvp_count: 0
+  name: "All About Projections \U0001F5FA"
+  status: upcoming
+  time: 1461105000000
+  updated: 1460554006000
+  utc_offset: -14400000
+  venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
+    localized_country_name: USA, lon: 0, name: MLK Library Dream Lab, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 33
 - created: 1457889032000
   description: "<p><i>Threespot will be providing pizza and drinks in addition to\
     \ the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework\
@@ -641,7 +655,7 @@ other:
     name: RepEquity Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -712,7 +726,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -758,7 +772,7 @@ other:
     name: 'LivingSocial, Inc', repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 3
 - created: 1457889236000
   description: "<p>Presentation: How to Use the NASA Photo-of-the-Day App to Build\
     \ an App</p> <p>Want to learn how to use an API with Rails? Here's your chance!\
@@ -857,7 +871,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 100
 - created: 1460425577000
   description: "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"\
     http://www.meetup.com/DC-NLP/\">DCNLP</a>.\_</p> <p><br/>6:30 - 7:00 Food, drinks\
@@ -894,7 +908,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 124
+  yes_rsvp_count: 128
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -953,7 +967,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 87
 - created: 1460057871000
   description: "<p>Many of you have indicated interest in seeing a Women in Tech Talk\
     \ and so we've decided to give it a go!\_We'll talk to three successful women\
@@ -1003,7 +1017,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1346,7 +1360,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 12
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1414,7 +1428,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 37
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1604,8 +1618,15 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
+  description: <p><b>Data, privacy, and application design</b></p> <p><br/>When dealing
+    with research data, you have to be careful to protect user privacy. This can make
+    it difficult to get hold of good data for testing. Truth Initiative has written
+    a system for migrating sensitive data that protects user privacy while preserving
+    useful properties for testing. We'll walk through the design of the system and
+    how we met some of the challenges in building it.</p> <p><br/><b>Our Speaker</b></p>
+    <p><br/>Matt Bowen is a senior software engineer at Truth Initiative, where he
+    writes software to study better ways to help people quit smoking. He's also the
+    vice president of DC Python's board.</p>
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/225934754/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -1614,14 +1635,17 @@ other:
   headcount: 0
   id: hffzclyvjbcb
   maybe_rsvp_count: 0
-  name: June Meetup
+  name: Protecting User Privacy with Fuzzy-feeling Test Data
   status: upcoming
   time: 1466029800000
-  updated: 1459227108000
+  updated: 1460550867000
   utc_offset: -14400000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
+      Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 7
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
