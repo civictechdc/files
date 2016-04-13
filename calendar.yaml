@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 54
 - announced: false
   created: 1459986472000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -123,130 +123,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 5
 other:
-- created: 1460325179000
-  description: "<p><b>This event is hosted by Data Education DC. Please RSVP <a href=\"\
-    http://www.meetup.com/Data-Education-DC/events/229613009/\">here</a>\_for this\
-    \ event.\_</b></p> <p>Have you ever wanted to scale R but are limited due to memory?\
-    \ In this talk Joseph Rickert, blogger, data scientist and R community Ambassador\
-    \ introduces the latest R technology to scale your data analysis.</p> <p>-- TALK\
-    \ OUTLINE --\_\_</p> <p>Microsoft R Server (formerly Revolution R Enterprise)\_\
-    has become the foundation for Microsoft\u2019s use or the R language to tackle\
-    \ big-data machine learning and predictive analytics tasks. At the heart of MRS\
-    \ is the RevoScaleR package that implements a number of parallel external memory\
-    \ algorithms. These \u201CPEMAs\u201D are inherently parallel and designed for\
-    \ distributed computing on large data sets. Unlike standard open source R functions\
-    \ they do not require all of the data to be in memory at one time. I will provide\
-    \ an overview of MRS and show some examples of PEMAs working on data sets too\
-    \ large to be processed by open source R algorithms on my laptop.</p> <p>-- SPEAKER\
-    \ --</p> <p>Joseph Rickert\_is a Program Manager and R Community Ambassador for\
-    \ Microsoft. He came to Microsoft with the rest of Revolution Analytics team where\
-    \ he worked as a data scientist, blog editor and special programs manager. \_\
-    He is currently Microsoft\u2019s representative to the R Consortium\u2019s Infrastructure\
-    \ Steering Committee and a member of the organizing committee for useR!2016.\_\
-    </p> <p>Previously, Joe held a variety of technical and marketing roles while\
-    \ working for technology startups that spanned multiple industries from local\
-    \ area networks to disk drives, test equipment and health care. Joe entered Franklin\
-    \ &amp; Marshall college on a Classics scholarship and end up a Math major. He\
-    \ also earned an M.A. in Humanities and an M.S. in Statistics from the California\
-    \ State University. You can follow Joe on Twitter as @RevoJoe</p> <p>-- TENTATIVE\
-    \ SCHEDULE --</p> <p>6:00-6:30 - Networking\_<br/>6:30-6:40 - Introductions\_\
-    <br/>6:40 - 7:40 - Talk\_<br/>7:40 - 8:10 - Socializing</p> <p>-- NOTE --</p>\
-    \ <p>This event has limited seating capacity.\_</p> <p>You can reserve\_<a href=\"\
-    https://www.eventbrite.com/e/special-event-scaling-r-using-parallel-external-memory-algorithms-tickets-23311454187\"\
-    >reserve your place on \_the Eventbrite page*</a>.\_</p> <p>*The event is FREE\
-    \ to attend but reserving your place through Eventbrite guarantee's your place.</p>\
-    \ <p>-- LOCATION --</p> <p>WeWork- Dupont Circle\_<br/><i>WeWork\_is a community\
-    \ for creators.\_We\_transform buildings into beautiful, collaborative workspaces\
-    \ and provide infrastructure, services,\_events\_and technology so our members\
-    \ can focus on doing what they love.\"</i>\_</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/7/6/3/600_448358755.jpeg\"\
-    \ /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/9/7/6/5/600_448358757.jpeg\"\
-    \ /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/8/8/5/600_447699045.jpeg\"\
-    \ /></p>"
-  event_url: http://www.meetup.com/stats-prog-dc/events/230276275/
-  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
-    who: dc-hackeRs}
-  headcount: 0
-  id: '230276275'
-  maybe_rsvp_count: 0
-  name: Special Event- Scaling R Using Parallel External Memory Algorithms
-  rsvp_limit: 2
-  status: upcoming
-  time: 1460498400000
-  updated: 1460325179000
-  utc_offset: -14400000
-  venue: {address_1: '1875 Connecticut Avenue Northwest ', city: Washington, country: us,
-    id: 23606088, lat: 38.915545999999999, localized_country_name: USA, lon: -77.045379999999994,
-    name: WeWork - Dupont Circle, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 28
-  yes_rsvp_count: 3
-- created: 1451511328000
-  description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
-    \ is looking forward to hearing about *your* cool hack. Presentation signups are\
-    \ here:</p> <p><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p>\
-    \ <p>The format is informal, engaging, and friendly: presenters have *5* minutes\
-    \ to show off their hack (it goes faster than you\u2019d expect) and then the\
-    \ audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.\
-    \ The hacks that people present are anything from how to train your dog to text\
-    \ you when it needs a walk to [something more serious... like blenders made out\
-    \ of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches,\
-    \ no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting,\
-    \ complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>See you at the meetup!\
-    \ We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks\
-    \ to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>"
-  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/227724676/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
-    who: Hackers}
-  headcount: 0
-  id: '227724676'
-  maybe_rsvp_count: 0
-  name: 'Round 31: Temporal aperture'
-  status: upcoming
-  time: 1460500200000
-  updated: 1451577867000
-  utc_offset: -14400000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 28
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p>**Food will be provided :)**</p> <p><br/>Resources</p>
-    <p>Beginners should check out our <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229974587/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvgbqb
-  maybe_rsvp_count: 0
-  name: Android Lab - Beginner's Night
-  rsvp_limit: 25
-  status: upcoming
-  time: 1460500200000
-  updated: 1460309921000
-  utc_offset: -14400000
-  venue: {address_1: 1015 7th Street NW., city: Washington, country: us, id: 23509615,
-    lat: 38.903422999999997, localized_country_name: USA, lon: -77.021598999999995,
-    name: ECMC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 14
 - created: 1459207945000
   description: "<p>Join DC Legal Hackers at the New America Foundation on Wednesday,\
     \ April 13, 2015 from 6-9pm to #LegalHack the FBI\u2013Apple encryption dispute.\_\
@@ -264,8 +140,11 @@ other:
     \ the court order and since the FBI has unlocked the phone without any new software\
     \ in place. This dispute has everything: drama, intrigue, encryption, due process,\
     \ freedom of speech!\_</p> <p>Join us for a robust discussion over pizza and beer\
-    \ featuring some surprise expert guests.</p> <p>Thank you to New America for hosting!</p>\
-    \ <p><img src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\"\
+    \ featuring some surprise expert guests.</p> <p>Schedule:</p> <p>\u2022\_6-6:45\
+    \ Food, drinks and networking\_\_</p> <p>\u2022\_7:00-7:15 Introductions and Announcements\_\
+    </p> <p>\u2022\_7:15 - 8:45 Discussion</p> <p>\u2022\_8:45 - 9:00 Final Thoughts\
+    \ &amp; clean up!\_</p> <p>Social Media: #LegalHack #FBIvsApple</p> <p>Thank you\
+    \ to New America for hosting!</p> <p><img src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\"\
     \ /></p>"
   duration: 10800000
   event_url: http://www.meetup.com/DCLegalHackers/events/229947703/
@@ -278,14 +157,14 @@ other:
   name: '#LegalHack FBI v. Apple'
   status: upcoming
   time: 1460584800000
-  updated: 1459968249000
+  updated: 1460512060000
   utc_offset: -14400000
   venue: {address_1: '740 15th St NW #900', city: Washington, country: us, id: 24453919,
     lat: 38.899749999999997, localized_country_name: USA, lon: -77.033839999999998,
     name: New America Foundation, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 62
 - created: 1459398068000
   description: "<p>Join\_<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\_\
     and members of the DC\_business &amp; tech\_communities as we celebrate Powerful\
@@ -391,7 +270,7 @@ other:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 12
 - created: 1417881835000
   description: "<p>Details are coming. \_Until then, check out the <a href=\"https://pypi.python.org/pypi/luigi\"\
     >Luigi</a> library.</p>"
@@ -464,7 +343,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 6
   yes_rsvp_count: 150
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -508,7 +387,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1459089487000
   description: "<p>This meetup that will examine how data and data science can help\
     \ tackle the global pandemic of sexual assault and rape, featuring multiple speakers\
@@ -598,7 +477,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 63
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -762,7 +641,7 @@ other:
     name: RepEquity Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -833,7 +712,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -978,7 +857,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 99
 - created: 1460425577000
   description: "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"\
     http://www.meetup.com/DC-NLP/\">DCNLP</a>.\_</p> <p><br/>6:30 - 7:00 Food, drinks\
@@ -1015,7 +894,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 119
+  yes_rsvp_count: 124
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -1174,7 +1053,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1296,7 +1175,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -1638,6 +1517,37 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1459862658000
+  description: "<p>Interested in transitioning into a career in tech? Not sure what\
+    \ options are available to you? Worried about whether you can succeed in a new\
+    \ area? Come to an evening of discussions with women who have been there and done\
+    \ that. Hear their personal transition stories and let them answer any questions\
+    \ about career transitions and careers in tech that you have.</p> <p>6:15pm \u2013\
+    \ Arrive and network!</p> <p>6:30pm \u2013 Panel</p> <p>7:00pm \u2013 Breakout\
+    \ into small groups with a panelist</p> <p>7:45 \u2013 Come back together and\
+    \ share insights</p> <p>PBS is located approximately a block from the Crystal\
+    \ City Metro Station (Yellow/Blue), in the back of 2100 Crystal Drive.\_Drinks\
+    \ and snacks will be provided.</p> <p>More details to come!</p>"
+  duration: 6300000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230141997/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '230141997'
+  maybe_rsvp_count: 0
+  name: 'From Hello World to Hello Job: Transitioning to a Career in Tech'
+  rsvp_limit: 55
+  status: upcoming
+  time: 1463696100000
+  updated: 1459881073000
+  utc_offset: -14400000
+  venue: {address_1: '2100 Crystal Drive ', city: Arlington, country: us, id: 24193697,
+    lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
+    repinned: true, state: VA}
+  visibility: public
+  waitlist_count: 26
+  yes_rsvp_count: 55
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
