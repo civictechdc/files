@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 60
         }, 
         {
             "announced": false, 
@@ -123,165 +123,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1459207945000, 
-            "description": "<p>Join DC Legal Hackers at the New America Foundation on Wednesday, April 13, 2015 from 6-9pm to #LegalHack the FBI\u2013Apple encryption dispute.\u00a0</p> <p><br/>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</p> <p>The FBI\u2013Apple encryption dispute has been hailed the \"biggest tech case this year\". The dispute refers to a district court order request filed by the FBI under the All Writs Act to compel Apple to create a new version of their phone's iOS operating system that could disable certain security features prohibiting investigation of a phone linked to the San Bernardino attacks. Apple filed a motion to vacate the court order and since the FBI has unlocked the phone without any new software in place. This dispute has everything: drama, intrigue, encryption, due process, freedom of speech!\u00a0</p> <p>Join us for a robust discussion over pizza and beer featuring some surprise expert guests.</p> <p>Schedule:</p> <p>\u2022\u00a06-6:45 Food, drinks and networking\u00a0\u00a0</p> <p>\u2022\u00a07:00-7:15 Introductions and Announcements\u00a0</p> <p>\u2022\u00a07:15 - 8:45 Discussion</p> <p>\u2022\u00a08:45 - 9:00 Final Thoughts &amp; clean up!\u00a0</p> <p>Social Media: #LegalHack #FBIvsApple</p> <p>Thank you to New America for hosting!</p> <p><img src=\"http://40.media.tumblr.com/143fcb49c50309236b7403bec0f9d780/tumblr_ncb437t0x71rmpcemo2_1280.jpg\" /></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/229947703/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "229947703", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack FBI v. Apple", 
-            "status": "upcoming", 
-            "time": 1460584800000, 
-            "updated": 1460560594000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "740 15th St NW #900", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24453919, 
-                "lat": 38.899749999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.033839999999998, 
-                "name": "New America Foundation", 
-                "repinned": true, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 73
-        }, 
-        {
-            "created": 1459398068000, 
-            "description": "<p>Join\u00a0<a href=\"http://dcfemtech.github.io/index.html\">DCFemTech</a>\u00a0and members of the DC\u00a0business &amp; tech\u00a0communities as we celebrate Powerful Women Programmers and Powerful Women Designers at\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=2225c5244a&amp;e=c5fb492fa7\">The 2016 DCFemTech Awards Reception</a>. (Drinks &amp; appetizers served.)</p> <p>We'll congratulate women who are working in the trenches of tech &amp; design to help their company or organization achieve success, sometimes entirely behind the scenes. (Both men &amp; women encouraged to attend)</p> <p>Official program starts at\u00a06:45pm\u00a0with an address by\u00a0<i>new DC CTO Archana Vemulapalli</i>.\u00a0</p> <p><b>YOU MUST\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=44d0507845&amp;e=c5fb492fa7\">RSVP HERE!</a>\u00a0</b></p> <p>Appetizers &amp; drinks provided thanks to generous sponsors -\u00a0<a href=\"http://github.us8.list-manage1.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=f72519f3ae&amp;e=c5fb492fa7\">Capital One</a>,\u00a0<a href=\"http://github.us8.list-manage2.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=e92956f9a5&amp;e=c5fb492fa7\">Siteworx</a>,\u00a0<a href=\"http://github.us8.list-manage1.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=3144c7e5ab&amp;e=c5fb492fa7\">Wingate Hughes</a>,\u00a0<a href=\"http://github.us8.list-manage1.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=0ae634b2fe&amp;e=c5fb492fa7\">GitHub</a>\u00a0&amp;\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=f5417cd7ca&amp;e=c5fb492fa7\">Social Tables</a>.\u00a0</p> <p>We can't wait to celebrate with you.</p> <p>Questions? Email\u00a0<a href=\"mailto:[masked]\">[masked]</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/230009967/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "230009967", 
-            "maybe_rsvp_count": 0, 
-            "name": "2016 DCFemtech Awards Reception!!", 
-            "rsvp_limit": 1, 
-            "status": "upcoming", 
-            "time": 1460584800000, 
-            "updated": 1459398128000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1325 G Street, NW, 3rd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24266346, 
-                "lat": 38.898567, 
-                "localized_country_name": "USA", 
-                "lon": -77.031006000000005, 
-                "name": "Social Tables", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 4, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>\n\n\n<b>Next week, Python Lab will join 2016 DC Femtech Awards Reception to celebrate Powerful Women Programmers and Powerful Women Designers.</b></p> <p><b>YOU MUST\u00a0<a href=\"http://github.us8.list-manage.com/track/click?u=a4df4a28aa13fa969577b4aac&amp;id=44d0507845&amp;e=c5fb492fa7\">RSVP HERE!</a>\u00a0</b></p> <p><br/>\u00a0<i>Note: If there is a waiting list, please sign up for the waiting list</i></p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228745416/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Near Metro Center Station", 
-            "id": "bcxvllyvgbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab - 2016 DCFemTech Awards Reception", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1460584800000, 
-            "updated": 1459985380000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1325 G Street, NW, 3rd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24266346, 
-                "lat": 38.898567, 
-                "localized_country_name": "USA", 
-                "lon": -77.031006000000005, 
-                "name": "Social Tables", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
-            "created": 1457885761000, 
-            "description": "<p><b>DC FemTech Awards Reception</b></p> <p><br/>Next week we will join 2016 DC FemTech Awards Reception to celebrate Powerful Women Programmers and Powerful Women Designers.</p> <p>YOU MUST\u00a0<a href=\"https://nvite.com/dcft16/ea56\">RSVP HERE</a>!\u00a0\u00a0</p> <p>\u00a0<i>Note: If there is a waiting list, please sign up for the waiting list</i></p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229556377/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "229556377", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: 2016 DCFemTech Awards Reception", 
-            "status": "upcoming", 
-            "time": 1460586600000, 
-            "updated": 1460133668000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1325 G Street, NW, 3rd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24266346, 
-                "lat": 38.898567, 
-                "localized_country_name": "USA", 
-                "lon": -77.031006000000005, 
-                "name": "Social Tables", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
-        {
             "created": 1459807879000, 
             "description": "<p>Join us for the inaugural event at\u00a0Google Reston office\u00a0with Google Cloud Team and learn about\u00a0Overview of Google BigQuery Architecture. We will also have Jim Bartus from Fastly speaking about the next generation CDN (Content Delivery Network) integrating with Google Cloud Platform.</p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p> <p>Date: Apr 14,[masked]:00 PM</p> <p>Location: Google Reston,\u00a01875 Explorer St. Suite 1000. Reston, VA 20190</p> <p>Agenda:\u00a0</p> <p>6:00 - 6:45 PM Networking and Pizza!</p> <p>6:45 - 7:30 Google BigQuery Architecture - Al Marselia - Google</p> <p>7:30 - 8:00\u00a0Accelerating Site Performance with Cloud Storage, Analytics and CDN - Jim Bartus, <a href=\"https://www.fastly.com/\">Fastly</a></p> <p>8:00 - 8:30 Post Event Networking\u00a0</p> <p><b>Speakers:</b></p> <p><b>Al Marsella, Senior Solution Engineer, Google<br/></b></p> <p><a href=\"https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3\" class=\"linkified\">https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3</a></p> <p><br/>Al Marsella\u00a0is a Senior Solutions Engineer at Google with Google\u2019s Cloud Platform team. Possessing over 20 years of experience in the Enterprise deploying and managing solutions across multiple industry sectors, Mr. Marsella brings a wealth of knowledge to Google\u2019s Cloud Platform customers and focuses on Big Data, Information Governance, Content Management, and the applications and the software that power these practices. Al is currently based in the northeast US and is a trusted advisor for Google\u2019s East Coast based Cloud Platform customers.</p> <p><b>Jim Bartus</b>,\u00a0<b>Senior Systems Engineer,\u00a0Fastly Team</b></p> <p><a href=\"https://lh5.googleusercontent.com/nz0RD49z_okxv1f6Fm6raX3zKPbSwTluofbcD6Olm1maXgA4B9HpMCa47wr8n8DwrggxmsV2LgkdqFZLaGoxUZN1Zk9F_Aup6WFGZHaZCcAIeoninyw03EPmhuiM-071ZwVgha0z\" class=\"linkified\">https://lh5.googleusercontent.com/nz0RD49z_okxv1f6Fm6raX3zKPbSwTluofbcD6Olm1maXgA4B9HpMCa47wr8n8DwrggxmsV2LgkdqFZLaGoxUZN1Zk9F_Aup6WFGZHaZCcAIeoninyw03EPmhuiM-071ZwVgha0z</a></p> <p><br/>Jim Bartus is a Senior Systems Engineer at <a href=\"http://fastly.com/\">Fastly</a>. \u00a0He has over 12 years of experience in Web and Systems Administration in the media industry with Sling Media, Huffington Post and Gawker before coming to Fastly last October. \u00a0He is based in Fastly\u2019s New York City office and supports customers up and down the East Coast.</p> <p><br/>Sponsors:\u00a0<a href=\"http://cloud.google.com/\">Google Cloud Platform</a>\u00a0, <a href=\"https://www.fastly.com/\">Fastly</a>\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/5/8/8/7/600_448582663.jpeg\" /></p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p>", 
             "duration": 7200000, 
@@ -319,7 +160,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 150
         }, 
         {
@@ -348,7 +189,48 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
+        }, 
+        {
+            "created": 1460601803000, 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems -\u00a0</p> <p><b><a href=\"https://www.hackerrank.com/challenges/from-paragraphs-to-sentences\"><a href=\"https://www.hackerrank.com/challenges/from-paragraphs-to-sentences\" class=\"linkified\">https://www.hackerrank.com/challenges/from-paragraphs-to-sentences</a></a></b></p> <p><br/><b><a href=\"https://www.hackerrank.com/challenges/the-trigram\"><a href=\"https://www.hackerrank.com/challenges/the-trigram\" class=\"linkified\">https://www.hackerrank.com/challenges/the-trigram</a></a></b></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230362575/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Call (703) 981 - 4542 if the door is locked outside.", 
+            "id": "230362575", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1461018600000, 
+            "updated": 1460601803000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459089487000, 
@@ -386,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1459265642000, 
@@ -414,7 +296,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1460494467000, 
@@ -453,7 +335,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1457889032000, 
@@ -733,7 +615,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1460425577000, 
@@ -773,11 +655,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 134
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1458758791000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show her\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will share\u00a0Fehr and Peers'\u00a0work on CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0David Erickson will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show her\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will share\u00a0Fehr and Peers'\u00a0work on CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0David Erickson will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
             "group": {
                 "created": 1384372275000, 
@@ -796,7 +678,7 @@ calendar({
             "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1461880800000, 
-            "updated": 1459792905000, 
+            "updated": 1460611173000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -812,7 +694,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1460057871000, 
@@ -1106,7 +988,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1451511413000, 
@@ -1144,7 +1026,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1446220149000, 
@@ -1199,7 +1081,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1457965726000, 
@@ -1227,7 +1109,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459265642000, 
@@ -1324,6 +1206,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 26, 
             "yes_rsvp_count": 55
+        }, 
+        {
+            "created": 1457036183000, 
+            "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365817/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "wqrfrlyvhbfc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1464042600000, 
+            "updated": 1460389963000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
