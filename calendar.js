@@ -123,47 +123,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1459807879000, 
-            "description": "<p>Join us for the inaugural event at\u00a0Google Reston office\u00a0with Google Cloud Team and learn about\u00a0Overview of Google BigQuery Architecture. We will also have Jim Bartus from Fastly speaking about the next generation CDN (Content Delivery Network) integrating with Google Cloud Platform.</p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p> <p>Date: Apr 14,[masked]:00 PM</p> <p>Location: Google Reston,\u00a01875 Explorer St. Suite 1000. Reston, VA 20190</p> <p>Agenda:\u00a0</p> <p>6:00 - 6:45 PM Networking and Pizza!</p> <p>6:45 - 7:30 Google BigQuery Architecture - Al Marselia - Google</p> <p>7:30 - 8:00\u00a0Accelerating Site Performance with Cloud Storage, Analytics and CDN - Jim Bartus, <a href=\"https://www.fastly.com/\">Fastly</a></p> <p>8:00 - 8:30 Post Event Networking\u00a0</p> <p><b>Speakers:</b></p> <p><b>Al Marsella, Senior Solution Engineer, Google<br/></b></p> <p><a href=\"https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3\" class=\"linkified\">https://lh6.googleusercontent.com/s8y9q6JENKqsnNCViTpHvFrOYCJoqQYr4wbg6mFQcDALpR3Zqjucou4nycpi9DUI5708xPSLbH7o-jBcvG1GtSzozauruy8OvfpEFAOksVkzAXf8UF44xOwUN4p0cU1Ms8wbfDL3</a></p> <p><br/>Al Marsella\u00a0is a Senior Solutions Engineer at Google with Google\u2019s Cloud Platform team. Possessing over 20 years of experience in the Enterprise deploying and managing solutions across multiple industry sectors, Mr. Marsella brings a wealth of knowledge to Google\u2019s Cloud Platform customers and focuses on Big Data, Information Governance, Content Management, and the applications and the software that power these practices. Al is currently based in the northeast US and is a trusted advisor for Google\u2019s East Coast based Cloud Platform customers.</p> <p><b>Jim Bartus</b>,\u00a0<b>Senior Systems Engineer,\u00a0Fastly Team</b></p> <p><a href=\"https://lh5.googleusercontent.com/nz0RD49z_okxv1f6Fm6raX3zKPbSwTluofbcD6Olm1maXgA4B9HpMCa47wr8n8DwrggxmsV2LgkdqFZLaGoxUZN1Zk9F_Aup6WFGZHaZCcAIeoninyw03EPmhuiM-071ZwVgha0z\" class=\"linkified\">https://lh5.googleusercontent.com/nz0RD49z_okxv1f6Fm6raX3zKPbSwTluofbcD6Olm1maXgA4B9HpMCa47wr8n8DwrggxmsV2LgkdqFZLaGoxUZN1Zk9F_Aup6WFGZHaZCcAIeoninyw03EPmhuiM-071ZwVgha0z</a></p> <p><br/>Jim Bartus is a Senior Systems Engineer at <a href=\"http://fastly.com/\">Fastly</a>. \u00a0He has over 12 years of experience in Web and Systems Administration in the media industry with Sling Media, Huffington Post and Gawker before coming to Fastly last October. \u00a0He is based in Fastly\u2019s New York City office and supports customers up and down the East Coast.</p> <p><br/>Sponsors:\u00a0<a href=\"http://cloud.google.com/\">Google Cloud Platform</a>\u00a0, <a href=\"https://www.fastly.com/\">Fastly</a>\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/5/8/8/7/600_448582663.jpeg\" /></p> <p>Please make sure to Fill the First and Last Name to gain access to the building.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/230128252/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "GCP, Google Cloud, BigQuery, Big Data, Analytics, Architecture, PaaS, Database, SQL", 
-            "id": "230128252", 
-            "maybe_rsvp_count": 0, 
-            "name": "Overview of Google BigQuery Architecture &  Fastly + GCP", 
-            "rsvp_limit": 150, 
-            "status": "upcoming", 
-            "time": 1460673000000, 
-            "updated": 1459892993000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1875 Explorer St", 
-                "city": "Reston", 
-                "country": "us", 
-                "id": 24459459, 
-                "lat": 38.958297999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.360236999999998, 
-                "name": "Google Reston", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 160
-        }, 
-        {
             "created": 1457965726000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 612000000, 
@@ -189,7 +148,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1460601803000, 
@@ -268,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1459265642000, 
@@ -296,7 +255,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1460494467000, 
@@ -374,7 +333,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446220217000, 
@@ -615,7 +574,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1460425577000, 
@@ -655,7 +614,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 147
+            "yes_rsvp_count": 148
         }, 
         {
             "created": 1458758791000, 
@@ -733,7 +692,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1457035701000, 
@@ -773,7 +732,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1459265642000, 
@@ -856,7 +815,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
