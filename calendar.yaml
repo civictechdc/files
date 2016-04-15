@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - announced: false
   created: 1459986472000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -200,7 +200,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1459089487000
   description: "<p>This meetup that will examine how data and data science can help\
     \ tackle the global pandemic of sexual assault and rape, featuring multiple speakers\
@@ -290,7 +290,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 81
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -320,7 +320,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1460494467000
   description: "<p>The map is wrong! All maps are wrong! If you've seen that <a href=\"\
     https://www.youtube.com/watch?v=vVX-PrBRtTY\">West Wing clip</a> calling for schools\
@@ -352,7 +352,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 40
 - created: 1457889032000
   description: "<p><i>Threespot will be providing pizza and drinks in addition to\
     \ the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework\
@@ -702,7 +702,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 111
 - created: 1460425577000
   description: "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"\
     http://www.meetup.com/DC-NLP/\">DCNLP</a>.\_</p> <p><br/>6:30 - 7:00 Food, drinks\
@@ -739,7 +739,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 148
+  yes_rsvp_count: 152
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -799,7 +799,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1460057871000
   description: "<p>Many of you have indicated interest in seeing a Women in Tech Talk\
     \ and so we've decided to give it a go!\_We'll talk to three successful women\
@@ -1069,7 +1069,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
