@@ -1093,9 +1093,9 @@
   size: 1259
   updated_at: '2015-11-23T16:21:21Z'
   watchers: 2
-- activity: [0, 15, 36, 20, 20, 35, 33, 0, 1, 26, 3, 13, 21, 7, 12, 3, 0, 7, 6, 0,
+- activity: [0, 15, 40, 28, 8, 35, 33, 1, 0, 27, 2, 21, 14, 6, 15, 0, 3, 4, 6, 0,
     9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14,
-    120, 4, 3, 0, 0, 0, 0]
+    122, 2, 3, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1444,9 +1444,9 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 397,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 405,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 73,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 74,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 19,
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
@@ -1480,20 +1480,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 83471]
-  - [HTML, 56494]
+  - [Ruby, 83692]
+  - [HTML, 57057]
   - [CSS, 25415]
   - [CoffeeScript, 1265]
   - [JavaScript, 693]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 64
+  open_issues: 60
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-04-13T23:51:10Z'
+  pushed_at: '2016-04-16T05:02:47Z'
   short_name: dcaf_case_management
-  size: 6832
+  size: 6835
   updated_at: '2016-03-29T01:03:36Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1643,7 +1643,7 @@
   size: 560
   updated_at: '2016-02-01T14:32:55Z'
   watchers: 0
-- activity: [35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
