@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "announced": false, 
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "announced": false, 
@@ -189,11 +189,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1459089487000, 
-            "description": "<p>This meetup that will examine how data and data science can help tackle the global pandemic of sexual assault and rape, featuring multiple speakers from the field.</p> <p><b>Schedule</b></p> <p><i>We will be changing up the format of our event. Please note that we will be starting earlier than in the past.</i></p> <p>6:00 PM - Doors open</p> <p>6:15 PM - Introductions</p> <p>6:25 PM - First Speaker</p> <p>6:50 PM - Intermission and Food</p> <p>7:10 PM - Second Speaker</p> <p>\n\n\n<b>Jessica Ladd</b></p> <p>Jess is the Founder &amp; CEO of Sexual Health Innovations (SHI), a nonprofit dedicated to creating tech to advance sexual health and wellbeing in the United States. SHI's main initiative is Callisto, an online trauma-informed sexual assault reporting system.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/3/7/4/600_448273172.jpeg\" /></p> <p>\n\n\nJess has been honored as a TED Fellow, a Fearless Changemaker by the Case Foundation, an Emerging Innovator by Ashoka and American Express, and as the Civic Hacker of the Year by Baltimore Innovation Week. Before founding Sexual Health Innovations, Jess worked in the White House Office of National AIDS Policy, as a Public Policy Associate at The AIDS Institute, and as a sexual health educator and researcher for a variety of organizations. Jess also founded The Social Innovation Lab in Baltimore and a chapter of FemSex at Pomona College. Jess received her Masters in Public Health at Johns Hopkins and her BA in Public Policy/Human Sexuality at Pomona College. She left a PhD program in infectious disease epidemiology at Johns Hopkins in order to pursue work at Sexual Health Innovations full-time.</p> <p>\n\n\n<b>NATHAN W. GALBREATH, PH.D., M.F.S.</b></p> <p>Dr. Nate Galbreath is the Senior Executive Advisor for the Department of Defense Sexual Assault Prevention and Response Office (SAPRO).\u00a0 In this position, he is the Department\u2019s Highly Qualified Expert for DoD Sexual Assault Prevention and Response (SAPR) programs, training initiatives, and research involving applications of behavioral health, forensic science, criminal investigation, and program evaluation.\u00a0 Dr. Galbreath reports directly to the SAPRO Director, who serves as the single point of authority, accountability, and oversight for the SAPR program in the Department of Defense.</p> <p>Dr. Galbreath was assigned as the first military Deputy Director of the DoD Sexual Assault Prevention and Response Office from 2007 to 2009. He retired from active duty on October 1, 2009 and worked as a licensed clinical psychologist and forensic science specialist in independent practice in the Washington, DC metropolitan area.\u00a0 He was appointed to his current position at SAPRO in May 2012.</p> <p>He entered the Air Force in 1989 after completing a BA in Spanish and International Affairs at the University of Puget Sound, Tacoma, WA. He was assigned to Howard Air Force Base, Panama, from 1989 \u2013 1990 as a Special Agent for the Air Force Office of Special Investigations (AFOSI). He went on to serve a total of 11 years with AFOSI as an agent, a forensic science specialist, and a Detachment Commander (Special Agent in Charge) at Air Force base offices in New Mexico, Colorado, and Utah.</p> <p>Dr. Galbreath was competitively selected by the Air Force to earn a Master of Forensic Science from the George Washington University, Washington, DC (awarded in 1993), and a Ph.D. in Clinical Psychology, from the Uniformed Services University of the Health Sciences (USUHS), Bethesda, MD (awarded in 2004). He has also completed a number of internships and fellowships, including a fellowship in Forensic Medicine at the Office of the Armed Forces Medical Examiner, Armed Forces Institute of Pathology, Washington, DC, and a clinical psychology residency at Malcolm Grow Medical Center, Andrews Air Force Base, MD.</p> <p>Dr. Galbreath\u2019s clinical experience focused on treating and researching sexual dysfunction and sexual disorders. He also evaluated and treated sex offenders with Dr. Fred S. Berlin at the National Institute for the Study, Prevention and Treatment of Sexual Trauma, which is affiliated with the Johns Hopkins Medical School in Baltimore, MD.\u00a0 He also served as the Behavioral Health Clinic director at Minot Air Force Base in North Dakota, where he supervised mental health, family advocacy, and alcohol/drug treatment programs from 2004 to 2007. He is currently a licensed psychologist in the state of Maryland.</p> <p>Dr. Galbreath maintains close ties to the law enforcement community. He has provided training at national and international conferences hosted by the Federal Bureau of Investigation, the Department of Defense, the Department of Justice, the Norwegian Ministry of Defence, and other non-governmental organizations. He serves as a Professorial Lecturer in the Forensic Sciences at the George Washington University, where he created one of the nation\u2019s first graduate level courses on child abuse investigations.\u00a0 He also teaches a graduate course on sexual assault investigations. \u00a0He is an adjunct associate professor in the Department of Medical and Clinical Psychology at USUHS. \u00a0Dr. Galbreath has also published a book chapter on child molesters, co-authored a chapter on sexual disorders and the Internet, and co-authored journal articles relating to sex offender recidivism and online sexual problems.\u00a0 He has been a primary author on the Department of Defense Annual Report on Sexual Assault in the Military since 2007.\u00a0</p>", 
+            "description": "<p>This meetup that will examine how data and data science can help tackle the global pandemic of sexual assault and rape, featuring multiple speakers from the field.</p> <p><br/><b>Schedule</b></p> <p><i>We will be changing up the format of our event. Please note that we will be starting earlier than in the past.</i></p> <p>6:00 PM - Doors open</p> <p>6:15 PM - Introductions</p> <p>6:25 PM - First Speaker</p> <p>6:50 PM - Intermission and Food</p> <p>7:10 PM - Second Speaker</p> <p>\n\n\n<b>Jessica Ladd -\u00a0Founder &amp; CEO of Sexual Health Innovations</b></p> <p>Jess is the Founder &amp; CEO of Sexual Health Innovations (SHI), a nonprofit dedicated to creating tech to advance sexual health and wellbeing in the United States. SHI's main initiative is Callisto, an online trauma-informed sexual assault reporting system.<b><br/></b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/3/7/4/600_448273172.jpeg\" /></p> <p>\n\n\nJess has been honored as a TED Fellow, a Fearless Changemaker by the Case Foundation, an Emerging Innovator by Ashoka and American Express, and as the Civic Hacker of the Year by Baltimore Innovation Week. Before founding Sexual Health Innovations, Jess worked in the White House Office of National AIDS Policy, as a Public Policy Associate at The AIDS Institute, and as a sexual health educator and researcher for a variety of organizations. Jess also founded The Social Innovation Lab in Baltimore and a chapter of FemSex at Pomona College. Jess received her Masters in Public Health at Johns Hopkins and her BA in Public Policy/Human Sexuality at Pomona College. She left a PhD program in infectious disease epidemiology at Johns Hopkins in order to pursue work at Sexual Health Innovations full-time.</p> <p>\n\n\n<b>Amanda Nguyen -\u00a0President and Founder, Rise</b></p> <p>Amanda is the president and founder of Rise, a millennial driven national nonprofit working with multiple state legislatures and the U.S. Congress to implement a Sexual Assault Survivor Bill of Rights. In her capacity for Rise, she has drafted and helped introduce legislation in multiple Statehouses and\u00a0the United States Congress.\u00a0</p> <p>Amanda\u2019s start in public service began at NASA where she worked on the last space shuttle launch, public-private partnerships and the Asteroid Redirect Grand Challenge Mission. She has also worked at the White House in the Office of Public Engagement and the Chief of Staff\u2019s office, at Morgan Stanley in public finance investment banking, and at the Harvard-Smithsonian Astrophysics Center analyzing the Kepler exoplanet mission. Amanda graduated from Harvard University. During college, Amanda created the first student-written course in Harvard's history and co-founded Wema Children, an orphanage in Kenya.\u00a0</p> <p>When she is not fighting for survivor rights, Amanda is also the Deputy White House Liaison at the Department of State and a 2016 TED fellow. She is 24 years old. \u00a0</p> <p>\n\n\n\n<b>NATHAN W. GALBREATH, PH.D., M.F.S.</b></p> <p>Dr. Nate Galbreath is the Senior Executive Advisor for the Department of Defense Sexual Assault Prevention and Response Office (SAPRO).\u00a0 In this position, he is the Department\u2019s Highly Qualified Expert for DoD Sexual Assault Prevention and Response (SAPR) programs, training initiatives, and research involving applications of behavioral health, forensic science, criminal investigation, and program evaluation.\u00a0 Dr. Galbreath reports directly to the SAPRO Director, who serves as the single point of authority, accountability, and oversight for the SAPR program in the Department of Defense.</p> <p>Dr. Galbreath was assigned as the first military Deputy Director of the DoD Sexual Assault Prevention and Response Office from 2007 to 2009. He retired from active duty on October 1, 2009 and worked as a licensed clinical psychologist and forensic science specialist in independent practice in the Washington, DC metropolitan area.\u00a0 He was appointed to his current position at SAPRO in May 2012.</p> <p>He entered the Air Force in 1989 after completing a BA in Spanish and International Affairs at the University of Puget Sound, Tacoma, WA. He was assigned to Howard Air Force Base, Panama, from 1989 \u2013 1990 as a Special Agent for the Air Force Office of Special Investigations (AFOSI). He went on to serve a total of 11 years with AFOSI as an agent, a forensic science specialist, and a Detachment Commander (Special Agent in Charge) at Air Force base offices in New Mexico, Colorado, and Utah.</p> <p>Dr. Galbreath was competitively selected by the Air Force to earn a Master of Forensic Science from the George Washington University, Washington, DC (awarded in 1993), and a Ph.D. in Clinical Psychology, from the Uniformed Services University of the Health Sciences (USUHS), Bethesda, MD (awarded in 2004). He has also completed a number of internships and fellowships, including a fellowship in Forensic Medicine at the Office of the Armed Forces Medical Examiner, Armed Forces Institute of Pathology, Washington, DC, and a clinical psychology residency at Malcolm Grow Medical Center, Andrews Air Force Base, MD.</p> <p>Dr. Galbreath\u2019s clinical experience focused on treating and researching sexual dysfunction and sexual disorders. He also evaluated and treated sex offenders with Dr. Fred S. Berlin at the National Institute for the Study, Prevention and Treatment of Sexual Trauma, which is affiliated with the Johns Hopkins Medical School in Baltimore, MD.\u00a0 He also served as the Behavioral Health Clinic director at Minot Air Force Base in North Dakota, where he supervised mental health, family advocacy, and alcohol/drug treatment programs from 2004 to 2007. He is currently a licensed psychologist in the state of Maryland.</p> <p>Dr. Galbreath maintains close ties to the law enforcement community. He has provided training at national and international conferences hosted by the Federal Bureau of Investigation, the Department of Defense, the Department of Justice, the Norwegian Ministry of Defence, and other non-governmental organizations. He serves as a Professorial Lecturer in the Forensic Sciences at the George Washington University, where he created one of the nation\u2019s first graduate level courses on child abuse investigations.\u00a0 He also teaches a graduate course on sexual assault investigations. \u00a0He is an adjunct associate professor in the Department of Medical and Clinical Psychology at USUHS. \u00a0Dr. Galbreath has also published a book chapter on child molesters, co-authored a chapter on sexual disorders and the Internet, and co-authored journal articles relating to sex offender recidivism and online sexual problems.\u00a0 He has been a primary author on the Department of Defense Annual Report on Sexual Assault in the Military since 2007.\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Business-DC/events/229912203/", 
             "group": {
@@ -212,7 +212,7 @@ calendar({
             "name": "Data for Good - How Data Escrow and Science Can Help End Rape", 
             "status": "upcoming", 
             "time": 1461103200000, 
-            "updated": 1460556005000, 
+            "updated": 1460743664000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -227,11 +227,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in meeting other Java/Android developers and tech enthusiasts? This week, we are going to crash the DC Tech meetup (<a href=\"http://www.meetup.com/DC-Tech-Meetup/events/226837589/\" class=\"linkified\">http://www.meetup.com/DC-Tech-Meetup/events/226837589/</a>) together. No computers needed!</p> <p>\n\n\nAgenda:</p> <p>6:30-6:50 Meet and greet (stay tuned for location)</p> <p>6:50 Head to seating area</p> <p>7:00-8:30ish DC Tech Demos/Presentations</p> <p>8:30 Stick around for more networking/discussion!</p> <p>\n\nResources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230270324/", 
             "group": {
@@ -247,12 +247,25 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvgbzb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Android Lab - Networking Night!", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1461105000000, 
-            "updated": 1459265764000, 
+            "updated": 1460754757000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 679273, 
+                "lat": 38.898738999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.024225999999999, 
+                "name": "MLK Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 11
@@ -294,7 +307,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1457889032000, 
@@ -333,7 +346,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1446220217000, 
@@ -402,7 +415,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459265642000, 
@@ -468,7 +481,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1457709309000, 
@@ -653,7 +666,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1460057871000, 
@@ -787,7 +800,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1446219481000, 
@@ -881,7 +894,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1459265642000, 
