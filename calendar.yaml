@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 74
 - announced: false
   created: 1459986472000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -124,18 +124,18 @@ codefordc:
   yes_rsvp_count: 6
 other:
 - created: 1457965726000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting. There's always at least one mentor or leader present\
-    \ to help you with best practices or to guide you through if you are stuck with\
-    \ a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN,\
-    \ please bring your laptop. Extra computers will not be available at the event.\
-    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
-    \ Agenda Every study group will have the following format:<br/>\u2022 6:30pm -\
-    \ Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 -\
-    \ 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To\
-    \ learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
+  description: "<p>Front End Lab (FEL) is a study group where women can come together\
+    \ and help each other learn and understand web development. We welcome devs of\
+    \ all levels and encourage those with more experience to help out those that are\
+    \ just starting. There's always at least one mentor or leader present to help\
+    \ you with best practices or to guide you through if you are stuck with a nasty\
+    \ problem! Laptops</p> <p>In order to maximize your benefits from FEL, please\
+    \ bring your laptop. Extra computers will not be available at the event. Even\
+    \ if you have never coded before, you will be coding at FEL!</p> <p>Meetup Agenda\
+    \ Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p>\
+    \ <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm -\
+    \ Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn\
+    \ more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
     \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
     \ Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\"\
     \ class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\_\u2022 HTML Study\
@@ -149,7 +149,7 @@ other:
     \ information is provided or drop a comment on the Meetup page. We'll come and\
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
-  duration: 612000000
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/229587247/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -161,7 +161,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1461018600000
-  updated: 1457965726000
+  updated: 1460990511000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -299,14 +299,14 @@ other:
   name: Data for Good - How Data Escrow and Science Can Help End Rape
   status: upcoming
   time: 1461103200000
-  updated: 1460821428000
+  updated: 1461001763000
   utc_offset: -14400000
   venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
     lat: 38.901859000000002, localized_country_name: USA, lon: -77.020995999999997,
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 94
 - created: 1459265642000
   description: '<p>Interested in meeting other Java/Android developers and tech enthusiasts?
     This week, we are going to crash the DC Tech meetup (<a href="http://www.meetup.com/DC-Tech-Meetup/events/226837589/"
@@ -346,7 +346,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1460494467000
   description: "<p>The map is wrong! All maps are wrong! If you've seen that <a href=\"\
     https://www.youtube.com/watch?v=vVX-PrBRtTY\">West Wing clip</a> calling for schools\
@@ -465,7 +465,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -583,7 +583,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -680,7 +680,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 19
 - created: 1458498286000
   description: "<p>For our April meetup we are honored to have the creator of the\
     \ Apache NiFi framework, Joe Witt, come to discuss how Apache NiFi helps support\
@@ -728,7 +728,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 113
 - created: 1460425577000
   description: "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"\
     http://www.meetup.com/DC-NLP/\">DCNLP</a>.\_</p> <p><br/>6:30 - 7:00 Food, drinks\
@@ -765,7 +765,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 161
+  yes_rsvp_count: 164
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -882,20 +882,20 @@ other:
     >First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's\
     \ <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
     >HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
-    >JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group\
-    \ where women can come together and help each other learn and understand web development.\
+    >JavaScript guide</a>.</p> <p><br/>Front End Lab (FEL) is a study group where\
+    \ women can come together and help each other learn and understand web development.\
     \ We welcome devs of all levels and encourage those with more experience to help\
     \ out those that are just starting. There's always at least one mentor or leader\
     \ present to help you with best practices or to guide you through if you are stuck\
     \ with a nasty problem!\_</p> <p><b>Laptop Policy</b></p> <p>In order to maximize\
-    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
-    \ be available at the event. Even if you have never coded before, you will be\
-    \ coding at FEHN!</p> <p><b>Agenda\_</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022\
-    \ 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into\
-    \ HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm\
-    \ - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit\
-    \ <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github\
-    \ repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
+    \ your benefits from FEL, please bring your laptop. Extra computers will not be\
+    \ available at the event. Even if you have never coded before, you will be coding\
+    \ at FEL!</p> <p><b>Agenda\_</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40\
+    \ - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS\
+    \ and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap\
+    \ Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"\
+    https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p>\
+    \ <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
     >First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
     >First Timer's JavaScript Guide</a></p> <p><br/>\u2022\_<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\"\
     >HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\"\
@@ -915,10 +915,10 @@ other:
   headcount: 0
   id: qtfhrlyvhbdb
   maybe_rsvp_count: 0
-  name: Front End Lab - First Timer's Night
+  name: Front End Lab Beginners Night
   status: upcoming
   time: 1462228200000
-  updated: 1457392514000
+  updated: 1460994387000
   utc_offset: -14400000
   venue: {address_1: 641 S St NW, city: Washington, country: us, id: 9483992, lat: 38.914549999999998,
     localized_country_name: USA, lon: -77.021095000000003, name: iStrategyLabs, repinned: false,
@@ -1218,7 +1218,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -1302,7 +1302,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -1460,7 +1460,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 13
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
     \ options are available to you? Worried about whether you can succeed in a new\
