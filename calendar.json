@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "announced": false, 
@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }
     ], 
     "other": [
@@ -148,7 +148,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1460601803000, 
@@ -189,7 +189,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1459089487000, 
@@ -268,7 +268,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1460494467000, 
@@ -307,7 +307,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1457889032000, 
@@ -346,7 +346,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1446220217000, 
@@ -374,7 +374,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1457212385000, 
@@ -415,7 +415,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1459265642000, 
@@ -587,7 +587,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1460425577000, 
@@ -828,7 +828,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
@@ -1067,7 +1067,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1417881835000, 
@@ -1181,6 +1181,32 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1460936672000, 
+            "description": "<p>TBD</p>", 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/230450427/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "230450427", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack Patent Data", 
+            "status": "upcoming", 
+            "time": 1463612400000, 
+            "updated": 1460936672000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1459862658000, 
             "description": "<p>Interested in transitioning into a career in tech? Not sure what options are available to you? Worried about whether you can succeed in a new area? Come to an evening of discussions with women who have been there and done that. Hear their personal transition stories and let them answer any questions about career transitions and careers in tech that you have.</p> <p>6:15pm \u2013 Arrive and network!</p> <p>6:30pm \u2013 Panel</p> <p>7:00pm \u2013 Breakout into small groups with a panelist</p> <p>7:45 \u2013 Come back together and share insights</p> <p>PBS is located approximately a block from the Crystal City Metro Station (Yellow/Blue), in the back of 2100 Crystal Drive.\u00a0Drinks and snacks will be provided.</p> <p>More details to come!</p>", 
             "duration": 6300000, 
@@ -1217,7 +1243,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 28, 
+            "waitlist_count": 31, 
             "yes_rsvp_count": 55
         }, 
         {
