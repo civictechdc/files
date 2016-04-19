@@ -1,46 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "announced": true, 
-            "created": 1459093369000, 
-            "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/229913527/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "229913527", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1461018600000, 
-            "updated": 1459093369000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 73
-        }, 
-        {
             "announced": false, 
             "created": 1459986472000, 
             "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
@@ -78,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "announced": false, 
@@ -118,79 +78,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }
     ], 
     "other": [
-        {
-            "created": 1457965726000, 
-            "description": "<p>Front End Lab (FEL) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEL, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEL!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229587247/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rzpmrlyvgbxb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1461018600000, 
-            "updated": 1460990511000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 29
-        }, 
-        {
-            "created": 1460601803000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems -\u00a0</p> <p><b><a href=\"https://www.hackerrank.com/challenges/from-paragraphs-to-sentences\"><a href=\"https://www.hackerrank.com/challenges/from-paragraphs-to-sentences\" class=\"linkified\">https://www.hackerrank.com/challenges/from-paragraphs-to-sentences</a></a></b></p> <p><br/><b><a href=\"https://www.hackerrank.com/challenges/the-trigram\"><a href=\"https://www.hackerrank.com/challenges/the-trigram\" class=\"linkified\">https://www.hackerrank.com/challenges/the-trigram</a></a></b></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230362575/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Call (703) 981 - 4542 if the door is locked outside.", 
-            "id": "230362575", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1461018600000, 
-            "updated": 1460601803000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1025 Thomas Jefferson Street, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23852906, 
-                "lat": 38.903111000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.059639000000004, 
-                "name": "Palantir Technologies", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 20
-        }, 
         {
             "created": 1459089487000, 
             "description": "<p>This meetup that will examine how data and data science can help tackle the global pandemic of sexual assault and rape, featuring multiple speakers from the field.</p> <p><br/><b>Schedule</b></p> <p><i>We will be changing up the format of our event. Please note that we will be starting earlier than in the past.</i></p> <p>6:00 PM - Doors open</p> <p>6:15 PM - Introductions</p> <p>6:25 PM - First Speaker</p> <p>6:50 PM - Intermission and Food</p> <p>7:05 PM - Second Speaker</p> <p>7:25 PM - Short Break</p> <p>7:30 PM - Third Speaker</p> <p>\n\n\n<b>Jessica Ladd -\u00a0Founder &amp; CEO of Sexual Health Innovations</b></p> <p>Jess is the Founder &amp; CEO of Sexual Health Innovations (SHI), a nonprofit dedicated to creating tech to advance sexual health and wellbeing in the United States. SHI's main initiative is Callisto, an online trauma-informed sexual assault reporting system.<b><br/></b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/3/7/4/600_448273172.jpeg\" /></p> <p>\n\n\nJess has been honored as a TED Fellow, a Fearless Changemaker by the Case Foundation, an Emerging Innovator by Ashoka and American Express, and as the Civic Hacker of the Year by Baltimore Innovation Week. Before founding Sexual Health Innovations, Jess worked in the White House Office of National AIDS Policy, as a Public Policy Associate at The AIDS Institute, and as a sexual health educator and researcher for a variety of organizations. Jess also founded The Social Innovation Lab in Baltimore and a chapter of FemSex at Pomona College. Jess received her Masters in Public Health at Johns Hopkins and her BA in Public Policy/Human Sexuality at Pomona College. She left a PhD program in infectious disease epidemiology at Johns Hopkins in order to pursue work at Sexual Health Innovations full-time.</p> <p>\n\n\n<b>Amanda Nguyen -\u00a0President and Founder, Rise</b></p> <p>Amanda is the president and founder of Rise, a millennial driven national nonprofit working with multiple state legislatures and the U.S. Congress to implement a Sexual Assault Survivor Bill of Rights. In her capacity for Rise, she has drafted and helped introduce legislation in multiple Statehouses and\u00a0the United States Congress.\u00a0</p> <p>Amanda\u2019s start in public service began at NASA where she worked on the last space shuttle launch, public-private partnerships and the Asteroid Redirect Grand Challenge Mission. She has also worked at the White House in the Office of Public Engagement and the Chief of Staff\u2019s office, at Morgan Stanley in public finance investment banking, and at the Harvard-Smithsonian Astrophysics Center analyzing the Kepler exoplanet mission. Amanda graduated from Harvard University. During college, Amanda created the first student-written course in Harvard's history and co-founded Wema Children, an orphanage in Kenya.\u00a0</p> <p>When she is not fighting for survivor rights, Amanda is also the Deputy White House Liaison at the Department of State and a 2016 TED fellow. She is 24 years old. \u00a0</p> <p>\n\n\n\n<b>NATHAN W. GALBREATH, PH.D., M.F.S.</b></p> <p>Dr. Nate Galbreath is the Senior Executive Advisor for the Department of Defense Sexual Assault Prevention and Response Office (SAPRO).\u00a0 In this position, he is the Department\u2019s Highly Qualified Expert for DoD Sexual Assault Prevention and Response (SAPR) programs, training initiatives, and research involving applications of behavioral health, forensic science, criminal investigation, and program evaluation.\u00a0 Dr. Galbreath reports directly to the SAPRO Director, who serves as the single point of authority, accountability, and oversight for the SAPR program in the Department of Defense.</p> <p>Dr. Galbreath was assigned as the first military Deputy Director of the DoD Sexual Assault Prevention and Response Office from 2007 to 2009. He retired from active duty on October 1, 2009 and worked as a licensed clinical psychologist and forensic science specialist in independent practice in the Washington, DC metropolitan area.\u00a0 He was appointed to his current position at SAPRO in May 2012.</p> <p>He entered the Air Force in 1989 after completing a BA in Spanish and International Affairs at the University of Puget Sound, Tacoma, WA. He was assigned to Howard Air Force Base, Panama, from 1989 \u2013 1990 as a Special Agent for the Air Force Office of Special Investigations (AFOSI). He went on to serve a total of 11 years with AFOSI as an agent, a forensic science specialist, and a Detachment Commander (Special Agent in Charge) at Air Force base offices in New Mexico, Colorado, and Utah.</p> <p>Dr. Galbreath was competitively selected by the Air Force to earn a Master of Forensic Science from the George Washington University, Washington, DC (awarded in 1993), and a Ph.D. in Clinical Psychology, from the Uniformed Services University of the Health Sciences (USUHS), Bethesda, MD (awarded in 2004). He has also completed a number of internships and fellowships, including a fellowship in Forensic Medicine at the Office of the Armed Forces Medical Examiner, Armed Forces Institute of Pathology, Washington, DC, and a clinical psychology residency at Malcolm Grow Medical Center, Andrews Air Force Base, MD.</p> <p>Dr. Galbreath\u2019s clinical experience focused on treating and researching sexual dysfunction and sexual disorders. He also evaluated and treated sex offenders with Dr. Fred S. Berlin at the National Institute for the Study, Prevention and Treatment of Sexual Trauma, which is affiliated with the Johns Hopkins Medical School in Baltimore, MD.\u00a0 He also served as the Behavioral Health Clinic director at Minot Air Force Base in North Dakota, where he supervised mental health, family advocacy, and alcohol/drug treatment programs from 2004 to 2007. He is currently a licensed psychologist in the state of Maryland.</p> <p>Dr. Galbreath maintains close ties to the law enforcement community. He has provided training at national and international conferences hosted by the Federal Bureau of Investigation, the Department of Defense, the Department of Justice, the Norwegian Ministry of Defence, and other non-governmental organizations. He serves as a Professorial Lecturer in the Forensic Sciences at the George Washington University, where he created one of the nation\u2019s first graduate level courses on child abuse investigations.\u00a0 He also teaches a graduate course on sexual assault investigations. \u00a0He is an adjunct associate professor in the Department of Medical and Clinical Psychology at USUHS. \u00a0Dr. Galbreath has also published a book chapter on child molesters, co-authored a chapter on sexual disorders and the Internet, and co-authored journal articles relating to sex offender recidivism and online sexual problems.\u00a0 He has been a primary author on the Department of Defense Annual Report on Sexual Assault in the Military since 2007.\u00a0</p>", 
@@ -227,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1459265642000, 
@@ -268,7 +159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1460494467000, 
@@ -291,7 +182,7 @@ calendar({
             "name": "All About Projections \ud83d\uddfa", 
             "status": "upcoming", 
             "time": 1461105000000, 
-            "updated": 1460554006000, 
+            "updated": 1461034173000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -307,7 +198,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1457889032000, 
@@ -346,7 +237,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1446220217000, 
@@ -370,8 +261,20 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1461191400000, 
-            "updated": 1459264410000, 
+            "updated": 1461026502000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Online", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 14
@@ -415,7 +318,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -481,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1457709309000, 
@@ -546,7 +449,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1458498286000, 
@@ -631,7 +534,7 @@ calendar({
         }, 
         {
             "created": 1458758791000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show her\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will share\u00a0Fehr and Peers'\u00a0work on CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/davebenigno\">David Erickson</a> will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you have an app, hack, map, dataviz or other project you'd like to present.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a> will share some new projects.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show her\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022 Stephen Tu will discuss\u00a0Montgomery County's\u00a0Level of Traffic Stress data, and\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will show how Fehr and Peers used the data for CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/davebenigno\">David Erickson</a> will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used Processing to create animation showing traffic to/from\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\">Columbus Circle</a>, the\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\">Lincoln Memorial</a>, and\u00a0<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\">Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates. Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
             "group": {
                 "created": 1384372275000, 
@@ -650,7 +553,7 @@ calendar({
             "rsvp_limit": 125, 
             "status": "upcoming", 
             "time": 1461880800000, 
-            "updated": 1460646567000, 
+            "updated": 1461035928000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -745,7 +648,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
@@ -800,7 +703,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446219481000, 
@@ -1273,6 +1176,62 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbgc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvhbgc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1464129000000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbpc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvhbpc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1464733800000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
