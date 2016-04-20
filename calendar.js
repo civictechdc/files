@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }
     ], 
     "other": [
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1459265642000, 
@@ -160,45 +160,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 15
-        }, 
-        {
-            "created": 1460494467000, 
-            "description": "<p>The map is wrong! All maps are wrong! If you've seen that <a href=\"https://www.youtube.com/watch?v=vVX-PrBRtTY\">West Wing clip</a> calling for schools to use different maps, or stumbled on that <a href=\"https://xkcd.com/977/\">xkcd projection comic</a>, you know that there are different ways to lay our fair earth on a flat map.</p> <p>Projections are a fundamental component of making maps, and perhaps more importantly, a fundamental component of geographic analysis. We will highlight that, yes, indeed they do matter... but not ALL the time, and showcase a number of examples. We will also discuss some of the cryptic lingo around coordinate systems (NAD83, WGS, HARN... EPSG:4326?), some of the rich history behind them, and the concepts behind how they are created.</p> <p>Bring a laptop if you want to follow along with the presentation and play with some tools to explore different projections.\u00a0</p>", 
-            "duration": 3600000, 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/230325794/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "id": "230325794", 
-            "maybe_rsvp_count": 0, 
-            "name": "All About Projections \ud83d\uddfa", 
-            "status": "upcoming", 
-            "time": 1461105000000, 
-            "updated": 1461034173000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "900 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 21261802, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "MLK Library Dream Lab", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 51
         }, 
         {
             "created": 1457889032000, 
@@ -350,7 +311,7 @@ calendar({
         }, 
         {
             "created": 1455651624000, 
-            "description": "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\">Eventbrite</a></b></p> <p><b>OVERVIEW</b></p> <p>Google defines User Experience (UX) as \"the overall experience of a person using a product such as a website...especially in terms of how easy or pleasing it is to use\".</p> <p><br/>- Is your website easy and pleasing to use?\u00a0</p> <p>- Are you visitors able to accomplish tasks with ease and leave with a positive experience?\u00a0</p> <p>- What are your options for improving website UX?\u00a0</p> <p>This event will help answer those questions.</p> <p>We will discuss 3 elements of website UX:</p> <p>\u2022\u00a0What makes for good website user experience, including mobile web</p> <p>\u2022\u00a0How to evaluate your website UX and do basic user research</p> <p>\u2022 What changes you can make to your website to enhance usability and UX</p> <p><b>AGENDA &amp; AUDIENCE</b></p> <p>We begin at 6:30 with wine, beer, soda and light appetizers. Presentation at 7pm.</p> <p><br/>This event is focused on people who manage and build websites, as well as those interested in user experience.</p> <p><b>PRESENTER</b></p> <p><img src=\"https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/2339/thumb_thumb_FazBW2.png\" /></p> <p><b>Faz Besharatian</b>, Instructor, General Assembly</p> <p>Faz has been teaching with General Assembly since the first User Experience course in DC. He started his migration away from print design in 1996 and has been building digital experiences ever since. Throughout his design career Faz has worked for AARP, AOL, US Airways, USWeb/CKS, and others. Today he is an independent design consultant focused on product design for companies big and small.</p> <p><br/>If you are interested in sponsorship, contact [masked].</p>", 
+            "description": "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\">Eventbrite</a></b></p> <p><b>OVERVIEW</b></p> <p>Google defines User Experience (UX) as \"the overall experience of a person using a product such as a website...especially in terms of how easy or pleasing it is to use\".</p> <p><br/>- Is your website easy and pleasing to use?\u00a0</p> <p>- Are you visitors able to accomplish tasks with ease and leave with a positive experience?\u00a0</p> <p>- What are your options for improving website UX?\u00a0</p> <p>This event will help answer those questions.</p> <p>We will discuss 3 elements of website UX:</p> <p>\u2022\u00a0What makes for good website user experience, including mobile web</p> <p>\u2022\u00a0How to evaluate your website UX and do basic user research</p> <p>\u2022 What changes you can make to your website to enhance usability and UX</p> <p><b>AGENDA &amp; AUDIENCE</b></p> <p>We begin at 6:30 with wine, beer, soda and light appetizers. Presentation at 7pm.</p> <p><br/>This event is focused on people who manage and build websites, as well as those interested in user experience.</p> <p><b>PRESENTER</b></p> <p><img src=\"https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/2339/thumb_thumb_FazBW2.png\" /></p> <p><b>Faz Besharatian</b>, Instructor, General Assembly</p> <p>Faz has been teaching with General Assembly since the first User Experience course in DC. He started his migration away from print design in 1996 and has been building digital experiences ever since. Throughout his design career Faz has worked for AARP, AOL, US Airways, USWeb/CKS, and others. Today he is an independent design consultant focused on product design for companies big and small.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/228899649/", 
             "group": {
                 "created": 1189804715000, 
@@ -368,7 +329,7 @@ calendar({
             "name": "Website User Experience", 
             "status": "upcoming", 
             "time": 1461711600000, 
-            "updated": 1460033922000, 
+            "updated": 1461091262000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 Vermont Avenue NW, Suite 500", 
@@ -384,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1457709309000, 
@@ -654,7 +615,7 @@ calendar({
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbfb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230502283/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -703,7 +664,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1446219481000, 
@@ -863,7 +824,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1451511413000, 
@@ -1024,7 +985,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1457965726000, 
