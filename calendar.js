@@ -83,85 +83,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1459089487000, 
-            "description": "<p>This meetup that will examine how data and data science can help tackle the global pandemic of sexual assault and rape, featuring multiple speakers from the field.</p> <p><br/><b>Schedule</b></p> <p><i>We will be changing up the format of our event. Please note that we will be starting earlier than in the past.</i></p> <p>6:00 PM - Doors open</p> <p>6:15 PM - Introductions</p> <p>6:25 PM - First Speaker</p> <p>6:50 PM - Intermission and Food</p> <p>7:05 PM - Second Speaker</p> <p>7:25 PM - Short Break</p> <p>7:30 PM - Third Speaker</p> <p>\n\n\n<b>Jessica Ladd -\u00a0Founder &amp; CEO of Sexual Health Innovations</b></p> <p>Jess is the Founder &amp; CEO of Sexual Health Innovations (SHI), a nonprofit dedicated to creating tech to advance sexual health and wellbeing in the United States. SHI's main initiative is Callisto, an online trauma-informed sexual assault reporting system.<b><br/></b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/3/7/4/600_448273172.jpeg\" /></p> <p>\n\n\nJess has been honored as a TED Fellow, a Fearless Changemaker by the Case Foundation, an Emerging Innovator by Ashoka and American Express, and as the Civic Hacker of the Year by Baltimore Innovation Week. Before founding Sexual Health Innovations, Jess worked in the White House Office of National AIDS Policy, as a Public Policy Associate at The AIDS Institute, and as a sexual health educator and researcher for a variety of organizations. Jess also founded The Social Innovation Lab in Baltimore and a chapter of FemSex at Pomona College. Jess received her Masters in Public Health at Johns Hopkins and her BA in Public Policy/Human Sexuality at Pomona College. She left a PhD program in infectious disease epidemiology at Johns Hopkins in order to pursue work at Sexual Health Innovations full-time.</p> <p>\n\n\n<b>Amanda Nguyen -\u00a0President and Founder, Rise</b></p> <p>Amanda is the president and founder of Rise, a millennial driven national nonprofit working with multiple state legislatures and the U.S. Congress to implement a Sexual Assault Survivor Bill of Rights. In her capacity for Rise, she has drafted and helped introduce legislation in multiple Statehouses and\u00a0the United States Congress.\u00a0</p> <p>Amanda\u2019s start in public service began at NASA where she worked on the last space shuttle launch, public-private partnerships and the Asteroid Redirect Grand Challenge Mission. She has also worked at the White House in the Office of Public Engagement and the Chief of Staff\u2019s office, at Morgan Stanley in public finance investment banking, and at the Harvard-Smithsonian Astrophysics Center analyzing the Kepler exoplanet mission. Amanda graduated from Harvard University. During college, Amanda created the first student-written course in Harvard's history and co-founded Wema Children, an orphanage in Kenya.\u00a0</p> <p>When she is not fighting for survivor rights, Amanda is also the Deputy White House Liaison at the Department of State and a 2016 TED fellow. She is 24 years old. \u00a0</p> <p>\n\n\n\n<b>NATHAN W. GALBREATH, PH.D., M.F.S.</b></p> <p>Dr. Nate Galbreath is the Senior Executive Advisor for the Department of Defense Sexual Assault Prevention and Response Office (SAPRO).\u00a0 In this position, he is the Department\u2019s Highly Qualified Expert for DoD Sexual Assault Prevention and Response (SAPR) programs, training initiatives, and research involving applications of behavioral health, forensic science, criminal investigation, and program evaluation.\u00a0 Dr. Galbreath reports directly to the SAPRO Director, who serves as the single point of authority, accountability, and oversight for the SAPR program in the Department of Defense.</p> <p>Dr. Galbreath was assigned as the first military Deputy Director of the DoD Sexual Assault Prevention and Response Office from 2007 to 2009. He retired from active duty on October 1, 2009 and worked as a licensed clinical psychologist and forensic science specialist in independent practice in the Washington, DC metropolitan area.\u00a0 He was appointed to his current position at SAPRO in May 2012.</p> <p>He entered the Air Force in 1989 after completing a BA in Spanish and International Affairs at the University of Puget Sound, Tacoma, WA. He was assigned to Howard Air Force Base, Panama, from 1989 \u2013 1990 as a Special Agent for the Air Force Office of Special Investigations (AFOSI). He went on to serve a total of 11 years with AFOSI as an agent, a forensic science specialist, and a Detachment Commander (Special Agent in Charge) at Air Force base offices in New Mexico, Colorado, and Utah.</p> <p>Dr. Galbreath was competitively selected by the Air Force to earn a Master of Forensic Science from the George Washington University, Washington, DC (awarded in 1993), and a Ph.D. in Clinical Psychology, from the Uniformed Services University of the Health Sciences (USUHS), Bethesda, MD (awarded in 2004). He has also completed a number of internships and fellowships, including a fellowship in Forensic Medicine at the Office of the Armed Forces Medical Examiner, Armed Forces Institute of Pathology, Washington, DC, and a clinical psychology residency at Malcolm Grow Medical Center, Andrews Air Force Base, MD.</p> <p>Dr. Galbreath\u2019s clinical experience focused on treating and researching sexual dysfunction and sexual disorders. He also evaluated and treated sex offenders with Dr. Fred S. Berlin at the National Institute for the Study, Prevention and Treatment of Sexual Trauma, which is affiliated with the Johns Hopkins Medical School in Baltimore, MD.\u00a0 He also served as the Behavioral Health Clinic director at Minot Air Force Base in North Dakota, where he supervised mental health, family advocacy, and alcohol/drug treatment programs from 2004 to 2007. He is currently a licensed psychologist in the state of Maryland.</p> <p>Dr. Galbreath maintains close ties to the law enforcement community. He has provided training at national and international conferences hosted by the Federal Bureau of Investigation, the Department of Defense, the Department of Justice, the Norwegian Ministry of Defence, and other non-governmental organizations. He serves as a Professorial Lecturer in the Forensic Sciences at the George Washington University, where he created one of the nation\u2019s first graduate level courses on child abuse investigations.\u00a0 He also teaches a graduate course on sexual assault investigations. \u00a0He is an adjunct associate professor in the Department of Medical and Clinical Psychology at USUHS. \u00a0Dr. Galbreath has also published a book chapter on child molesters, co-authored a chapter on sexual disorders and the Internet, and co-authored journal articles relating to sex offender recidivism and online sexual problems.\u00a0 He has been a primary author on the Department of Defense Annual Report on Sexual Assault in the Military since 2007.\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Business-DC/events/229912203/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Business-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "229912203", 
-            "maybe_rsvp_count": 0, 
-            "name": "Data for Good - How Data Escrow and Science Can Help End Rape", 
-            "status": "upcoming", 
-            "time": 1461103200000, 
-            "updated": 1461071785000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "640 Massachusetts Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 20556562, 
-                "lat": 38.901859000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.020995999999997, 
-                "name": "Georgetown University School of Continuing Studies", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 99
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in meeting other Java/Android developers and tech enthusiasts? This week, we are going to crash the DC Tech meetup (<a href=\"http://www.meetup.com/DC-Tech-Meetup/events/226837589/\" class=\"linkified\">http://www.meetup.com/DC-Tech-Meetup/events/226837589/</a>) together. No computers needed!</p> <p>\n\n\nAgenda:</p> <p>6:30-6:50 Meet and greet, near Digital Commons entrance</p> <p><br/>6:50 Head to seating area in Main Hall</p> <p><br/>7:00-8:30ish DC Tech Demos/Presentations</p> <p>8:30 Stick around for more networking/discussion!</p> <p>\n\nResources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230270324/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvgbzb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab - Networking Night!", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1461105000000, 
-            "updated": 1461084869000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 679273, 
-                "lat": 38.898738999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.024225999999999, 
-                "name": "MLK Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 15
-        }, 
-        {
             "created": 1457889032000, 
             "description": "<p><i>Threespot will be providing pizza and drinks in addition to the venue! Thank you, Threespot!</i></p> <p>***</p> <p>Rails is a back-end framework that combines the\u00a0Ruby\u00a0programming language with front-end languages such as HTML and CSS to create a web application that runs on a web server.</p> <p>Ruby is a big language, and the subset needed to be productive as a Rails developer is relatively small. In this meetup, we\u2019ll start to cover only that subset and will look at how blocks and iterators work.</p> <p>***</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - \"Ruby on Rails: Focus on Fundamentals\"</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?\u00a0</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;&lt;/a&gt;</p>", 
             "duration": 7200000, 
@@ -198,11 +119,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p><b>We will be meeting online via Google Hangouts as this link will be provided before the meetup.</b></p> <p><b>Also we will be on slack as well:\u00a0<a href=\"https://womenwhocodedc.slack.com/messages/python/\" class=\"linkified\">https://womenwhocodedc.slack.com/messages/python/</a></b></p> <p><b>We will have a lightning talk briefly(variables and functions) and work on the projects together.\u00a0<br/></b><br/>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229588476/", 
             "group": {
@@ -218,11 +139,11 @@ calendar({
             "headcount": 0, 
             "id": "gcxvllyvgbbc", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
+            "name": "Python Lab - Follow Up from beginners night", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1461191400000, 
-            "updated": 1461026502000, 
+            "updated": 1461113228000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Online", 
@@ -279,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -345,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1457709309000, 
@@ -410,7 +331,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1458498286000, 
@@ -491,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 172
+            "yes_rsvp_count": 173
         }, 
         {
             "created": 1458758791000, 
@@ -530,7 +451,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1460057871000, 
@@ -569,7 +490,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1457035701000, 
@@ -609,7 +530,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459265642000, 
@@ -664,7 +585,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1446219481000, 
@@ -731,7 +652,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457035881000, 
@@ -758,7 +679,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1459265642000, 
@@ -985,7 +906,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1457965726000, 
@@ -1096,7 +1017,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1460936672000, 
@@ -1191,6 +1112,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvhbgc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvhbgc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1464129000000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
