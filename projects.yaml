@@ -210,7 +210,7 @@
   size: 1980
   updated_at: '2016-02-09T21:08:06Z'
   watchers: 11
-- activity: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
+- activity: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -617,7 +617,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 124,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 125,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 41,
     link: 'https://github.com/romoy', name: romoy}
@@ -625,19 +625,21 @@
     link: 'https://github.com/jkoul', name: jkoul}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7322903?v=3', contributions: 5,
     link: 'https://github.com/bcell', name: bcell}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/16108167?v=3', contributions: 4,
+    link: 'https://github.com/FunmiOjo', name: FunmiOjo}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2614536?v=3', contributions: 4,
     link: 'https://github.com/matthewringer', name: matthewringer}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 3,
-    link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 3,
     link: 'https://github.com/JoshData', name: JoshData}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 3,
+    link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/870645?v=3', contributions: 1,
     link: 'https://github.com/caseypatrickdriscoll', name: caseypatrickdriscoll}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=3', contributions: 1,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4925075?v=3', contributions: 1,
     link: 'https://github.com/pythagoraswitch', name: pythagoraswitch}
-  contributors_count: 10
+  contributors_count: 11
   created_at: '2014-07-12T18:04:36Z'
   default_branch: develop
   description: Displays data about DC Campaign Finance on a site
@@ -706,24 +708,6 @@
     project: Campaign Finance Watch
     project_url: https://github.com/codefordc/dc-campaign-finance-watch
     updated_at: '2016-04-10T19:30:16Z'
-  - assignee: null
-    body: "Currently the search page is not obvious.  The instructions need to make\
-      \ it clear\r\n\r\n- [ ] the fact that the search is keyed off campaigns\r\n\
-      - [ ] how to add multiple campaigns\r\n- [ ] where and what is contained in\
-      \ the selections tab\r\n- [ ] what sort of data will be shown when they get\
-      \ to the next page"
-    comments: 0
-    created_at: '2016-04-07T02:05:18Z'
-    issue: Add additional instructions to the search page
-    issue_url: https://github.com/codefordc/dc-campaign-finance-watch/issues/127
-    labels:
-    - {color: 84b6eb, name: enhancement, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement'}
-    - {color: c2e0c6, name: first contributors, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/first%20contributors'}
-    - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted'}
-    - {color: b60205, name: 'Priority: Critical', url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Critical'}
-    project: Campaign Finance Watch
-    project_url: https://github.com/codefordc/dc-campaign-finance-watch
-    updated_at: '2016-04-10T19:31:35Z'
   - assignee: {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3',
       events_url: 'https://api.github.com/users/mkalish/events{/privacy}', followers_url: 'https://api.github.com/users/mkalish/followers',
       following_url: 'https://api.github.com/users/mkalish/following{/other_user}',
@@ -767,20 +751,20 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 10960564]
-  - [CSS, 6588]
+  - [JavaScript, 10961702]
+  - [CSS, 6625]
   - [HTML, 6129]
   - [Python, 4997]
   - [Shell, 864]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 23
+  open_issues: 21
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-20T02:06:05Z'
+  pushed_at: '2016-04-20T12:17:26Z'
   short_name: dc-campaign-finance-watch
-  size: 107808
+  size: 107377
   updated_at: '2016-04-19T00:12:27Z'
   watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1585,8 +1569,8 @@
   pushed_at: '2016-04-19T09:59:25Z'
   short_name: school-modernization
   size: 17373
-  updated_at: '2016-04-12T01:48:22Z'
-  watchers: 4
+  updated_at: '2016-04-20T12:59:17Z'
+  watchers: 5
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
