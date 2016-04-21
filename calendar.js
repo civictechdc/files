@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "announced": false, 
@@ -119,11 +119,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p><b>We will be meeting online via Google Hangouts as this link will be provided before the meetup.</b></p> <p><b>Also we will be on slack as well:\u00a0<a href=\"https://womenwhocodedc.slack.com/messages/python/\" class=\"linkified\">https://womenwhocodedc.slack.com/messages/python/</a></b></p> <p><b>We will have a lightning talk briefly(variables and functions) and work on the projects together.\u00a0<br/></b><br/>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.\u00a0</p> <p><b>We will be meeting online via Google Hangouts as this link will be provided before the meetup.</b></p> <p><b>Also we will be on slack as well:\u00a0<a href=\"https://womenwhocodedc.slack.com/messages/python/\"><a href=\"https://womenwhocodedc.slack.com/messages/python/\" class=\"linkified\">https://womenwhocodedc.slack.com/messages/python/</a></a></b></p> <p><b>We will have a basic lightning talk on variables and possibly functions and \u00a0work on the projects together.\u00a0<br/></b><br/>The Google Hangout Link will be:\u00a0<a href=\"https://hangouts.google.com/call/jkh755e5pjd4hkiumf6wjg6cm4e\"><a href=\"https://hangouts.google.com/call/jkh755e5pjd4hkiumf6wjg6cm4e\" class=\"linkified\">https://hangouts.google.com/call/jkh755e5pjd4hkiumf6wjg6cm4e</a></a></p> <p><br/>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229588476/", 
             "group": {
@@ -143,7 +143,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1461191400000, 
-            "updated": 1461113228000, 
+            "updated": 1461187574000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Online", 
@@ -159,7 +159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457212385000, 
@@ -266,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1457709309000, 
@@ -372,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1460425577000, 
@@ -451,7 +451,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1460057871000, 
@@ -530,7 +530,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -585,7 +585,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1446219481000, 
@@ -652,7 +652,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1457035881000, 
@@ -879,7 +879,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1417881835000, 
