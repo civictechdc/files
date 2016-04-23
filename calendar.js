@@ -120,7 +120,7 @@ calendar({
                 "zip": "20036"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -149,7 +149,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1455651624000, 
@@ -187,7 +187,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1457709309000, 
@@ -321,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1460425577000, 
@@ -361,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 201
+            "yes_rsvp_count": 203
         }, 
         {
             "created": 1458758791000, 
@@ -442,6 +442,46 @@ calendar({
             "yes_rsvp_count": 32
         }, 
         {
+            "created": 1461356196000, 
+            "description": "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\">Women Who Code in DC</a>)\u00a0</p> <p><br/>Celebrate 2 years of Women Who Code in DC by joining us for a weekend of hacking!</p> <p>This event will bring together women across the DC area for an all-female, 2 day hackathon.</p> <p>What to expect:\u00a0</p> <p>A fun day of coding and learning for women of all ability levels and technology interests.\u00a0Have a project idea in mind but need collaborators? Want to learn a new skill or commit your first line of code? This is the place for you, all levels are welcome!\u00a0</p> <p>Day One: Hacking Day @\u00a0Social Tables<br/>Day Two: Presentation Fair @\u00a0General Assembly</p> <p>Projects:</p> <p>Please add your project idea pad <a href=\"https://wwcdchack.hackpad.com/Women-Who-Code-Hackathon-Projects-ifECkbyojvE\">here</a>.</p> <p><b>RSVP HERE: \u00a0<a href=\"https://www.eventbrite.com/e/women-who-code-dc-hackathon-2016-tickets-24294759279\"><a href=\"https://www.eventbrite.com/e/women-who-code-dc-hackathon-2016-tickets-24294759279\" class=\"linkified\">https://www.eventbrite.com/e/women-who-code-dc-hackathon-2016-tickets-24294759279</a></a></b></p> <p><b><br/></b></p>", 
+            "duration": 97200000, 
+            "event_url": "http://www.meetup.com/dc-pyladies/events/230576350/", 
+            "group": {
+                "created": 1312496216000, 
+                "group_lat": 38.950000762939453, 
+                "group_lon": -77.019996643066406, 
+                "id": 2292131, 
+                "join_mode": "open", 
+                "name": "DC PyLadies", 
+                "urlname": "dc-pyladies", 
+                "who": "PyLadies"
+            }, 
+            "headcount": 0, 
+            "id": "230576350", 
+            "maybe_rsvp_count": 0, 
+            "name": "Women Who Code DC: Hackathon 2016", 
+            "rsvp_limit": 1, 
+            "status": "upcoming", 
+            "time": 1462021200000, 
+            "updated": 1461356196000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "localized_country_name": "USA", 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1457035701000, 
             "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Lab (FEL) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEL, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEL!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -479,7 +519,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -601,7 +641,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457035881000, 
@@ -628,7 +668,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1459265642000, 
@@ -883,7 +923,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1459265642000, 
@@ -1031,7 +1071,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 33, 
+            "waitlist_count": 34, 
             "yes_rsvp_count": 55
         }, 
         {
