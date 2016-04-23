@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -158,7 +158,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1455651624000
   description: "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\"\
     >Eventbrite</a></b></p> <p><b>OVERVIEW</b></p> <p>Google defines User Experience\
@@ -198,7 +198,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 83
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -377,7 +377,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 146
+  yes_rsvp_count: 147
 - created: 1460425577000
   description: "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"\
     http://www.meetup.com/DC-NLP/\">DCNLP</a>.\_</p> <p><br/>6:30 - 7:00 Food, drinks\
@@ -414,7 +414,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 205
+  yes_rsvp_count: 206
 - created: 1458758791000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
@@ -475,7 +475,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 106
 - created: 1460057871000
   description: "<p>Many of you have indicated interest in seeing a Women in Tech Talk\
     \ and so we've decided to give it a go!\_We'll talk to three successful women\
@@ -609,7 +609,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -709,7 +709,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -731,7 +731,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
