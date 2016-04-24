@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "announced": false, 
@@ -253,7 +253,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1457889236000, 
@@ -284,7 +284,7 @@
         }, 
         {
             "created": 1458498286000, 
-            "description": "<p>For our April meetup we are honored to have the creator of the Apache NiFi framework, Joe Witt, come to discuss how Apache NiFi helps support data science.</p> <p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings\u00a0</p> <p>7:05 PM -- <i>Apache NiFi - Joe Witt</i></p> <p>9:00 PM -- Post event drinks</p> <p><b>Talks</b></p> <p><i>Apache NiFi: Because It Aint Data Science Without the Data</i></p> <p>Data Science being oriented on the study of the structure and relationships of data is heavily dependent on readily available and quality feeds of data. This is quite obvious but less obvious is just how complex many enterprises are in the ways that they produce, acquire, transmit, transform that data from end-to-end. \u00a0The goal of NiFi then is to feed data scientists and their favorite analytic environments with data that is timely, high quality, traceable, and reliable.</p> <p><br/>This talk aims to provide the audience with an understanding of the 'Why' of Apache NiFi, the problem it solves, and how it fits into the big data and data science worlds. \u00a0The talk will start with a brief background on where Apache NiFi comes from for those not familiar with its local roots. It will describe the original use cases and those that exist today and how it relates to systems like Kafka, Storm, Spark and the broader Hadoop ecosystem. \u00a0The talk will conclude with an explanation of where the NiFi community is heading and will include a live demo of the latest NiFi release in action.</p> <p><b>Speaker</b></p> <p><a href=\"https://twitter.com/joewitt26\">Joe Witt </a>is a member of the Apache Software Foundation, the Apache NiFi PMC, and is the Director of Engineering leading up development of Hortonworks Dataflow powered by Apache NiFi.</p> <p><br/><b>Projects</b></p> <p><a href=\"https://camo.githubusercontent.com/f943c785014b4a14fc8b5f49be74846c66272d35/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f6e6966692d6c6f676f2e706e67\" class=\"linkified\">https://camo.githubusercontent.com/f943c785014b4a14fc8b5f49be74846c66272d35/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f6e6966692d6c6f676f2e706e67</a></p> <p><a href=\"https://nifi.apache.org/\">Apache NiFi\u00a0</a></p> <p><a href=\"http://hortonworks.com/hdf/\">Hortonworks Dataflow</a></p>", 
+            "description": "<p>For our April meetup we are honored to have the creator of the Apache NiFi framework, Joe Witt, come to discuss how Apache NiFi helps support data science.</p> <p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings\u00a0</p> <p>7:05 PM -- <i>Apache NiFi - Joe Witt</i></p> <p>9:00 PM -- Post event drinks</p> <p><b>Talks</b></p> <p><i>Apache NiFi: Because It Aint Data Science Without the Data</i></p> <p>Data Science being oriented on the study of the structure and relationships of data is heavily dependent on readily available and quality feeds of data. This is quite obvious but less obvious is just how complex many enterprises are in the ways that they produce, acquire, transmit, transform that data from end-to-end. \u00a0The goal of NiFi then is to feed data scientists and their favorite analytic environments with data that is timely, high quality, traceable, and reliable.</p> <p><br/>This talk aims to provide the audience with an understanding of the 'Why' of Apache NiFi, the problem it solves, and how it fits into the big data and data science worlds. \u00a0The talk will start with a brief background on where Apache NiFi comes from for those not familiar with its local roots. It will describe the original use cases and those that exist today and how it relates to systems like Kafka, Storm, Spark and the broader Hadoop ecosystem. \u00a0The talk will conclude with an explanation of where the NiFi community is heading and will include a live demo of the latest NiFi release in action.</p> <p><b>Speaker</b></p> <p><a href=\"https://twitter.com/joewitt26\">Joe Witt </a>is a member of the Apache Software Foundation, the Apache NiFi PMC, and is the Director of Engineering leading up development of Hortonworks Dataflow powered by Apache NiFi.</p> <p><br/><b>Projects</b></p> <p><a href=\"https://nifi.apache.org/\">Apache NiFi\u00a0</a></p> <p><br/><a href=\"http://hortonworks.com/hdf/\">Hortonworks Dataflow</a></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Science-MD/events/229738833/", 
             "group": {
@@ -304,7 +304,7 @@
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1461796200000, 
-            "updated": 1460082907000, 
+            "updated": 1461466641000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "11100 Johns Hopkins Road", 
@@ -439,7 +439,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1461356196000, 
@@ -478,7 +478,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -895,7 +895,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1457965726000, 
