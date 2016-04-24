@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -127,7 +127,7 @@ other:
     id: 11024172, lat: 38.906216000000001, localized_country_name: USA, lon: -77.041213999999997,
     name: RepEquity Inc., repinned: false, state: DC, zip: '20036'}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 5
   yes_rsvp_count: 40
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -198,7 +198,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 84
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -525,7 +525,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 36
 - created: 1461356196000
   description: "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\"\
     >Women Who Code in DC</a>)\_</p> <p><br/>Celebrate 2 years of Women Who Code in\
@@ -609,7 +609,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -709,7 +709,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1108,7 +1108,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1272,7 +1272,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 34
+  waitlist_count: 35
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -1317,7 +1317,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come

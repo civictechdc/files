@@ -935,7 +935,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [1, 64, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 6, 0, 0, 0, 0, 0, 0,
+- activity: [43, 22, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 7, 1, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -988,7 +988,7 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [6, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 4, 0, 0,
+- activity: [2, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 17, 0, 0, 0, 0, 4, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1203,7 +1203,7 @@
   size: 3924
   updated_at: '2015-05-19T23:30:44Z'
   watchers: 1
-- activity: [9, 3, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [7, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1288,9 +1288,9 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 10, 22, 4, 0, 0, 0, 0, 0,
-    0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 23, 12, 1, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: '', name: DC Master Address Repository Query Tool, url: 'https://twitter.com/@evonfriedland'}
@@ -1430,19 +1430,19 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 414,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 428,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 74,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 76,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 24,
+    link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 19,
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 19,
     link: 'https://github.com/mchelen', name: mchelen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 18,
-    link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 17,
     link: 'https://github.com/mebates', name: mebates}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 8,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 12,
     link: 'https://github.com/charleshuang80', name: charleshuang80}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3891862?v=3', contributions: 6,
     link: 'https://github.com/rebeccaestes', name: rebeccaestes}
@@ -1450,13 +1450,15 @@
     link: 'https://github.com/cmgiven', name: cmgiven}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12372787?v=3', contributions: 4,
     link: 'https://github.com/adinneen', name: adinneen}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/13918431?v=3', contributions: 2,
+    link: 'https://github.com/CamLatimer', name: CamLatimer}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12459939?v=3', contributions: 1,
     link: 'https://github.com/kndllbrwn', name: kndllbrwn}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5439589?v=3', contributions: 1,
     link: 'https://github.com/valeriecodes', name: valeriecodes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16469242?v=3', contributions: 1,
     link: 'https://github.com/RAGarza8', name: RAGarza8}
-  contributors_count: 13
+  contributors_count: 14
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
@@ -1466,20 +1468,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 83557]
-  - [HTML, 57057]
-  - [CSS, 25415]
+  - [Ruby, 85459]
+  - [HTML, 57304]
+  - [CSS, 24817]
   - [CoffeeScript, 1265]
   - [JavaScript, 693]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 65
+  open_issues: 59
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-04-22T01:27:40Z'
+  pushed_at: '2016-04-23T23:01:18Z'
   short_name: dcaf_case_management
-  size: 7476
+  size: 7468
   updated_at: '2016-03-29T01:03:36Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

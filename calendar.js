@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "announced": false, 
@@ -120,7 +120,7 @@ calendar({
                 "zip": "20036"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -187,7 +187,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1457709309000, 
@@ -439,7 +439,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1461356196000, 
@@ -519,7 +519,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1459265642000, 
@@ -602,7 +602,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1326383071000, 
@@ -923,7 +923,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1459265642000, 
@@ -1071,7 +1071,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 34, 
+            "waitlist_count": 35, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -1100,7 +1100,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1459265642000, 
