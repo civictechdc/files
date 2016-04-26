@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "announced": false, 
@@ -83,34 +83,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230279603/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvgbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1461709800000, 
-            "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 15
-        }, 
-        {
             "created": 1455651624000, 
             "description": "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\">Eventbrite</a></b></p> <p><b>OVERVIEW</b></p> <p>Google defines User Experience (UX) as \"the overall experience of a person using a product such as a website...especially in terms of how easy or pleasing it is to use\".</p> <p><br/>- Is your website easy and pleasing to use?\u00a0</p> <p>- Are you visitors able to accomplish tasks with ease and leave with a positive experience?\u00a0</p> <p>- What are your options for improving website UX?\u00a0</p> <p>This event will help answer those questions.</p> <p>We will discuss 3 elements of website UX:</p> <p>\u2022\u00a0What makes for good website user experience, including mobile web</p> <p>\u2022\u00a0How to evaluate your website UX and do basic user research</p> <p>\u2022 What changes you can make to your website to enhance usability and UX</p> <p><b>AGENDA &amp; AUDIENCE</b></p> <p>We begin at 6:30 with wine, beer, soda and light appetizers. Presentation at 7pm.</p> <p><br/>This event is focused on people who manage and build websites, as well as those interested in user experience.</p> <p><b>PRESENTER</b></p> <p><img src=\"https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/2339/thumb_thumb_FazBW2.png\" /></p> <p><b>Faz Besharatian</b>, Instructor, General Assembly</p> <p>Faz has been teaching with General Assembly since the first User Experience course in DC. He started his migration away from print design in 1996 and has been building digital experiences ever since. Throughout his design career Faz has worked for AARP, AOL, US Airways, USWeb/CKS, and others. Today he is an independent design consultant focused on product design for companies big and small.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/228899649/", 
@@ -147,6 +119,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 90
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 4500000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230279603/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvgbjc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1461712500000, 
+            "updated": 1461692041000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Join Me", 
+                "city": "link On Slack", 
+                "country": "US", 
+                "id": 24511669, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "Virtual Event", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457709309000, 
@@ -235,11 +246,24 @@ calendar({
             "name": "Ruby on Rails: How to Use the NASA Photo-of-the-Day API to build an App", 
             "status": "upcoming", 
             "time": 1461796200000, 
-            "updated": 1460004231000, 
+            "updated": 1461685814000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW,", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 6154072, 
+                "lat": 38.899357000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.033066000000005, 
+                "name": "Living Social", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1458498286000, 
@@ -280,7 +304,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 166
+            "yes_rsvp_count": 175
         }, 
         {
             "created": 1460425577000, 
@@ -320,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 222
+            "yes_rsvp_count": 227
         }, 
         {
             "created": 1458758791000, 
@@ -359,7 +383,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1460057871000, 
@@ -437,7 +461,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -478,7 +502,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1459265642000, 
@@ -561,7 +585,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1326383071000, 
@@ -601,6 +625,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 13
+        }, 
+        {
+            "created": 1461681351000, 
+            "description": "<p>For our May Data Science DC Meetup, we are excited to interact with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\u00a0Aman Bhandari and Susan Bennett from Merck will join us to talk about big data opportunities in healthcare and the forces driving the creation of a new health data economy.</p> <p><br/>----------------------------</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/course-calendar/\">Save 30% with code DSDC2016</a>\u00a0-- classes in mapping, Python, and more start soon.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b><i>What do an\u00a0oil\u00a0well, \u00a0a\u00a0terrorist\u00a0and a\u00a0heart\u00a0have in common?\u00a0</i></b></p> <p>We live in a world where competitive or superior management of costs and risks is often the difference between profitability &amp; bankruptcy, or between life &amp; death. What does that mean for \u201csmart data\" applications?\u00a0Big Data contains noise and associated liabilities. We need \u201cSmart Data\u201d - filtering out the noise and holding onto valuable components and their interrelationships.</p> <p>We must also produce best practices that move us from merely identifying correlation to revealing meaningful causation. We need to leverage new data capabilities that hold a promise of improving speed, precision or accuracy, such as deep learning, semantic technologies, etc., which are themselves emerging technologies.\u00a0In this session we will explore 3 case studies, their successful outcomes and in layman\u2019s terms \u2013 a unique approach to producing \"Smart Data\" that holds a promise of better managing complex systems.</p> <p><b>Bios:</b></p> <p><br/><b>Aman Bhandari</b></p> <p>Aman is currently at Merck where he is building data science capabilities across the world. Prior to Merck,\u00a0he\u00a0worked on President Obama\u2019s tech team at the\u00a0White\u00a0House, where he was responsible for health data and health IT initiatives and was on the core team that implemented the President\u2019s \u00a0open data and innovation initiatives.\u00a0Aman has worked extensively across corporate, academic and government settings and has advised data, tech and innovation initiatives from the World Bank, Harvard, Cornell, Ashoka Foundation, Knight News Foundation, SXSW and others. He holds a master\u2019s degree in epidemiology and a doctorate in health systems research.</p> <p><b>Susan Bennett</b></p> <p>Susan's\u00a020 years of business experience and executive management include practices in engineering, product development, sales &amp; marketing within the oil &amp; gas, telecommunications, agriculture and\u00a0life science-healthcare industries. Having recently started\u00a0to work for\u00a0Merck, she is a member of an innovation team that leads a facet of the information technology strategic planning. Her commitment includes defining critical business questions and translating them into an analytics agenda. Prior to Merck, in December 2008\u00a0Susan\u00a0co-founded CrossInnovation, LLC\u00a0and was subsequently\u00a0acquired by Accelerated Vision Group, LLC in March 2013.\u00a0At those organizations,\u00a0she led\u00a0a talented team that\u00a0successfully implemented a cognitive computing platform emanating from the US Intelligence community to solve business problems in retail, oil &amp; gas and healthcare. Susan\u00a0earned a B.Sc. in Systems Design Engineering from University of Waterloo, Canada.\u00a0She relocated to Overland Park, Kansas in 2002 when another start-up she was working for was acquired by Marconi (now Ericsson). She volunteers\u00a0with Reaching Out From Within (ROFW), a non-profit that supports prisoner-led self-transformation.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/230660175/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "230660175", 
+            "maybe_rsvp_count": 0, 
+            "name": "Big Data Opportunities in Healthcare", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1462833000000, 
+            "updated": 1461683143000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1957 E Street", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23619989, 
+                "lat": 38.896275000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.044205000000005, 
+                "name": "GWU, Elliot School, Room 113", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1457035881000, 
@@ -693,7 +756,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1451511413000, 

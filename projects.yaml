@@ -328,7 +328,7 @@
   updated_at: '2016-04-25T20:41:10Z'
   watchers: 22
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -363,7 +363,7 @@
   default_branch: gh-pages
   description: archive the DC mayor's public schedule; tabularize it; give archive
     web interface
-  forks: 3
+  forks: 4
   help_wanted: []
   homepage: http://ajschumacher.github.io/dc_mayor_schedule/
   html_url: https://github.com/ajschumacher/dc_mayor_schedule
@@ -613,9 +613,9 @@
   size: 576
   updated_at: '2014-07-13T21:57:21Z'
   watchers: 0
-- activity: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1,
-    8, 2, 0, 0, 0, 2, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2, 16, 28, 7, 6, 3,
-    37, 6, 4, 5]
+- activity: [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 6, 0, 3, 2, 5, 2, 7, 3,
+    6, 2, 0, 0, 1, 1, 4, 1, 3, 5, 4, 1, 0, 1, 10, 1, 0, 0, 0, 3, 18, 32, 1, 6, 7,
+    32, 8, 2, 5]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1339,8 +1339,8 @@
   size: 216
   updated_at: '2016-02-01T04:29:15Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1514,8 +1514,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 25, 22, 18, 21, 17, 53, 16, 24, 15, 6,
-    18, 31, 23, 20, 10, 11]
+    0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 28, 23, 14, 27, 23, 43, 15, 27, 11, 9,
+    18, 30, 26, 16, 15, 5]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
