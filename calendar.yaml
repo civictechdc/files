@@ -1,5 +1,5 @@
 codefordc:
-- announced: false
+- announced: true
   created: 1459986472000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
     >DataKind DC</a>!</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_</p>\
@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 44
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -82,79 +82,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 10
 other:
-- created: 1455651624000
-  description: "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\"\
-    >Eventbrite</a></b></p> <p><b>OVERVIEW</b></p> <p>Google defines User Experience\
-    \ (UX) as \"the overall experience of a person using a product such as a website...especially\
-    \ in terms of how easy or pleasing it is to use\".</p> <p><br/>- Is your website\
-    \ easy and pleasing to use?\_</p> <p>- Are you visitors able to accomplish tasks\
-    \ with ease and leave with a positive experience?\_</p> <p>- What are your options\
-    \ for improving website UX?\_</p> <p>This event will help answer those questions.</p>\
-    \ <p>We will discuss 3 elements of website UX:</p> <p>\u2022\_What makes for good\
-    \ website user experience, including mobile web</p> <p>\u2022\_How to evaluate\
-    \ your website UX and do basic user research</p> <p>\u2022 What changes you can\
-    \ make to your website to enhance usability and UX</p> <p><b>AGENDA &amp; AUDIENCE</b></p>\
-    \ <p>We begin at 6:30 with wine, beer, soda and light appetizers. Presentation\
-    \ at 7pm.</p> <p><br/>This event is focused on people who manage and build websites,\
-    \ as well as those interested in user experience.</p> <p><b>PRESENTER</b></p>\
-    \ <p><img src=\"https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/2339/thumb_thumb_FazBW2.png\"\
-    \ /></p> <p><b>Faz Besharatian</b>, Instructor, General Assembly</p> <p>Faz has\
-    \ been teaching with General Assembly since the first User Experience course in\
-    \ DC. He started his migration away from print design in 1996 and has been building\
-    \ digital experiences ever since. Throughout his design career Faz has worked\
-    \ for AARP, AOL, US Airways, USWeb/CKS, and others. Today he is an independent\
-    \ design consultant focused on product design for companies big and small.</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/228899649/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '228899649'
-  maybe_rsvp_count: 0
-  name: Website User Experience
-  status: upcoming
-  time: 1461711600000
-  updated: 1461091262000
-  utc_offset: -14400000
-  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
-    id: 19625362, lat: 38.904330999999999, localized_country_name: USA, lon: -77.033278999999993,
-    name: OpenGov Hub, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 89
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 4500000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230279603/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvgbjc
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1461712500000
-  updated: 1461711269000
-  utc_offset: -14400000
-  venue: {address_1: 'https://join.me/857-513-729', city: Washington, country: us,
-    id: 24512370, lat: 0, localized_country_name: USA, lon: 0, name: Virtual Event(Join.me),
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 14
 - created: 1457709309000
   description: "<p>NoVA\_Elixir\_meetup has graciously offered GDI members\_scholarships\
     \ for Elixir Mastery three times around. The first two times they were full scholarships\
@@ -240,11 +167,13 @@ other:
   yes_rsvp_count: 6
 - created: 1457889236000
   description: "<p>Presentation: How to Use the NASA Photo-of-the-Day App to Build\
-    \ an App</p> <p>Want to learn how to use an API with Rails? Here's your chance!\
-    \ I'll walk you through building a simple Rails app that displays the current\
-    \ photo-of-the-day from NASA's APOD (<a href=\"http://apod.nasa.gov/apod/astropix.html\"\
-    >Astronomy Picture of the Day</a>) API.\_</p> <p>Meetup Agenda</p> <p>\u2022\_\
-    6:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p>\
+    \ an App</p> <p><b>NOTE WITH LINKS:\_<a href=\"https://shrib.com/Lf1j1tiCctxnx21?&amp;v=md\"\
+    ><a href=\"https://shrib.com/Lf1j1tiCctxnx21?&amp;v=md\" class=\"linkified\">https://shrib.com/Lf1j1tiCctxnx21?&amp;v=md</a></a></b></p>\
+    \ <p>Want to learn how to use an API with Rails? Here's your chance! I'll walk\
+    \ you through building a simple Rails app that displays the current photo-of-the-day\
+    \ from NASA's APOD (<a href=\"http://apod.nasa.gov/apod/astropix.html\">Astronomy\
+    \ Picture of the Day</a>) API.\_</p> <p>Meetup Agenda</p> <p>\u2022\_6:30pm -\
+    \ Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p>\
     \ <p>\u2022 7:15pm - Code</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested\
     \ in learning Ruby and Rails with an awesome group of women? Looking to build\
     \ your first web app, learn more about coding, or build on existing skills? Come\
@@ -284,14 +213,14 @@ other:
   name: 'Ruby on Rails: How to Use the NASA Photo-of-the-Day API to build an App'
   status: upcoming
   time: 1461796200000
-  updated: 1461685814000
+  updated: 1461722249000
   utc_offset: -14400000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, localized_country_name: USA, lon: -77.033066000000005,
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 33
 - created: 1458498286000
   description: "<p>For our April meetup we are honored to have the creator of the\
     \ Apache NiFi framework, Joe Witt, come to discuss how Apache NiFi helps support\
@@ -338,7 +267,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 179
+  yes_rsvp_count: 180
 - created: 1460425577000
   description: "<p>Join us on Wednesday, April 27th for a joint event with <a href=\"\
     http://www.meetup.com/DC-NLP/\">DCNLP</a>.\_</p> <p><br/>6:30 - 7:00 Food, drinks\
@@ -486,7 +415,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1461356196000
   description: "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\"\
     >Women Who Code in DC</a>)\_</p> <p><br/>Celebrate 2 years of Women Who Code in\
@@ -570,7 +499,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 58
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -770,7 +699,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 174
+  yes_rsvp_count: 194
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -1065,7 +994,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -1457,6 +1386,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1452612310000
+  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
+    \ women? Looking to build your first web app, learn more about coding, or build\
+    \ on existing skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR)\
+    \ Study Group. This event is intended for those new to programming and/or ROR\
+    \ (but we welcome people of all levels to attend and help out)! The agenda will\
+    \ include a lecture that covers Ruby and Rails and an installfest to help you\
+    \ set up Rails on your own computer.</p> <p>This event is intended to be exclusively\
+    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
+    \ bring a laptop to the event so you can participate in\_the installfest!</p>\
+    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
+    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
+    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p>\
+    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
+    \ <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\_</p> <p>\u2022\
+    \ 7:10 - 8:10pm - Install necessary software following the\_<a href=\"http://installrails.com/\"\
+    >InstallRails</a>\_guide.\_</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p>\
+    \ <p>These are the resources that members have been following along, feel free\
+    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
+    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
+    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
+    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
+    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228284715/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: cjdtnlyvjbcb
+  maybe_rsvp_count: 0
+  name: 'Ruby on Rails: Beginners Night!'
+  status: upcoming
+  time: 1464820200000
+  updated: 1458050850000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

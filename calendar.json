@@ -1,7 +1,7 @@
 {
     "codefordc": [
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1459986472000, 
             "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 44
         }, 
         {
             "announced": false, 
@@ -82,84 +82,6 @@
         }
     ], 
     "other": [
-        {
-            "created": 1455651624000, 
-            "description": "<p><b>Register on <a href=\"https://www.eventbrite.com/e/website-user-experience-tickets-24242254235\">Eventbrite</a></b></p> <p><b>OVERVIEW</b></p> <p>Google defines User Experience (UX) as \"the overall experience of a person using a product such as a website...especially in terms of how easy or pleasing it is to use\".</p> <p><br/>- Is your website easy and pleasing to use?\u00a0</p> <p>- Are you visitors able to accomplish tasks with ease and leave with a positive experience?\u00a0</p> <p>- What are your options for improving website UX?\u00a0</p> <p>This event will help answer those questions.</p> <p>We will discuss 3 elements of website UX:</p> <p>\u2022\u00a0What makes for good website user experience, including mobile web</p> <p>\u2022\u00a0How to evaluate your website UX and do basic user research</p> <p>\u2022 What changes you can make to your website to enhance usability and UX</p> <p><b>AGENDA &amp; AUDIENCE</b></p> <p>We begin at 6:30 with wine, beer, soda and light appetizers. Presentation at 7pm.</p> <p><br/>This event is focused on people who manage and build websites, as well as those interested in user experience.</p> <p><b>PRESENTER</b></p> <p><img src=\"https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/2339/thumb_thumb_FazBW2.png\" /></p> <p><b>Faz Besharatian</b>, Instructor, General Assembly</p> <p>Faz has been teaching with General Assembly since the first User Experience course in DC. He started his migration away from print design in 1996 and has been building digital experiences ever since. Throughout his design career Faz has worked for AARP, AOL, US Airways, USWeb/CKS, and others. Today he is an independent design consultant focused on product design for companies big and small.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/228899649/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "228899649", 
-            "maybe_rsvp_count": 0, 
-            "name": "Website User Experience", 
-            "status": "upcoming", 
-            "time": 1461711600000, 
-            "updated": 1461091262000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1110 Vermont Avenue NW, Suite 500", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19625362, 
-                "lat": 38.904330999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.033278999999993, 
-                "name": "OpenGov Hub", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 89
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 4500000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230279603/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvgbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1461712500000, 
-            "updated": 1461711269000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "https://join.me/857-513-729", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24512370, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "Virtual Event(Join.me)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
         {
             "created": 1457709309000, 
             "description": "<p>NoVA\u00a0Elixir\u00a0meetup has graciously offered GDI members\u00a0scholarships for Elixir Mastery three times around. The first two times they were full scholarships but because we've had a no show it is now a partial scholarship. Please only RSVP if you're certain you will be able to make all three days of the series (4/27, 4/28 and 4/29; 830a-5p).\u00a0\u00a0</p> <p>\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1500/pp for three days, but Elixir Mastery is offering GDI DC three tickets at a reduced rate of $75! If you are certain you will be able to make all three days, <a href=\"https://ti.to/elixir-mastery/spring-2016/with/jkkizqyn-3a\">RSVP here</a>. Again, please ONLY RSVP IF YOU'RE ABSOLUTELY SURE YOU CAN MAKE IT. After three people have entered the code others can no longer claim it.\u00a0</p> <p>\n\n\n<b>About Elixir\u00a0</b></p> <p>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p>\n\n\nMore information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p>\n\n\n<b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you <a href=\"https://ti.to/elixir-mastery/spring-2016/with/jkkizqyn-3a\">register here</a>. We have scholarships for the first three members that RSVP, making the course $75.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0</p>", 
@@ -240,7 +162,7 @@
         }, 
         {
             "created": 1457889236000, 
-            "description": "<p>Presentation: How to Use the NASA Photo-of-the-Day App to Build an App</p> <p>Want to learn how to use an API with Rails? Here's your chance! I'll walk you through building a simple Rails app that displays the current photo-of-the-day from NASA's APOD (<a href=\"http://apod.nasa.gov/apod/astropix.html\">Astronomy Picture of the Day</a>) API.\u00a0</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Code</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>Presentation: How to Use the NASA Photo-of-the-Day App to Build an App</p> <p><b>NOTE WITH LINKS:\u00a0<a href=\"https://shrib.com/Lf1j1tiCctxnx21?&amp;v=md\"><a href=\"https://shrib.com/Lf1j1tiCctxnx21?&amp;v=md\" class=\"linkified\">https://shrib.com/Lf1j1tiCctxnx21?&amp;v=md</a></a></b></p> <p>Want to learn how to use an API with Rails? Here's your chance! I'll walk you through building a simple Rails app that displays the current photo-of-the-day from NASA's APOD (<a href=\"http://apod.nasa.gov/apod/astropix.html\">Astronomy Picture of the Day</a>) API.\u00a0</p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - Code</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills? Come to our weekly ROR group! We welcome women with all levels of experience. You will be able to ask your fellow coders questions and help each other work through issues. We encourage any advanced ROR devs to come and help others! There's always at least one mentor present to help you with best practices or guide you through if you are stuck with a nasty problem!</p> <p>Looking for something to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229557641/", 
             "group": {
@@ -259,7 +181,7 @@
             "name": "Ruby on Rails: How to Use the NASA Photo-of-the-Day API to build an App", 
             "status": "upcoming", 
             "time": 1461796200000, 
-            "updated": 1461685814000, 
+            "updated": 1461722249000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -276,7 +198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1458498286000, 
@@ -317,7 +239,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 179
+            "yes_rsvp_count": 180
         }, 
         {
             "created": 1460425577000, 
@@ -435,7 +357,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1461356196000, 
@@ -515,7 +437,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1459265642000, 
@@ -676,7 +598,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 174
+            "yes_rsvp_count": 194
         }, 
         {
             "created": 1457035881000, 
@@ -903,7 +825,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1417881835000, 
@@ -1219,6 +1141,33 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1452612310000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228284715/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "cjdtnlyvjbcb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: Beginners Night!", 
+            "status": "upcoming", 
+            "time": 1464820200000, 
+            "updated": 1458050850000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
