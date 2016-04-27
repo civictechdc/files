@@ -118,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1459265642000, 
@@ -142,22 +142,23 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1461712500000, 
-            "updated": 1461692041000, 
+            "updated": 1461711269000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "Join Me", 
-                "city": "link On Slack", 
-                "country": "US", 
-                "id": 24511669, 
+                "address_1": "https://join.me/857-513-729", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24512370, 
                 "lat": 0, 
                 "localized_country_name": "USA", 
                 "lon": 0, 
-                "name": "Virtual Event", 
-                "repinned": false
+                "name": "Virtual Event(Join.me)", 
+                "repinned": false, 
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1457709309000, 
@@ -215,12 +216,24 @@
             "headcount": 0, 
             "id": "230553145", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Lab - Code Review(Mini Project)", 
+            "name": "Python Lab - Code Review(Mini Project)- Google Hangouts", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1461796200000, 
-            "updated": 1461274830000, 
+            "updated": 1461707360000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Online", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
@@ -304,7 +317,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 175
+            "yes_rsvp_count": 179
         }, 
         {
             "created": 1460425577000, 
@@ -344,7 +357,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 227
+            "yes_rsvp_count": 230
         }, 
         {
             "created": 1458758791000, 
@@ -383,7 +396,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 113
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1460057871000, 
@@ -502,7 +515,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1459265642000, 
@@ -585,7 +598,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
@@ -628,7 +641,7 @@
         }, 
         {
             "created": 1461681351000, 
-            "description": "<p>For our May Data Science DC Meetup, we are excited to interact with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\u00a0Aman Bhandari and Susan Bennett from Merck will join us to talk about big data opportunities in healthcare and the forces driving the creation of a new health data economy.</p> <p><br/>----------------------------</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/course-calendar/\">Save 30% with code DSDC2016</a>\u00a0-- classes in mapping, Python, and more start soon.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b><i>What do an\u00a0oil\u00a0well, \u00a0a\u00a0terrorist\u00a0and a\u00a0heart\u00a0have in common?\u00a0</i></b></p> <p>We live in a world where competitive or superior management of costs and risks is often the difference between profitability &amp; bankruptcy, or between life &amp; death. What does that mean for \u201csmart data\" applications?\u00a0Big Data contains noise and associated liabilities. We need \u201cSmart Data\u201d - filtering out the noise and holding onto valuable components and their interrelationships.</p> <p>We must also produce best practices that move us from merely identifying correlation to revealing meaningful causation. We need to leverage new data capabilities that hold a promise of improving speed, precision or accuracy, such as deep learning, semantic technologies, etc., which are themselves emerging technologies.\u00a0In this session we will explore 3 case studies, their successful outcomes and in layman\u2019s terms \u2013 a unique approach to producing \"Smart Data\" that holds a promise of better managing complex systems.</p> <p><b>Bios:</b></p> <p><br/><b>Aman Bhandari</b></p> <p>Aman is currently at Merck where he is building data science capabilities across the world. Prior to Merck,\u00a0he\u00a0worked on President Obama\u2019s tech team at the\u00a0White\u00a0House, where he was responsible for health data and health IT initiatives and was on the core team that implemented the President\u2019s \u00a0open data and innovation initiatives.\u00a0Aman has worked extensively across corporate, academic and government settings and has advised data, tech and innovation initiatives from the World Bank, Harvard, Cornell, Ashoka Foundation, Knight News Foundation, SXSW and others. He holds a master\u2019s degree in epidemiology and a doctorate in health systems research.</p> <p><b>Susan Bennett</b></p> <p>Susan's\u00a020 years of business experience and executive management include practices in engineering, product development, sales &amp; marketing within the oil &amp; gas, telecommunications, agriculture and\u00a0life science-healthcare industries. Having recently started\u00a0to work for\u00a0Merck, she is a member of an innovation team that leads a facet of the information technology strategic planning. Her commitment includes defining critical business questions and translating them into an analytics agenda. Prior to Merck, in December 2008\u00a0Susan\u00a0co-founded CrossInnovation, LLC\u00a0and was subsequently\u00a0acquired by Accelerated Vision Group, LLC in March 2013.\u00a0At those organizations,\u00a0she led\u00a0a talented team that\u00a0successfully implemented a cognitive computing platform emanating from the US Intelligence community to solve business problems in retail, oil &amp; gas and healthcare. Susan\u00a0earned a B.Sc. in Systems Design Engineering from University of Waterloo, Canada.\u00a0She relocated to Overland Park, Kansas in 2002 when another start-up she was working for was acquired by Marconi (now Ericsson). She volunteers\u00a0with Reaching Out From Within (ROFW), a non-profit that supports prisoner-led self-transformation.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our May Data Science DC Meetup, we are excited to interact with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\u00a0Aman Bhandari and Susan Bennett from Merck will join us to talk about big data opportunities in healthcare and the forces driving the creation of a new health data economy.</p> <p><br/>----------------------------</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>\u00a0-- starting soon: biostatistics, predictive modeling, clinical trials, epidemiology, Bayesian, R, Python.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b><i>What do an\u00a0oil\u00a0well, \u00a0a\u00a0terrorist\u00a0and a\u00a0heart\u00a0have in common?\u00a0</i></b></p> <p>We live in a world where competitive or superior management of costs and risks is often the difference between profitability &amp; bankruptcy, or between life &amp; death. What does that mean for \u201csmart data\" applications?\u00a0Big Data contains noise and associated liabilities. We need \u201cSmart Data\u201d - filtering out the noise and holding onto valuable components and their interrelationships.</p> <p>We must also produce best practices that move us from merely identifying correlation to revealing meaningful causation. We need to leverage new data capabilities that hold a promise of improving speed, precision or accuracy, such as deep learning, semantic technologies, etc., which are themselves emerging technologies.\u00a0In this session we will explore 3 case studies, their successful outcomes and in layman\u2019s terms \u2013 a unique approach to producing \"Smart Data\" that holds a promise of better managing complex systems.</p> <p><b>Bios:</b></p> <p><br/><b>Aman Bhandari</b></p> <p>Aman is currently at Merck where he is building data science capabilities across the world. Prior to Merck,\u00a0he\u00a0worked on President Obama\u2019s tech team at the\u00a0White\u00a0House, where he was responsible for health data and health IT initiatives and was on the core team that implemented the President\u2019s \u00a0open data and innovation initiatives.\u00a0Aman has worked extensively across corporate, academic and government settings and has advised data, tech and innovation initiatives from the World Bank, Harvard, Cornell, Ashoka Foundation, Knight News Foundation, SXSW and others. He holds a master\u2019s degree in epidemiology and a doctorate in health systems research.</p> <p><b>Susan Bennett</b></p> <p>Susan's\u00a020 years of business experience and executive management include practices in engineering, product development, sales &amp; marketing within the oil &amp; gas, telecommunications, agriculture and\u00a0life science-healthcare industries. Having recently started\u00a0to work for\u00a0Merck, she is a member of an innovation team that leads a facet of the information technology strategic planning. Her commitment includes defining critical business questions and translating them into an analytics agenda. Prior to Merck, in December 2008\u00a0Susan\u00a0co-founded CrossInnovation, LLC\u00a0and was subsequently\u00a0acquired by Accelerated Vision Group, LLC in March 2013.\u00a0At those organizations,\u00a0she led\u00a0a talented team that\u00a0successfully implemented a cognitive computing platform emanating from the US Intelligence community to solve business problems in retail, oil &amp; gas and healthcare. Susan\u00a0earned a B.Sc. in Systems Design Engineering from University of Waterloo, Canada.\u00a0She relocated to Overland Park, Kansas in 2002 when another start-up she was working for was acquired by Marconi (now Ericsson). She volunteers\u00a0with Reaching Out From Within (ROFW), a non-profit that supports prisoner-led self-transformation.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/230660175/", 
             "group": {
                 "created": 1311348860000, 
@@ -647,7 +660,7 @@
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1462833000000, 
-            "updated": 1461683143000, 
+            "updated": 1461695714000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1957 E Street", 
@@ -663,7 +676,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 174
         }, 
         {
             "created": 1457035881000, 
@@ -718,7 +731,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459703387000, 
@@ -917,7 +930,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1457965726000, 
@@ -1093,7 +1106,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 38, 
             "yes_rsvp_count": 55
         }, 
         {
