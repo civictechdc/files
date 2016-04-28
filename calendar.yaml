@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 51
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -155,13 +155,12 @@ other:
     https://twitter.com/davebenigno\">David Erickson</a> will show his\_<a href=\"\
     https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana\
     \ dashboard</a> for CaBi data.</p> <p><br/>\u2022\_<a href=\"http://mvjantzen.com/\"\
-    >Michael Schade</a> will show how he used Processing to create animation showing\
-    \ traffic to/from\_<a href=\"https://www.facebook.com/CapitalBikeshare/videos/vb.134700293229967/1133600043339982/\"\
-    >Columbus Circle</a>, the\_<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133597510006902/\"\
-    >Lincoln Memorial</a>, and\_<a href=\"https://www.facebook.com/CapitalBikeshare/videos/1133592480007405/\"\
-    >Dupont Circle</a>.</p> <p>Read what the Washington Post wrote about <a href=\"\
-    http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night\
-    \ IV</a>:\_<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\"\
+    >Michael Schade</a> will show how he used <a href=\"http://processing.org/\">Processing</a>\
+    \ to create animations for CaBi's 2015 \"<a href=\"https://www.capitalbikeshare.com/news/2016/01/05/station-domination-our-top-10-stations-of-2015\"\
+    >Station Domination</a>\" list, and how he made the \"<a href=\"http://apps.mobilitylab.org/adaywithnometro.html\"\
+    >A Day with No Metro</a>\" project.</p> <p>Read what the Washington Post wrote\
+    \ about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\"\
+    >CaBi Hack Night IV</a>:\_<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\"\
     >Government transit data gets techies\u2019 gears spinning for new apps</a>. And\
     \ from Mobility Lab:\_<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\"\
     >From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even\
@@ -182,14 +181,14 @@ other:
   rsvp_limit: 125
   status: upcoming
   time: 1461880800000
-  updated: 1461820934000
+  updated: 1461863681000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 114
 - created: 1460057871000
   description: "<p>Many of you have indicated interest in seeing a Women in Tech Talk\
     \ and so we've decided to give it a go!\_We'll talk to three successful women\
@@ -239,7 +238,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1461356196000
   description: "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\"\
     >Women Who Code in DC</a>)\_</p> <p><br/>Celebrate 2 years of Women Who Code in\
@@ -274,6 +273,35 @@ other:
   visibility: public
   waitlist_count: 6
   yes_rsvp_count: 1
+- created: 1461856563000
+  description: <p>Interested in sharpening your problem solving skills and learning
+    more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will
+    be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems -
+    TBD</p> <p><br/>We want to do a combination of whiteboarding and coding on the
+    computer so please bring a computer. <b>You can code in the language of your choice
+    (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively
+    open for women; we are trans* friendly.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230716896/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  how_to_find_us: Call (703) 981 - 4542 if the door is locked outside.
+  id: '230716896'
+  maybe_rsvp_count: 0
+  name: Algorithms Meetup
+  rsvp_limit: 50
+  status: upcoming
+  time: 1462228200000
+  updated: 1461856563000
+  utc_offset: -14400000
+  venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
+    id: 23852906, lat: 38.903111000000003, localized_country_name: USA, lon: -77.059639000000004,
+    name: Palantir Technologies, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 13
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -323,7 +351,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 72
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -445,7 +473,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1461681351000
   description: "<p>For our May Data Science DC Meetup, we are excited to interact\
     \ with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\_\
@@ -523,7 +551,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 226
+  yes_rsvp_count: 235
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -571,7 +599,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -768,7 +796,7 @@ other:
   name: 'Ruby on Rails Lab: MVC Madness'
   status: upcoming
   time: 1463005800000
-  updated: 1461809646000
+  updated: 1461859917000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -827,7 +855,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 77
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -866,7 +894,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 56
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1311,56 +1339,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1457035701000
-  description: "<p>Learning to code for the first time with us! We will be going over\
-    \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
-    >First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's\
-    \ <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
-    >HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
-    >JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group\
-    \ where women can come together and help each other learn and understand web development.\
-    \ We welcome devs of all levels and encourage those with more experience to help\
-    \ out those that are just starting. There's always at least one mentor or leader\
-    \ present to help you with best practices or to guide you through if you are stuck\
-    \ with a nasty problem!\_</p> <p><b>Laptop Policy</b></p> <p>In order to maximize\
-    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
-    \ be available at the event. Even if you have never coded before, you will be\
-    \ coding at FEHN!</p> <p><b>Agenda\_</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022\
-    \ 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into\
-    \ HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm\
-    \ - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit\
-    \ <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github\
-    \ repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
-    >First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
-    >First Timer's JavaScript Guide</a></p> <p><br/>\u2022\_<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\"\
-    >HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\"\
-    >CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\"\
-    >JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building\
-    \ management companies require Meetup hosts to let people in and do not encourage\
-    \ them being contacted. Please respect the policy. In case the location requires\
-    \ access to the building, contact the group lead if information is provided or\
-    \ drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\_\
-    </p> <p>This event is intended to be exclusively open for women; we are trans*\
-    \ friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/229365747/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: qtfhrlyvjbjb
-  maybe_rsvp_count: 0
-  name: Front End Lab - First Timer's Night
-  status: upcoming
-  time: 1465252200000
-  updated: 1457392514000
-  utc_offset: -14400000
-  venue: {address_1: 641 S St NW, city: Washington, country: us, id: 9483992, lat: 38.914549999999998,
-    localized_country_name: USA, lon: -77.021095000000003, name: iStrategyLabs, repinned: false,
-    state: DC, zip: '20001'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 10
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
