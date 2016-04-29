@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "announced": false, 
@@ -121,45 +121,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1458758791000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about\u00a0<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll be on the\u00a012th-floor lounge of the new WeWork in Crystal City.\u00a0Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\u00a0</p> <p>\u2022\u00a0Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a>, operator of Capital Bikeshare, will talk about the\u00a0<a href=\"https://github.com/NABSA/gbfs\">general bike share feed specification</a>\u00a0(see\u00a0<a href=\"http://www.motivateco.com/news/2016/04/14/motivate-to-offer-system-data-in-more-developer-friendly-format\">press release</a>).</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a> will show her\u00a0<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\">interactive visualization tool for CaBi trip data</a> built with Amazon Web Services and Leaflet.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/mapping_sam\">Sam Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\">data analysis</a> on CaBi's\u00a0first and last mile contribution to Metro's transportation solution.</p> <p><br/>\u2022\u00a0Amir Farhangi and Matt Triner of\u00a0<a href=\"http://district.ninja/\">District Ninja</a>\u00a0will show how they calculated\u00a0<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\">DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\u00a0Hans Engler will show how he\u00a0extracts spatio-temporal trip patterns from historic CaBi data.</p> <p><br/>\u2022 Stephen Tu will discuss\u00a0Montgomery County's\u00a0Level of Traffic Stress data, and\u00a0<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\">Alex Rixey</a> will show how Fehr and Peers used the data for CaBi\u00a0ridership forecasting and measuring\u00a0low-stress bikeways.</p> <p><br/>\u2022\u00a0<a href=\"https://www.dylanbarlett.com/\">Dylan Barlett</a>\u00a0will show his\u00a0<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\">Python tools</a>\u00a0for working with CaBi trip data.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/davebenigno\">David Erickson</a> will show his\u00a0<a href=\"https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana dashboard</a> for CaBi data.</p> <p><br/>\u2022\u00a0<a href=\"http://mvjantzen.com/\">Michael Schade</a> will show how he used <a href=\"http://processing.org/\">Processing</a> to create animations for CaBi's 2015 \"<a href=\"https://www.capitalbikeshare.com/news/2016/01/05/station-domination-our-top-10-stations-of-2015\">Station Domination</a>\" list, and how he made the \"<a href=\"http://apps.mobilitylab.org/adaywithnometro.html\">A Day with No Metro</a>\" project.</p> <p>Read what the Washington Post wrote about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\">CaBi Hack Night IV</a>:\u00a0<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\">Government transit data gets techies\u2019 gears spinning for new apps</a>. And from Mobility Lab:\u00a0<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\">From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible!</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>. Speakers' Twitter handles are shown on our <a href=\"http://mvjantzen.com/meetup/cabihacknight5.html\">background screen</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/229819688/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "229819688", 
-            "maybe_rsvp_count": 0, 
-            "name": "CaBi Hack Night V", 
-            "rsvp_limit": 125, 
-            "status": "upcoming", 
-            "time": 1461880800000, 
-            "updated": 1461863681000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2221 SOUTH CLARK ST", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24336429, 
-                "lat": 38.853954000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.051636000000002, 
-                "name": "WeWork Crystal City", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 110
-        }, 
-        {
             "created": 1460057871000, 
             "description": "<p>Many of you have indicated interest in seeing a Women in Tech Talk and so we've decided to give it a go!\u00a0We'll talk to three successful women in the DC area who work for Accenture. Afterwards, we'll open up for questions. This talk is meant to be an open conversation about being a woman in tech.</p> <p>After signing up you will be provided a link to watch the broadcast, you will also receive a reminder the day of.\u00a0</p> <p>\n\n\n<b>About Accenture:</b></p> <p>Accenture is a global management consulting, technology services and outsourcing company, with more than 373,000 people serving clients in more than 120 countries. Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world\u2019s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments.</p> <p>\n\n\n\n<b>About the Speakers:</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/c/3/0/600_448655888.jpeg\" /></p> <p><b>Numra Tariq</b>\u00a0graduated from George Mason University in 2015 with a degree in Applied Information Technology. She now works for Accenture and is doing database development with technologies like PL/SQL. Her other interests include website development and graphic design.</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/b/f/1/600_448655825.jpeg\" /></p> <p><b>Moona Akhtar</b>\u00a0is a Systems Developer Associate at Accenture Federal Services. She graduated from George Mason University with a B.S. Information System and Operations Management degree. Currently, she is working on a Department of Defense project as an SAP HANA backend developer.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/b/e/5/600_448655813.jpeg\" /></p> <p><b>Cam Pham</b>\u00a0graduated from George Mason University in 2014 with a Bachelors in Software Engineering. She joined Accenture in March 2015 and got hired to her first project with the IRS in May.</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p><br/>Your payment guarantees your reservation for this talk. If something changes after registration and you cannot attend, your link is yours to sell or give to someone else - just please let us know who! As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
             "duration": 3600000, 
@@ -196,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1461356196000, 
@@ -277,7 +238,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1457035701000, 
@@ -317,7 +278,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
+        }, 
+        {
+            "created": 1461894647000, 
+            "description": "<p>It's May, the unofficial month of RESTFUL web services*. \u00a0So, let's come together and hear some good API talks. \u00a0 \u00a0</p> <p>There'll be plenty of good food and good drink to go along with the all of the solid folks who'll be there, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you soon! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Duane Taylor - Blue State Digital<br/>* TBA\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p> <p>\n\n* Unknown citation. \u00a0</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/230733526/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "230733526", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - May Edition", 
+            "status": "upcoming", 
+            "time": 1462312800000, 
+            "updated": 1461894647000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1459265642000, 
@@ -372,7 +371,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1446219481000, 
@@ -439,7 +438,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1461681351000, 
@@ -478,7 +477,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 243
+            "yes_rsvp_count": 249
         }, 
         {
             "created": 1457035881000, 
@@ -705,7 +704,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1417881835000, 
@@ -1080,7 +1079,7 @@ calendar({
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvjbcb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/230731719/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
@@ -1114,7 +1113,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1451511461000, 

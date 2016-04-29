@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -128,67 +128,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
-- created: 1458758791000
-  description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
-    \ about\_<a href=\"http://www.capitalbikeshare.com/\">Capital Bikeshare</a>. We'll\
-    \ be on the\_12th-floor lounge of the new WeWork in Crystal City.\_Doors open\
-    \ at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\_</p> <p>\u2022\
-    \_Daniel Gohlke from <a href=\"http://www.motivateco.com/\">Motivate</a>, operator\
-    \ of Capital Bikeshare, will talk about the\_<a href=\"https://github.com/NABSA/gbfs\"\
-    >general bike share feed specification</a>\_(see\_<a href=\"http://www.motivateco.com/news/2016/04/14/motivate-to-offer-system-data-in-more-developer-friendly-format\"\
-    >press release</a>).</p> <p><br/>\u2022\_<a href=\"https://twitter.com/1littlevictory\"\
-    >Anna Petrone</a> will show her\_<a href=\"http://ec2-54-173-188-49.compute-1.amazonaws.com/\"\
-    >interactive visualization tool for CaBi trip data</a> built with Amazon Web Services\
-    \ and Leaflet.\_</p> <p>\u2022\_<a href=\"https://twitter.com/mapping_sam\">Sam\
-    \ Estabrook</a> will share his <a href=\"https://github.com/samuelestabrook/bikeshare-dc\"\
-    >data analysis</a> on CaBi's\_first and last mile contribution to Metro's transportation\
-    \ solution.</p> <p><br/>\u2022\_Amir Farhangi and Matt Triner of\_<a href=\"http://district.ninja/\"\
-    >District Ninja</a>\_will show how they calculated\_<a href=\"http://district.ninja/bikeable-district-ii-dc-neighborhoods-with-the-most-capital-bikeshare-use/\"\
-    >DC neighborhoods with the most CaBi use</a>.</p> <p>\u2022\_Hans Engler will\
-    \ show how he\_extracts spatio-temporal trip patterns from historic CaBi data.</p>\
-    \ <p><br/>\u2022 Stephen Tu will discuss\_Montgomery County's\_Level of Traffic\
-    \ Stress data, and\_<a href=\"http://www.fehrandpeersdc.com/project/alex-rixey-transportation-planner/\"\
-    >Alex Rixey</a> will show how Fehr and Peers used the data for CaBi\_ridership\
-    \ forecasting and measuring\_low-stress bikeways.</p> <p><br/>\u2022\_<a href=\"\
-    https://www.dylanbarlett.com/\">Dylan Barlett</a>\_will show his\_<a href=\"https://bitbucket.org/ArlingtonCounty/bikeshare-trip-history\"\
-    >Python tools</a>\_for working with CaBi trip data.</p> <p><br/>\u2022\_<a href=\"\
-    https://twitter.com/davebenigno\">David Erickson</a> will show his\_<a href=\"\
-    https://github.com/derickson/cabi/blob/master/README.md\">Elasticsearch Kibana\
-    \ dashboard</a> for CaBi data.</p> <p><br/>\u2022\_<a href=\"http://mvjantzen.com/\"\
-    >Michael Schade</a> will show how he used <a href=\"http://processing.org/\">Processing</a>\
-    \ to create animations for CaBi's 2015 \"<a href=\"https://www.capitalbikeshare.com/news/2016/01/05/station-domination-our-top-10-stations-of-2015\"\
-    >Station Domination</a>\" list, and how he made the \"<a href=\"http://apps.mobilitylab.org/adaywithnometro.html\"\
-    >A Day with No Metro</a>\" project.</p> <p>Read what the Washington Post wrote\
-    \ about <a href=\"http://www.meetup.com/Transportation-Techies/events/225539297/\"\
-    >CaBi Hack Night IV</a>:\_<a href=\"https://www.washingtonpost.com/local/trafficandcommuting/transportation-techies-find-new-ways-to-make-metro-driving-easier/2015/10/24/07841846-67ae-11e5-8325-a42b5a459b1e_story.html\"\
-    >Government transit data gets techies\u2019 gears spinning for new apps</a>. And\
-    \ from Mobility Lab:\_<a href=\"http://mobilitylab.org/2015/10/28/techies-hack-to-make-capital-bikeshare-even-more-user-friendly/\"\
-    >From Rebalancing to Dock-Blocking: Techies Hack to Make Capital Bikeshare Even\
-    \ More User-Friendly</a>.</p> <p>Many thanks to our sponsors at <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
-    >WeWork</a> and <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making\
-    \ this event possible!</p> <p>Our hashtag is\_<a href=\"https://twitter.com/search?q=%23cabihacknight\"\
-    >#cabihacknight</a>. Speakers' Twitter handles are shown on our <a href=\"http://mvjantzen.com/meetup/cabihacknight5.html\"\
-    >background screen</a>.\_As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for updates.</p>"
-  event_url: http://www.meetup.com/Transportation-Techies/events/229819688/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
-    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
-    who: Techies}
-  headcount: 0
-  id: '229819688'
-  maybe_rsvp_count: 0
-  name: CaBi Hack Night V
-  rsvp_limit: 125
-  status: upcoming
-  time: 1461880800000
-  updated: 1461863681000
-  utc_offset: -14400000
-  venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
-    lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
-    name: WeWork Crystal City, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 110
 - created: 1460057871000
   description: "<p>Many of you have indicated interest in seeing a Women in Tech Talk\
     \ and so we've decided to give it a go!\_We'll talk to three successful women\
@@ -238,7 +177,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - created: 1461356196000
   description: "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\"\
     >Women Who Code in DC</a>)\_</p> <p><br/>Celebrate 2 years of Women Who Code in\
@@ -301,7 +240,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -351,7 +290,35 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
+- created: 1461894647000
+  description: "<p>It's May, the unofficial month of RESTFUL web services*. \_So,\
+    \ let's come together and hear some good API talks. \_ \_</p> <p>There'll be plenty\
+    \ of good food and good drink to go along with the all of the solid folks who'll\
+    \ be there, so go ahead and mark the first Tuesday of the month on your calendar.\
+    \ \_See you soon! \_</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm\
+    \ - 6:55pm Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p>\
+    \ <p>*\_Duane Taylor - Blue State Digital<br/>* TBA\_</p> <p><br/>7:55pm - 8:00pm\
+    \ Refill your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm -\
+    \ 9:00pm Networking</p> <p>\n\n* Unknown citation. \_</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/230733526/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '230733526'
+  maybe_rsvp_count: 0
+  name: DC API User Group - May Edition
+  status: upcoming
+  time: 1462312800000
+  updated: 1461894647000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
+    name: CHIEF, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -422,7 +389,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -473,7 +440,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 28
 - created: 1461681351000
   description: "<p>For our May Data Science DC Meetup, we are excited to interact\
     \ with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\_\
@@ -551,7 +518,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 243
+  yes_rsvp_count: 249
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -855,7 +822,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 78
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -1321,7 +1288,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: http://www.meetup.com/Geo-DC/events/dlcllcyvjbcb/
+  event_url: http://www.meetup.com/Geo-DC/events/230731719/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1338,7 +1305,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
