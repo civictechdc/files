@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "announced": false, 
@@ -157,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1461356196000, 
@@ -238,7 +238,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1457035701000, 
@@ -282,7 +282,7 @@ calendar({
         }, 
         {
             "created": 1461894647000, 
-            "description": "<p>It's May, the unofficial month of RESTFUL web services*. \u00a0So, let's come together and hear some good API talks. \u00a0 \u00a0</p> <p>There'll be plenty of good food and good drink to go along with the all of the solid folks who'll be there, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you soon! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Duane Taylor - Blue State Digital<br/>* TBA\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p> <p>\n\n* Unknown citation. \u00a0</p>", 
+            "description": "<p>It's May, the unofficial month of RESTFUL web services!* \u00a0So, let's come together and hear some good API talks. \u00a0 \u00a0</p> <p>There'll be plenty of good food and good drink to go along with the all of the solid folks who'll be there, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you soon! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Duane Taylor - Blue State Digital<br/>* Steffen Gates - CTAC<br/>* TBA\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p> <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p> <p>* Unknown citation. \u00a0</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/230733526/", 
             "group": {
                 "created": 1347647025000, 
@@ -300,7 +300,7 @@ calendar({
             "name": "DC API User Group - May Edition", 
             "status": "upcoming", 
             "time": 1462312800000, 
-            "updated": 1461894647000, 
+            "updated": 1461951549000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -316,7 +316,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459265642000, 
@@ -399,7 +399,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1326383071000, 
@@ -438,7 +438,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1461681351000, 
@@ -477,7 +477,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 249
+            "yes_rsvp_count": 254
         }, 
         {
             "created": 1457035881000, 
@@ -704,7 +704,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1417881835000, 
@@ -731,7 +731,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1457965726000, 

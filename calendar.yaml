@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - announced: false
   created: 1459986500000
   description: "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\"\
@@ -177,7 +177,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1461356196000
   description: "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\"\
     >Women Who Code in DC</a>)\_</p> <p><br/>Celebrate 2 years of Women Who Code in\
@@ -240,7 +240,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -292,15 +292,16 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 74
 - created: 1461894647000
-  description: "<p>It's May, the unofficial month of RESTFUL web services*. \_So,\
+  description: "<p>It's May, the unofficial month of RESTFUL web services!* \_So,\
     \ let's come together and hear some good API talks. \_ \_</p> <p>There'll be plenty\
     \ of good food and good drink to go along with the all of the solid folks who'll\
     \ be there, so go ahead and mark the first Tuesday of the month on your calendar.\
     \ \_See you soon! \_</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm\
     \ - 6:55pm Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p>\
-    \ <p>*\_Duane Taylor - Blue State Digital<br/>* TBA\_</p> <p><br/>7:55pm - 8:00pm\
-    \ Refill your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm -\
-    \ 9:00pm Networking</p> <p>\n\n* Unknown citation. \_</p>"
+    \ <p>*\_Duane Taylor - Blue State Digital<br/>* Steffen Gates - CTAC<br/>* TBA\_\
+    </p> <p><br/>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel\
+    \ discussions\_<br/>8:30pm - 9:00pm Networking</p> <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>\
+    \ <p>* Unknown citation. \_</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/230733526/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -311,14 +312,14 @@ other:
   name: DC API User Group - May Edition
   status: upcoming
   time: 1462312800000
-  updated: 1461894647000
+  updated: 1461951549000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 12
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -418,7 +419,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 39
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -440,7 +441,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 36
 - created: 1461681351000
   description: "<p>For our May Data Science DC Meetup, we are excited to interact\
     \ with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\_\
@@ -518,7 +519,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 249
+  yes_rsvp_count: 254
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -822,7 +823,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -861,7 +862,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
