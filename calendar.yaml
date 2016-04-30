@@ -80,7 +80,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 other:
 - created: 1461356196000
   description: "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\"\
@@ -223,7 +223,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -423,7 +423,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 258
+  yes_rsvp_count: 260
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -766,7 +766,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1018,7 +1018,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
