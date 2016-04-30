@@ -223,7 +223,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -345,7 +345,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 40
 - created: 1461681351000
   description: "<p>For our May Data Science DC Meetup, we are excited to interact\
     \ with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\_\
@@ -423,7 +423,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 260
+  yes_rsvp_count: 261
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
