@@ -1514,8 +1514,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 10, 3, 18, 22, 27, 14, 20, 35, 40, 12, 24, 10, 9,
-    33, 25, 21, 18, 9, 2]
+    0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 9, 28, 9, 27, 22, 9, 49, 30, 18, 19, 9, 12,
+    26, 27, 27, 10, 11, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}

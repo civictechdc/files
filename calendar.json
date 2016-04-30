@@ -83,83 +83,6 @@
     ], 
     "other": [
         {
-            "created": 1457709309000, 
-            "description": "<p>NoVA\u00a0Elixir\u00a0meetup has graciously offered GDI members\u00a0scholarships for Elixir Mastery three times around. The first two times they were full scholarships but because we've had a no show it is now a partial scholarship. Please only RSVP if you're certain you will be able to make all three days of the series (4/27, 4/28 and 4/29; 830a-5p).\u00a0\u00a0</p> <p>\n\n\n<b>About the Scholarship</b></p> <p>The class cost is $1500/pp for three days, but Elixir Mastery is offering GDI DC three tickets at a reduced rate of $75! If you are certain you will be able to make all three days, <a href=\"https://ti.to/elixir-mastery/spring-2016/with/jkkizqyn-3a\">RSVP here</a>. Again, please ONLY RSVP IF YOU'RE ABSOLUTELY SURE YOU CAN MAKE IT. After three people have entered the code others can no longer claim it.\u00a0</p> <p>\n\n\n<b>About Elixir\u00a0</b></p> <p>Elixir is a programming language that feels a lot like Ruby, but runs on the Erlang virtual machine, which means that it is excellent for building concurrent and distributed applications.\u00a0</p> <p>\n\n\n<b>About the Course</b></p> <p>This course covers\u00a0<a href=\"http://elixir-lang.org/\">Elixir</a>\u00a0as a language along with its tooling system. On the second day you'll cover\u00a0<a href=\"http://elixir-lang.org/getting-started/processes.html\">Processes</a>, along with slicing and dicing\u00a0<a href=\"http://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html#binaries-%28and-bitstrings%29\">Binary Data</a>\u00a0and\u00a0<a href=\"http://learnyousomeerlang.com/what-is-otp\">OTP</a>. The third day will be dedicated to\u00a0<a href=\"http://www.phoenixframework.org/\">Phoenix</a>.\u00a0</p> <p>\n\n\nMore information can be found on the\u00a0<a href=\"http://www.elixirmastery.com/\">Elixir Mastery website</a>.\u00a0</p> <p>\n\n\n<b>Other</b></p> <p>Please note you are\u00a0NOT\u00a0registered for this event by RSVPing on this meetup. Please make sure you <a href=\"https://ti.to/elixir-mastery/spring-2016/with/jkkizqyn-3a\">register here</a>. We have scholarships for the first three members that RSVP, making the course $75.\u00a0Please only RSVP if you're certain you will be able to make it.\u00a0</p>", 
-            "duration": 203400000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/229512542/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "229512542", 
-            "maybe_rsvp_count": 0, 
-            "name": "Intro to Elixir by Elixir Mastery (Partial Scholarship)", 
-            "status": "upcoming", 
-            "time": 1461760200000, 
-            "updated": 1457709340000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1445 New York Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 23819537, 
-                "lat": 38.899033000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.032982000000004, 
-                "name": "LivingSocial, Inc", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
-        }, 
-        {
-            "created": 1460057871000, 
-            "description": "<p>Many of you have indicated interest in seeing a Women in Tech Talk and so we've decided to give it a go!\u00a0We'll talk to three successful women in the DC area who work for Accenture. Afterwards, we'll open up for questions. This talk is meant to be an open conversation about being a woman in tech.</p> <p>After signing up you will be provided a link to watch the broadcast, you will also receive a reminder the day of.\u00a0</p> <p>\n\n\n<b>About Accenture:</b></p> <p>Accenture is a global management consulting, technology services and outsourcing company, with more than 373,000 people serving clients in more than 120 countries. Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world\u2019s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments.</p> <p>\n\n\n\n<b>About the Speakers:</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/c/3/0/600_448655888.jpeg\" /></p> <p><b>Numra Tariq</b>\u00a0graduated from George Mason University in 2015 with a degree in Applied Information Technology. She now works for Accenture and is doing database development with technologies like PL/SQL. Her other interests include website development and graphic design.</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/b/f/1/600_448655825.jpeg\" /></p> <p><b>Moona Akhtar</b>\u00a0is a Systems Developer Associate at Accenture Federal Services. She graduated from George Mason University with a B.S. Information System and Operations Management degree. Currently, she is working on a Department of Defense project as an SAP HANA backend developer.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/b/e/5/600_448655813.jpeg\" /></p> <p><b>Cam Pham</b>\u00a0graduated from George Mason University in 2014 with a Bachelors in Software Engineering. She joined Accenture in March 2015 and got hired to her first project with the IRS in May.</p> <p>\n\n\n<b>Refund Policy:\u00a0</b></p> <p><br/>Your payment guarantees your reservation for this talk. If something changes after registration and you cannot attend, your link is yours to sell or give to someone else - just please let us know who! As a rule we don't offer refunds or credits; \u00a0Instead your class fee will go toward our chapter fund which we will use to establish a scholarship fund going forward. \u00a0That said, please do reach out and let us know if you have extenuating circumstances.</p>", 
-            "duration": 3600000, 
-            "event_url": "http://www.meetup.com/Girl-Develop-It-DC/events/230206137/", 
-            "group": {
-                "created": 1395687537000, 
-                "group_lat": 38.900001525878906, 
-                "group_lon": -77.040000915527344, 
-                "id": 13526522, 
-                "join_mode": "open", 
-                "name": "Girl Develop It D.C.", 
-                "urlname": "Girl-Develop-It-DC", 
-                "who": "Nerdettes"
-            }, 
-            "headcount": 0, 
-            "id": "230206137", 
-            "maybe_rsvp_count": 0, 
-            "name": "Women in Tech (Virtual Panel)", 
-            "status": "upcoming", 
-            "time": 1461960000000, 
-            "updated": 1460058408000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Virtual (Google Hangouts)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23694109, 
-                "lat": 38.875359000000003, 
-                "localized_country_name": "USA", 
-                "lon": -76.994972000000004, 
-                "name": "Virtual (Google Hangouts)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 54
-        }, 
-        {
             "created": 1461356196000, 
             "description": "<p>(In partnership with <a href=\"http://www.meetup.com/Women-Who-Code-DC/\">Women Who Code in DC</a>)\u00a0</p> <p><br/>Celebrate 2 years of Women Who Code in DC by joining us for a weekend of hacking!</p> <p>This event will bring together women across the DC area for an all-female, 2 day hackathon.</p> <p>What to expect:\u00a0</p> <p>A fun day of coding and learning for women of all ability levels and technology interests.\u00a0Have a project idea in mind but need collaborators? Want to learn a new skill or commit your first line of code? This is the place for you, all levels are welcome!\u00a0</p> <p>Day One: Hacking Day @\u00a0Social Tables<br/>Day Two: Presentation Fair @\u00a0General Assembly</p> <p>Projects:</p> <p>Please add your project idea pad <a href=\"https://wwcdchack.hackpad.com/Women-Who-Code-Hackathon-Projects-ifECkbyojvE\">here</a>.</p> <p><b>RSVP HERE: \u00a0<a href=\"https://www.eventbrite.com/e/women-who-code-dc-hackathon-2016-tickets-24294759279\"><a href=\"https://www.eventbrite.com/e/women-who-code-dc-hackathon-2016-tickets-24294759279\" class=\"linkified\">https://www.eventbrite.com/e/women-who-code-dc-hackathon-2016-tickets-24294759279</a></a></b></p> <p><b><br/></b></p>", 
             "duration": 97200000, 
@@ -238,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1457035701000, 
@@ -278,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1461894647000, 
@@ -316,7 +239,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -344,7 +267,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1452612310000, 
@@ -371,7 +294,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1446219481000, 
@@ -438,7 +361,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1461681351000, 
@@ -477,7 +400,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 254
+            "yes_rsvp_count": 258
         }, 
         {
             "created": 1457035881000, 
@@ -504,7 +427,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1459265642000, 
