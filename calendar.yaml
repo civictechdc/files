@@ -117,13 +117,19 @@ other:
   waitlist_count: 6
   yes_rsvp_count: 1
 - created: 1461856563000
-  description: <p>Interested in sharpening your problem solving skills and learning
-    more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will
-    be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems -
-    TBD</p> <p><br/>We want to do a combination of whiteboarding and coding on the
-    computer so please bring a computer. <b>You can code in the language of your choice
-    (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively
-    open for women; we are trans* friendly.</p>
+  description: "<p>Interested in sharpening your problem solving skills and learning\
+    \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
+    \ will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems\
+    \ -</p> <p><a href=\"https://www.hackerrank.com/domains/regex/re-introduction\"\
+    ><a href=\"https://www.hackerrank.com/domains/regex/re-introduction\" class=\"\
+    linkified\">https://www.hackerrank.com/domains/regex/re-introduction</a></a>\_\
+    - to continue learning from the last meetup's problem</p> <p><a href=\"https://www.hackerrank.com/challenges/jesse-and-cookies\"\
+    ><a href=\"https://www.hackerrank.com/challenges/jesse-and-cookies\" class=\"\
+    linkified\">https://www.hackerrank.com/challenges/jesse-and-cookies</a></a></p>\
+    \ <p>We want to do a combination of whiteboarding and coding on the computer so\
+    \ please bring a computer. <b>You can code in the language of your choice (including\
+    \ pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for\
+    \ women; we are trans* friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/230716896/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -137,7 +143,7 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1462228200000
-  updated: 1461856563000
+  updated: 1462047890000
   utc_offset: -14400000
   venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
     id: 23852906, lat: 38.903111000000003, localized_country_name: USA, lon: -77.059639000000004,
@@ -194,7 +200,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 78
 - created: 1461894647000
   description: "<p>It's May, the unofficial month of RESTFUL web services!* \_So,\
     \ let's come together and hear some good API talks. \_ \_</p> <p>There'll be plenty\
@@ -223,7 +229,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -294,7 +300,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -323,7 +329,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -594,7 +600,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -766,7 +772,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 59
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\

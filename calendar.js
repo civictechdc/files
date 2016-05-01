@@ -124,7 +124,7 @@ calendar({
         }, 
         {
             "created": 1461856563000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems - TBD</p> <p><br/>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems -</p> <p><a href=\"https://www.hackerrank.com/domains/regex/re-introduction\"><a href=\"https://www.hackerrank.com/domains/regex/re-introduction\" class=\"linkified\">https://www.hackerrank.com/domains/regex/re-introduction</a></a>\u00a0- to continue learning from the last meetup's problem</p> <p><a href=\"https://www.hackerrank.com/challenges/jesse-and-cookies\"><a href=\"https://www.hackerrank.com/challenges/jesse-and-cookies\" class=\"linkified\">https://www.hackerrank.com/challenges/jesse-and-cookies</a></a></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230716896/", 
             "group": {
@@ -145,7 +145,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1462228200000, 
-            "updated": 1461856563000, 
+            "updated": 1462047890000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1025 Thomas Jefferson Street, NW", 
@@ -201,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1461894647000, 
@@ -239,7 +239,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -294,7 +294,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1446219481000, 
@@ -322,7 +322,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1326383071000, 
@@ -531,7 +531,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446220149000, 
@@ -654,7 +654,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1457965726000, 
