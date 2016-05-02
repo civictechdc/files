@@ -199,7 +199,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1459265642000, 
@@ -250,11 +250,23 @@ calendar({
             "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1462401000000, 
-            "updated": 1458050850000, 
+            "updated": 1462158028000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1446219481000, 
@@ -278,11 +290,23 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1462401000000, 
-            "updated": 1461274407000, 
+            "updated": 1462158018000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1326383071000, 
@@ -321,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1461681351000, 
@@ -360,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 265
+            "yes_rsvp_count": 269
         }, 
         {
             "created": 1457035881000, 
@@ -437,7 +461,7 @@ calendar({
             "name": "Bye Bye Redesign, Hello Iterative Enhancement", 
             "status": "upcoming", 
             "time": 1462921200000, 
-            "updated": 1460442686000, 
+            "updated": 1462166486000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -614,7 +638,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1457965726000, 
@@ -790,7 +814,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 41, 
+            "waitlist_count": 42, 
             "yes_rsvp_count": 55
         }, 
         {
