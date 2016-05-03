@@ -1,46 +1,6 @@
 {
     "codefordc": [
         {
-            "announced": true, 
-            "created": 1459986472000, 
-            "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/230184466/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "230184466", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1462228200000, 
-            "updated": 1459986472000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 61
-        }, 
-        {
             "announced": false, 
             "created": 1459986500000, 
             "description": "<p>Now featuring special guest <a href=\"http://www.datakind.org/chapters/datakind-dc/\">DataKind DC</a>!</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
@@ -78,91 +38,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }
     ], 
     "other": [
-        {
-            "created": 1461856563000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems -</p> <p><a href=\"https://www.hackerrank.com/domains/regex/re-introduction\"><a href=\"https://www.hackerrank.com/domains/regex/re-introduction\" class=\"linkified\">https://www.hackerrank.com/domains/regex/re-introduction</a></a>\u00a0- to continue learning from the last meetup's problem</p> <p><a href=\"https://www.hackerrank.com/challenges/jesse-and-cookies\"><a href=\"https://www.hackerrank.com/challenges/jesse-and-cookies\" class=\"linkified\">https://www.hackerrank.com/challenges/jesse-and-cookies</a></a></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230716896/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Call (703) 981 - 4542 if the door is locked outside.", 
-            "id": "230716896", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1462228200000, 
-            "updated": 1462047890000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1025 Thomas Jefferson Street, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23852906, 
-                "lat": 38.903111000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.059639000000004, 
-                "name": "Palantir Technologies", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
-        }, 
-        {
-            "created": 1457035701000, 
-            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Lab (FEL) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEL, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEL!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365740/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qtfhrlyvhbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab Beginners Night", 
-            "status": "upcoming", 
-            "time": 1462228200000, 
-            "updated": 1461167136000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 78
-        }, 
         {
             "created": 1461894647000, 
             "description": "<p>It's May, the unofficial month of RESTFUL web services!* \u00a0So, let's come together and hear some good API talks. \u00a0 \u00a0</p> <p>There'll be plenty of good food and good drink to go along with the all of the solid folks who'll be there, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you soon! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Duane Taylor - Blue State Digital<br/>* Steffen Gates - CTAC<br/>* Mike Moore - CA Technologies<br/>* TBA\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p> <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p> <p>* Unknown citation. \u00a0</p>", 
@@ -199,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1459265642000, 
@@ -319,7 +198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1326383071000, 
@@ -358,7 +237,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1461681351000, 
@@ -397,7 +276,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 291
+            "yes_rsvp_count": 294
         }, 
         {
             "created": 1457035881000, 
@@ -424,7 +303,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1459265642000, 
@@ -624,7 +503,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1417881835000, 
@@ -651,11 +530,11 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1462203683000, 
-            "description": "<p><b>It's been a while since we did something on Go! Let's do a Go Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p> <p><b>Location</b></p> <p>Capital One HQ</p> <p>1680 Capital One Dr, McLean, VA</p> <p><b>Topic</b></p> <p><a href=\"https://caddyserver.com/\">Caddy</a>, the HTTP/2 web server with automatic HTTPS.</p> <p>We'll look at the motivation for a new web server and explore Caddy at a technical level. Then we'll see how Caddy and its ideology can be used to improve your own Go apps and our tech community.</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/3/5/600_449580309.jpeg\" /></p> <p><b>Matt Holt\u00a0<a href=\"https://twitter.com/mholt6\">@mholt6</a>\u00a0</b></p> <p>Matt Holt is the author of Papa Parse, a high-performance CSV parser for the browser. and Caddy, a web server written in Go that uses HTTPS by default. He advocates for open source, encryption, and good user experience. Matt will be starting the CS master's program this Fall at Brigham Young University.</p> <p><br/>Sponsors: <a href=\"http://capitalone.com\">CapitalOne</a>\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
+            "description": "<p><b>It's been a while since we did something on Go! Let's do a Go Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p> <p><b>Location</b></p> <p>Capital One HQ</p> <p>1680 Capital One Dr, McLean, VA</p> <p><b>Topic</b></p> <p><a href=\"https://caddyserver.com/\">Caddy</a>, the HTTP/2 web server with automatic HTTPS.\u00a0</p> <p>We'll look at the motivation for a new web server and explore Caddy at a technical level. Then we'll see how Caddy and its ideology can be used to improve your own Go apps and our tech community.</p> <p>Check out the <a href=\"https://blog.golang.org/go1.6\">Go 1.6 Release Notes</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/3/5/600_449580309.jpeg\" /></p> <p><b>Matt Holt\u00a0<a href=\"https://twitter.com/mholt6\">@mholt6</a>\u00a0</b></p> <p>Matt Holt is the author of Papa Parse, a high-performance CSV parser for the browser. and Caddy, a web server written in Go that uses HTTPS by default. He advocates for open source, encryption, and good user experience. Matt will be starting the CS master's program this Fall at Brigham Young University.</p> <p><br/>Sponsors: <a href=\"http://capitalone.com\">CapitalOne</a>\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
             "event_url": "http://www.meetup.com/gdg-dc/events/230814302/", 
             "group": {
                 "created": 1268219647000, 
@@ -675,7 +554,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1463092200000, 
-            "updated": 1462204173000, 
+            "updated": 1462234909000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -691,7 +570,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1457965726000, 
@@ -867,7 +746,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 44, 
+            "waitlist_count": 45, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -991,7 +870,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1459265642000, 
@@ -1116,6 +995,46 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1457035701000, 
+            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365747/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "qtfhrlyvjbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab - First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1465252200000, 
+            "updated": 1457392514000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
+        }, 
+        {
             "created": 1451511461000, 
             "description": "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone is looking forward to hearing about *your* cool hack. Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/227724726/", 
@@ -1152,6 +1071,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvjbkb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvjbkb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1465338600000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -1835,6 +1782,72 @@
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1491433200000, 
+            "updated": 1446214010000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1602 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1417881835000, 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywhbfb/", 
+            "group": {
+                "created": 1384378071000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 11094242, 
+                "join_mode": "open", 
+                "name": "Data Wranglers DC", 
+                "urlname": "Data-Wranglers-DC", 
+                "who": "Data Wranglers"
+            }, 
+            "headcount": 0, 
+            "id": "hffzclywhbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "January Meetup", 
+            "status": "upcoming", 
+            "time": 1493850600000, 
+            "updated": 1417881835000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1326383071000, 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcywhbfb/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Upstairs bar", 
+            "id": "dlcllcywhbfb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monthly Meetup", 
+            "status": "upcoming", 
+            "time": 1493852400000, 
             "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
