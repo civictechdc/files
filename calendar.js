@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 61
         }, 
         {
             "announced": false, 
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }
     ], 
     "other": [
@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1457035701000, 
@@ -199,7 +199,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1459265642000, 
@@ -223,8 +223,21 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1462314600000, 
-            "updated": 1459265764000, 
+            "updated": 1462212388000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 679273, 
+                "lat": 38.898738999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.024225999999999, 
+                "name": "MLK Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
@@ -345,7 +358,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1461681351000, 
@@ -384,7 +397,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 283
+            "yes_rsvp_count": 291
         }, 
         {
             "created": 1457035881000, 
@@ -611,7 +624,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1417881835000, 
@@ -638,7 +651,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1462203683000, 
@@ -678,7 +691,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1457965726000, 
@@ -854,7 +867,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 43, 
+            "waitlist_count": 44, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -978,7 +991,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1459265642000, 
