@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1459265642000, 
@@ -198,7 +198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1326383071000, 
@@ -237,7 +237,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1461681351000, 
@@ -276,7 +276,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 294
+            "yes_rsvp_count": 295
         }, 
         {
             "created": 1457035881000, 
@@ -303,7 +303,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1459265642000, 
@@ -503,7 +503,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1417881835000, 
@@ -526,11 +526,24 @@
             "name": "Leveraging Big Data Technologies at the Government : Patent Information", 
             "status": "upcoming", 
             "time": 1463005800000, 
-            "updated": 1453050383000, 
+            "updated": 1462285400000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1462203683000, 
@@ -570,7 +583,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1457965726000, 
@@ -710,6 +723,47 @@
             "yes_rsvp_count": 18
         }, 
         {
+            "created": 1462290789000, 
+            "description": "<p><b>Date</b>: Thu, May 19,[masked]:00 PM</p> <p><b>Location</b>: Google Reston, 1875 Explorer St. Suite 1000. Reston, VA 20190</p> <p><b>Agenda</b>:\u00a0</p> <p>6:00 - 6:30 PM Networking and Pizza!</p> <p>6:30 - 7:30 <a href=\"http://kubernetes.io/\">Kubernetes</a> Talk and Demo - David Aronchick - \u00a0Lead Product Manager for Kubernetes project</p> <p>7:00 - 8:00 Post Event Networking\u00a0</p> <p>Please make sure to Fill the First and Last Name to gain access to the building</p> <p><b>Abstract</b>:</p> <p>Want to run containers at scale in the same way that Google does? In 2014, Google released Kubernetes, the open source container orchestration tool built on the same concepts they use to manage the largest public infrastructure deployment in the world - their own.\u00a0</p> <p>Almost\u00a0two years later, Kubernetes is a mature, sophisticated and, dare we say, easy to use orchestration solution. Come hear David Aronchick, lead product manager for Kubernetes project, and a core engineer on Kubernetes team, talk about the present (and future) of Kubernetes, and how to use it to solve development and business blockers.</p> <p><b>Speaker</b>:\u00a0David Aronchick - \u00a0Lead Product Manager for Kubernetes project</p> <p><a href=\"https://twitter.com/aronchick\">@aronchick</a>\u00a0</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/9/3/0/4/600_449617636.jpeg\" /></p> <p>\n\n\n\n\n\nPlease make sure to Fill the First and Last Name to gain access to the building.</p> <p><b>Sponsors</b>: Google Cloud Platform\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/5/8/8/7/600_448582663.jpeg\" /></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/230842775/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Kubernetes, Containers, Google Cloud Platform, Google, Microservices", 
+            "id": "230842775", 
+            "maybe_rsvp_count": 0, 
+            "name": "State of Kubernetes Containers with demos", 
+            "rsvp_limit": 100, 
+            "status": "upcoming", 
+            "time": 1463695200000, 
+            "updated": 1462291481000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1875 Explorer St", 
+                "city": "Reston", 
+                "country": "us", 
+                "id": 24459459, 
+                "lat": 38.958297999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.360236999999998, 
+                "name": "Google Reston", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 36
+        }, 
+        {
             "created": 1459862658000, 
             "description": "<p>Interested in transitioning into a career in tech? Not sure what options are available to you? Worried about whether you can succeed in a new area? Come to an evening of discussions with women who have been there and done that. Hear their personal transition stories and let them answer any questions about career transitions and careers in tech that you have.</p> <p>6:15pm \u2013 Arrive and network!</p> <p>6:30pm \u2013 Panel</p> <p>7:00pm \u2013 Breakout into small groups with a panelist</p> <p>7:45 \u2013 Come back together and share insights</p> <p>PBS is located approximately a block from the Crystal City Metro Station (Yellow/Blue), in the back of 2100 Crystal Drive.\u00a0Drinks and snacks will be provided.</p> <p>More details to come!</p>", 
             "duration": 6300000, 
@@ -746,7 +800,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 45, 
+            "waitlist_count": 46, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -776,6 +830,83 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 10
+        }, 
+        {
+            "created": 1462296213000, 
+            "description": "<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur and app developer who has led technology projects for high-profile clients including Disney, Wal-Mart, Mobil Oil, Cirque du Soleil, and Hotel Monaco.</i></b></p> <p><br/><b>About Charlyn:</b><br/>-Charlyn is a published author, speaker, and television and video host, she organized and hosted last year's hugely successful Appreneur Summit, an international online conference for independent app and game developers.</p> <p>\n\n-Charlyn is a theme park aficionado who's currently hard at work building an extensive and magical app portfolio for Disney World vacationers.</p> <p><br/><b>Event Details</b></p> <p><br/><b>Members will get a chance to ask her anything related to:</b><br/>-App Development<br/>-Marketing &amp; Social Media<br/>-Mobile Programming</p> <p>\n\n<b>How do I sign up?</b><br/>-Request to join our Slack channel: <a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a><br/>-Join the #ama channel<br/>-Tweet using #AppreneurAMA</p> <p>\n\n<b>Schedule</b><br/>-Tuesday May 24 @ 12:00PM EST: We will kick off the event and you can start asking your questions<br/>-Wednesday May 25 @ 12:00PM EST: We will remind members to ask their final questions by 9:00PM<br/>-Thursday May 26 @ 5:00PM EST: End of the AMA</p> <p>\n\nDuring this period Charlyn will answer your questions. Members are welcome to post questions at any point during the AMA from noon Tuesday to 9:00pm EST Wednesday.</p> <p>\n\nThis event is for everyone, and may be really helpful for aspiring entrepreneurs, developers, those interested in building an app and those interested in the app development process. Come join us on slack.</p>", 
+            "duration": 190800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230845176/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "230845176", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ask Me Anything! with Charlyn Keating (Entrepreneur and App Developer)", 
+            "status": "upcoming", 
+            "time": 1464105600000, 
+            "updated": 1462296415000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Slack", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24125305, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Online", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1462278675000, 
+            "description": "<p><b>Women in Data Science II -\u00a0</b>Nearly two years ago, we held an event featuring 3 fantastic and female speakers, all data science leaders in academia, industry, and startups with the goal of hosting a technical meetup with more than 50% female attendance. Based on the resounding success of this first event, we had to host a second one but, this time, we are doing so with the new meetup group, Women Data Scientists DC!</p> <p>More speakers will be announced as we get closer to the event.</p> <p>\n\n\nSCHEDULE</p> <p><i>Please note that we will be using the same schedule as before to facilitate community interaction.</i></p> <p>6:00 PM - Doors open</p> <p>6:10 PM - Introductions</p> <p>6:15 PM - First Speaker</p> <p>6:45 PM - Intermission and Food</p> <p>7:00 PM - Second Speaker</p> <p>7:30 PM - Short Break</p> <p>7:35 PM - Third Speaker</p> <p><b><br/></b></p> <p><b>SPEAKERS</b></p> <p><b>Dr. Marie desJardins</b> is the Associate Dean for Academic Affairs in the College of Engineering and Information Technology (COEIT) at the University of Maryland, Baltimore County (UMBC).\u00a0 She is also a Professor in UMBC\u2019s Department of Computer Science and Electrical Engineering, where she has been a member of the faculty since 2001.\u00a0 She was a[masked] American Council of Education Fellow, the[masked] UMBC Presidential Teaching Professor, and an inaugural Hrabowski Academic Innovation Fellow.\u00a0 Her research is in artificial intelligence, focusing on the areas of machine learning, multi-agent systems, planning, iand nteractive AI techniques.\u00a0 Current research projects include learning in the context of planning and decision making, analyzing and visualizing uncertainty in machine learning, trust modeling in multiagent systems, and intelligent tutoring systems for learning to program.</p> <p>She is also highly visible in the state-level and national computing education community, focusing on K-12 computing curricula, diversity and inclusion in computing, innovative pedagogical methods.\u00a0 She currently leads the NSF-funded \u201cCS Matters in Maryland\u201d project to develop curriculum and teacher training for the new AP CS Principles course, serves as lead PI for the Maryland team on the Expanding Computing Education Alliance, chairs the Maryland Computing Education Steering Committee, and serves as the university liaison for the Maryland chapter of the Computer Science Teachers Association.</p> <p>Dr. desJardins received her Ph.D. in 1992 from the University of California, Berkeley.\u00a0 Her dissertation research focused on developing techniques to allow autonomous agents to learn useful models of their environments without being supervised by a human designer.\u00a0 From[masked], she was a member of the research staff at SRI International in Menlo Park, California.\u00a0 Her research there focused primarily on autonomous and mixed-initiative methods for planning, learning, and multi-agent systems.</p> <p>Dr. desJardins has published over 120 scientific papers in journals, conferences, and workshops.\u00a0 She is an Associate Editor of the Journal of Artificial Intelligence Research, is a member of the editorial board of AI Magazine, and was the Program Cochair for AAAI-13.\u00a0 She has previously served as AAAI Liaison to the Board of Directors of the Computing Research Association, Vice-Chair of ACM's SIGART, and AAAI Councillor. She is an ACM Distinguished Member, a AAAI Senior Member, a member and former chair of UMBC's Honors College Advisory Board, the former chair of UMBC's Faculty Affairs Committee, and a member of the advisory board for UMBC's Center for Women in Technology.</p> <p>Dr. desJardins is active in teaching, mentoring, and advising students.\u00a0 She received the 2014 NCWIT Undergraduate Research Mentoring Award and the 2016 CRA Undergraduate Research Faculty Mentoring Award.\u00a0 She was named one of UMBC's ten \"Professors Not to Miss\" in 2011, and is regularly sought out to give invited talks to student groups.\u00a0 She has been involved with the AAAI/SIGART Doctoral Consortium as chair, co-chair, mentor, and/or reviewer annually since 2000.\u00a0 She has advised three postdoctoral researchers, 13 Ph.D. students (11 to completion), 27 M.S. students (24 to completion), over 70 undergraduate researchers, and four high school student interns.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Innovation-DC/events/230838507/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Innovation-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "230838507", 
+            "maybe_rsvp_count": 0, 
+            "name": "Women in Data Science II", 
+            "status": "upcoming", 
+            "time": 1464127200000, 
+            "updated": 1462278675000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "640 Massachusetts Ave Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 20556562, 
+                "lat": 38.901859000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.020995999999997, 
+                "name": "Georgetown University School of Continuing Studies", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1459265642000, 
@@ -870,7 +1001,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1459265642000, 
@@ -925,7 +1056,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446219481000, 
@@ -953,7 +1084,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1326383071000, 
@@ -1073,34 +1204,6 @@
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvjbkb/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvjbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1465338600000, 
-            "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
             "created": 1417881835000, 
             "description": "<p><b>Data, privacy, and application design</b></p> <p><br/>When dealing with research data, you have to be careful to protect user privacy. This can make it difficult to get hold of good data for testing. Truth Initiative has written a system for migrating sensitive data that protects user privacy while preserving useful properties for testing. We'll walk through the design of the system and how we met some of the challenges in building it.</p> <p><br/><b>Our Speaker</b></p> <p><br/>Matt Bowen is a senior software engineer at Truth Initiative, where he writes software to study better ways to help people quit smoking. He's also the vice president of DC Python's board.</p>", 
             "duration": 9000000, 
@@ -1177,7 +1280,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
