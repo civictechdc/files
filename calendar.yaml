@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 other:
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -84,7 +84,7 @@ other:
     name: New York Code & Design Academy, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 26
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -116,11 +116,17 @@ other:
     name: New York Code & Design Academy, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 35
 - created: 1326383071000
-  description: <p>On the first Wednesday of the month, we'll gather to socialize,
-    network, and hear about the work people are doing with maps, GIS, geodata, and
-    more.</p>
+  description: '<p>This month, we celebrate Earth Day by bringing Sophia Liu to talk
+    about ongoing projects at USGS as well as a special guest from NPS to discuss
+    the upcoming BioBlitz!</p> <p>
+
+
+
+
+    Join us for some environmental geo-goodness and a presentation jam packed with
+    cool projects.</p>'
   event_url: http://www.meetup.com/Geo-DC/events/229302665/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -128,17 +134,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcyvhbgb
   maybe_rsvp_count: 0
-  name: Monthly Meetup
+  name: 'GeoDC May Meetup: Earth Day'
   status: upcoming
   time: 1462402800000
-  updated: 1446214010000
+  updated: 1462379701000
   utc_offset: -14400000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1461681351000
   description: "<p>For our May Data Science DC Meetup, we are excited to interact\
     \ with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\_\
@@ -216,7 +222,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 349
+  yes_rsvp_count: 363
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -264,7 +270,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -416,7 +422,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1461086179000
   description: "<p>Are you just starting to learn Rails and aren't really sure what\
     \ tutorials are talking about with the words \"model\" \"view\" and \"controller\"\
@@ -465,7 +471,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1459084254000
   description: "<p>Please join us for May's event featuring Kent Graziano discussing\
     \ how agile methods can be used for business intelligence projects.</p> <p><b>Agenda</b></p>\
@@ -520,7 +526,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 87
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -562,7 +568,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 67
 - created: 1462203683000
   description: "<p><b>It's been a while since we did something on Go! Let's do a Go\
     \ Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p>\
@@ -760,7 +766,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 2
 - created: 1460936672000
   description: <p>TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/230450427/
@@ -819,7 +825,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 73
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
     \ options are available to you? Worried about whether you can succeed in a new\
@@ -849,7 +855,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 47
+  waitlist_count: 46
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -948,7 +954,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1462278675000
   description: "<p><b>Women in Data Science II -\_</b>Nearly two years ago, we held\
     \ an event featuring 3 fantastic and female speakers, all data science leaders\
@@ -1022,7 +1028,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 39
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1243,7 +1249,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }
     ], 
     "other": [
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1446219481000, 
@@ -119,11 +119,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>This month, we celebrate Earth Day by bringing Sophia Liu to talk about ongoing projects at USGS as well as a special guest from NPS to discuss the upcoming BioBlitz!</p> <p>\n\n\n\nJoin us for some environmental geo-goodness and a presentation jam packed with cool projects.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/229302665/", 
             "group": {
                 "created": 1307975249000, 
@@ -139,10 +139,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcyvhbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "GeoDC May Meetup: Earth Day", 
             "status": "upcoming", 
             "time": 1462402800000, 
-            "updated": 1446214010000, 
+            "updated": 1462379701000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -158,7 +158,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1461681351000, 
@@ -197,7 +197,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 349
+            "yes_rsvp_count": 363
         }, 
         {
             "created": 1457035881000, 
@@ -224,7 +224,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1459265642000, 
@@ -356,7 +356,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1461086179000, 
@@ -383,7 +383,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1459084254000, 
@@ -424,7 +424,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1417881835000, 
@@ -464,7 +464,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1462203683000, 
@@ -615,7 +615,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1460936672000, 
@@ -682,7 +682,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1459862658000, 
@@ -721,7 +721,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 47, 
+            "waitlist_count": 46, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -789,7 +789,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1462278675000, 
@@ -827,7 +827,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -1005,7 +1005,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
