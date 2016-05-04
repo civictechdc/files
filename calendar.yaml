@@ -39,74 +39,8 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 other:
-- created: 1461894647000
-  description: "<p>It's May, the unofficial month of RESTFUL web services!* \_So,\
-    \ let's come together and hear some good API talks. \_ \_</p> <p>There'll be plenty\
-    \ of good food and good drink to go along with the all of the solid folks who'll\
-    \ be there, so go ahead and mark the first Tuesday of the month on your calendar.\
-    \ \_See you soon! \_</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm\
-    \ - 6:55pm Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p>\
-    \ <p>*\_Duane Taylor - Blue State Digital<br/>* Steffen Gates - CTAC<br/>* Mike\
-    \ Moore - CA Technologies<br/>* TBA\_</p> <p><br/>7:55pm - 8:00pm Refill your\
-    \ beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>\
-    \ <p><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p> <p>* Unknown citation. \_</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/230733526/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '230733526'
-  maybe_rsvp_count: 0
-  name: DC API User Group - May Edition
-  status: upcoming
-  time: 1462312800000
-  updated: 1462196428000
-  utc_offset: -14400000
-  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
-    id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
-    name: CHIEF, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 64
-- created: 1459265642000
-  description: '<p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p>
-
-
-
-    Today we will be working on a resume app. So bring you laptops and let''s have
-    some fun!</p> <p><br/>Resources</p> <p>Beginners should check out our <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It''s chock full of information to get you up and running.
-    It is a work in progress and we''ll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can''t Come This Week, but Want to Stay
-    in Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>'
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230502283/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvhbfb
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1462314600000
-  updated: 1462301596000
-  utc_offset: -14400000
-  venue: {address_1: 901 G St NW, city: Washington, country: us, id: 679273, lat: 38.898738999999999,
-    localized_country_name: USA, lon: -77.024225999999999, name: MLK Library, repinned: false,
-    state: DC, zip: '20001'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 3
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -182,7 +116,7 @@ other:
     name: New York Code & Design Academy, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 39
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -282,7 +216,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 305
+  yes_rsvp_count: 349
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -330,7 +264,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -586,7 +520,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -628,7 +562,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1462203683000
   description: "<p><b>It's been a while since we did something on Go! Let's do a Go\
     \ Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p>\
@@ -666,7 +600,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 61
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -709,7 +643,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -885,7 +819,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 64
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
     \ options are available to you? Worried about whether you can succeed in a new\
@@ -1014,7 +948,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 17
 - created: 1462278675000
   description: "<p><b>Women in Data Science II -\_</b>Nearly two years ago, we held\
     \ an event featuring 3 fantastic and female speakers, all data science leaders\
@@ -1088,7 +1022,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 37
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1209,7 +1143,7 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 67
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1331,7 +1265,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1415,6 +1349,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvjbkb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvjbkb
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1465338600000
+  updated: 1459265764000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1417881835000
   description: <p><b>Data, privacy, and application design</b></p> <p><br/>When dealing
     with research data, you have to be careful to protect user privacy. This can make
