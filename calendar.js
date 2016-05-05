@@ -38,13 +38,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }
     ], 
     "other": [
         {
             "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "description": "<p>Notes for tonight: <a href=\"https://shrib.com/0Pzxje2ml5Nvt9f?w=728&amp;v=md\" class=\"linkified\">https://shrib.com/0Pzxje2ml5Nvt9f?w=728&amp;v=md</a></p> <p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p><br/>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229579375/", 
             "group": {
@@ -63,7 +63,7 @@ calendar({
             "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1462401000000, 
-            "updated": 1462201275000, 
+            "updated": 1462389812000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW, Room 100", 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1446219481000, 
@@ -123,7 +123,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>This month, we celebrate Earth Day by bringing Sophia Liu to talk about ongoing projects at USGS as well as a special guest from NPS to discuss the upcoming BioBlitz!</p> <p>\n\n\n\nJoin us for some environmental geo-goodness and a presentation jam packed with cool projects.</p>", 
+            "description": "<p>This month, we celebrate Earth Day by bringing speakers to talk about projects involving environmental geo!</p> <p>Sophia B Liu, an innovation specialist at the U.S. Geological Survey, will talk about the launching of CitizenScience.gov and some earthly citizen science projects at the USGS that you can participate in like Nature's Notebook, iCoast, Cricket Crawl, and a Critical Minerals project.</p> <p><br/>Peter Budde, the Branch Chief of the Biological Resources Division at the National Park Service in Fort Collins, CO, will talk about how NPS is celebrating it's 100th birthday with over 120 BioBlitzes happening across the country throughout 2016 with the cornerstone BioBlitz in the Washington, D.C. region starting on May 20-21.</p> <p>Join us for some environmental geo-goodness and a presentation jam packed with cool projects.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/229302665/", 
             "group": {
                 "created": 1307975249000, 
@@ -142,7 +142,7 @@ calendar({
             "name": "GeoDC May Meetup: Earth Day", 
             "status": "upcoming", 
             "time": 1462402800000, 
-            "updated": 1462379701000, 
+            "updated": 1462394413000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -158,7 +158,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1461681351000, 
@@ -197,7 +197,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 363
+            "yes_rsvp_count": 367
         }, 
         {
             "created": 1457035881000, 
@@ -224,7 +224,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1459265642000, 
@@ -252,7 +252,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459703387000, 
@@ -504,7 +504,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1457965726000, 
@@ -682,7 +682,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1459862658000, 
@@ -721,7 +721,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 46, 
+            "waitlist_count": 47, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -827,7 +827,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1459265642000, 
@@ -922,7 +922,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1459265642000, 
