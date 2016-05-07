@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 386
+            "yes_rsvp_count": 391
         }, 
         {
             "created": 1457035881000, 
@@ -222,7 +222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1446220149000, 
@@ -242,11 +242,11 @@ calendar({
             "headcount": 0, 
             "id": "bcxvllyvhbpb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
+            "name": "Let's talk about Data Types - Python Lab", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1463005800000, 
-            "updated": 1459264312000, 
+            "updated": 1462573219000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -358,7 +358,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1462203683000, 
@@ -398,7 +398,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1457965726000, 
@@ -522,7 +522,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1460936672000, 
@@ -589,7 +589,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1459862658000, 
@@ -628,7 +628,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 47, 
+            "waitlist_count": 48, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -842,7 +842,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1459265642000, 
