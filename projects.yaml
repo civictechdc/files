@@ -1,6 +1,6 @@
-- activity: [4, 0, 3, 3, 2, 6, 0, 0, 7, 3, 6, 10, 0, 3, 65, 15, 0, 2, 3, 0, 0, 0,
-    0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    2, 0, 0, 0]
+- activity: [4, 0, 3, 3, 4, 4, 0, 0, 8, 2, 7, 9, 0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0,
+    0, 1, 0, 0, 1, 0, 0, 2, 0, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -91,8 +91,8 @@
   pushed_at: '2016-04-11T01:45:08Z'
   short_name: districthousing
   size: 21831
-  updated_at: '2016-04-02T15:40:47Z'
-  watchers: 29
+  updated_at: '2016-05-08T17:22:19Z'
+  watchers: 30
 - activity: [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
     0, 0, 0]
@@ -173,8 +173,8 @@
   pushed_at: '2016-04-08T13:01:05Z'
   short_name: ancfinder
   size: 72056
-  updated_at: '2016-02-06T05:22:46Z'
-  watchers: 31
+  updated_at: '2016-05-08T17:22:22Z'
+  watchers: 32
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -208,8 +208,8 @@
   pushed_at: '2016-02-01T04:41:29Z'
   short_name: bikeshare-odds
   size: 1980
-  updated_at: '2016-02-09T21:08:06Z'
-  watchers: 11
+  updated_at: '2016-05-08T17:22:47Z'
+  watchers: 12
 - activity: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -256,8 +256,8 @@
   pushed_at: '2015-09-08T00:44:08Z'
   short_name: code-for-dc-edu
   size: 40005
-  updated_at: '2014-12-19T15:40:35Z'
-  watchers: 18
+  updated_at: '2016-05-08T17:23:04Z'
+  watchers: 19
 - activity: [6, 0, 2, 0, 0, 5, 1, 0, 20, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3,
     6, 2, 0, 0, 5, 1, 4, 11, 1, 6, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0,
     2, 0, 0]
@@ -484,8 +484,8 @@
   pushed_at: '2016-02-01T04:42:35Z'
   short_name: DCMetroMetrics
   size: 32313
-  updated_at: '2016-03-14T15:54:48Z'
-  watchers: 33
+  updated_at: '2016-05-08T17:22:42Z'
+  watchers: 34
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -611,8 +611,8 @@
   pushed_at: '2015-07-29T02:02:37Z'
   short_name: dc_community_gardens_visualization
   size: 576
-  updated_at: '2014-07-13T21:57:21Z'
-  watchers: 0
+  updated_at: '2016-05-08T17:23:07Z'
+  watchers: 1
 - activity: [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 4, 6,
     0, 0, 0, 2, 4, 1, 0, 8, 2, 3, 0, 1, 10, 0, 1, 0, 0, 2, 11, 19, 21, 5, 4, 36, 1,
     10, 5, 0, 6]
@@ -763,14 +763,14 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 22
+  open_issues: 23
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-05-07T22:09:25Z'
+  pushed_at: '2016-05-08T14:56:34Z'
   short_name: dc-campaign-finance-watch
   size: 110646
-  updated_at: '2016-05-03T12:47:26Z'
-  watchers: 16
+  updated_at: '2016-05-08T17:22:06Z'
+  watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -838,8 +838,8 @@
   pushed_at: '2014-09-25T18:56:39Z'
   short_name: dc-budget-treemap
   size: 725
-  updated_at: '2015-12-29T21:10:02Z'
-  watchers: 0
+  updated_at: '2016-05-08T17:23:13Z'
+  watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1042,8 +1042,8 @@
   pushed_at: '2016-02-01T04:45:01Z'
   short_name: booksfordc
   size: 3569
-  updated_at: '2016-03-20T01:10:06Z'
-  watchers: 20
+  updated_at: '2016-05-08T17:22:39Z'
+  watchers: 21
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1079,8 +1079,8 @@
   pushed_at: '2016-02-01T04:41:58Z'
   short_name: dcps-facilities
   size: 1259
-  updated_at: '2015-11-23T16:21:21Z'
-  watchers: 2
+  updated_at: '2016-05-08T17:22:44Z'
+  watchers: 3
 - activity: [36, 0, 53, 15, 1, 0, 27, 2, 24, 11, 6, 15, 0, 3, 4, 6, 0, 14, 66, 0,
     0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 32, 104, 2, 3,
     0, 0, 0, 0, 0, 0, 0]
@@ -1170,8 +1170,8 @@
   pushed_at: '2016-03-16T16:13:23Z'
   short_name: clean-slate
   size: 11912
-  updated_at: '2016-05-07T02:53:35Z'
-  watchers: 20
+  updated_at: '2016-05-08T17:22:25Z'
+  watchers: 21
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1206,8 +1206,8 @@
   pushed_at: '2016-02-01T04:31:20Z'
   short_name: whatsamata
   size: 3924
-  updated_at: '2015-05-19T23:30:44Z'
-  watchers: 1
+  updated_at: '2016-05-08T17:22:49Z'
+  watchers: 2
 - activity: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1342,8 +1342,8 @@
   pushed_at: '2016-02-01T04:29:14Z'
   short_name: mardc
   size: 216
-  updated_at: '2016-02-01T04:29:15Z'
-  watchers: 3
+  updated_at: '2016-05-08T17:22:55Z'
+  watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0,
     0, 0, 0]
@@ -1407,11 +1407,11 @@
   pushed_at: '2016-02-09T16:20:25Z'
   short_name: LegiTrackDC
   size: 1700
-  updated_at: '2016-04-18T19:14:42Z'
-  watchers: 1
+  updated_at: '2016-05-08T17:22:36Z'
+  watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
-    0, 10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40, 7, 10, 24, 0, 51, 45, 58, 18, 47, 79,
-    24, 51, 49, 20, 22, 39, 13]
+    0, 10, 0, 13, 9, 6, 0, 9, 2, 11, 2, 40, 7, 10, 24, 0, 51, 63, 40, 35, 74, 35,
+    46, 35, 45, 24, 31, 24, 13]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1491,8 +1491,8 @@
   pushed_at: '2016-05-07T21:10:40Z'
   short_name: dcaf_case_management
   size: 7625
-  updated_at: '2016-05-02T23:28:51Z'
-  watchers: 5
+  updated_at: '2016-05-08T17:22:09Z'
+  watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1582,8 +1582,8 @@
   pushed_at: '2016-05-02T23:43:20Z'
   short_name: school-modernization
   size: 17396
-  updated_at: '2016-04-27T00:48:20Z'
-  watchers: 5
+  updated_at: '2016-05-08T17:22:13Z'
+  watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1672,8 +1672,8 @@
   pushed_at: '2015-04-22T02:02:01Z'
   short_name: dcps-budget
   size: 1176
-  updated_at: '2016-04-05T14:06:36Z'
-  watchers: 2
+  updated_at: '2016-05-08T17:23:10Z'
+  watchers: 3
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1717,8 +1717,8 @@
   pushed_at: '2015-12-17T15:02:20Z'
   short_name: welcomewagon
   size: 3
-  updated_at: '2016-01-28T15:29:07Z'
-  watchers: 3
+  updated_at: '2016-05-08T17:22:58Z'
+  watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
