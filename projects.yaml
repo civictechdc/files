@@ -1081,9 +1081,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [36, 0, 53, 15, 1, 0, 27, 2, 24, 11, 6, 15, 0, 3, 4, 6, 0, 14, 66, 0,
-    0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 32, 104, 2, 3,
-    0, 0, 0, 0, 0, 0, 0]
+- activity: [36, 0, 53, 15, 1, 0, 27, 2, 26, 9, 6, 15, 0, 7, 0, 6, 0, 42, 38, 0, 0,
+    8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 33, 103, 2, 3, 0,
+    0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1435,7 +1435,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 467,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 485,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 76,
     link: 'https://github.com/ajohnson052', name: ajohnson052}

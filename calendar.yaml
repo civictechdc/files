@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 26
 other:
 - created: 1461681351000
   description: "<p>For our May Data Science DC Meetup, we are excited to interact\
@@ -118,7 +118,7 @@ other:
       Room 113', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 420
+  yes_rsvp_count: 429
 - created: 1457035881000
   description: "<p>Hi, everybody. We're doing our third tech talk of the year on May\
     \ 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p>\
@@ -295,7 +295,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -324,7 +324,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1461086179000
   description: "<p>Are you just starting to learn Rails and aren't really sure what\
     \ tutorials are talking about with the words \"model\" \"view\" and \"controller\"\
@@ -428,7 +428,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 111
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -470,7 +470,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 94
 - created: 1462203683000
   description: "<p><b>It's been a while since we did something on Go! Let's do a Go\
     \ Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p>\
@@ -508,7 +508,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 84
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -642,7 +642,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -760,7 +760,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 52
+  waitlist_count: 53
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -933,7 +933,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
