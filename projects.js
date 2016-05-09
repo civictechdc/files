@@ -834,7 +834,7 @@ projects([
     }, 
     {
         "activity": [
-            6, 
+            1, 
             0, 
             2, 
             0, 
@@ -865,8 +865,8 @@ projects([
             1, 
             4, 
             11, 
-            1, 
-            6, 
+            3, 
+            4, 
             4, 
             0, 
             1, 
@@ -2000,8 +2000,8 @@ projects([
             2, 
             7, 
             1, 
-            4, 
-            6, 
+            8, 
+            2, 
             0, 
             0, 
             0, 
@@ -2020,17 +2020,17 @@ projects([
             0, 
             0, 
             2, 
-            11, 
-            19, 
-            21, 
-            5, 
+            16, 
+            28, 
+            7, 
+            6, 
+            3, 
+            37, 
+            6, 
             4, 
-            36, 
+            7, 
             1, 
-            10, 
-            5, 
-            0, 
-            6
+            14
         ], 
         "ci": {
             "codeclimate": false, 
@@ -2042,13 +2042,13 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 130, 
+                "contributions": 131, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7241408?v=3", 
-                "contributions": 41, 
+                "contributions": 51, 
                 "link": "https://github.com/romoy", 
                 "name": "romoy"
             }, 
@@ -2302,7 +2302,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                11050004
+                11021065
             ], 
             [
                 "CSS", 
@@ -2324,16 +2324,16 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 23, 
+        "open_issues": 21, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-05-08T14:56:34Z", 
+        "pushed_at": "2016-05-08T20:20:53Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 110646, 
+        "size": 113977, 
         "updated_at": "2016-05-08T17:22:06Z", 
         "watchers": 17
     }, 
@@ -2790,7 +2790,7 @@ projects([
     }, 
     {
         "activity": [
-            1, 
+            0, 
             0, 
             0, 
             0, 
@@ -2916,8 +2916,8 @@ projects([
             0, 
             2, 
             0, 
-            7, 
-            1, 
+            8, 
+            0, 
             0, 
             0, 
             0, 
@@ -3067,16 +3067,16 @@ projects([
             0, 
             0, 
             0, 
-            2, 
+            3, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             1, 
             0, 
-            0, 
-            0, 
-            0, 
-            1, 
-            0, 
-            0, 
-            17, 
+            3, 
+            14, 
             0, 
             0, 
             0, 
@@ -4014,17 +4014,17 @@ projects([
             0, 
             16, 
             0, 
-            17, 
-            15, 
-            4, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
+            25, 
+            10, 
             1, 
-            4, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -4178,8 +4178,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            4, 
+            2, 
+            2, 
             0, 
             0, 
             0, 
@@ -4488,7 +4488,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 463, 
+                "contributions": 467, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4529,16 +4529,16 @@ projects([
                 "name": "charleshuang80"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/13918431?v=3", 
+                "contributions": 9, 
+                "link": "https://github.com/CamLatimer", 
+                "name": "CamLatimer"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3891862?v=3", 
                 "contributions": 6, 
                 "link": "https://github.com/rebeccaestes", 
                 "name": "rebeccaestes"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
-                "contributions": 5, 
-                "link": "https://github.com/cmgiven", 
-                "name": "cmgiven"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7366046?v=3", 
@@ -4547,16 +4547,22 @@ projects([
                 "name": "ashlynnpai"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/cmgiven", 
+                "name": "cmgiven"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4694248?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/ewiggins", 
+                "name": "ewiggins"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12372787?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/adinneen", 
                 "name": "adinneen"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/13918431?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/CamLatimer", 
-                "name": "CamLatimer"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7883907?v=3", 
@@ -4583,7 +4589,7 @@ projects([
                 "name": "RAGarza8"
             }
         ], 
-        "contributors_count": 16, 
+        "contributors_count": 17, 
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
@@ -4595,11 +4601,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                90628
+                93091
             ], 
             [
                 "HTML", 
-                56947
+                57351
             ], 
             [
                 "CSS", 
@@ -4622,16 +4628,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 62, 
+        "open_issues": 59, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-05-07T21:10:40Z", 
+        "pushed_at": "2016-05-08T23:54:53Z", 
         "short_name": "dcaf_case_management", 
-        "size": 7625, 
+        "size": 7632, 
         "updated_at": "2016-05-08T17:22:09Z", 
         "watchers": 6
     }, 
@@ -4759,21 +4765,21 @@ projects([
             4, 
             0, 
             10, 
-            10, 
-            27, 
-            17, 
-            23, 
-            21, 
-            13, 
-            53, 
-            20, 
-            21, 
+            12, 
+            25, 
+            22, 
             18, 
-            6, 
-            13, 
-            36, 
+            21, 
             17, 
-            26, 
+            53, 
+            16, 
+            24, 
+            15, 
+            6, 
+            18, 
+            31, 
+            23, 
+            20, 
             10, 
             11, 
             3, 
@@ -5491,8 +5497,8 @@ projects([
             0, 
             0, 
             7, 
-            1, 
-            3, 
+            4, 
+            0, 
             0, 
             4, 
             0, 
