@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }
     ], 
     "other": [
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 429
+            "yes_rsvp_count": 439
         }, 
         {
             "created": 1457035881000, 
@@ -150,7 +150,7 @@ calendar({
         }, 
         {
             "created": 1459703387000, 
-            "description": "<p><b>OVERVIEW</b></p> <p><br/>Stop doing website redesigns!\u00a0</p> <p>Join the Web Content Mavens and learn how to to make incremental and iterative changes to your site instead.</p> <p>The event will cover 3 main points:</p> <p>\u00a0 * The benefits of making interative changes.</p> <p>\u00a0 * How to set up an iterative process in your organization including methods for identifying, managing and testing site updates.</p> <p>\u00a0 * How to apply this model to immediate issues as well as larger, structural changes to your website.</p> <p><b>AGENDA</b></p> <p>We will begin at 6:30 with light appetizers and drinks, followed by presentations at 7:00. After Q&amp;A, we will have another 20 minutes of networking.</p> <p><b>SPEAKERS</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/2/b/600_448762571.jpeg\" /></p> <p><b>Tim Maxey</b>,\u00a0Senior Director of IT at\u00a0ARVO (Association for Research in Vision and Ophthalmology)</p> <p>Tim Maxey is the Sr. Director of Information Technology for the Association for Research in Vision and Ophthalmology. With over 20 years working in the not-for-profit industry, his expertise spans a broad range of technologies including infrastructure, security, web presence, project management, database management, application development, and financial management for multiple associations.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/7/3/600_448762643.jpeg\" /></p> <p><b>Frank Klassen</b>, CEO at Brightfind\u00a0</p> <p>Frank is the CEO of Brightfind, where he is responsible for executing on the vision of the company \u2013 to be a nationally recognized creator of digital experiences that deliver provable value to our clients\u2019 customers. Prior to Brightfind, Frank was the VP of Web Technology for Syscom Services. He has more than three decades of experience in the implementation of information system technologies in a wide variety of business environments, for both private and public sector companies. For the last 20 years, Frank has been focused on helping organizations utilize the web to address critical business processes and increase customer engagement.\u00a0 His current passions are in the areas of Taxonomy, Search, Findability, and Web User Experience Design.</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/9/d/a/600_448763002.jpeg\" /></p> <p>Brightfind (<a href=\"http://www.brightfind.com/\">www.brightfind.com</a>) is a specialized digital design and web development agency. We create outstanding experiences for organizations with deep, complex content.\u00a0Every experience we create is designed to address unique audiences, achieve specific goals, and engage visitors through personalization. Our clients enjoy the freedom of informed decision making.</p> <p>We\u2019re hiring User Experience Designers, Project Managers, Front-end and Back-end Developers. Visit our\u00a0<a href=\"http://bit.ly/1Kg4bMO\">Careers page</a>\u00a0to view open positions and apply.</p>", 
+            "description": "<p><b>IMPORTANT REMINDER: All registration is through <a href=\"https://www.eventbrite.com/e/stop-redesigning-start-enhancing-your-website-tickets-24378513791\">Eventbrite</a>. Meetup is not a registration.</b></p> <p><b>OVERVIEW</b></p> <p><br/>Stop doing website redesigns!\u00a0</p> <p>Join the Web Content Mavens and learn how to to make incremental and iterative changes to your site instead.</p> <p>The event will cover 3 main points:</p> <p>\u00a0 * The benefits of making interative changes.</p> <p>\u00a0 * How to set up an iterative process in your organization including methods for identifying, managing and testing site updates.</p> <p>\u00a0 * How to apply this model to immediate issues as well as larger, structural changes to your website.</p> <p><b>AGENDA</b></p> <p>We will begin at 6:30 with light appetizers and drinks, followed by presentations at 7:00. After Q&amp;A, we will have another 20 minutes of networking.</p> <p><b>SPEAKERS</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/2/b/600_448762571.jpeg\" /></p> <p><b>Tim Maxey</b>,\u00a0Senior Director of IT at\u00a0ARVO (Association for Research in Vision and Ophthalmology)</p> <p>Tim Maxey is the Sr. Director of Information Technology for the Association for Research in Vision and Ophthalmology. With over 20 years working in the not-for-profit industry, his expertise spans a broad range of technologies including infrastructure, security, web presence, project management, database management, application development, and financial management for multiple associations.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/7/3/600_448762643.jpeg\" /></p> <p><b>Frank Klassen</b>, CEO at Brightfind\u00a0</p> <p>Frank is the CEO of Brightfind, where he is responsible for executing on the vision of the company \u2013 to be a nationally recognized creator of digital experiences that deliver provable value to our clients\u2019 customers. Prior to Brightfind, Frank was the VP of Web Technology for Syscom Services. He has more than three decades of experience in the implementation of information system technologies in a wide variety of business environments, for both private and public sector companies. For the last 20 years, Frank has been focused on helping organizations utilize the web to address critical business processes and increase customer engagement.\u00a0 His current passions are in the areas of Taxonomy, Search, Findability, and Web User Experience Design.</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/9/d/a/600_448763002.jpeg\" /></p> <p>Brightfind (<a href=\"http://www.brightfind.com/\">www.brightfind.com</a>) is a specialized digital design and web development agency. We create outstanding experiences for organizations with deep, complex content.\u00a0Every experience we create is designed to address unique audiences, achieve specific goals, and engage visitors through personalization. Our clients enjoy the freedom of informed decision making.</p> <p>We\u2019re hiring User Experience Designers, Project Managers, Front-end and Back-end Developers. Visit our\u00a0<a href=\"http://bit.ly/1Kg4bMO\">Careers page</a>\u00a0to view open positions and apply.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/230094518/", 
             "group": {
                 "created": 1189804715000, 
@@ -168,7 +168,7 @@ calendar({
             "name": "Stop Redesigning! Start Enhancing Your Website Instead.", 
             "status": "upcoming", 
             "time": 1462921200000, 
-            "updated": 1462499802000, 
+            "updated": 1462816705000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW (8th Floor)", 
@@ -184,7 +184,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1451511413000, 
@@ -222,7 +222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1446220149000, 
@@ -250,7 +250,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1461086179000, 
@@ -318,7 +318,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1417881835000, 
@@ -358,7 +358,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1462203683000, 
@@ -398,7 +398,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1457965726000, 
@@ -468,6 +468,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1462802168000, 
+            "description": "<p>This month we are joining several Maptime chapters around the world who are participating in Missing Maps mapathons.\u00a0</p> <p><a href=\"http://www.missingmaps.org/\">Missing Maps\u00a0</a>is a humanitarian mapping project with the objective to\u00a0map the most vulnerable places in the developing world, in order that international and local NGOs and individuals can use the maps and data to better respond to crises affecting the areas. We will be mapping areas where the data is literally missing from <a href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\u00a0</p> <p>Mapping beginners are welcome! If you are new to OSM and have time before the mapathon, there are <a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a> to provide some background. At the start of the mapathon we will be going through a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up to speed.\u00a0</p> <p>Please bring a laptop. If you have one, external mouses are handy for easier mapping. Pizza will be provided for all mappers (thanks to Missing Maps!).\u00a0</p> <p>Name badges are required for this mapathon, so please RSVP through Meetup. See you there!\u00a0</p>", 
+            "event_url": "http://www.meetup.com/Maptime-DC/events/230987954/", 
+            "group": {
+                "created": 1399208438000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 14258282, 
+                "join_mode": "open", 
+                "name": "Maptime DC", 
+                "urlname": "Maptime-DC", 
+                "who": "Map hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "There will be someone in the lobby waiting to escort groups up to the Disaster Operations Center. If not, call 202 594 4892.", 
+            "id": "230987954", 
+            "maybe_rsvp_count": 0, 
+            "name": "Missing Maps Mapathon!", 
+            "rsvp_limit": 75, 
+            "status": "upcoming", 
+            "time": 1463524200000, 
+            "updated": 1462802183000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2025 E St NW ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23605627, 
+                "lat": 38.896427000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.045806999999996, 
+                "name": "American Red Cross", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1461085600000, 
@@ -548,7 +588,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1462290789000, 
@@ -570,10 +610,10 @@ calendar({
             "id": "230842775", 
             "maybe_rsvp_count": 0, 
             "name": "State of Kubernetes Containers with demos", 
-            "rsvp_limit": 100, 
+            "rsvp_limit": 110, 
             "status": "upcoming", 
             "time": 1463695200000, 
-            "updated": 1462291481000, 
+            "updated": 1462803215000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Explorer St", 
@@ -589,7 +629,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1459862658000, 
@@ -628,7 +668,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 53, 
+            "waitlist_count": 57, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -696,7 +736,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1462278675000, 
@@ -938,7 +978,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
@@ -1018,6 +1058,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 14
+        }, 
+        {
+            "created": 1462803391000, 
+            "description": "<p>June is here! \u00a0With the <a href=\"https://hackforchangedc.splashthat.com/\">National Day of Civic</a> occurring just a few days before, we'll have plenty of things to talk about at the DC API meetup. \u00a0</p> <p>As always, we'll have good food and drink to go with the great presentations and conversation, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you then! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0TJ Stalcup - Wealth Engine\u00a0<br/>* Gary Schaetz - Dept. of the Treasury<br/>* Greg Rudl - ICA Language Services<br/>* TBA\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/230988286/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "230988286", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - June Edition", 
+            "status": "upcoming", 
+            "time": 1465336800000, 
+            "updated": 1462803409000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1451511461000, 
