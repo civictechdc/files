@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }
     ], 
     "other": [
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 439
+            "yes_rsvp_count": 455
         }, 
         {
             "created": 1457035881000, 
@@ -106,7 +106,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1459265642000, 
@@ -146,7 +146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459703387000, 
@@ -184,7 +184,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1451511413000, 
@@ -222,7 +222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1446220149000, 
@@ -250,7 +250,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1461086179000, 
@@ -318,7 +318,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1417881835000, 
@@ -358,7 +358,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1462203683000, 
@@ -398,7 +398,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1457965726000, 
@@ -471,7 +471,7 @@ calendar({
         }, 
         {
             "created": 1462802168000, 
-            "description": "<p>This month we are joining several Maptime chapters around the world who are participating in Missing Maps mapathons.\u00a0</p> <p><a href=\"http://www.missingmaps.org/\">Missing Maps\u00a0</a>is a humanitarian mapping project with the objective to\u00a0map the most vulnerable places in the developing world, in order that international and local NGOs and individuals can use the maps and data to better respond to crises affecting the areas. We will be mapping areas where the data is literally missing from <a href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\u00a0</p> <p>Mapping beginners are welcome! If you are new to OSM and have time before the mapathon, there are <a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a> to provide some background. At the start of the mapathon we will be going through a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up to speed.\u00a0</p> <p>Please bring a laptop. If you have one, external mouses are handy for easier mapping. Pizza will be provided for all mappers (thanks to Missing Maps!).\u00a0</p> <p>Name badges are required for this mapathon, so please RSVP through Meetup. See you there!\u00a0</p>", 
+            "description": "<p>This month we are joining several Maptime chapters around the world who are participating in Missing Maps mapathons.\u00a0</p> <p><a href=\"http://www.missingmaps.org/\">Missing Maps\u00a0</a>is a humanitarian mapping project with the objective to\u00a0map the most vulnerable places in the developing world, in order that international and local NGOs and individuals can use the maps and data to better respond to crises affecting the areas. We will be mapping areas where the data is literally missing from <a href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\u00a0</p> <p>Mapping beginners are welcome! If you are new to OSM please <a href=\"https://www.openstreetmap.org/user/new\">sign up for an account</a> beforehand, and if you have some time before the mapathon, there are <a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a> to provide some background. At the start of the mapathon we will be going through a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up to speed.\u00a0</p> <p>Please bring a laptop. If you have one, external mouses are handy for easier mapping. Pizza will be provided for all mappers (thanks to Missing Maps!).\u00a0</p> <p>Name badges are required for this mapathon, so please RSVP through Meetup. See you there!\u00a0</p>", 
             "event_url": "http://www.meetup.com/Maptime-DC/events/230987954/", 
             "group": {
                 "created": 1399208438000, 
@@ -491,7 +491,7 @@ calendar({
             "rsvp_limit": 75, 
             "status": "upcoming", 
             "time": 1463524200000, 
-            "updated": 1462802183000, 
+            "updated": 1462824365000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2025 E St NW ", 
@@ -507,7 +507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1461085600000, 
@@ -629,7 +629,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1459862658000, 
@@ -668,7 +668,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 57, 
+            "waitlist_count": 59, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -774,7 +774,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1459265642000, 
@@ -882,7 +882,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1459265642000, 
@@ -1095,7 +1095,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1451511461000, 
@@ -1114,10 +1114,10 @@ calendar({
             "headcount": 0, 
             "id": "227724726", 
             "maybe_rsvp_count": 0, 
-            "name": "Round 32: NULL adhesive heresy", 
+            "name": "Round 33: NULL adhesive heresy", 
             "status": "upcoming", 
             "time": 1465338600000, 
-            "updated": 1451577876000, 
+            "updated": 1462828076000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "718 7th St NW", 
