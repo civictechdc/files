@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }
     ], 
     "other": [
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1451511413000, 
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1446220149000, 
@@ -184,7 +184,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1461086179000, 
@@ -211,7 +211,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459084254000, 
@@ -252,7 +252,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1417881835000, 
@@ -292,7 +292,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1462203683000, 
@@ -332,7 +332,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1457965726000, 
@@ -360,7 +360,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1459265642000, 
@@ -441,7 +441,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1461085600000, 
@@ -563,7 +563,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1459862658000, 
@@ -602,7 +602,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 60, 
+            "waitlist_count": 62, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -674,7 +674,7 @@ calendar({
         }, 
         {
             "created": 1462278675000, 
-            "description": "<p><b>Women in Data Science II -\u00a0</b>Nearly two years ago, we held an event featuring 3 fantastic and female speakers, all data science leaders in academia, industry, and startups with the goal of hosting a technical meetup with more than 50% female attendance. Based on the resounding success of this first event, we had to host a second one but, this time, we are doing so with the new meetup group, Women Data Scientists DC!</p> <p>More speakers will be announced as we get closer to the event.</p> <p>\n\n\nSCHEDULE</p> <p><i>Please note that we will be using the same schedule as before to facilitate community interaction.</i></p> <p>6:00 PM - Doors open</p> <p>6:10 PM - Introductions</p> <p>6:15 PM - First Speaker</p> <p>6:45 PM - Intermission and Food</p> <p>7:00 PM - Second Speaker</p> <p>7:30 PM - Short Break</p> <p>7:35 PM - Third Speaker</p> <p><b><br/></b></p> <p><b>SPEAKERS</b></p> <p><b>Dr. Marie desJardins</b> is the Associate Dean for Academic Affairs in the College of Engineering and Information Technology (COEIT) at the University of Maryland, Baltimore County (UMBC).\u00a0 She is also a Professor in UMBC\u2019s Department of Computer Science and Electrical Engineering, where she has been a member of the faculty since 2001.\u00a0 She was a[masked] American Council of Education Fellow, the[masked] UMBC Presidential Teaching Professor, and an inaugural Hrabowski Academic Innovation Fellow.\u00a0 Her research is in artificial intelligence, focusing on the areas of machine learning, multi-agent systems, planning, iand nteractive AI techniques.\u00a0 Current research projects include learning in the context of planning and decision making, analyzing and visualizing uncertainty in machine learning, trust modeling in multiagent systems, and intelligent tutoring systems for learning to program.</p> <p>She is also highly visible in the state-level and national computing education community, focusing on K-12 computing curricula, diversity and inclusion in computing, innovative pedagogical methods.\u00a0 She currently leads the NSF-funded \u201cCS Matters in Maryland\u201d project to develop curriculum and teacher training for the new AP CS Principles course, serves as lead PI for the Maryland team on the Expanding Computing Education Alliance, chairs the Maryland Computing Education Steering Committee, and serves as the university liaison for the Maryland chapter of the Computer Science Teachers Association.</p> <p>Dr. desJardins received her Ph.D. in 1992 from the University of California, Berkeley.\u00a0 Her dissertation research focused on developing techniques to allow autonomous agents to learn useful models of their environments without being supervised by a human designer.\u00a0 From[masked], she was a member of the research staff at SRI International in Menlo Park, California.\u00a0 Her research there focused primarily on autonomous and mixed-initiative methods for planning, learning, and multi-agent systems.</p> <p>Dr. desJardins has published over 120 scientific papers in journals, conferences, and workshops.\u00a0 She is an Associate Editor of the Journal of Artificial Intelligence Research, is a member of the editorial board of AI Magazine, and was the Program Cochair for AAAI-13.\u00a0 She has previously served as AAAI Liaison to the Board of Directors of the Computing Research Association, Vice-Chair of ACM's SIGART, and AAAI Councillor. She is an ACM Distinguished Member, a AAAI Senior Member, a member and former chair of UMBC's Honors College Advisory Board, the former chair of UMBC's Faculty Affairs Committee, and a member of the advisory board for UMBC's Center for Women in Technology.</p> <p>Dr. desJardins is active in teaching, mentoring, and advising students.\u00a0 She received the 2014 NCWIT Undergraduate Research Mentoring Award and the 2016 CRA Undergraduate Research Faculty Mentoring Award.\u00a0 She was named one of UMBC's ten \"Professors Not to Miss\" in 2011, and is regularly sought out to give invited talks to student groups.\u00a0 She has been involved with the AAAI/SIGART Doctoral Consortium as chair, co-chair, mentor, and/or reviewer annually since 2000.\u00a0 She has advised three postdoctoral researchers, 13 Ph.D. students (11 to completion), 27 M.S. students (24 to completion), over 70 undergraduate researchers, and four high school student interns.</p>", 
+            "description": "<p><b>Women in Data Science II -\u00a0</b>Nearly two years ago, we held an event featuring 3 fantastic and female speakers, all data science leaders in academia, industry, and startups with the goal of hosting a technical meetup with more than 50% female attendance. Based on the resounding success of this first event, we had to host a second one but, this time, we are doing so with the new meetup group, Women Data Scientists DC!</p> <p>More speakers will be announced as we get closer to the event.</p> <p>\n\n\nSCHEDULE</p> <p><i>Please note that we will be using the same schedule as before to facilitate community interaction.</i></p> <p>6:00 PM - Doors open</p> <p>6:10 PM - Introductions</p> <p>6:15 PM - First Speaker</p> <p>6:45 PM - Intermission and Food</p> <p>7:00 PM - Second Speaker</p> <p>7:30 PM - Short Break</p> <p>7:35 PM - Panel Discussion</p> <p><b><br/></b></p> <p><b>SPEAKERS</b></p> <p><b><br/></b></p> <p><b>Amy O\u2019Connor</b>\u00a0leads Cloudera's team\u00a0of vertical industry experts, business value consultants and principal\u00a0architects, and is the US\u00a0Telecommunications SME. She advises customers globally as they\u00a0introduce Big Data solutions\u00a0and\u00a0adopt enterprise-wide Big Data delivery capabilities. Amy was recently named by Information Management as one of the\u00a0\u201c<a href=\"http://www.information-management.com/gallery/Big-Data-Chief-Data-Officer-Experts-10026396-1.html\">10 Big Data Experts to Know</a>\u201d and \"<a href=\"http://www.informationweek.com/big-data/big-data-analytics/12-inspiring-women-in-data-science-big-data--/d/d-id/1325032?image_number=8\">12 Inspiring Women In Data Science, Big Data</a>\"\u00a0by Information Week. Prior to joining Cloudera, Amy built and ran Nokia\u2019s Big Data team, developing and managing Nokia\u2019s data asset and leading a team of data scientists to drive insights. Previously Amy was vice president of services marketing and also led strategy for the software and storage business units of Sun Microsystems.\u00a0Amy\u00a0has an extensive background in the Hadoop ecosystem, in building big data skills and teams, and in developing business-focused analytical use cases.\u00a0 She holds her M.B.A. from Northeastern University and her bachelor degrees in computer science and electrical engineering from the University of Connecticut.</p> <p>\n\n<b>Dr. Marie desJardins</b> is the Associate Dean for Academic Affairs in the College of Engineering and Information Technology (COEIT) at the University of Maryland, Baltimore County (UMBC).\u00a0 She is also a Professor in UMBC\u2019s Department of Computer Science and Electrical Engineering, where she has been a member of the faculty since 2001.\u00a0 She was a[masked] American Council of Education Fellow, the[masked] UMBC Presidential Teaching Professor, and an inaugural Hrabowski Academic Innovation Fellow.\u00a0 Her research is in artificial intelligence, focusing on the areas of machine learning, multi-agent systems, planning, iand nteractive AI techniques.\u00a0 Current research projects include learning in the context of planning and decision making, analyzing and visualizing uncertainty in machine learning, trust modeling in multiagent systems, and intelligent tutoring systems for learning to program.</p> <p>She is also highly visible in the state-level and national computing education community, focusing on K-12 computing curricula, diversity and inclusion in computing, innovative pedagogical methods.\u00a0 She currently leads the NSF-funded \u201cCS Matters in Maryland\u201d project to develop curriculum and teacher training for the new AP CS Principles course, serves as lead PI for the Maryland team on the Expanding Computing Education Alliance, chairs the Maryland Computing Education Steering Committee, and serves as the university liaison for the Maryland chapter of the Computer Science Teachers Association.</p> <p>Dr. desJardins received her Ph.D. in 1992 from the University of California, Berkeley.\u00a0 Her dissertation research focused on developing techniques to allow autonomous agents to learn useful models of their environments without being supervised by a human designer.\u00a0 From[masked], she was a member of the research staff at SRI International in Menlo Park, California.\u00a0 Her research there focused primarily on autonomous and mixed-initiative methods for planning, learning, and multi-agent systems.</p> <p>Dr. desJardins has published over 120 scientific papers in journals, conferences, and workshops.\u00a0 She is an Associate Editor of the Journal of Artificial Intelligence Research, is a member of the editorial board of AI Magazine, and was the Program Cochair for AAAI-13.\u00a0 She has previously served as AAAI Liaison to the Board of Directors of the Computing Research Association, Vice-Chair of ACM's SIGART, and AAAI Councillor. She is an ACM Distinguished Member, a AAAI Senior Member, a member and former chair of UMBC's Honors College Advisory Board, the former chair of UMBC's Faculty Affairs Committee, and a member of the advisory board for UMBC's Center for Women in Technology.</p> <p>Dr. desJardins is active in teaching, mentoring, and advising students.\u00a0 She received the 2014 NCWIT Undergraduate Research Mentoring Award and the 2016 CRA Undergraduate Research Faculty Mentoring Award.\u00a0 She was named one of UMBC's ten \"Professors Not to Miss\" in 2011, and is regularly sought out to give invited talks to student groups.\u00a0 She has been involved with the AAAI/SIGART Doctoral Consortium as chair, co-chair, mentor, and/or reviewer annually since 2000.\u00a0 She has advised three postdoctoral researchers, 13 Ph.D. students (11 to completion), 27 M.S. students (24 to completion), over 70 undergraduate researchers, and four high school student interns.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Data-Innovation-DC/events/230838507/", 
             "group": {
@@ -693,7 +693,7 @@ calendar({
             "name": "Women in Data Science II", 
             "status": "upcoming", 
             "time": 1464127200000, 
-            "updated": 1462278675000, 
+            "updated": 1462882558000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "640 Massachusetts Ave Nw", 
@@ -708,7 +708,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1459265642000, 
@@ -912,7 +912,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
@@ -991,7 +991,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1462803391000, 
@@ -1067,7 +1067,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1459265642000, 
