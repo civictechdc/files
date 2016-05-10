@@ -38,76 +38,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }
     ], 
     "other": [
-        {
-            "created": 1461681351000, 
-            "description": "<p>For our May Data Science DC Meetup, we are excited to interact with the <a href=\"http://healthdatapalooza.org/\">Health Datapalooza</a>!\u00a0Aman Bhandari and Susan Bennett from Merck will join us to talk about big data opportunities in healthcare and the forces driving the creation of a new health data economy.</p> <p><br/>----------------------------</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>\u00a0-- starting soon: biostatistics, predictive modeling, clinical trials, epidemiology, Bayesian, R, Python.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b><i>What do an\u00a0oil\u00a0well, \u00a0a\u00a0terrorist\u00a0and a\u00a0heart\u00a0have in common?\u00a0</i></b></p> <p>We live in a world where competitive or superior management of costs and risks is often the difference between profitability &amp; bankruptcy, or between life &amp; death. What does that mean for \u201csmart data\" applications?\u00a0Big Data contains noise and associated liabilities. We need \u201cSmart Data\u201d - filtering out the noise and holding onto valuable components and their interrelationships.</p> <p>We must also produce best practices that move us from merely identifying correlation to revealing meaningful causation. We need to leverage new data capabilities that hold a promise of improving speed, precision or accuracy, such as deep learning, semantic technologies, etc., which are themselves emerging technologies.\u00a0In this session we will explore 3 case studies, their successful outcomes and in layman\u2019s terms \u2013 a unique approach to producing \"Smart Data\" that holds a promise of better managing complex systems.</p> <p><b>Bios:</b></p> <p><br/><b>Aman Bhandari</b></p> <p>Aman is currently at Merck where he is building data science capabilities across the world. Prior to Merck,\u00a0he\u00a0worked on President Obama\u2019s tech team at the\u00a0White\u00a0House, where he was responsible for health data and health IT initiatives and was on the core team that implemented the President\u2019s \u00a0open data and innovation initiatives.\u00a0Aman has worked extensively across corporate, academic and government settings and has advised data, tech and innovation initiatives from the World Bank, Harvard, Cornell, Ashoka Foundation, Knight News Foundation, SXSW and others. He holds a master\u2019s degree in epidemiology and a doctorate in health systems research.</p> <p><b>Susan Bennett</b></p> <p>Susan's\u00a020 years of business experience and executive management include practices in engineering, product development, sales &amp; marketing within the oil &amp; gas, telecommunications, agriculture and\u00a0life science-healthcare industries. Having recently started\u00a0to work for\u00a0Merck, she is a member of an innovation team that leads a facet of the information technology strategic planning. Her commitment includes defining critical business questions and translating them into an analytics agenda. Prior to Merck, in December 2008\u00a0Susan\u00a0co-founded CrossInnovation, LLC\u00a0and was subsequently\u00a0acquired by Accelerated Vision Group, LLC in March 2013.\u00a0At those organizations,\u00a0she led\u00a0a talented team that\u00a0successfully implemented a cognitive computing platform emanating from the US Intelligence community to solve business problems in retail, oil &amp; gas and healthcare. Susan\u00a0earned a B.Sc. in Systems Design Engineering from University of Waterloo, Canada.\u00a0She relocated to Overland Park, Kansas in 2002 when another start-up she was working for was acquired by Marconi (now Ericsson). She volunteers\u00a0with Reaching Out From Within (ROFW), a non-profit that supports prisoner-led self-transformation.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>,\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>, and\u00a0<a href=\"http://datasociety.co/kickstarter\">Data Society</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/230660175/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "230660175", 
-            "maybe_rsvp_count": 0, 
-            "name": "Big Data Opportunities in Healthcare", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1462833000000, 
-            "updated": 1461695714000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1957 E Street", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23619989, 
-                "lat": 38.896275000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.044205000000005, 
-                "name": "GWU, Elliot School, Room 113", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 455
-        }, 
-        {
-            "created": 1457035881000, 
-            "description": "<p>Hi, everybody. We're doing our third tech talk of the year on May 9th. This time it's on Angular.js and Joanna Johnson will be presenting.</p> <p>*this will be on Angular 1 (since angular 2 is in Beta)</p> <p>Joanna Johnson is a software engineer at a non profit venture capital firm. She focuses on front-end software development and delivery. Outside of the office she\u2019s a globe trotting mother who enjoys running marathons in foreign places and playing tennis.</p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365788/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "srrkslyvhbmb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab - Angular.js Talk", 
-            "status": "upcoming", 
-            "time": 1462833000000, 
-            "updated": 1460389774000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 64
-        }, 
         {
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>For today's meet up we will be doing a LinkedIn Networking event. You can use this time to meet up new acquaintances, discuss android, java, and work on your side project with others. So, join us and make some new friends!</p> <p>\n\nResources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
@@ -146,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1459703387000, 
@@ -184,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1451511413000, 
@@ -222,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1446220149000, 
@@ -358,7 +292,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1462203683000, 
@@ -398,7 +332,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1457965726000, 
@@ -426,7 +360,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1459265642000, 
@@ -507,7 +441,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1461085600000, 
@@ -629,7 +563,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1459862658000, 
@@ -668,7 +602,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 59, 
+            "waitlist_count": 60, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -882,7 +816,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1459265642000, 
@@ -1095,7 +1029,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1451511461000, 
@@ -1217,6 +1151,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvjbsb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvjbsb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1465943400000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
