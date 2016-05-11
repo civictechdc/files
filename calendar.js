@@ -43,84 +43,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>For today's meet up we will be doing a LinkedIn Networking event. You can use this time to meet up new acquaintances, discuss android, java, and work on your side project with others. So, join us and make some new friends!</p> <p>\n\nResources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230308822/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvhbnb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1462919400000, 
-            "updated": 1462494213000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1015 7th Street NW.", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23509615, 
-                "lat": 38.903422999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.021598999999995, 
-                "name": "ECMC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
-            "created": 1459703387000, 
-            "description": "<p><b>IMPORTANT REMINDER: All registration is through <a href=\"https://www.eventbrite.com/e/stop-redesigning-start-enhancing-your-website-tickets-24378513791\">Eventbrite</a>. Meetup is not a registration.</b></p> <p><b>OVERVIEW</b></p> <p><br/>Stop doing website redesigns!\u00a0</p> <p>Join the Web Content Mavens and learn how to to make incremental and iterative changes to your site instead.</p> <p>The event will cover 3 main points:</p> <p>\u00a0 * The benefits of making interative changes.</p> <p>\u00a0 * How to set up an iterative process in your organization including methods for identifying, managing and testing site updates.</p> <p>\u00a0 * How to apply this model to immediate issues as well as larger, structural changes to your website.</p> <p><b>AGENDA</b></p> <p>We will begin at 6:30 with light appetizers and drinks, followed by presentations at 7:00. After Q&amp;A, we will have another 20 minutes of networking.</p> <p><b>SPEAKERS</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/2/b/600_448762571.jpeg\" /></p> <p><b>Tim Maxey</b>,\u00a0Senior Director of IT at\u00a0ARVO (Association for Research in Vision and Ophthalmology)</p> <p>Tim Maxey is the Sr. Director of Information Technology for the Association for Research in Vision and Ophthalmology. With over 20 years working in the not-for-profit industry, his expertise spans a broad range of technologies including infrastructure, security, web presence, project management, database management, application development, and financial management for multiple associations.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/8/7/3/600_448762643.jpeg\" /></p> <p><b>Frank Klassen</b>, CEO at Brightfind\u00a0</p> <p>Frank is the CEO of Brightfind, where he is responsible for executing on the vision of the company \u2013 to be a nationally recognized creator of digital experiences that deliver provable value to our clients\u2019 customers. Prior to Brightfind, Frank was the VP of Web Technology for Syscom Services. He has more than three decades of experience in the implementation of information system technologies in a wide variety of business environments, for both private and public sector companies. For the last 20 years, Frank has been focused on helping organizations utilize the web to address critical business processes and increase customer engagement.\u00a0 His current passions are in the areas of Taxonomy, Search, Findability, and Web User Experience Design.</p> <p><b>OUR SPONSOR</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/5/9/d/a/600_448763002.jpeg\" /></p> <p>Brightfind (<a href=\"http://www.brightfind.com/\">www.brightfind.com</a>) is a specialized digital design and web development agency. We create outstanding experiences for organizations with deep, complex content.\u00a0Every experience we create is designed to address unique audiences, achieve specific goals, and engage visitors through personalization. Our clients enjoy the freedom of informed decision making.</p> <p>We\u2019re hiring User Experience Designers, Project Managers, Front-end and Back-end Developers. Visit our\u00a0<a href=\"http://bit.ly/1Kg4bMO\">Careers page</a>\u00a0to view open positions and apply.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/230094518/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "230094518", 
-            "maybe_rsvp_count": 0, 
-            "name": "Stop Redesigning! Start Enhancing Your Website Instead.", 
-            "status": "upcoming", 
-            "time": 1462921200000, 
-            "updated": 1462816705000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St NW (8th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 20421012, 
-                "lat": 38.904854, 
-                "localized_country_name": "USA", 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 59
-        }, 
-        {
             "created": 1451511413000, 
             "description": "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Heads up, this is a Wednesday (as opposed to our\u00a0Tuesday\u00a0normal dates).</p> <p>Everyone is looking forward to hearing about *your* cool hack. Presentation signups are here:</p> <p><br/><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/227724710/", 
@@ -304,7 +226,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1462203683000, 
@@ -343,8 +265,8 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 100
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1457965726000, 
@@ -372,7 +294,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -453,7 +375,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1461085600000, 
@@ -575,7 +497,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1459862658000, 
@@ -614,7 +536,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 64, 
+            "waitlist_count": 66, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -682,7 +604,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1462278675000, 
@@ -720,7 +642,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1459265642000, 
@@ -828,7 +750,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1459265642000, 
@@ -1193,6 +1115,34 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227736621/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gcxvllyvjbtb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1466029800000, 
+            "updated": 1459264410000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p><b>Data, privacy, and application design</b></p> <p><br/>When dealing with research data, you have to be careful to protect user privacy. This can make it difficult to get hold of good data for testing. Truth Initiative has written a system for migrating sensitive data that protects user privacy while preserving useful properties for testing. We'll walk through the design of the system and how we met some of the challenges in building it.</p> <p><br/><b>Our Speaker</b></p> <p><br/>Matt Bowen is a senior software engineer at Truth Initiative, where he writes software to study better ways to help people quit smoking. He's also the vice president of DC Python's board.</p>", 
             "duration": 9000000, 
@@ -1230,7 +1180,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1326383071000, 
