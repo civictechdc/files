@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 33
 other:
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
@@ -78,7 +78,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 13
 - created: 1459703387000
   description: "<p><b>IMPORTANT REMINDER: All registration is through <a href=\"https://www.eventbrite.com/e/stop-redesigning-start-enhancing-your-website-tickets-24378513791\"\
     >Eventbrite</a>. Meetup is not a registration.</b></p> <p><b>OVERVIEW</b></p>\
@@ -135,7 +135,7 @@ other:
       Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 59
 - created: 1451511413000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Heads\
     \ up, this is a Wednesday (as opposed to our\_Tuesday\_normal dates).</p> <p>Everyone\
@@ -196,8 +196,11 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1463005800000
-  updated: 1462573219000
+  updated: 1462921081000
   utc_offset: -14400000
+  venue: {address_1: Online, city: Washington, country: us, id: 24429929, lat: 38.907192000000002,
+    localized_country_name: USA, lon: -77.036873, name: Virtual Google Hangouts, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 16
@@ -304,7 +307,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 114
+  yes_rsvp_count: 109
 - created: 1417881835000
   description: "<p>The United States Patent Office has been trying to innovate and\
     \ replace closed systems with systems built on open or open source technologies.\
@@ -346,7 +349,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 109
 - created: 1462203683000
   description: "<p><b>It's been a while since we did something on Go! Let's do a Go\
     \ Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p>\
@@ -383,8 +386,8 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 95
+  waitlist_count: 1
+  yes_rsvp_count: 100
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -498,7 +501,7 @@ other:
     name: American Red Cross, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1461085600000
   description: "<p>Most Ruby on Rails apps require user registration and authentication\
     \ mechanisms. Authentication determines if users are who they say they are, usually\
@@ -644,7 +647,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 104
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
     \ options are available to you? Worried about whether you can succeed in a new\
@@ -674,7 +677,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 62
+  waitlist_count: 64
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -773,7 +776,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1462278675000
   description: "<p><b>Women in Data Science II -\_</b>Nearly two years ago, we held\
     \ an event featuring 3 fantastic and female speakers, all data science leaders\
@@ -863,7 +866,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 58
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1090,7 +1093,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1385,7 +1388,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
