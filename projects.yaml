@@ -93,7 +93,7 @@
   size: 21831
   updated_at: '2016-05-08T17:22:19Z'
   watchers: 30
-- activity: [0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -763,10 +763,10 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 25
+  open_issues: 26
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-05-08T20:20:53Z'
+  pushed_at: '2016-05-12T11:51:26Z'
   short_name: dc-campaign-finance-watch
   size: 113977
   updated_at: '2016-05-08T17:22:06Z'
@@ -1081,8 +1081,8 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [36, 2, 66, 0, 1, 7, 22, 4, 27, 6, 4, 15, 0, 7, 2, 4, 0, 78, 2, 0, 2,
-    6, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 11, 111, 16, 0, 3, 0,
+- activity: [33, 28, 40, 0, 1, 20, 9, 6, 25, 8, 9, 8, 0, 7, 6, 0, 0, 80, 0, 0, 3,
+    5, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 120, 4, 3, 0, 0,
     0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1523,8 +1523,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 1, 2, 0, 4, 0, 2, 8, 12, 28, 24, 17, 23, 27, 48, 9, 24, 11, 10, 23, 34,
-    20, 18, 12, 2, 9, 0]
+    0, 0, 0, 1, 2, 0, 4, 0, 10, 3, 18, 22, 27, 14, 20, 35, 40, 12, 24, 10, 9, 33,
+    25, 21, 18, 9, 2, 9, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
