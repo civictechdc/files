@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 37
 other:
 - created: 1462203683000
   description: "<p><b>It's been a while since we did something on Go! Let's do a Go\
@@ -79,7 +79,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 104
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -193,7 +193,7 @@ other:
     name: American Red Cross, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1461085600000
   description: "<p>Most Ruby on Rails apps require user registration and authentication\
     \ mechanisms. Authentication determines if users are who they say they are, usually\
@@ -280,7 +280,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 6
 - created: 1460936672000
   description: <p>TBD</p>
   event_url: http://www.meetup.com/DCLegalHackers/events/230450427/
@@ -338,7 +338,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 4
   yes_rsvp_count: 110
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
@@ -369,7 +369,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 69
+  waitlist_count: 71
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -414,7 +414,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1462296213000
   description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
     and app developer who has led technology projects for high-profile clients including
@@ -867,9 +867,9 @@ other:
     \ then! \_</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm\
     \ Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>*\_\
     TJ Stalcup - Wealth Engine\_<br/>* Gary Schaetz - Dept. of the Treasury<br/>*\
-    \ Greg Rudl - ICA Language Services<br/>* TBA\_</p> <p>7:55pm - 8:00pm Refill\
-    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
-    \ Networking</p>"
+    \ Greg Rudl - ICA Language Services<br/>* Caroline Coy - Dept. of Health and Human\
+    \ Services</p> <p>7:55pm - 8:00pm Refill your beverage\_<br/>8:00pm - 8:30pm Panel\
+    \ discussions\_<br/>8:30pm - 9:00pm Networking</p>"
   event_url: http://www.meetup.com/DC-Web-API-User-Group/events/230988286/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
@@ -880,7 +880,7 @@ other:
   name: DC API User Group - June Edition
   status: upcoming
   time: 1465336800000
-  updated: 1462803409000
+  updated: 1463083130000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
@@ -920,7 +920,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come

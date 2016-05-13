@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }
     ], 
     "other": [
@@ -80,7 +80,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1457965726000, 
@@ -189,7 +189,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1461085600000, 
@@ -244,7 +244,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1460936672000, 
@@ -310,7 +310,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 110
         }, 
         {
@@ -350,7 +350,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 69, 
+            "waitlist_count": 71, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -379,7 +379,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1462296213000, 
@@ -743,7 +743,7 @@
         }, 
         {
             "created": 1462803391000, 
-            "description": "<p>June is here! \u00a0With the <a href=\"https://hackforchangedc.splashthat.com/\">National Day of Civic</a> occurring just a few days before, we'll have plenty of things to talk about at the DC API meetup. \u00a0</p> <p>As always, we'll have good food and drink to go with the great presentations and conversation, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you then! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0TJ Stalcup - Wealth Engine\u00a0<br/>* Gary Schaetz - Dept. of the Treasury<br/>* Greg Rudl - ICA Language Services<br/>* TBA\u00a0</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>June is here! \u00a0With the <a href=\"https://hackforchangedc.splashthat.com/\">National Day of Civic</a> occurring just a few days before, we'll have plenty of things to talk about at the DC API meetup. \u00a0</p> <p>As always, we'll have good food and drink to go with the great presentations and conversation, so go ahead and mark the first Tuesday of the month on your calendar. \u00a0See you then! \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0TJ Stalcup - Wealth Engine\u00a0<br/>* Gary Schaetz - Dept. of the Treasury<br/>* Greg Rudl - ICA Language Services<br/>* Caroline Coy - Dept. of Health and Human Services</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/230988286/", 
             "group": {
                 "created": 1347647025000, 
@@ -761,7 +761,7 @@
             "name": "DC API User Group - June Edition", 
             "status": "upcoming", 
             "time": 1465336800000, 
-            "updated": 1462803409000, 
+            "updated": 1463083130000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -815,7 +815,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
