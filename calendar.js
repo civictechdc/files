@@ -38,50 +38,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }
     ], 
     "other": [
-        {
-            "created": 1462203683000, 
-            "description": "<p><b>It's been a while since we did something on Go! Let's do a Go Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p> <p><b>Location</b></p> <p>Capital One HQ</p> <p>1680 Capital One Dr, McLean, VA</p> <p>This location is walkable from McLean Metro Station in Silver Line.</p> <p><b>Topic</b></p> <p><a href=\"https://caddyserver.com/\">Caddy</a>, the HTTP/2 web server with automatic HTTPS.\u00a0</p> <p>We'll look at the motivation for a new web server and explore Caddy at a technical level. Then we'll see how Caddy and its ideology can be used to improve your own Go apps and our tech community.</p> <p>Check out the <a href=\"https://blog.golang.org/go1.6\">Go 1.6 Release Notes</a></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/3/5/600_449580309.jpeg\" /></p> <p><b>Matt Holt\u00a0<a href=\"https://twitter.com/mholt6\">@mholt6</a>\u00a0</b></p> <p>Matt Holt is the author of Papa Parse, a high-performance CSV parser for the browser. and Caddy, a web server written in Go that uses HTTPS by default. He advocates for open source, encryption, and good user experience. Matt will be starting the CS master's program this Fall at Brigham Young University.</p> <p><br/>Sponsors: <a href=\"http://capitalone.com\">CapitalOne</a>\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p>", 
-            "event_url": "http://www.meetup.com/gdg-dc/events/230814302/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Go Programming, Caddy, HTTP, Webserver, HTTPS, HTTP/2", 
-            "id": "230814302", 
-            "maybe_rsvp_count": 0, 
-            "name": "Go Programming with Caddy, the HTTP/2 web server with automatic HTTPS", 
-            "rsvp_limit": 120, 
-            "status": "upcoming", 
-            "time": 1463092200000, 
-            "updated": 1463058773000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1680 Capital One Drive", 
-                "city": "McLean", 
-                "country": "us", 
-                "id": 23933274, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "Capital One", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 104
-        }, 
         {
             "created": 1457965726000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -108,7 +68,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1459265642000, 
@@ -149,7 +109,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1462802168000, 
@@ -270,7 +230,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1462290789000, 
@@ -310,7 +270,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 110
         }, 
         {
@@ -350,7 +310,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 71, 
+            "waitlist_count": 72, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -379,7 +339,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1462296213000, 
@@ -456,7 +416,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1459265642000, 
@@ -871,7 +831,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1457035881000, 
@@ -977,7 +937,7 @@ calendar({
             "name": "Protecting User Privacy with Fuzzy-feeling Test Data", 
             "status": "upcoming", 
             "time": 1466029800000, 
-            "updated": 1460550867000, 
+            "updated": 1463109177000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -994,7 +954,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1457965726000, 
@@ -1112,11 +1072,24 @@ calendar({
             "name": "July Meetup", 
             "status": "upcoming", 
             "time": 1468449000000, 
-            "updated": 1449242280000, 
+            "updated": 1463109249000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 

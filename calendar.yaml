@@ -39,47 +39,8 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 other:
-- created: 1462203683000
-  description: "<p><b>It's been a while since we did something on Go! Let's do a Go\
-    \ Programming talk!!</b></p> <p><b>Date</b></p> <p>Thursday, May 12th 6:30 PM</p>\
-    \ <p><b>Location</b></p> <p>Capital One HQ</p> <p>1680 Capital One Dr, McLean,\
-    \ VA</p> <p>This location is walkable from McLean Metro Station in Silver Line.</p>\
-    \ <p><b>Topic</b></p> <p><a href=\"https://caddyserver.com/\">Caddy</a>, the HTTP/2\
-    \ web server with automatic HTTPS.\_</p> <p>We'll look at the motivation for a\
-    \ new web server and explore Caddy at a technical level. Then we'll see how Caddy\
-    \ and its ideology can be used to improve your own Go apps and our tech community.</p>\
-    \ <p>Check out the <a href=\"https://blog.golang.org/go1.6\">Go 1.6 Release Notes</a></p>\
-    \ <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/3/5/600_449580309.jpeg\"\
-    \ /></p> <p><b>Matt Holt\_<a href=\"https://twitter.com/mholt6\">@mholt6</a>\_\
-    </b></p> <p>Matt Holt is the author of Papa Parse, a high-performance CSV parser\
-    \ for the browser. and Caddy, a web server written in Go that uses HTTPS by default.\
-    \ He advocates for open source, encryption, and good user experience. Matt will\
-    \ be starting the CS master's program this Fall at Brigham Young University.</p>\
-    \ <p><br/>Sponsors: <a href=\"http://capitalone.com\">CapitalOne</a>\_</p> <p><img\
-    \ src=\"http://photos2.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\"\
-    \ /></p>"
-  event_url: http://www.meetup.com/gdg-dc/events/230814302/
-  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
-    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
-    urlname: gdg-dc, who: Google Techies and Users}
-  headcount: 0
-  how_to_find_us: Go Programming, Caddy, HTTP, Webserver, HTTPS, HTTP/2
-  id: '230814302'
-  maybe_rsvp_count: 0
-  name: Go Programming with Caddy, the HTTP/2 web server with automatic HTTPS
-  rsvp_limit: 120
-  status: upcoming
-  time: 1463092200000
-  updated: 1463058773000
-  utc_offset: -14400000
-  venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
-    lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
-    state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 104
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -122,7 +83,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -155,7 +116,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1462802168000
   description: "<p>This month we are joining several Maptime chapters around the world\
     \ who are participating in Missing Maps mapathons.\_</p> <p><a href=\"http://www.missingmaps.org/\"\
@@ -297,7 +258,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1462290789000
   description: "<p><b>Date</b>: Thu, May 19,[masked]:00 PM</p> <p><b>Location</b>:\
     \ Google Reston, 1875 Explorer St. Suite 1000. Reston, VA 20190</p> <p><b>Agenda</b>:\_\
@@ -338,7 +299,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 7
   yes_rsvp_count: 110
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
@@ -369,7 +330,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 71
+  waitlist_count: 72
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -414,7 +375,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1462296213000
   description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
     and app developer who has led technology projects for high-profile clients including
@@ -558,7 +519,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 68
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -979,7 +940,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1457035881000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1102,14 +1063,14 @@ other:
   name: Protecting User Privacy with Fuzzy-feeling Test Data
   status: upcoming
   time: 1466029800000
-  updated: 1460550867000
+  updated: 1463109177000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
     localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1219,11 +1180,14 @@ other:
   name: July Meetup
   status: upcoming
   time: 1468449000000
-  updated: 1449242280000
+  updated: 1463109249000
   utc_offset: -14400000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
+    localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
+      Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
