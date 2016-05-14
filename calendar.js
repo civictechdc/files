@@ -68,7 +68,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -270,7 +270,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
+            "waitlist_count": 26, 
             "yes_rsvp_count": 110
         }, 
         {
@@ -310,7 +310,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 75, 
+            "waitlist_count": 82, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -954,7 +954,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457965726000, 
