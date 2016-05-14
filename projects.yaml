@@ -319,10 +319,10 @@
     url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 26
+  open_issues: 28
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-27T23:13:02Z'
+  pushed_at: '2016-05-14T17:09:02Z'
   short_name: codefordc.github.com
   size: 17549
   updated_at: '2016-05-07T18:41:52Z'
@@ -1410,8 +1410,8 @@
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
-    10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40, 7, 10, 24, 0, 45, 51, 58, 10, 47, 87, 24,
-    48, 47, 25, 23, 38, 36, 10]
+    10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40, 7, 10, 24, 0, 51, 45, 58, 18, 47, 79, 24,
+    51, 49, 20, 23, 40, 35, 9]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
