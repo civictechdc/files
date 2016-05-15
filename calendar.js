@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }
     ], 
     "other": [
@@ -109,11 +109,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>***At this meet-up we will be crashing another meet-up!. Get prepared to network at the DCtech: Fun Edition! So get ready to network and make new collaborators! See you there!***</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230897540/", 
             "group": {
@@ -133,7 +133,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1463524200000, 
-            "updated": 1462456124000, 
+            "updated": 1463272696000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1461085600000, 
@@ -245,7 +245,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1460936672000, 
@@ -311,7 +311,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 27, 
+            "waitlist_count": 29, 
             "yes_rsvp_count": 110
         }, 
         {
@@ -351,7 +351,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 84, 
+            "waitlist_count": 87, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -569,7 +569,7 @@ calendar({
         }, 
         {
             "created": 1463253176000, 
-            "description": "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26 from 5:30pm to 8:30pm to see the Googlers discuss the super secret new product that is being announced at Google I/O, and get a chance to ask them questions live through Google Hangout.</p> <p><b>Location:</b>\u00a0<a href=\"https://www.google.com/maps/place/8020+Towers+Crescent+Dr,+Vienna,+VA+22182/@38.9150354,-77.2227482,17z/data=!3m1!4b1!4m5!3m4!1s0x89b64ae7b529801f:0xa640d04f3eb213ed!8m2!3d38.9150354!4d-77.2205595?hl=en\">8020 Towers Crescent Drive, Vienna VA 22182</a></p> <p><b>Agenda:</b></p> <p>5:30-6:00 pm - Check-In\u00a0&amp; Networking (with Food/Drinks)</p> <p>6:00 pm - Hangout Begins!</p> <p>8:00 pm - till we leave - Q&amp;A Breakout Sessions/Networking/Socializing</p> <p><b>Parking:</b>\u00a0 Follow signs to Guest Parking.\u00a0 Be sure to bring your ticket inside for validation.</p> <p><b>This event is Metro accessible</b></p> <p>Event Max:\u00a0 100-ish</p>", 
+            "description": "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26 from 5:30pm to 8:30pm to see the Googlers discuss the super secret new product that is being announced at Google I/O, and get a chance to ask them questions live through Google Hangout.</p> <p><b>Location:</b>\u00a0<a href=\"https://www.google.com/maps/place/8020+Towers+Crescent+Dr,+Vienna,+VA+22182/@38.9150354,-77.2227482,17z/data=!3m1!4b1!4m5!3m4!1s0x89b64ae7b529801f:0xa640d04f3eb213ed!8m2!3d38.9150354!4d-77.2205595?hl=en\">8020 Towers Crescent Drive, Vienna VA 22182</a></p> <p><b>Agenda:</b></p> <p>5:30-6:00 pm - Check-In\u00a0&amp; Networking (with Food/Drinks)</p> <p>6:00 pm - Hangout Begins!</p> <p>8:00 pm - Till we leave - Q&amp;A Breakout Sessions/Networking/Socializing</p> <p><b>Parking:</b>\u00a0 Follow signs to Guest Parking.\u00a0 Be sure to bring your ticket inside for validation.</p> <p><b>This event is Metro accessible</b></p> <p>Event Max:\u00a0 100-ish</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/231124720/", 
             "group": {
@@ -585,10 +585,11 @@ calendar({
             "headcount": 0, 
             "id": "231124720", 
             "maybe_rsvp_count": 0, 
-            "name": "GDG-DC/DCAndroid Post Google I/O Viewing Party", 
+            "name": "GDG-DC / DCAndroid Post Google I/O Viewing Party", 
+            "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1464298200000, 
-            "updated": 1463253228000, 
+            "updated": 1463313467000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "8020 Towers Crescent Drive", 
@@ -604,7 +605,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -739,7 +740,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457035701000, 
