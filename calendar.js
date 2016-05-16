@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }
     ], 
     "other": [
@@ -68,7 +68,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1463237552000, 
@@ -109,7 +109,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -237,15 +237,15 @@ calendar({
             "headcount": 0, 
             "id": "gcxvllyvhbxb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
+            "name": "Let talk about the Python Standard Library", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1463610600000, 
-            "updated": 1459264410000, 
+            "updated": 1463354168000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1460936672000, 
@@ -311,7 +311,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 31, 
+            "waitlist_count": 30, 
             "yes_rsvp_count": 110
         }, 
         {
@@ -419,7 +419,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1462278675000, 
@@ -457,7 +457,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1459265642000, 
@@ -502,7 +502,7 @@ calendar({
         }, 
         {
             "created": 1463331783000, 
-            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects. Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder</a> for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Colorado bikeshare.</p>", 
+            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects. Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder</a> for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231142730/", 
             "group": {
                 "created": 1384372275000, 
@@ -521,7 +521,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1464215400000, 
-            "updated": 1463331783000, 
+            "updated": 1463346183000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1310 College Ave #100", 
@@ -537,7 +537,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1461086201000, 
@@ -644,7 +644,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1459265642000, 
@@ -857,7 +857,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1451511461000, 
@@ -1074,7 +1074,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1457965726000, 
