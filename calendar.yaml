@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 other:
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -83,15 +83,21 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 38
 - created: 1463237552000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
     \ will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following problems\
-    \ -\_</p> <p>TBD</p> <p>We want to do a combination of whiteboarding and coding\
-    \ on the computer so please bring a computer. <b>You can code in the language\
-    \ of your choice (including pseudocode)!</b></p> <p><br/>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.</p>"
+    \ -\_</p> <p><a href=\"https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour\"\
+    ><a href=\"https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour\"\
+    \ class=\"linkified\">https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour</a></a></p>\
+    \ <p><a href=\"http://www.programming-challenges.com/pg.php?page=downloadproblem&amp;format=html&amp;probid=110102\"\
+    ><a href=\"http://www.programming-challenges.com/pg.php?page=downloadproblem&amp;format=html&amp;probid=110102\"\
+    \ class=\"linkified\">http://www.programming-challenges.com/pg.php?page=downloadproblem&amp;format=html&amp;probid=110102</a></a></p>\
+    \ <p>We want to do a combination of whiteboarding and coding on the computer so\
+    \ please bring a computer. <b>You can code in the language of your choice (including\
+    \ pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for\
+    \ women; we are trans* friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/231120291/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -105,14 +111,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1463437800000
-  updated: 1463237552000
+  updated: 1463418173000
   utc_offset: -14400000
   venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
     id: 23852906, lat: 38.903111000000003, localized_country_name: USA, lon: -77.059639000000004,
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -185,7 +191,7 @@ other:
     name: American Red Cross, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 57
 - created: 1461085600000
   description: "<p>Most Ruby on Rails apps require user registration and authentication\
     \ mechanisms. Authentication determines if users are who they say they are, usually\
@@ -289,7 +295,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1462290789000
   description: "<p><b>Date</b>: Thu, May 19,[masked]:00 PM</p> <p><b>Location</b>:\
     \ Google Reston, 1875 Explorer St. Suite 1000. Reston, VA 20190</p> <p><b>Agenda</b>:\_\
@@ -330,7 +336,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 32
+  waitlist_count: 35
   yes_rsvp_count: 110
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
@@ -361,7 +367,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 89
+  waitlist_count: 87
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -550,7 +556,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 74
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -588,9 +594,9 @@ other:
   description: "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\"\
     >TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related\
     \ code projects. Doors open at 6:30; presentations start at 7:00. Many thanks\
-    \ to <a href=\"http://sparkboulder.com/\">Spark Boulder</a> for hosting us!</p>\
-    \ <p>If you have an app, hack, map or dataviz, please sign up for the show &amp;\
-    \ tell. So far we have:</p> <p><br/>\u2022\_<a href=\"https://github.com/trevorackerman\"\
+    \ to <a href=\"http://sparkboulder.com/\">Spark Boulder\_co-working space</a>\_\
+    for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up\
+    \ for the show &amp; tell. So far we have:</p> <p><br/>\u2022\_<a href=\"https://github.com/trevorackerman\"\
     >Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\"\
     >Trailsy</a>.</p> <p>\u2022\_Gareth\_Coville will show a data analysis he made\
     \ of Boulder BCycle trips.</p>"
@@ -605,14 +611,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1464215400000
-  updated: 1463346183000
+  updated: 1463420860000
   utc_offset: -14400000
   venue: {address_1: '1310 College Ave #100', city: Boulder, country: us, id: 24548477,
     lat: 40.007137, localized_country_name: USA, lon: -105.27594000000001, name: Spark
       Boulder, repinned: false, state: CO}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1461086201000
   description: "<p>(Topic TBD)</p> <p>\n\n\nLooking for something to work on?</p>\
     \ <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's\
@@ -735,7 +741,7 @@ other:
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 53
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -838,7 +844,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -973,7 +979,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1206,6 +1212,34 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1463417025000
+  description: "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\"\
+    >Eventbrite </a>to attend. Extra early registration through 5/24.</p> <p>Learn\
+    \ about making your website findable by search engines and how to help visitors\
+    \ locate content on your website.\_</p> <p><br/>We will discuss:</p> <p>- Terminology\
+    \ and trends in search, tagging and other elements of search and findability\_\
+    <br/>- Important considerations in search engine optimization (SEO)<br/>- Basic\
+    \ information architecture and other elements of findability\_<br/>- New considerations\
+    \ in mobile and social\_<br/>- Trends in SEO and findability</p> <p>Note that\
+    \ we are confirming location details.</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/231166266/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '231166266'
+  maybe_rsvp_count: 0
+  name: Findability & Searchability
+  status: upcoming
+  time: 1466548200000
+  updated: 1463419133000
+  utc_offset: -14400000
+  venue: {address_1: '1133 15th Street, NW (12th Floor)', city: Washington, country: us,
+    id: 16254252, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
+    name: General Assembly @ 1776, repinned: false, state: DC, zip: '20005'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 11
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
