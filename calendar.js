@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }
     ], 
     "other": [
@@ -149,7 +149,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1461085600000, 
@@ -176,7 +176,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1446220217000, 
@@ -282,7 +282,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 40, 
             "yes_rsvp_count": 110
         }, 
         {
@@ -322,7 +322,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 90, 
+            "waitlist_count": 93, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -477,8 +477,8 @@ calendar({
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231142730/", 
             "group": {
                 "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
+                "group_lat": 40.040000915527344, 
+                "group_lon": -105.30999755859375, 
                 "id": 11092702, 
                 "join_mode": "open", 
                 "name": "Transportation Techies", 
@@ -508,7 +508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1461086201000, 
@@ -575,7 +575,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1463253176000, 
@@ -679,11 +679,23 @@ calendar({
             "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1464820200000, 
-            "updated": 1458050850000, 
+            "updated": 1463499211000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "4350 Fairfax Drive", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24552730, 
+                "lat": 38.881686999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.113335000000006, 
+                "name": "The Human Geo", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1446219481000, 
@@ -711,7 +723,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
@@ -750,7 +762,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1457035701000, 
@@ -949,7 +961,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1459265642000, 
@@ -978,6 +990,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1463499045000, 
+            "description": "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\">Valerie Woolard</a>! \u00a0Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\">Panoply</a>. She loves talking about programming, linguistics, running and podcasts.\u00a0</p> <p>Inspired by a workshop by Terian Koscik at RailsConf 2016, we\u2019ll be building Rails apps in the exquisite corpse style. We\u2019ll be working in groups and basic knowledge of Rails and databases will be very helpful. \u00a0To find out more information checkout these links!</p> <p>Terian\u2019s page on this workshop:\u00a0<a href=\"http://pineconedoesthings.com/surreal.html\"><a href=\"http://pineconedoesthings.com/surreal.html\" class=\"linkified\">http://pineconedoesthings.com/surreal.html</a></a></p> <p>Exquisite corpse wikipedia page:\u00a0<a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\"><a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\" class=\"linkified\">https://en.wikipedia.org/wiki/Exquisite_corpse</a></a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231191161/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "231191161", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: Collaborate on a Surrealist Rails App", 
+            "status": "upcoming", 
+            "time": 1466029800000, 
+            "updated": 1463499045000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1446220217000, 
@@ -1045,7 +1084,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1457965726000, 
@@ -1073,35 +1112,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvjbcc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvjbcc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1466548200000, 
-            "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1463417025000, 
