@@ -156,7 +156,7 @@ other:
     name: American Red Cross, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 56
 - created: 1461085600000
   description: "<p>Most Ruby on Rails apps require user registration and authentication\
     \ mechanisms. Authentication determines if users are who they say they are, usually\
@@ -246,24 +246,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
-- created: 1460936672000
-  description: <p>TBD</p>
-  event_url: http://www.meetup.com/DCLegalHackers/events/230450427/
-  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
-      Hackers}
-  headcount: 0
-  id: '230450427'
-  maybe_rsvp_count: 0
-  name: '#LegalHack Patent Data'
-  status: upcoming
-  time: 1463612400000
-  updated: 1460936672000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 10
 - created: 1462290789000
   description: "<p><b>Date</b>: Thu, May 19,[masked]:00 PM</p> <p><b>Location</b>:\
     \ Google Reston, 1875 Explorer St. Suite 1000. Reston, VA 20190</p> <p><b>Agenda</b>:\_\
@@ -298,14 +281,14 @@ other:
   rsvp_limit: 110
   status: upcoming
   time: 1463695200000
-  updated: 1462803215000
+  updated: 1463512887000
   utc_offset: -14400000
   venue: {address_1: 1875 Explorer St, city: Reston, country: us, id: 24459459, lat: 38.958297999999999,
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 40
-  yes_rsvp_count: 110
+  waitlist_count: 41
+  yes_rsvp_count: 112
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
     \ options are available to you? Worried about whether you can succeed in a new\
@@ -335,7 +318,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 93
+  waitlist_count: 92
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -380,7 +363,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1462296213000
   description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
     and app developer who has led technology projects for high-profile clients including
@@ -524,7 +507,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 77
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -568,8 +551,9 @@ other:
     >Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\"\
     >Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\_<a href=\"http://www.resilientops.com/\"\
     >ResilientOps</a>\_will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p>\
-    \ <p><br/>\u2022\_Gareth\_Coville will show a data analysis he made of Boulder\
-    \ BCycle trips.</p>"
+    \ <p><br/>\u2022 Andy\_Pickering will share his data\_analysis on how weather\
+    \ affects Denver BCycle usage.</p> <p><br/>\u2022\_Gareth\_Coville will show a\
+    \ data analysis he made of Boulder BCycle trips.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231142730/
   group: {created: 1384372275000, group_lat: 40.040000915527344, group_lon: -105.30999755859375,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -581,14 +565,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1464215400000
-  updated: 1463423323000
+  updated: 1463528968000
   utc_offset: -14400000
   venue: {address_1: '1310 College Ave #100', city: Boulder, country: us, id: 24548477,
     lat: 40.007137, localized_country_name: USA, lon: -105.27594000000001, name: Spark
       Boulder, repinned: false, state: CO}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1461086201000
   description: "<p>(Topic TBD)</p> <p>\n\n\nLooking for something to work on?</p>\
     \ <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's\
@@ -679,7 +663,7 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1463253176000
   description: "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing\
     \ Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26\
@@ -711,7 +695,7 @@ other:
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -788,7 +772,7 @@ other:
     name: The Human Geo, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 12
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -919,7 +903,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -1053,7 +1037,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1112,7 +1096,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 9
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
