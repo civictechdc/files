@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }
     ], 
     "other": [
@@ -71,87 +71,6 @@ calendar({
             "yes_rsvp_count": 37
         }, 
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***You don't have to bring your laptop to this event (unless you want to).***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>***At this meet-up we will be crashing another meet-up!. Get prepared to network at the DCtech: Fun Edition! So get ready to network and make new collaborators! See you there!***</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230897540/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvhbwb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Labs: DC Tech Meetup", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1463524200000, 
-            "updated": 1463430712000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 679273, 
-                "lat": 38.898738999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.024225999999999, 
-                "name": "MLK Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 9
-        }, 
-        {
-            "created": 1462802168000, 
-            "description": "<p>This month we are joining several Maptime chapters around the world who are participating in Missing Maps mapathons.\u00a0</p> <p><a href=\"http://www.missingmaps.org/\">Missing Maps\u00a0</a>is a humanitarian mapping project with the objective to\u00a0map the most vulnerable places in the developing world, in order that international and local NGOs and individuals can use the maps and data to better respond to crises affecting the areas. We will be mapping areas where the data is literally missing from <a href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\u00a0</p> <p>Mapping beginners are welcome! If you are new to OSM please <a href=\"https://www.openstreetmap.org/user/new\">sign up for an account</a> beforehand, and if you have some time before the mapathon, there are <a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a> to provide some background. At the start of the mapathon we will be going through a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up to speed.\u00a0</p> <p>Please bring a laptop. If you have one, external mouses are handy for easier mapping. Pizza will be provided for all mappers (thanks to Missing Maps!).\u00a0</p> <p>Name badges are required for this mapathon, so please RSVP through Meetup. See you there!\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/230987954/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "There will be someone in the lobby waiting to escort groups up to the Disaster Operations Center. If not, call 202 594 4892.", 
-            "id": "230987954", 
-            "maybe_rsvp_count": 0, 
-            "name": "Missing Maps Mapathon!", 
-            "rsvp_limit": 75, 
-            "status": "upcoming", 
-            "time": 1463524200000, 
-            "updated": 1462824365000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2025 E St NW ", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23605627, 
-                "lat": 38.896427000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.045806999999996, 
-                "name": "American Red Cross", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 56
-        }, 
-        {
             "created": 1461085600000, 
             "description": "<p>Most Ruby on Rails apps require user registration and authentication mechanisms. Authentication determines if users are who they say they are, usually through a username/password combo. As anyone who\u2019s completed the\u00a0<a href=\"https://www.railstutorial.org/\">Hartl tutorial</a>\u00a0knows, developing these mechanisms from scratch requires a lot of time and effort.\u00a0</p> <p>But thankfully--especially when you're new to Rails--there are Ruby gems like\u00a0<a href=\"https://github.com/plataformatec/devise\">Devise</a>\u00a0that can handle that code-writing for us.</p> <p>In this meetup, we\u2019ll discuss the basics of authentication and then walk you through a short tutorial:</p> <p>Step 1:\u00a0We\u2019ll create a new app in Rails</p> <p>Step 2:\u00a0Using the Devise gem, we\u2019ll set up a full-fledged user authentication system within minutes.</p> <p>Step 3:\u00a0We\u2019ll discuss how to customize Devise.</p> <p>Step 4:\u00a0We\u2019ll discuss how you can make your users even happier by allowing them to access your app without registering for a new account and simply log in using their existing\u00a0Amazon, Facebook, Twitter,\u00a0and other social media accounts.\u00a0</p> <p>Bring your laptop to follow along. Any extra time will be used for questions, guided walkthroughs, or personal projects you want to work on.\u00a0</p> <p>We look forward to seeing you there!</p> <p>Meetup Agenda\u00a0</p> <p>\u2022\u00a06:30pm - Quick introductions</p> <p>\u2022 6:45pm -\u00a0Authentication in Rails</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Looking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
@@ -176,7 +95,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1446220217000, 
@@ -200,7 +119,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1463610600000, 
-            "updated": 1463474921000, 
+            "updated": 1463570232000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Online", 
@@ -325,7 +244,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1462296213000, 
@@ -402,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1459265642000, 
@@ -447,7 +366,7 @@ calendar({
         }, 
         {
             "created": 1463331783000, 
-            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects. Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022 Andy\u00a0Pickering will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p>", 
+            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects. Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022 Andy\u00a0Pickering will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p> <p>Stay\u00a0tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231142730/", 
             "group": {
                 "created": 1384372275000, 
@@ -466,7 +385,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1464215400000, 
-            "updated": 1463528968000, 
+            "updated": 1463547241000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1310 College Ave #100", 
@@ -482,11 +401,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1461086201000, 
-            "description": "<p>(Topic TBD)</p> <p>\n\n\nLooking for something to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p><b>Please bring a laptop\u00a0</b>to the event so you can participate in the workshop!</p> <p>Looking for something else to work on?</p> <p><br/>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"&gt;<a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230492971/", 
             "group": {
@@ -502,14 +421,14 @@ calendar({
             "headcount": 0, 
             "id": "230492971", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Lab: (Topic TBD)", 
+            "name": "Ruby on Rails Lab: Build Todo List Application", 
             "status": "upcoming", 
             "time": 1464215400000, 
-            "updated": 1461086201000, 
+            "updated": 1463530195000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1462199367000, 
@@ -669,7 +588,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1446219481000, 
@@ -852,7 +771,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459265642000, 
@@ -990,7 +909,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446220217000, 
@@ -1086,7 +1005,35 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvjbcc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvjbcc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1466548200000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1463417025000, 
@@ -1125,7 +1072,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1326383071000, 
