@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }
     ], 
     "other": [
@@ -135,7 +135,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1462290789000, 
@@ -175,7 +175,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 41, 
+            "waitlist_count": 48, 
             "yes_rsvp_count": 112
         }, 
         {
@@ -215,7 +215,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 92, 
+            "waitlist_count": 95, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -244,7 +244,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1462296213000, 
@@ -283,7 +283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1462278675000, 
@@ -321,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1459265642000, 
@@ -366,7 +366,7 @@ calendar({
         }, 
         {
             "created": 1463331783000, 
-            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects. Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022 Andy\u00a0Pickering will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p> <p>Stay\u00a0tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects.\u00a0</p> <p>Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. (You can access Boulder BCycle data <a href=\"https://boulder.bcycle.com/data-reports\">here</a>\u00a0and <a href=\"https://www.bcycle.com/gbfs\">here</a>.) So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022 Andy\u00a0Pickering will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p> <p>The\u00a0Transportation Techies meetup was founded in DC, thanks to primary sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. This is our first time outside the DC/Arlington/Baltimore region. Our goal is to build a community of programmers who create transportation-related tools, apps, and data visualizations.</p> <p>Stay\u00a0tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231142730/", 
             "group": {
                 "created": 1384372275000, 
@@ -385,7 +385,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1464215400000, 
-            "updated": 1463547241000, 
+            "updated": 1463588980000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1310 College Ave #100", 
@@ -401,7 +401,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1461086201000, 
@@ -428,7 +428,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1462199367000, 
@@ -508,7 +508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1459265642000, 
@@ -616,7 +616,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1326383071000, 
@@ -695,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1462803391000, 
@@ -977,7 +977,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1457965726000, 

@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 other:
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -173,7 +173,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1462290789000
   description: "<p><b>Date</b>: Thu, May 19,[masked]:00 PM</p> <p><b>Location</b>:\
     \ Google Reston, 1875 Explorer St. Suite 1000. Reston, VA 20190</p> <p><b>Agenda</b>:\_\
@@ -214,7 +214,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 41
+  waitlist_count: 48
   yes_rsvp_count: 112
 - created: 1459862658000
   description: "<p>Interested in transitioning into a career in tech? Not sure what\
@@ -245,7 +245,7 @@ other:
     lat: 38.85568, localized_country_name: USA, lon: -77.050169999999994, name: PBS,
     repinned: true, state: VA}
   visibility: public
-  waitlist_count: 92
+  waitlist_count: 95
   yes_rsvp_count: 55
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -290,7 +290,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1462296213000
   description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
     and app developer who has led technology projects for high-profile clients including
@@ -344,7 +344,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 29
 - created: 1462278675000
   description: "<p><b>Women in Data Science II -\_</b>Nearly two years ago, we held\
     \ an event featuring 3 fantastic and female speakers, all data science leaders\
@@ -434,7 +434,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 78
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -471,17 +471,23 @@ other:
 - created: 1463331783000
   description: "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\"\
     >TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related\
-    \ code projects. Doors open at 6:30; presentations start at 7:00. Many thanks\
-    \ to <a href=\"http://sparkboulder.com/\">Spark Boulder\_co-working space</a>\_\
+    \ code projects.\_</p> <p>Doors open at 6:30; presentations start at 7:00. Many\
+    \ thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\_co-working space</a>\_\
     for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up\
-    \ for the show &amp; tell. So far we have:</p> <p><br/>\u2022\_<a href=\"https://github.com/trevorackerman\"\
-    >Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\"\
-    >Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\_<a href=\"http://www.resilientops.com/\"\
-    >ResilientOps</a>\_will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p>\
-    \ <p><br/>\u2022 Andy\_Pickering will share his data\_analysis on how weather\
-    \ affects Denver BCycle usage.</p> <p><br/>\u2022\_Gareth\_Coville will show a\
-    \ data analysis he made of Boulder BCycle trips.</p> <p>Stay\_tuned to\_<a href=\"\
-    https://twitter.com/techiesdc\">@techiesdc</a>\_for updates.\_</p>"
+    \ for the show &amp; tell. (You can access Boulder BCycle data <a href=\"https://boulder.bcycle.com/data-reports\"\
+    >here</a>\_and <a href=\"https://www.bcycle.com/gbfs\">here</a>.) So far we have:</p>\
+    \ <p><br/>\u2022\_<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a>\
+    \ will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p>\
+    \ <p>\u2022 Diana Pfeil of\_<a href=\"http://www.resilientops.com/\">ResilientOps</a>\_\
+    will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022\
+    \ Andy\_Pickering will share his data\_analysis on how weather affects Denver\
+    \ BCycle usage.</p> <p><br/>\u2022\_Gareth\_Coville will show a data analysis\
+    \ he made of Boulder BCycle trips.</p> <p>The\_Transportation Techies meetup was\
+    \ founded in DC, thanks to primary sponsor <a href=\"http://mobilitylab.org/\"\
+    >Mobility Lab</a>. This is our first time outside the DC/Arlington/Baltimore region.\
+    \ Our goal is to build a community of programmers who create transportation-related\
+    \ tools, apps, and data visualizations.</p> <p>Stay\_tuned to\_<a href=\"https://twitter.com/techiesdc\"\
+    >@techiesdc</a>\_for updates.\_</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231142730/
   group: {created: 1384372275000, group_lat: 40.040000915527344, group_lon: -105.30999755859375,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -493,14 +499,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1464215400000
-  updated: 1463547241000
+  updated: 1463588980000
   utc_offset: -14400000
   venue: {address_1: '1310 College Ave #100', city: Boulder, country: us, id: 24548477,
     lat: 40.007137, localized_country_name: USA, lon: -105.27594000000001, name: Spark
       Boulder, repinned: false, state: CO}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1461086201000
   description: "<p>We will build a simple Todo list application using Rails. We will\
     \ learn how to start a Rails application, make basic updates to the MVC framework\
@@ -543,7 +549,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1462199367000
   description: "<p>Data Visualization DC and Graphicacy Present:</p> <p><br/><b><i>The\
     \ Major League Data Viz Challenge Awards!</i></b></p> <p>Join your fellow data\
@@ -626,7 +632,7 @@ other:
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 60
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -732,7 +738,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 27
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -804,7 +810,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1462803391000
   description: "<p>June is here! \_With the <a href=\"https://hackforchangedc.splashthat.com/\"\
     >National Day of Civic</a> occurring just a few days before, we'll have plenty\
@@ -1085,7 +1091,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
