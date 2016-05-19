@@ -1481,13 +1481,59 @@ projects([
             "coverage": false, 
             "travis": false
         }, 
-        "civic_json": null, 
+        "civic_json": {
+            "contact": {
+                "email": "Lee.Mendelowitz@gmail.com", 
+                "name": "Lee Mendelowitz", 
+                "url": "https://twitter.com/lmendy7"
+            }, 
+            "data": [
+                {
+                    "metadata": "", 
+                    "name": "DCMetroMetrics", 
+                    "url": "http://dcmetrometrics.com/download/dcmetrometrics.zip"
+                }
+            ], 
+            "description": "DC Metro Metrics is a project dedicated to collecting and sharing publicly available data related to the DC WMATA Metrorail system.", 
+            "geography": [
+                "Washington, DC"
+            ], 
+            "homepage": "", 
+            "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json", 
+            "license": "GPL-2.0", 
+            "links": [
+                "http://dcmetrometrics.com/about"
+            ], 
+            "name": "Metro Metrics", 
+            "partners": [
+                {
+                    "email": "", 
+                    "name": "Code for DC", 
+                    "url": "http://codefordc.org"
+                }
+            ], 
+            "repository": "https://github.com/LeeMendelowitz/DCMetroMetrics", 
+            "status": "Production", 
+            "tags": [
+                "Public Transportation", 
+                "WMATA", 
+                "Open Data"
+            ], 
+            "thumbnail": "", 
+            "type": "Web App"
+        }, 
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2424933?v=3", 
-                "contributions": 340, 
+                "contributions": 341, 
                 "link": "https://github.com/LeeMendelowitz", 
                 "name": "LeeMendelowitz"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4269640?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/emanuelfeld", 
+                "name": "emanuelfeld"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/14930?v=3", 
@@ -1502,7 +1548,7 @@ projects([
                 "name": "stvnrlly"
             }
         ], 
-        "contributors_count": 3, 
+        "contributors_count": 4, 
         "created_at": "2013-08-19T20:26:43Z", 
         "default_branch": "master", 
         "description": "DC Metro Metrics is a project dedicated to collecting and sharing publicly available data related to the DC WMATA Metrorail system.", 
@@ -1556,9 +1602,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/LeeMendelowitz"
         }, 
-        "pushed_at": "2016-02-01T04:42:35Z", 
+        "pushed_at": "2016-05-19T15:27:51Z", 
         "short_name": "DCMetroMetrics", 
-        "size": 32313, 
+        "size": 32306, 
         "updated_at": "2016-05-08T17:22:42Z", 
         "watchers": 34
     }, 
@@ -2548,7 +2594,7 @@ projects([
         "created_at": "2014-09-18T19:26:59Z", 
         "default_branch": "master", 
         "description": "Treemap for DC Budget in D3; obviously inspired by Mike Bostock", 
-        "forks": 2, 
+        "forks": 3, 
         "help_wanted": [], 
         "homepage": "http://drewbo.com/dc-budget-treemap/", 
         "html_url": "https://github.com/drewbo/dc-budget-treemap", 
@@ -3080,8 +3126,8 @@ projects([
             0, 
             1, 
             0, 
-            5, 
-            12, 
+            13, 
+            4, 
             0, 
             0, 
             0, 
@@ -3349,27 +3395,27 @@ projects([
     }, 
     {
         "activity": [
-            2, 
-            66, 
+            28, 
+            40, 
             0, 
             1, 
-            7, 
-            22, 
-            4, 
-            27, 
+            20, 
+            9, 
             6, 
-            4, 
-            15, 
+            25, 
+            8, 
+            9, 
+            8, 
             0, 
             7, 
-            2, 
-            4, 
-            0, 
-            78, 
-            2, 
-            0, 
-            2, 
             6, 
+            0, 
+            0, 
+            80, 
+            0, 
+            0, 
+            3, 
+            5, 
             3, 
             2, 
             8, 
@@ -3388,11 +3434,11 @@ projects([
             1, 
             1, 
             0, 
-            11, 
-            111, 
-            16, 
-            0, 
+            14, 
+            120, 
+            4, 
             3, 
+            0, 
             0, 
             0, 
             0, 
@@ -4494,13 +4540,13 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 485, 
+                "contributions": 489, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/14868930?v=3", 
-                "contributions": 76, 
+                "contributions": 77, 
                 "link": "https://github.com/ajohnson052", 
                 "name": "ajohnson052"
             }, 
@@ -4517,16 +4563,16 @@ projects([
                 "name": "Kevin-Wei"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
-                "contributions": 19, 
-                "link": "https://github.com/mchelen", 
-                "name": "mchelen"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6223901?v=3", 
                 "contributions": 19, 
                 "link": "https://github.com/mebates", 
                 "name": "mebates"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
+                "contributions": 19, 
+                "link": "https://github.com/mchelen", 
+                "name": "mchelen"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
@@ -4547,16 +4593,16 @@ projects([
                 "name": "rebeccaestes"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/7366046?v=3", 
-                "contributions": 5, 
-                "link": "https://github.com/ashlynnpai", 
-                "name": "ashlynnpai"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
                 "contributions": 5, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7366046?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/ashlynnpai", 
+                "name": "ashlynnpai"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4694248?v=3", 
@@ -4569,6 +4615,12 @@ projects([
                 "contributions": 4, 
                 "link": "https://github.com/adinneen", 
                 "name": "adinneen"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8108438?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/Nico-ehs", 
+                "name": "Nico-ehs"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7883907?v=3", 
@@ -4595,7 +4647,7 @@ projects([
                 "name": "RAGarza8"
             }
         ], 
-        "contributors_count": 17, 
+        "contributors_count": 18, 
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
@@ -4607,19 +4659,19 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                93091
+                97128
             ], 
             [
                 "HTML", 
-                57351
+                57656
             ], 
             [
                 "CSS", 
-                24817
+                24994
             ], 
             [
                 "CoffeeScript", 
-                1265
+                1476
             ], 
             [
                 "JavaScript", 
@@ -4634,16 +4686,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 59, 
+        "open_issues": 57, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-05-19T02:08:09Z", 
+        "pushed_at": "2016-05-19T14:56:34Z", 
         "short_name": "dcaf_case_management", 
-        "size": 7632, 
+        "size": 7634, 
         "updated_at": "2016-05-08T17:22:09Z", 
         "watchers": 6
     }, 
