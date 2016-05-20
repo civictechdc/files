@@ -1,4 +1,4 @@
-- activity: [1, 5, 0, 8, 0, 0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0,
+- activity: [3, 3, 0, 8, 0, 0, 0, 10, 6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0,
     1, 0, 0, 0, 1, 0, 0, 2, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -306,7 +306,7 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 40
+  forks: 41
   help_wanted: []
   homepage: http://www.codefordc.org
   html_url: https://github.com/codefordc/codefordc.github.com
@@ -506,8 +506,8 @@
   pushed_at: '2016-05-19T15:27:51Z'
   short_name: DCMetroMetrics
   size: 32306
-  updated_at: '2016-05-08T17:22:42Z'
-  watchers: 34
+  updated_at: '2016-05-19T21:12:09Z'
+  watchers: 35
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -807,7 +807,7 @@
   created_at: '2014-09-19T20:14:34Z'
   default_branch: master
   description: Map of handgun ownership in the District of Columbia
-  forks: 1
+  forks: 2
   help_wanted: []
   homepage: http://cmgiven.github.io/dc-handguns/
   html_url: https://github.com/cmgiven/dc-handguns
@@ -874,7 +874,7 @@
   created_at: '2014-10-29T14:42:12Z'
   default_branch: master
   description: Data on Juvenile Arrests in the DC Area (and related info)
-  forks: 0
+  forks: 1
   help_wanted: []
   homepage: null
   html_url: https://github.com/drewbo/dc-juvenile
@@ -959,7 +959,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
