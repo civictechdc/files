@@ -1012,7 +1012,7 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0,
+- activity: [0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1103,9 +1103,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [28, 40, 0, 1, 20, 9, 6, 25, 8, 9, 8, 0, 7, 6, 0, 0, 80, 0, 0, 3, 5, 3,
-    2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 120, 4, 3, 0, 0, 0, 0,
-    0, 0, 0, 0, 4]
+- activity: [35, 33, 0, 1, 26, 3, 13, 21, 7, 12, 3, 0, 7, 6, 0, 9, 71, 0, 0, 3, 8,
+    0, 7, 3, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 120, 4, 3, 0, 0, 0,
+    0, 0, 0, 0, 0, 4]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}

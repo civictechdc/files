@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }
     ], 
     "other": [
@@ -80,7 +80,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1462296213000, 
@@ -202,7 +202,7 @@
         }, 
         {
             "created": 1463331783000, 
-            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects.\u00a0</p> <p>Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. (You can access Boulder BCycle data <a href=\"https://boulder.bcycle.com/data-reports\">here</a>\u00a0and <a href=\"https://www.bcycle.com/gbfs\">here</a>.) So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.thetimoneygroup.com/\">Brian Timoney</a> will show his study of\u00a0Denver's\u00a0Car2go data: trip patterns, trip demand, and comparing network balancing\u00a0with Uber &amp; Lyft.</p> <p><br/>\u2022 <a href=\"https://github.com/andypicke\">Andy\u00a0Pickering</a> will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Monish Prabhakar will share his\u00a0<a href=\"https://rpubs.com/rpubsmonish/175792\">Boulder B-Cycle data analysis</a>.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p> <p>The\u00a0Transportation Techies meetup was founded in DC, thanks to primary sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. This is our first time outside the DC/Arlington/Baltimore region. Our goal is to build a community of programmers who create transportation-related tools, apps, and data visualizations.</p> <p>Stay\u00a0tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects.\u00a0</p> <p>Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. (You can access Boulder BCycle data <a href=\"https://boulder.bcycle.com/data-reports\">here</a>\u00a0and <a href=\"https://www.bcycle.com/gbfs\">here</a>.) So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022\u00a0Andy Gup will share a demographic data analysis of Boulder bus stops.</p> <p><br/>\u2022\u00a0<a href=\"http://www.thetimoneygroup.com/\">Brian Timoney</a> will show his study of\u00a0Denver's\u00a0Car2go data: trip patterns, trip demand, and comparing network balancing\u00a0with Uber &amp; Lyft.</p> <p><br/>\u2022 <a href=\"https://github.com/andypicke\">Andy\u00a0Pickering</a> will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Monish Prabhakar will share his\u00a0<a href=\"https://rpubs.com/rpubsmonish/175792\">Boulder B-Cycle data analysis</a>.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p> <p>The\u00a0Transportation Techies meetup was founded in DC, thanks to primary sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. This is our first time outside the DC/Arlington/Baltimore region. Our goal is to build a community of programmers who create transportation-related tools, apps, and data visualizations.</p> <p>Stay\u00a0tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231142730/", 
             "group": {
                 "created": 1384372275000, 
@@ -221,7 +221,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1464215400000, 
-            "updated": 1463714458000, 
+            "updated": 1463764783000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1310 College Ave #100", 
@@ -237,7 +237,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1461086201000, 
@@ -264,7 +264,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1462199367000, 
@@ -304,7 +304,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1463253176000, 
@@ -344,7 +344,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1459265642000, 
@@ -452,7 +452,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1326383071000, 
@@ -569,7 +569,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1451511461000, 
@@ -908,7 +908,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457212385000, 

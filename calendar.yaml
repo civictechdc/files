@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 other:
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -87,7 +87,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1462296213000
   description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
     and app developer who has led technology projects for high-profile clients including
@@ -277,6 +277,7 @@ other:
     \ will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p>\
     \ <p>\u2022 Diana Pfeil of\_<a href=\"http://www.resilientops.com/\">ResilientOps</a>\_\
     will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022\
+    \_Andy Gup will share a demographic data analysis of Boulder bus stops.</p> <p><br/>\u2022\
     \_<a href=\"http://www.thetimoneygroup.com/\">Brian Timoney</a> will show his\
     \ study of\_Denver's\_Car2go data: trip patterns, trip demand, and comparing network\
     \ balancing\_with Uber &amp; Lyft.</p> <p><br/>\u2022 <a href=\"https://github.com/andypicke\"\
@@ -301,14 +302,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1464215400000
-  updated: 1463714458000
+  updated: 1463764783000
   utc_offset: -14400000
   venue: {address_1: '1310 College Ave #100', city: Boulder, country: us, id: 24548477,
     lat: 40.007137, localized_country_name: USA, lon: -105.27594000000001, name: Spark
       Boulder, repinned: false, state: CO}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1461086201000
   description: "<p>We will build a simple Todo list application using Rails. We will\
     \ learn how to start a Rails application, make basic updates to the MVC framework\
@@ -351,7 +352,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1462199367000
   description: "<p>Data Visualization DC and Graphicacy Present:</p> <p><br/><b><i>The\
     \ Major League Data Viz Challenge Awards!</i></b></p> <p>Join your fellow data\
@@ -402,7 +403,7 @@ other:
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 107
 - created: 1463253176000
   description: "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing\
     \ Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26\
@@ -434,7 +435,7 @@ other:
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -540,7 +541,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -642,7 +643,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -994,7 +995,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
