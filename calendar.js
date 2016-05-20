@@ -38,91 +38,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }
     ], 
     "other": [
-        {
-            "created": 1462290789000, 
-            "description": "<p><b>Date</b>: Thu, May 19,[masked]:00 PM</p> <p><b>Location</b>: Google Reston, 1875 Explorer St. Suite 1000. Reston, VA 20190</p> <p><b>Agenda</b>:\u00a0</p> <p>6:00 - 6:30 PM Networking and Pizza!</p> <p>6:30 - 7:30 <a href=\"http://kubernetes.io/\">Kubernetes</a> Talk and Demo - David Aronchick - \u00a0Lead Product Manager for Kubernetes project</p> <p>7:00 - 8:00 Post Event Networking\u00a0</p> <p>Please make sure to Fill the First and Last Name to gain access to the building</p> <p><b>Abstract</b>:</p> <p>Want to run containers at scale in the same way that Google does? In 2014, Google released Kubernetes, the open source container orchestration tool built on the same concepts they use to manage the largest public infrastructure deployment in the world - their own.\u00a0</p> <p>Almost\u00a0two years later, Kubernetes is a mature, sophisticated and, dare we say, easy to use orchestration solution. Come hear David Aronchick, lead product manager for Kubernetes project, and a core engineer on Kubernetes team, talk about the present (and future) of Kubernetes, and how to use it to solve development and business blockers.</p> <p><b>Speaker</b>:\u00a0David Aronchick - \u00a0Lead Product Manager for Kubernetes project</p> <p><a href=\"https://twitter.com/aronchick\">@aronchick</a>\u00a0</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/9/3/0/4/600_449617636.jpeg\" /></p> <p>\n\n\n\n\n\nPlease make sure to Fill the First and Last Name to gain access to the building.</p> <p><b>Sponsors</b>: Google Cloud Platform\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/5/8/8/7/600_448582663.jpeg\" /></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/230842775/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Kubernetes, Containers, Google Cloud Platform, Google, Microservices", 
-            "id": "230842775", 
-            "maybe_rsvp_count": 0, 
-            "name": "State of Kubernetes Containers with demos", 
-            "rsvp_limit": 110, 
-            "status": "upcoming", 
-            "time": 1463695200000, 
-            "updated": 1463512887000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1875 Explorer St", 
-                "city": "Reston", 
-                "country": "us", 
-                "id": 24459459, 
-                "lat": 38.958297999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.360236999999998, 
-                "name": "Google Reston", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 44, 
-            "yes_rsvp_count": 119
-        }, 
-        {
-            "created": 1459862658000, 
-            "description": "<p>Interested in transitioning into a career in tech? Not sure what options are available to you? Worried about whether you can succeed in a new area? Come to an evening of discussions with women who have been there and done that. Hear their personal transition stories and let them answer any questions about career transitions and careers in tech that you have.</p> <p>6:15pm \u2013 Arrive and network!</p> <p>6:30pm \u2013 Panel</p> <p>7:00pm \u2013 Breakout into small groups with a panelist</p> <p>7:45 \u2013 Come back together and share insights</p> <p>PBS is located approximately a block from the Crystal City Metro Station (Yellow/Blue), in the back of 2100 Crystal Drive.\u00a0Drinks and snacks will be provided.</p> <p>More details to come!</p>", 
-            "duration": 6300000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230141997/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "230141997", 
-            "maybe_rsvp_count": 0, 
-            "name": "From Hello World to Hello Job: Transitioning to a Career in Tech", 
-            "rsvp_limit": 55, 
-            "status": "upcoming", 
-            "time": 1463696100000, 
-            "updated": 1459881073000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2100 Crystal Drive ", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24193697, 
-                "lat": 38.85568, 
-                "localized_country_name": "USA", 
-                "lon": -77.050169999999994, 
-                "name": "PBS", 
-                "repinned": true, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 76, 
-            "yes_rsvp_count": 55
-        }, 
         {
             "created": 1457036183000, 
             "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -161,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1462296213000, 
@@ -238,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1459265642000, 
@@ -283,7 +202,7 @@ calendar({
         }, 
         {
             "created": 1463331783000, 
-            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects.\u00a0</p> <p>Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. (You can access Boulder BCycle data <a href=\"https://boulder.bcycle.com/data-reports\">here</a>\u00a0and <a href=\"https://www.bcycle.com/gbfs\">here</a>.) So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022 <a href=\"https://github.com/andypicke\">Andy\u00a0Pickering</a> will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Monish Prabhakar will share his\u00a0<a href=\"https://rpubs.com/rpubsmonish/175792\">Boulder B-Cycle data analysis</a>.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p> <p>The\u00a0Transportation Techies meetup was founded in DC, thanks to primary sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. This is our first time outside the DC/Arlington/Baltimore region. Our goal is to build a community of programmers who create transportation-related tools, apps, and data visualizations.</p> <p>Stay\u00a0tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\">TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related code projects.\u00a0</p> <p>Doors open at 6:30; presentations start at 7:00. Many thanks to <a href=\"http://sparkboulder.com/\">Spark Boulder\u00a0co-working space</a>\u00a0for hosting us!</p> <p>If you have an app, hack, map or dataviz, please sign up for the show &amp; tell. (You can access Boulder BCycle data <a href=\"https://boulder.bcycle.com/data-reports\">here</a>\u00a0and <a href=\"https://www.bcycle.com/gbfs\">here</a>.) So far we have:</p> <p><br/>\u2022\u00a0<a href=\"https://github.com/trevorackerman\">Trevor Ackerman</a> will show how he made <a href=\"http://codeforbouldertrails.info/\">Trailsy</a>.</p> <p>\u2022 Diana Pfeil of\u00a0<a href=\"http://www.resilientops.com/\">ResilientOps</a>\u00a0will present <a href=\"https://www.flightsayer.com/\">Flightsayer</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.thetimoneygroup.com/\">Brian Timoney</a> will show his study of\u00a0Denver's\u00a0Car2go data: trip patterns, trip demand, and comparing network balancing\u00a0with Uber &amp; Lyft.</p> <p><br/>\u2022 <a href=\"https://github.com/andypicke\">Andy\u00a0Pickering</a> will share his data\u00a0analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\u00a0Monish Prabhakar will share his\u00a0<a href=\"https://rpubs.com/rpubsmonish/175792\">Boulder B-Cycle data analysis</a>.</p> <p><br/>\u2022\u00a0Gareth\u00a0Coville will show a data analysis he made of Boulder BCycle trips.</p> <p>The\u00a0Transportation Techies meetup was founded in DC, thanks to primary sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. This is our first time outside the DC/Arlington/Baltimore region. Our goal is to build a community of programmers who create transportation-related tools, apps, and data visualizations.</p> <p>Stay\u00a0tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231142730/", 
             "group": {
                 "created": 1384372275000, 
@@ -302,7 +221,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1464215400000, 
-            "updated": 1463680642000, 
+            "updated": 1463714458000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1310 College Ave #100", 
@@ -318,7 +237,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1461086201000, 
@@ -345,7 +264,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1462199367000, 
@@ -385,7 +304,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1463253176000, 
@@ -894,7 +813,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457965726000, 
@@ -1086,6 +1005,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvkbhb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvkbhb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1467757800000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
