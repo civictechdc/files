@@ -141,7 +141,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1462278675000
   description: "<p><b>Women in Data Science II -\_</b>Nearly two years ago, we held\
     \ an event featuring 3 fantastic and female speakers, all data science leaders\
@@ -231,7 +231,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 97
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -438,7 +438,7 @@ other:
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 77
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -811,6 +811,72 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1462932183000
+  description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/3/f/8/d/600_450256269.jpeg\"\
+    \ /></p> <p>\n\n\nPlease join us in June to hear how <a href=\"https://drill.apache.org/\"\
+    >Apache Drill</a>\_can be used to query Hadoop, NoSQL and Cloud Storage.</p> <p><b>Agenda</b></p>\
+    \ <p>6:30 PM -- Networking &amp; Food\_</p> <p>6:55 PM -- Greetings</p> <p>7:00\
+    \ PM --\_De-siloing data with Apache Drill<i>\_- </i>Charles S. Givre</p> <p>8:45\
+    \ PM -- Post event drink</p> <p><b>Talks</b></p> <p><i>De-siloing data with Apache\
+    \ Drill</i></p> <p>One of the problems which every enterprise faces is data-silos.\
+    \ \_Breaking down these data silos can be extremely costly both in terms of time\
+    \ and money, however Apache Drill offers a new approach which can de-silo data\
+    \ without the need to redesign architecture. \_Drill is an open source, schema-free\
+    \ SQL engine which can query all kinds of data including CSV files, JDBC/ODBC\
+    \ databases, JSON, NoSQL, HDFS and more. \_Drill uses ANSI-SQL and is JDBC/ODBC\
+    \ compatible as well, so that it can communicate results with BI tools such as\
+    \ Splunk or Tableau. \_In this workshop, we will demonstrate how to use Drill\
+    \ to query simple data, complex data and data from databases, and \"big data\"\
+    \ sources. Finally we will cover how to write your own functions to extend the\
+    \ functionality of Drill.</p> <p><br/><b>Speakers</b></p> <p><a href=\"https://www.linkedin.com/in/cgivre\"\
+    >Charles Givre</a> is an unapologetic data geek who is passionate about helping\
+    \ others learn about data science and become passionate about it themselves. For\
+    \ the\_last five years, Charles has worked as a data scientist at Booz Allen Hamilton\
+    \ for various government clients and has done some really neat data science work\
+    \ along\_the way, hopefully saving US taxpayers some money. Most of his work has\
+    \ been in developing meaningful metrics to assess how well the workforce is performing.\
+    \ For\_the last two years, Charles has been part of the management team for one\
+    \ of Booze Allen Hamilton\u2019s largest analytic contracts, where he was tasked\
+    \ with increasing\_the amount of data science on the contract\u2014both in terms\
+    \ of tasks and people.Even more than the data science work, Charles loves learning\
+    \ about and teaching new\_technologies and techniques. He has been instrumental\
+    \ in bringing Python scripting to both his government clients and the analytic\
+    \ workforce and has developed a\_40-hour Introduction to Analytic Scripting class\
+    \ for that purpose. Additionally, Charles has developed a 60-hour Fundamentals\
+    \ of Data Science class, which he has\_taught to Booz Allen staff, government\
+    \ civilians, and US military personnel around the world. Charles has a master\u2019\
+    s degree from Brandeis University, two bachelor\u2019s\_degrees from the University\
+    \ of Arizona, and various IT security certifications. In his nonexistent spare\
+    \ time, he plays trombone, spends time with his family, and works\_on restoring\
+    \ British sports cars. Charles can be reached at\_<a href=\"mailto:[masked]\"\
+    >[masked]</a>, blogs at\_<a href=\"http://thedataist.com/\">thedataist.com</a>\_\
+    and\_is on Twitter <a href=\"https://twitter.com/cgivre\">@cgivre</a>\_</p> <p><br/>Location</p>\
+    \ <p>Park in any open street spots as well as the triangle lot that is outlined\
+    \ in purple. Do not park in spots marked handicap, no parking, or for a specific\
+    \ companies. The X marks the spot of the meetup. We are directly behind the Natty\
+    \ Boh tower on the campus (the building with the big white roof).\_</p> <p><br/><img\
+    \ src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\"\
+    \ /></p>"
+  duration: 8100000
+  event_url: http://www.meetup.com/Data-Science-MD/events/231032325/
+  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
+    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
+    who: Data Enthusiasts}
+  headcount: 0
+  id: '231032325'
+  maybe_rsvp_count: 0
+  name: De-siloing data with Apache Drill
+  rsvp_limit: 200
+  status: upcoming
+  time: 1465943400000
+  updated: 1463930454000
+  utc_offset: -14400000
+  venue: {address_1: '3700 O''Donnell Street ', city: Baltimore, country: us, id: 23668500,
+    lat: 39.280602000000002, localized_country_name: USA, lon: -76.565917999999996,
+    name: AOL / Advertising.com, repinned: false, state: MD}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 16
 - created: 1463499045000
   description: "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\"\
     >Valerie Woolard</a>! \_Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\"\
