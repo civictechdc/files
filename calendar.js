@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 67
         }
     ], 
     "other": [
@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1462296213000, 
@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1462278675000, 
@@ -157,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1459265642000, 
@@ -344,7 +344,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1459265642000, 
@@ -491,7 +491,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1457035701000, 
@@ -531,7 +531,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1462803391000, 
@@ -722,7 +722,7 @@ calendar({
         }, 
         {
             "created": 1462932183000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/3/f/8/d/600_450256269.jpeg\" /></p> <p>\n\n\nPlease join us in June to hear how <a href=\"https://drill.apache.org/\">Apache Drill</a>\u00a0can be used to query Hadoop, NoSQL and Cloud Storage.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings</p> <p>7:00 PM --\u00a0De-siloing data with Apache Drill<i>\u00a0- </i>Charles S. Givre</p> <p>8:45 PM -- Post event drink</p> <p><b>Talks</b></p> <p><i>De-siloing data with Apache Drill</i></p> <p>One of the problems which every enterprise faces is data-silos. \u00a0Breaking down these data silos can be extremely costly both in terms of time and money, however Apache Drill offers a new approach which can de-silo data without the need to redesign architecture. \u00a0Drill is an open source, schema-free SQL engine which can query all kinds of data including CSV files, JDBC/ODBC databases, JSON, NoSQL, HDFS and more. \u00a0Drill uses ANSI-SQL and is JDBC/ODBC compatible as well, so that it can communicate results with BI tools such as Splunk or Tableau. \u00a0In this workshop, we will demonstrate how to use Drill to query simple data, complex data and data from databases, and \"big data\" sources. Finally we will cover how to write your own functions to extend the functionality of Drill.</p> <p><br/><b>Speakers</b></p> <p><a href=\"https://www.linkedin.com/in/cgivre\">Charles Givre</a> is an unapologetic data geek who is passionate about helping others learn about data science and become passionate about it themselves. For the\u00a0last five years, Charles has worked as a data scientist at Booz Allen Hamilton for various government clients and has done some really neat data science work along\u00a0the way, hopefully saving US taxpayers some money. Most of his work has been in developing meaningful metrics to assess how well the workforce is performing. For\u00a0the last two years, Charles has been part of the management team for one of Booze Allen Hamilton\u2019s largest analytic contracts, where he was tasked with increasing\u00a0the amount of data science on the contract\u2014both in terms of tasks and people.Even more than the data science work, Charles loves learning about and teaching new\u00a0technologies and techniques. He has been instrumental in bringing Python scripting to both his government clients and the analytic workforce and has developed a\u00a040-hour Introduction to Analytic Scripting class for that purpose. Additionally, Charles has developed a 60-hour Fundamentals of Data Science class, which he has\u00a0taught to Booz Allen staff, government civilians, and US military personnel around the world. Charles has a master\u2019s degree from Brandeis University, two bachelor\u2019s\u00a0degrees from the University of Arizona, and various IT security certifications. In his nonexistent spare time, he plays trombone, spends time with his family, and works\u00a0on restoring British sports cars. Charles can be reached at\u00a0<a href=\"mailto:[masked]\">[masked]</a>, blogs at\u00a0<a href=\"http://thedataist.com/\">thedataist.com</a>\u00a0and\u00a0is on Twitter <a href=\"https://twitter.com/cgivre\">@cgivre</a>\u00a0</p> <p><br/>Location</p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p>", 
+            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/3/f/8/d/600_450256269.jpeg\" /></p> <p>\n\n\nPlease join us in June to hear how <a href=\"https://drill.apache.org/\">Apache Drill</a>\u00a0can be used to query Hadoop, NoSQL and Cloud Storage.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings</p> <p>7:00 PM --\u00a0De-siloing data with Apache Drill<i>\u00a0- </i>Charles S. Givre</p> <p>8:45 PM -- Post event drink</p> <p><b>Talks</b></p> <p><i>De-siloing data with Apache Drill</i></p> <p>One of the problems which every enterprise faces is data-silos. \u00a0Breaking down these data silos can be extremely costly both in terms of time and money, however Apache Drill offers a new approach which can de-silo data without the need to redesign architecture. \u00a0Drill is an open source, schema-free SQL engine which can query all kinds of data including CSV files, JDBC/ODBC databases, JSON, NoSQL, HDFS and more. \u00a0Drill uses ANSI-SQL and is JDBC/ODBC compatible as well, so that it can communicate results with BI tools such as Splunk or Tableau. \u00a0In this workshop, we will demonstrate how to use Drill to query simple data, complex data and data from databases, and \"big data\" sources. Finally we will cover how to write your own functions to extend the functionality of Drill.</p> <p><br/><b>Speakers</b></p> <p><a href=\"https://www.linkedin.com/in/cgivre\">Charles Givre</a> is an unapologetic data geek who is passionate about helping others learn about data science and become passionate about it themselves. For the\u00a0last five years, Charles has worked as a data scientist at Booz Allen Hamilton for various government clients and has done some really neat data science work along\u00a0the way, hopefully saving US taxpayers some money. Most of his work has been in developing meaningful metrics to assess how well the workforce is performing. For\u00a0the last two years, Charles has been part of the management team for one of Booze Allen Hamilton\u2019s largest analytic contracts, where he was tasked with increasing\u00a0the amount of data science on the contract\u2014both in terms of tasks and people.Even more than the data science work, Charles loves learning about and teaching new\u00a0technologies and techniques. He has been instrumental in bringing Python scripting to both his government clients and the analytic workforce and has developed a\u00a040-hour Introduction to Analytic Scripting class for that purpose. Additionally, Charles has developed a 60-hour Fundamentals of Data Science class, which he has\u00a0taught to Booz Allen staff, government civilians, and US military personnel around the world. Charles has a master\u2019s degree from Brandeis University, two bachelor\u2019s\u00a0degrees from the University of Arizona, and various IT security certifications. In his nonexistent spare time, he plays trombone, spends time with his family, and works\u00a0on restoring British sports cars. Charles has a workshop on Drill at <a href=\"https://github.com/cgivre/drillworkshop\">Git</a>, can be reached at\u00a0<a href=\"mailto:[masked]\">[masked]</a>, blogs at\u00a0<a href=\"http://thedataist.com/\">thedataist.com</a>\u00a0and\u00a0is on Twitter <a href=\"https://twitter.com/cgivre\">@cgivre</a>\u00a0</p> <p><br/><b>Location</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p>", 
             "duration": 8100000, 
             "event_url": "http://www.meetup.com/Data-Science-MD/events/231032325/", 
             "group": {
@@ -742,7 +742,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1465943400000, 
-            "updated": 1463930454000, 
+            "updated": 1463969803000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "3700 O'Donnell Street ", 
@@ -758,7 +758,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1463499045000, 

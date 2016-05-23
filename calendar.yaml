@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 67
 other:
 - created: 1457036183000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -87,7 +87,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1462296213000
   description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
     and app developer who has led technology projects for high-profile clients including
@@ -141,7 +141,7 @@ other:
     localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1462278675000
   description: "<p><b>Women in Data Science II -\_</b>Nearly two years ago, we held\
     \ an event featuring 3 fantastic and female speakers, all data science leaders\
@@ -231,7 +231,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 97
+  yes_rsvp_count: 95
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -438,7 +438,7 @@ other:
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 78
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -566,7 +566,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -616,7 +616,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1462803391000
   description: "<p>June is here! \_With the <a href=\"https://hackforchangedc.splashthat.com/\"\
     >National Day of Civic</a> occurring just a few days before, we'll have plenty\
@@ -848,15 +848,15 @@ other:
     s degree from Brandeis University, two bachelor\u2019s\_degrees from the University\
     \ of Arizona, and various IT security certifications. In his nonexistent spare\
     \ time, he plays trombone, spends time with his family, and works\_on restoring\
-    \ British sports cars. Charles can be reached at\_<a href=\"mailto:[masked]\"\
-    >[masked]</a>, blogs at\_<a href=\"http://thedataist.com/\">thedataist.com</a>\_\
-    and\_is on Twitter <a href=\"https://twitter.com/cgivre\">@cgivre</a>\_</p> <p><br/>Location</p>\
-    \ <p>Park in any open street spots as well as the triangle lot that is outlined\
-    \ in purple. Do not park in spots marked handicap, no parking, or for a specific\
-    \ companies. The X marks the spot of the meetup. We are directly behind the Natty\
-    \ Boh tower on the campus (the building with the big white roof).\_</p> <p><br/><img\
-    \ src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\"\
-    \ /></p>"
+    \ British sports cars. Charles has a workshop on Drill at <a href=\"https://github.com/cgivre/drillworkshop\"\
+    >Git</a>, can be reached at\_<a href=\"mailto:[masked]\">[masked]</a>, blogs at\_\
+    <a href=\"http://thedataist.com/\">thedataist.com</a>\_and\_is on Twitter <a href=\"\
+    https://twitter.com/cgivre\">@cgivre</a>\_</p> <p><br/><b>Location</b></p> <p>Park\
+    \ in any open street spots as well as the triangle lot that is outlined in purple.\
+    \ Do not park in spots marked handicap, no parking, or for a specific companies.\
+    \ The X marks the spot of the meetup. We are directly behind the Natty Boh tower\
+    \ on the campus (the building with the big white roof).\_</p> <p><br/><img src=\"\
+    http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p>"
   duration: 8100000
   event_url: http://www.meetup.com/Data-Science-MD/events/231032325/
   group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
@@ -869,14 +869,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1465943400000
-  updated: 1463930454000
+  updated: 1463969803000
   utc_offset: -14400000
   venue: {address_1: '3700 O''Donnell Street ', city: Baltimore, country: us, id: 23668500,
     lat: 39.280602000000002, localized_country_name: USA, lon: -76.565917999999996,
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 28
 - created: 1463499045000
   description: "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\"\
     >Valerie Woolard</a>! \_Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\"\
