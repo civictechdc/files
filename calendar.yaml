@@ -39,7 +39,7 @@ codefordc:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 72
 other:
 - created: 1462296213000
   description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
@@ -184,7 +184,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 103
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -218,7 +218,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1463331783000
   description: "<p>Inspired by all the awesome techies at <a href=\"http://transportationcamp.org/events/colorado-2016/\"\
     >TransportationCamp Colorado</a>, we're inviting local coders to share their transportation-related\
@@ -239,13 +239,16 @@ other:
     \ <a href=\"https://github.com/andypicke\">Andy\_Pickering</a> will share his\
     \ data\_analysis on how weather affects Denver BCycle usage.</p> <p><br/>\u2022\
     \_Monish Prabhakar will share his\_<a href=\"https://rpubs.com/rpubsmonish/175792\"\
-    >Boulder B-Cycle data analysis</a>.</p> <p><br/>\u2022\_Gareth\_Coville will show\
-    \ a data analysis he made of Boulder BCycle trips.</p> <p>The\_Transportation\
-    \ Techies meetup was founded in DC, thanks to primary sponsor <a href=\"http://mobilitylab.org/\"\
-    >Mobility Lab</a>. This is our first time outside the DC/Arlington/Baltimore region.\
-    \ Our goal is to build a community of programmers who create transportation-related\
-    \ tools, apps, and data visualizations.</p> <p>Stay\_tuned to\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for updates.\_</p>"
+    >Boulder B-Cycle data analysis</a>.</p> <p><br/>\u2022\_<a href=\"https://www.linkedin.com/in/tylerbyers\"\
+    >Tyler Byers</a> will share his\_<a href=\"http://datawrangl.com/2016/02/21/denver-bcycle/\"\
+    >analysis of 2014 Denver BCycle data</a> using\_the ggmap package in R.</p> <p><br/>\u2022\
+    \_Gareth\_Coville will show a data analysis he made of Boulder BCycle trips.</p>\
+    \ <p>The\_Transportation Techies meetup was founded in DC, thanks to primary sponsor\
+    \ <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. This is our first time\
+    \ outside the DC/Arlington/Baltimore region. Our goal is to build a community\
+    \ of programmers who create transportation-related tools, apps, and data visualizations.</p>\
+    \ <p>Stay\_tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for updates.\_</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231142730/
   group: {created: 1384372275000, group_lat: 40.040000915527344, group_lon: -105.30999755859375,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -257,14 +260,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1464215400000
-  updated: 1464064901000
+  updated: 1464107454000
   utc_offset: -14400000
   venue: {address_1: '1310 College Ave #100', city: Boulder, country: us, id: 24548477,
     lat: 40.007137, localized_country_name: USA, lon: -105.27594000000001, name: Spark
       Boulder, repinned: false, state: CO}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1461086201000
   description: "<p>We will build a simple Todo list application using Rails. We will\
     \ learn how to start a Rails application, make basic updates to the MVC framework\
@@ -315,29 +318,33 @@ other:
     \ May DVDC and our partners at Graphicacy will be awarding prizes for the best\
     \ data visualizations of 2016!</p> <p>Data Viz entries we received in March and\
     \ have been judged on Form, Function, Originality, and Effectiveness. We are honored\
-    \ to be giving out the following prizes to the winners:</p> <p>\u2022\_Grand prize:\
-    \ $1,000\_</p> <p>\u2022 Gold: $500</p> <p>\u2022\_Silver: $300</p> <p>\u2022\_\
-    Bronze: $150</p> <p>The judges include Sean Gonzalez, Nathaniel Pearlman, Richard\
-    \ Saul Wurman, Taegan Goddard, Nicco Mele, Patrick Ruffini, and Nicole Melander:</p>\
-    \ <p><img src=\"http://photos4.meetupstatic.com/photos/event/e/2/4/e/600_449577934.jpeg\"\
+    \ to be giving out the following prizes to the winners:</p> <p>\u2022 Gold: $500</p>\
+    \ <p>\u2022\_Silver: $300</p> <p>\u2022\_Bronze: $150</p> <p>The judges include\
+    \ Sean Gonzalez, Nathaniel Pearlman, Richard Saul Wurman, Taegan Goddard, Nicco\
+    \ Mele, Patrick Ruffini, and Nicole Melander:</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/e/2/4/e/600_449577934.jpeg\"\
     \ /></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/e/2/5/6/600_449577942.jpeg\"\
+    \ /></p> <p>Graphicacy and DVDC want to work with you, so we're organizing a collaborative\
+    \ agenda for tomorrow night. We will be splitting into two groups:\_</p> <p>1.\
+    \ Data Viz (frontend) 2. Data Science (backend)</p> <p>\n\n\nEach group will collect\
+    \ their perspective on productizing the winning visualizations, and a group representative\
+    \ will present their summary.\_</p> <p><b>Agenda:</b></p> <p>\u2022\_6:30 - Food/Drink,\
+    \ Networking</p> <p>\u2022\_7:00 - Introductions, Announcements</p> <p>\u2022\_\
+    7:10 - Overview of winning Data Viz</p> <p>\u2022\_7:25 - break into Data Viz\
+    \ &amp; Data Science groups</p> <p>\u2022 7:30 - group collaboration</p> <p>\u2022\
+    \ 7:55 - group presentations</p> <p>\u2022\_8:25 - Summary Presentation</p> <p>\u2022\
+    \_8:35 - Q&amp;A</p> <p>We're looking forward to rolling up our sleeves and getting\
+    \ into the details!</p> <p><b>Announcements</b></p> <p>Hiring? Job Seeking?\_\
+    <a href=\"http://datable.org/\">Datable.org</a></p> <p>Building your brand in\
+    \ tech?\_<a href=\"https://docs.google.com/document/d/1eSNzAqxNVzdw592GDEzX9d0akbegJIy5z_qvbpCF2n4/edit?usp=sharing\"\
+    >Sponsor DC2</a></p> <p>What question would you ask to 13,000 local\_Data\_Practitioners?\_\
+    &lt;a&gt;Pushie&lt;/a&gt;</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/c/9/7/6/600_450351574.jpeg\"\
     \ /></p> <p>The Major League Data Viz Challenge Awards\_will be held at Capital\
     \ One\u2019s McLean, Virginia office (1680 Capital One Drive, McLean, VA[masked]),\
     \ right across the street from the Silver Line\u2019s McLean Metro Station, and\
     \ we recommend that you take the train if you want to stay for data drinks after.\_\
     </p> <p>To access Capital One\u2019s Mclean Headquarters, please confirm your\
     \ RSVP as soon as possible, and bring a recent government ID with you the night\
-    \ of the event.</p> <p>We look forward to seeing you! \_</p> <p>\n\n\n<b>Agenda:</b></p>\
-    \ <p>\u2022\_6:30 - Food/Drink, Networking</p> <p>\u2022\_7:00 - Introductions,\
-    \ Announcements</p> <p>\u2022\_7:10 - Presentation #1</p> <p>\u2022\_7:35 - Presentation\
-    \ #2</p> <p>\u2022\_8:00 - Q&amp;A, Break</p> <p>\u2022\_8:10 - Winner Presentation</p>\
-    \ <p>\u2022\_8:35 - Awards</p> <p>\u2022\_8:40 - Q&amp;A</p> <p>\n\n\n<b>Announcing\
-    \ DATABLE!</b></p> <p>Are you Datable? <a href=\"http://datable.org/\">Apply here</a>.</p>\
-    \ <p>Datable is speed dating for Data Practitioners and Data Driven Companies.</p>\
-    \ <p>Datable is a new way for DC2 to provide career services to our community.\
-    \ Our educational events are free and open but attending them all can become a\
-    \ full time job! So DC2 is gathering our career minded members and the best data\
-    \ driven companies and bringing the best together at Datable.\_</p>"
+    \ of the event.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Visualization-DC/events/230812378/
   group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
@@ -351,14 +358,14 @@ other:
   name: Major League Visualization Awards!
   status: upcoming
   time: 1464215400000
-  updated: 1462199460000
+  updated: 1464101904000
   utc_offset: -14400000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 24439761,
     lat: 38.924605999999997, localized_country_name: USA, lon: -77.212929000000003,
     name: Capital One, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 123
+  yes_rsvp_count: 132
 - created: 1463253176000
   description: "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing\
     \ Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26\
@@ -367,7 +374,15 @@ other:
     \ live through Google Hangout.</p> <p><b>Location:</b>\_<a href=\"https://www.google.com/maps/place/8020+Towers+Crescent+Dr,+Vienna,+VA+22182/@38.9150354,-77.2227482,17z/data=!3m1!4b1!4m5!3m4!1s0x89b64ae7b529801f:0xa640d04f3eb213ed!8m2!3d38.9150354!4d-77.2205595?hl=en\"\
     >8020 Towers Crescent Drive, Vienna VA 22182</a></p> <p><b>Agenda:</b></p> <p>5:30-6:00\
     \ pm - Check-In\_&amp; Networking (with Food/Drinks)</p> <p>6:00 pm - Hangout\
-    \ Begins!</p> <p>8:00 pm - Till we leave - Q&amp;A Breakout Sessions/Networking/Socializing</p>\
+    \ Begins!</p> <p>The Firebase platform released several tighter integration with\
+    \ Android Development at Google I/O 2016.\_</p> <p><i>If you are a front-end designer,\
+    \ app developer, or tech enthusiast, you won't want to miss this!!</i></p> <p>REGISTER\
+    \ FOR THE EVENT HERE:\_<a href=\"https://events.withgoogle.com/post-io-event-live-hangout/\"\
+    ><a href=\"https://events.withgoogle.com/post-io-event-live-hangout/\" class=\"\
+    linkified\">https://events.withgoogle.com/post-io-event-live-hangout/</a></a></p>\
+    \ <p>Submit your questions now on Google+ or on Twitter using the hashtag\_#AskFirebaseLive.</p>\
+    \ <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/c/e/9/600_450352457.jpeg\"\
+    \ /></p> <p>\n\n\n8:00 pm - Till we leave - Q&amp;A Breakout Sessions/Networking/Socializing</p>\
     \ <p><b>Parking:</b>\_ Follow signs to Guest Parking.\_ Be sure to bring your\
     \ ticket inside for validation.</p> <p><b>This event is Metro accessible</b></p>\
     \ <p>Event Max:\_ 100-ish</p>"
@@ -379,11 +394,11 @@ other:
   headcount: 0
   id: '231124720'
   maybe_rsvp_count: 0
-  name: GDG-DC / DCAndroid Post Google I/O Viewing Party
+  name: GDG-DC / DCAndroid Post Google I/O Viewing Party with Firebase Team
   rsvp_limit: 120
   status: upcoming
   time: 1464298200000
-  updated: 1463313467000
+  updated: 1464105565000
   utc_offset: -14400000
   venue: {address_1: 8020 Towers Crescent Drive, city: Vienna, country: us, id: 24546887,
     lat: 38.915035000000003, localized_country_name: USA, lon: -77.220557999999997,
@@ -518,7 +533,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -631,7 +646,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -828,7 +843,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1463499045000
   description: "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\"\
     >Valerie Woolard</a>! \_Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\"\
@@ -857,7 +872,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -915,7 +930,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1016,15 +1031,25 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
     \ sign up for our show &amp; tell. So far we have:</p> <p>\u2022\_Christian Flores\
     \ will show his Metro app.</p> <p><br/>\u2022 Kate Rabinowitz\_has a data analysis\
     \ on <a href=\"http://www.datalensdc.com/metro-ridership.html\">Metro ridership</a>.</p>\
-    \ <p><br/>Many thanks to our sponsors at\_<a href=\"http://mobilitylab.org/\"\
-    >Mobility Lab</a>\_for making this event possible.</p>"
+    \ <p><br/>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will\
+    \ discuss an extensible command line utility for train arrivals.</p> <p><br/>Many\
+    \ thanks to our sponsors at\_<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_\
+    for making this event possible.</p> <p><br/>To build your own Metro apps, hacks,\
+    \ and visualizations, find WMATA's open data via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\"\
+    >data-download</a>\_tag, or use their\_<a href=\"https://developer.wmata.com/\"\
+    >developer tools</a>.\_</p> <p><br/>Want to see what happened at Metro Hack Night\
+    \ IV? See\_<a href=\"http://mobilitylab.org/2016/02/26/wmata-hosts-metro-hack-night/\"\
+    >WMATA hosts Metro Hack Night</a>, announces more real-time data and\_<a href=\"\
+    https://www.washingtonpost.com/news/dr-gridlock/wp/2016/02/24/metro-opens-doors-to-app-developers/\"\
+    >Metro opens doors to app developers</a>.</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\"\
+    >@techiesdc</a>\_for \"Transportation Techies\" updates</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231353360/
   group: {created: 1384372275000, group_lat: 40.040000915527344, group_lon: -105.30999755859375,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -1035,11 +1060,11 @@ other:
   name: Metro Hack Night V
   status: upcoming
   time: 1466726400000
-  updated: 1464069307000
+  updated: 1464108114000
   utc_offset: -21600000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 4
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
