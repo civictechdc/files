@@ -1,6 +1,6 @@
-- activity: [3, 3, 4, 4, 0, 0, 8, 2, 7, 9, 0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 1,
-    0, 0, 1, 0, 0, 2, 0, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
-    0, 0, 0]
+- activity: [6, 0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0,
+    1, 0, 0, 1, 0, 0, 2, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -785,12 +785,12 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 24
+  open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-05-17T11:57:36Z'
+  pushed_at: '2016-05-23T22:56:10Z'
   short_name: dc-campaign-finance-watch
-  size: 114482
+  size: 115173
   updated_at: '2016-05-08T17:22:06Z'
   watchers: 17
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1012,8 +1012,8 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 17, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
