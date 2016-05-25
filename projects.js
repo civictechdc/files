@@ -689,8 +689,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             3, 
+            0, 
             0, 
             0, 
             0, 
@@ -1099,8 +1099,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             5, 
+            0, 
             0, 
             0, 
             0, 
@@ -1457,8 +1457,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -1645,8 +1645,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            2, 
+            1, 
+            1, 
             0, 
             0, 
             0, 
@@ -2094,43 +2094,43 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 132, 
+                "contributions": 213, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7241408?v=3", 
-                "contributions": 53, 
+                "contributions": 124, 
                 "link": "https://github.com/romoy", 
                 "name": "romoy"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12779671?v=3", 
-                "contributions": 10, 
+                "contributions": 19, 
                 "link": "https://github.com/jkoul", 
                 "name": "jkoul"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7322903?v=3", 
-                "contributions": 5, 
+                "contributions": 10, 
                 "link": "https://github.com/bcell", 
                 "name": "bcell"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/16108167?v=3", 
-                "contributions": 4, 
+                "contributions": 8, 
                 "link": "https://github.com/FunmiOjo", 
                 "name": "FunmiOjo"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/2614536?v=3", 
-                "contributions": 4, 
+                "contributions": 8, 
                 "link": "https://github.com/matthewringer", 
                 "name": "matthewringer"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
-                "contributions": 3, 
+                "contributions": 6, 
                 "link": "https://github.com/mchelen", 
                 "name": "mchelen"
             }, 
@@ -2142,21 +2142,21 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/870645?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "link": "https://github.com/caseypatrickdriscoll", 
                 "name": "caseypatrickdriscoll"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/donaldbraman", 
-                "name": "donaldbraman"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6662612?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "link": "https://github.com/Elieri", 
                 "name": "Elieri"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/donaldbraman", 
+                "name": "donaldbraman"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4925075?v=3", 
@@ -2169,7 +2169,7 @@ projects([
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "develop", 
         "description": "Displays data about DC Campaign Finance on a site", 
-        "forks": 24, 
+        "forks": 25, 
         "help_wanted": [
             {
                 "assignee": null, 
@@ -2354,15 +2354,15 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                11021065
+                146782
             ], 
             [
                 "CSS", 
-                6625
+                6613
             ], 
             [
                 "HTML", 
-                6209
+                6080
             ], 
             [
                 "Python", 
@@ -2370,22 +2370,22 @@ projects([
             ], 
             [
                 "Shell", 
-                864
+                829
             ]
         ], 
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 25, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-05-23T22:56:10Z", 
+        "pushed_at": "2016-05-24T23:20:54Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 115173, 
+        "size": 115188, 
         "updated_at": "2016-05-08T17:22:06Z", 
         "watchers": 17
     }, 
@@ -3125,8 +3125,8 @@ projects([
             0, 
             1, 
             0, 
-            3, 
-            14, 
+            5, 
+            12, 
             0, 
             0, 
             0, 
@@ -3620,7 +3620,7 @@ projects([
         "created_at": "2015-01-09T00:15:28Z", 
         "default_branch": "gh-pages", 
         "description": "**Please note that the v.1 code for Clean-Slate rests with CodeforDC, where it was originally developed and deployed by a truly, truly amazing team. As of March 16, 2016, all further development and deployment will happen from this repo, housed at MissionLaunch.A simple website for people trying to navigate the process of having records sealed in DC", 
-        "forks": 38, 
+        "forks": 39, 
         "help_wanted": [], 
         "homepage": "https://codefordc.github.io/clean-slate", 
         "html_url": "https://github.com/codefordc/clean-slate", 
@@ -3784,7 +3784,6 @@ projects([
     }, 
     {
         "activity": [
-            1, 
             0, 
             0, 
             0, 
@@ -3821,6 +3820,7 @@ projects([
             0, 
             0, 
             4, 
+            0, 
             0, 
             0, 
             0, 
@@ -3969,8 +3969,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             6, 
+            0, 
             0, 
             0, 
             0, 
@@ -4064,8 +4064,8 @@ projects([
             0, 
             16, 
             0, 
-            25, 
-            10, 
+            28, 
+            7, 
             1, 
             0, 
             0, 
@@ -4088,8 +4088,8 @@ projects([
             1, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -4343,10 +4343,10 @@ projects([
             0, 
             0, 
             0, 
-            2, 
-            1, 
-            11, 
-            5, 
+            3, 
+            3, 
+            13, 
+            0, 
             0, 
             0, 
             0, 
@@ -4443,37 +4443,37 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            10, 
-            0, 
-            13, 
+            6, 
+            4, 
+            6, 
+            7, 
             15, 
             0, 
             0, 
             9, 
-            2, 
-            12, 
-            30, 
-            11, 
-            16, 
+            6, 
             8, 
+            39, 
+            2, 
             17, 
             9, 
-            62, 
-            56, 
-            27, 
-            52, 
-            70, 
-            37, 
-            43, 
-            49, 
-            27, 
-            21, 
-            29, 
-            28, 
+            15, 
+            10, 
+            71, 
+            48, 
+            26, 
+            51, 
+            73, 
+            36, 
             42, 
+            48, 
+            27, 
+            25, 
+            30, 
+            28, 
+            37, 
             1, 
-            5
+            6
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4657,7 +4657,7 @@ projects([
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
-        "forks": 29, 
+        "forks": 30, 
         "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/colinxfleming/dcaf_case_management", 
@@ -4692,16 +4692,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 61, 
+        "open_issues": 62, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-05-24T01:24:19Z", 
+        "pushed_at": "2016-05-24T23:51:39Z", 
         "short_name": "dcaf_case_management", 
-        "size": 7672, 
+        "size": 9197, 
         "updated_at": "2016-05-08T17:22:09Z", 
         "watchers": 6
     }, 
@@ -4736,8 +4736,8 @@ projects([
             0, 
             0, 
             1, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -4977,9 +4977,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-05-16T23:56:00Z", 
+        "pushed_at": "2016-05-24T23:38:03Z", 
         "short_name": "school-modernization", 
-        "size": 17658, 
+        "size": 17662, 
         "updated_at": "2016-05-13T12:52:54Z", 
         "watchers": 6
     }, 
