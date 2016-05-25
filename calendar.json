@@ -1,46 +1,5 @@
 {
-    "codefordc": [
-        {
-            "announced": true, 
-            "created": 1459986500000, 
-            "description": "<p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022 The building is wheelchair-accessible with advance notice. Please <a href=\"http://codefordc.org/contact.html\">contact us</a> to let us know.</p> <p>\u2022\u00a0Text\u00a0202-791-4101\u00a0for entry if no one is at the door.</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and Meetup to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/230184472/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "230184472", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1464129000000, 
-            "updated": 1464128729000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "419 7th St NW, Third Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23752411, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "Impact Hub DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 69
-        }
-    ], 
+    "codefordc": [], 
     "other": [
         {
             "created": 1462296213000, 
@@ -80,85 +39,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 37
-        }, 
-        {
-            "created": 1462278675000, 
-            "description": "<p><b>Women in Data Science II -\u00a0</b>Nearly two years ago, we held an event featuring 3 fantastic and female speakers, all data science leaders in academia, industry, and startups with the goal of hosting a technical meetup with more than 50% female attendance. Based on the resounding success of this first event, we had to host a second one but, this time, we are doing so with the new meetup group, Women Data Scientists DC!</p> <p>More speakers will be announced as we get closer to the event.</p> <p>\n\n\nSCHEDULE</p> <p><i>Please note that we will be using the same schedule as before to facilitate community interaction.</i></p> <p>6:00 PM - Doors open</p> <p>6:10 PM - Introductions</p> <p>6:15 PM - First Speaker</p> <p>6:45 PM - Intermission and Food</p> <p>7:00 PM - Second Speaker</p> <p>7:30 PM - Short Break</p> <p>7:35 PM - Panel Discussion</p> <p><b><br/></b></p> <p><b>SPEAKERS</b></p> <p><b><br/></b></p> <p><b>Amy O\u2019Connor</b>\u00a0leads Cloudera's team\u00a0of vertical industry experts, business value consultants and principal\u00a0architects, and is the US\u00a0Telecommunications SME. She advises customers globally as they\u00a0introduce Big Data solutions\u00a0and\u00a0adopt enterprise-wide Big Data delivery capabilities. Amy was recently named by Information Management as one of the\u00a0\u201c<a href=\"http://www.information-management.com/gallery/Big-Data-Chief-Data-Officer-Experts-10026396-1.html\">10 Big Data Experts to Know</a>\u201d and \"<a href=\"http://www.informationweek.com/big-data/big-data-analytics/12-inspiring-women-in-data-science-big-data--/d/d-id/1325032?image_number=8\">12 Inspiring Women In Data Science, Big Data</a>\"\u00a0by Information Week. Prior to joining Cloudera, Amy built and ran Nokia\u2019s Big Data team, developing and managing Nokia\u2019s data asset and leading a team of data scientists to drive insights. Previously Amy was vice president of services marketing and also led strategy for the software and storage business units of Sun Microsystems.\u00a0Amy\u00a0has an extensive background in the Hadoop ecosystem, in building big data skills and teams, and in developing business-focused analytical use cases.\u00a0 She holds her M.B.A. from Northeastern University and her bachelor degrees in computer science and electrical engineering from the University of Connecticut.</p> <p>\n\n<b>Dr. Marie desJardins</b> is the Associate Dean for Academic Affairs in the College of Engineering and Information Technology (COEIT) at the University of Maryland, Baltimore County (UMBC).\u00a0 She is also a Professor in UMBC\u2019s Department of Computer Science and Electrical Engineering, where she has been a member of the faculty since 2001.\u00a0 She was a[masked] American Council of Education Fellow, the[masked] UMBC Presidential Teaching Professor, and an inaugural Hrabowski Academic Innovation Fellow.\u00a0 Her research is in artificial intelligence, focusing on the areas of machine learning, multi-agent systems, planning, iand nteractive AI techniques.\u00a0 Current research projects include learning in the context of planning and decision making, analyzing and visualizing uncertainty in machine learning, trust modeling in multiagent systems, and intelligent tutoring systems for learning to program.</p> <p>She is also highly visible in the state-level and national computing education community, focusing on K-12 computing curricula, diversity and inclusion in computing, innovative pedagogical methods.\u00a0 She currently leads the NSF-funded \u201cCS Matters in Maryland\u201d project to develop curriculum and teacher training for the new AP CS Principles course, serves as lead PI for the Maryland team on the Expanding Computing Education Alliance, chairs the Maryland Computing Education Steering Committee, and serves as the university liaison for the Maryland chapter of the Computer Science Teachers Association.</p> <p>Dr. desJardins received her Ph.D. in 1992 from the University of California, Berkeley.\u00a0 Her dissertation research focused on developing techniques to allow autonomous agents to learn useful models of their environments without being supervised by a human designer.\u00a0 From[masked], she was a member of the research staff at SRI International in Menlo Park, California.\u00a0 Her research there focused primarily on autonomous and mixed-initiative methods for planning, learning, and multi-agent systems.</p> <p>Dr. desJardins has published over 120 scientific papers in journals, conferences, and workshops.\u00a0 She is an Associate Editor of the Journal of Artificial Intelligence Research, is a member of the editorial board of AI Magazine, and was the Program Cochair for AAAI-13.\u00a0 She has previously served as AAAI Liaison to the Board of Directors of the Computing Research Association, Vice-Chair of ACM's SIGART, and AAAI Councillor. She is an ACM Distinguished Member, a AAAI Senior Member, a member and former chair of UMBC's Honors College Advisory Board, the former chair of UMBC's Faculty Affairs Committee, and a member of the advisory board for UMBC's Center for Women in Technology.</p> <p>Dr. desJardins is active in teaching, mentoring, and advising students.\u00a0 She received the 2014 NCWIT Undergraduate Research Mentoring Award and the 2016 CRA Undergraduate Research Faculty Mentoring Award.\u00a0 She was named one of UMBC's ten \"Professors Not to Miss\" in 2011, and is regularly sought out to give invited talks to student groups.\u00a0 She has been involved with the AAAI/SIGART Doctoral Consortium as chair, co-chair, mentor, and/or reviewer annually since 2000.\u00a0 She has advised three postdoctoral researchers, 13 Ph.D. students (11 to completion), 27 M.S. students (24 to completion), over 70 undergraduate researchers, and four high school student interns.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Innovation-DC/events/230838507/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Innovation-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "230838507", 
-            "maybe_rsvp_count": 0, 
-            "name": "Women in Data Science II", 
-            "status": "upcoming", 
-            "time": 1464127200000, 
-            "updated": 1462882558000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "640 Massachusetts Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 20556562, 
-                "lat": 38.901859000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.020995999999997, 
-                "name": "Georgetown University School of Continuing Studies", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 98
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>***At this meet-up, we will be creating a resume app. So, bring you laptops and your ideas. See you there!***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230897567/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvhbgc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1464129000000, 
-            "updated": 1464129900000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 679273, 
-                "lat": 38.898738999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.024225999999999, 
-                "name": "MLK Library", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
         }, 
         {
             "created": 1463331783000, 
@@ -227,6 +107,34 @@
             "yes_rsvp_count": 14
         }, 
         {
+            "created": 1464138693000, 
+            "description": "<p><b>I apologize for the last minute but will have to cancel tomorrow meetup via Google Hangouts.\u00a0</b></p> <p>\n\n\nWe're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231380194/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "231380194", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab-Cancel Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1464215400000, 
+            "updated": 1464138693000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1462199367000, 
             "description": "<p>Data Visualization DC and Graphicacy Present:</p> <p><br/><b><i>The Major League Data Viz Challenge Awards!</i></b></p> <p>Join your fellow data visualizers\u00a0on Wednesday\u00a0May, 25th for the\u00a0Data Viz Challenge Awards. This May DVDC and our partners at Graphicacy will be awarding prizes for the best data visualizations of 2016!</p> <p>Data Viz entries we received in March and have been judged on Form, Function, Originality, and Effectiveness. We are honored to be giving out the following prizes to the winners:</p> <p>\u2022 Gold: $500</p> <p>\u2022\u00a0Silver: $300</p> <p>\u2022\u00a0Bronze: $150</p> <p>The judges include Sean Gonzalez, Nathaniel Pearlman, Richard Saul Wurman, Taegan Goddard, Nicco Mele, Patrick Ruffini, and Nicole Melander:</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/e/2/4/e/600_449577934.jpeg\" /></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/e/2/5/6/600_449577942.jpeg\" /></p> <p>Graphicacy and DVDC want to work with you, so we're organizing a collaborative agenda for tomorrow night. We will be splitting into two groups:\u00a0</p> <p>1. Data Viz (frontend) 2. Data Science (backend)</p> <p>\n\n\nEach group will collect their perspective on productizing the winning visualizations, and a group representative will present their summary.\u00a0</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30 - Food/Drink, Networking</p> <p>\u2022\u00a07:00 - Introductions, Announcements</p> <p>\u2022\u00a07:10 - Overview of winning Data Viz</p> <p>\u2022\u00a07:25 - break into Data Viz &amp; Data Science groups</p> <p>\u2022 7:30 - group collaboration</p> <p>\u2022 7:55 - group presentations</p> <p>\u2022\u00a08:25 - Summary Presentation</p> <p>\u2022\u00a08:35 - Q&amp;A</p> <p>We're looking forward to rolling up our sleeves and getting into the details!</p> <p><b>Announcements</b></p> <p>Hiring? Job Seeking?\u00a0<a href=\"http://datable.org/\">Datable.org</a></p> <p>Building your brand in tech?\u00a0<a href=\"https://docs.google.com/document/d/1eSNzAqxNVzdw592GDEzX9d0akbegJIy5z_qvbpCF2n4/edit?usp=sharing\">Sponsor DC2</a></p> <p>What question would you ask to 13,000 local\u00a0Data\u00a0Practitioners?\u00a0&lt;a&gt;Pushie&lt;/a&gt;</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/c/9/7/6/600_450351574.jpeg\" /></p> <p>The Major League Data Viz Challenge Awards\u00a0will be held at Capital One\u2019s McLean, Virginia office (1680 Capital One Drive, McLean, VA[masked]), right across the street from the Silver Line\u2019s McLean Metro Station, and we recommend that you take the train if you want to stay for data drinks after.\u00a0</p> <p>To access Capital One\u2019s Mclean Headquarters, please confirm your RSVP as soon as possible, and bring a recent government ID with you the night of the event.</p>", 
             "duration": 9000000, 
@@ -264,7 +172,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 138
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1463253176000, 
@@ -412,7 +320,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
