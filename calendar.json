@@ -77,7 +77,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1461086201000, 
@@ -172,7 +172,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1463253176000, 
@@ -212,7 +212,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1459265642000, 
@@ -253,7 +253,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1452612310000, 
@@ -320,11 +320,11 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>To quote Arrested Development:\u00a0<a href=\"https://www.youtube.com/watch?v=tj7RlQdF25A\">\"Hasn't everything already been discovered already though? like Magellan... Cortez... NASA... \", \"well, yeah, they did a pretty good job\", \"it never hurts to double check\".\u00a0</a></p> <p>Some of our favorite Cartographers are traveling from near and far for GeoDC this month! <a href=\"http://geography.wisc.edu/cartography/\">Tanya Buckingham from University Wisconsin Madison</a> will giver her \"Top 10\" list for creating and running a cartography space!\u00a0</p> <p>Nuela Cowen from the local fan favorite - <a href=\"https://geography.columbian.gwu.edu/\">George Washington University</a> - will highlight their epic partnerships with OpenStreetMap and how their students are learning and shaping new forms of cartography.\u00a0</p> <p>More to follow - we meet the first Wednesday of every month at Local 16 on the second floor,\u00a0gathering to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>As always. This promises to be a FANTASTIC evening! Plus. We'll have special trivia hints and clues that promise to give you a leg up for July's GeoDC for the first summer geo-trivia-extravaganza.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/230731719/", 
             "group": {
                 "created": 1307975249000, 
@@ -340,10 +340,10 @@
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcyvjbcb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "GeoDC June Edition: Cartography Community!", 
             "status": "upcoming", 
             "time": 1464822000000, 
-            "updated": 1446214010000, 
+            "updated": 1464220375000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -359,7 +359,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1457035701000, 
@@ -437,7 +437,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1451511461000, 
@@ -531,7 +531,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457035881000, 
@@ -626,7 +626,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1463499045000, 
@@ -816,7 +816,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1457212385000, 
