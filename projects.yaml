@@ -1,4 +1,4 @@
-- activity: [5, 0, 8, 0, 0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 1,
+- activity: [3, 0, 8, 0, 0, 0, 10, 6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1,
     0, 0, 0, 1, 0, 0, 2, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -93,7 +93,7 @@
   size: 21831
   updated_at: '2016-05-08T17:22:19Z'
   watchers: 30
-- activity: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -777,7 +777,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 146782]
+  - [JavaScript, 146764]
   - [CSS, 6613]
   - [HTML, 6080]
   - [Python, 4997]
@@ -785,12 +785,12 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 23
+  open_issues: 22
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-05-25T21:39:40Z'
+  pushed_at: '2016-05-26T11:38:51Z'
   short_name: dc-campaign-finance-watch
-  size: 115191
+  size: 115189
   updated_at: '2016-05-25T21:08:04Z'
   watchers: 18
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1103,8 +1103,8 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [66, 0, 1, 7, 22, 4, 27, 6, 4, 15, 0, 7, 2, 4, 0, 78, 2, 0, 2, 6, 3, 2,
-    8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 11, 111, 16, 0, 3, 0, 0, 0, 0,
+- activity: [40, 0, 1, 20, 9, 6, 25, 8, 9, 8, 0, 7, 6, 0, 0, 80, 0, 0, 3, 5, 3, 2,
+    8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 120, 4, 3, 0, 0, 0, 0, 0,
     0, 0, 0, 4, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1513,10 +1513,10 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 71
+  open_issues: 72
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-05-25T14:25:28Z'
+  pushed_at: '2016-05-26T02:59:00Z'
   short_name: dcaf_case_management
   size: 9197
   updated_at: '2016-05-08T17:22:09Z'
