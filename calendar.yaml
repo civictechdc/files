@@ -86,14 +86,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1464298200000
-  updated: 1464105565000
+  updated: 1464284203000
   utc_offset: -14400000
   venue: {address_1: 8020 Towers Crescent Drive, city: Vienna, country: us, id: 24546887,
     lat: 38.915035000000003, localized_country_name: USA, lon: -77.220557999999997,
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 102
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -170,7 +170,7 @@ other:
     name: The Human Geo, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -191,15 +191,18 @@ other:
   headcount: 0
   id: pdkzrlyvjbcb
   maybe_rsvp_count: 0
-  name: Python Beginners Night
+  name: Python Lab- Beginners Night
   rsvp_limit: 50
   status: upcoming
   time: 1464820200000
-  updated: 1459264870000
+  updated: 1464283282000
   utc_offset: -14400000
+  venue: {address_1: 1155 F Street NW, city: Washington, country: us, id: 23383402,
+    lat: 38.897387999999999, localized_country_name: USA, lon: -77.027573000000004,
+    name: FiscalNote HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 42
 - created: 1326383071000
   description: "<p>To quote Arrested Development:\_<a href=\"https://www.youtube.com/watch?v=tj7RlQdF25A\"\
     >\"Hasn't everything already been discovered already though? like Magellan...\
@@ -234,7 +237,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 58
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -284,7 +287,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1462803391000
   description: "<p>June is here! \_With the <a href=\"https://hackforchangedc.splashthat.com/\"\
     >National Day of Civic</a> occurring just a few days before, we'll have plenty\
@@ -314,7 +317,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 59
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -573,7 +576,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -631,7 +634,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -810,14 +813,15 @@ other:
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
-    \ sign up for our show &amp; tell.\_</p> <p><i>Note! The date has been changed\
-    \ to June\_28th.</i></p> <p>So far we have:</p> <p>\u2022\_Christian Flores will\
-    \ show his Metro app.\_</p> <p>\u2022 <a href=\"https://twitter.com/joe_haaga\"\
+    \ sign up for our show &amp; tell.\_So far we have:</p> <p>\u2022\_Christian Flores\
+    \ will show his Metro app.\_</p> <p>\u2022 <a href=\"https://twitter.com/joe_haaga\"\
     >Joe Haaga</a> will discuss an extensible command line utility for train arrivals.</p>\
-    \ <p><br/>Many thanks to our sponsors at\_<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
-    >WeWork</a>\_and<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_for making\
-    \ this event possible!</p> <p><br/>To build your own Metro apps, hacks, and visualizations,\
-    \ find WMATA's open data via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\"\
+    \ <p><br/>\u2022\_Marcos Huerta will demo his\_Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\"\
+    >DC Metro Pi Speaker</a>.</p> <p><br/>Many thanks to our sponsors at\_<a href=\"\
+    https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\_and<a\
+    \ href=\"http://mobilitylab.org/\">Mobility Lab</a>\_for making this event possible!</p>\
+    \ <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's\
+    \ open data via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\"\
     >data-download</a>\_tag, or use their\_<a href=\"https://developer.wmata.com/\"\
     >developer tools</a>.\_</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228585705/\"\
     >Metro Hack Night IV</a>? See\_<a href=\"http://mobilitylab.org/2016/02/26/wmata-hosts-metro-hack-night/\"\
@@ -835,14 +839,14 @@ other:
   name: Metro Hack Night V
   status: upcoming
   time: 1467158400000
-  updated: 1464195937000
+  updated: 1464278171000
   utc_offset: -21600000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
