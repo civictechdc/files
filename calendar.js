@@ -2,45 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1462296213000, 
-            "description": "<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur and app developer who has led technology projects for high-profile clients including Disney, Wal-Mart, Mobil Oil, Cirque du Soleil, and Hotel Monaco.</i></b></p> <p><br/><b>About Charlyn:</b><br/>-Charlyn is a published author, speaker, and television and video host, she organized and hosted last year's hugely successful Appreneur Summit, an international online conference for independent app and game developers.</p> <p>\n\n-Charlyn is a theme park aficionado who's currently hard at work building an extensive and magical app portfolio for Disney World vacationers.</p> <p><br/><b>Event Details</b></p> <p><br/><b>Members will get a chance to ask her anything related to:</b><br/>-App Development<br/>-Marketing &amp; Social Media<br/>-Mobile Programming</p> <p>\n\n<b>How do I sign up?</b><br/>-Request to join our Slack channel: <a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a><br/>-Join the #ama channel<br/>-Tweet using #AppreneurAMA</p> <p>\n\n<b>Schedule</b><br/>-Tuesday May 24 @ 12:00PM EST: We will kick off the event and you can start asking your questions<br/>-Wednesday May 25 @ 12:00PM EST: We will remind members to ask their final questions by 9:00PM<br/>-Thursday May 26 @ 5:00PM EST: End of the AMA</p> <p>\n\nDuring this period Charlyn will answer your questions. Members are welcome to post questions at any point during the AMA from noon Tuesday to 9:00pm EST Wednesday.</p> <p>\n\nThis event is for everyone, and may be really helpful for aspiring entrepreneurs, developers, those interested in building an app and those interested in the app development process. Come join us on slack.</p>", 
-            "duration": 190800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230845176/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "230845176", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ask Me Anything! with Charlyn Keating (Entrepreneur and App Developer)", 
-            "status": "upcoming", 
-            "time": 1464105600000, 
-            "updated": 1462296415000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Slack", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24125305, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "Online", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 37
-        }, 
-        {
             "created": 1463253176000, 
             "description": "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26 from 5:30pm to 8:30pm to see the Googlers discuss the super secret new product that is being announced at Google I/O, and get a chance to ask them questions live through Google Hangout.</p> <p><b>Location:</b>\u00a0<a href=\"https://www.google.com/maps/place/8020+Towers+Crescent+Dr,+Vienna,+VA+22182/@38.9150354,-77.2227482,17z/data=!3m1!4b1!4m5!3m4!1s0x89b64ae7b529801f:0xa640d04f3eb213ed!8m2!3d38.9150354!4d-77.2205595?hl=en\">8020 Towers Crescent Drive, Vienna VA 22182</a></p> <p><b>Agenda:</b></p> <p>5:30-6:00 pm - Check-In\u00a0&amp; Networking (with Food/Drinks)</p> <p>6:00 pm - Hangout Begins!</p> <p>The Firebase platform released several tighter integration with Android Development at Google I/O 2016.\u00a0</p> <p><i>If you are a front-end designer, app developer, or tech enthusiast, you won't want to miss this!!</i></p> <p>REGISTER FOR THE EVENT HERE:\u00a0<a href=\"https://events.withgoogle.com/post-io-event-live-hangout/\"><a href=\"https://events.withgoogle.com/post-io-event-live-hangout/\" class=\"linkified\">https://events.withgoogle.com/post-io-event-live-hangout/</a></a></p> <p>Submit your questions now on Google+ or on Twitter using the hashtag\u00a0#AskFirebaseLive.</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/c/e/9/600_450352457.jpeg\" /></p> <p>\n\n\n8:00 pm - Till we leave - Q&amp;A Breakout Sessions/Networking/Socializing</p> <p><b>Parking:</b>\u00a0 Follow signs to Guest Parking.\u00a0 Be sure to bring your ticket inside for validation.</p> <p><b>This event is Metro accessible</b></p> <p>Event Max:\u00a0 100-ish</p>", 
             "duration": 10800000, 
@@ -78,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1459265642000, 
@@ -119,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1452612310000, 
@@ -158,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1446219481000, 
@@ -182,23 +143,23 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1464820200000, 
-            "updated": 1464283282000, 
+            "updated": 1464286095000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1155 F Street NW", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 23383402, 
-                "lat": 38.897387999999999, 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
                 "localized_country_name": "USA", 
-                "lon": -77.027573000000004, 
-                "name": "FiscalNote HQ", 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1326383071000, 
@@ -237,7 +198,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1457035701000, 
@@ -277,7 +238,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1462803391000, 
@@ -315,7 +276,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1451511461000, 
@@ -409,7 +370,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1457035881000, 
@@ -694,7 +655,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1457212385000, 
@@ -978,6 +939,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231179171/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvkbqb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1468362600000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 

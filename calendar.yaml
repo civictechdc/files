@@ -1,59 +1,5 @@
 codefordc: []
 other:
-- created: 1462296213000
-  description: '<p><b><i>WWC DC would like to introduce Charlyn Keating, an entrepreneur
-    and app developer who has led technology projects for high-profile clients including
-    Disney, Wal-Mart, Mobil Oil, Cirque du Soleil, and Hotel Monaco.</i></b></p> <p><br/><b>About
-    Charlyn:</b><br/>-Charlyn is a published author, speaker, and television and video
-    host, she organized and hosted last year''s hugely successful Appreneur Summit,
-    an international online conference for independent app and game developers.</p>
-    <p>
-
-
-    -Charlyn is a theme park aficionado who''s currently hard at work building an
-    extensive and magical app portfolio for Disney World vacationers.</p> <p><br/><b>Event
-    Details</b></p> <p><br/><b>Members will get a chance to ask her anything related
-    to:</b><br/>-App Development<br/>-Marketing &amp; Social Media<br/>-Mobile Programming</p>
-    <p>
-
-
-    <b>How do I sign up?</b><br/>-Request to join our Slack channel: <a href="http://bit.ly/wwcdcslack"
-    class="linkified">http://bit.ly/wwcdcslack</a><br/>-Join the #ama channel<br/>-Tweet
-    using #AppreneurAMA</p> <p>
-
-
-    <b>Schedule</b><br/>-Tuesday May 24 @ 12:00PM EST: We will kick off the event
-    and you can start asking your questions<br/>-Wednesday May 25 @ 12:00PM EST: We
-    will remind members to ask their final questions by 9:00PM<br/>-Thursday May 26
-    @ 5:00PM EST: End of the AMA</p> <p>
-
-
-    During this period Charlyn will answer your questions. Members are welcome to
-    post questions at any point during the AMA from noon Tuesday to 9:00pm EST Wednesday.</p>
-    <p>
-
-
-    This event is for everyone, and may be really helpful for aspiring entrepreneurs,
-    developers, those interested in building an app and those interested in the app
-    development process. Come join us on slack.</p>'
-  duration: 190800000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/230845176/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '230845176'
-  maybe_rsvp_count: 0
-  name: Ask Me Anything! with Charlyn Keating (Entrepreneur and App Developer)
-  status: upcoming
-  time: 1464105600000
-  updated: 1462296415000
-  utc_offset: -14400000
-  venue: {address_1: Slack, city: Washington, country: us, id: 24125305, lat: 38.907192000000002,
-    localized_country_name: USA, lon: -77.036873, name: Online, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 37
 - created: 1463253176000
   description: "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing\
     \ Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26\
@@ -93,7 +39,7 @@ other:
     name: Capital One Tower Crescent - 2nd Floor, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 102
+  yes_rsvp_count: 95
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -126,7 +72,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -170,7 +116,7 @@ other:
     name: The Human Geo, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -195,14 +141,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1464820200000
-  updated: 1464283282000
+  updated: 1464286095000
   utc_offset: -14400000
-  venue: {address_1: 1155 F Street NW, city: Washington, country: us, id: 23383402,
-    lat: 38.897387999999999, localized_country_name: USA, lon: -77.027573000000004,
-    name: FiscalNote HQ, repinned: false, state: DC}
+  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
+    lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
+    name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1326383071000
   description: "<p>To quote Arrested Development:\_<a href=\"https://www.youtube.com/watch?v=tj7RlQdF25A\"\
     >\"Hasn't everything already been discovered already though? like Magellan...\
@@ -237,7 +183,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 61
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -287,7 +233,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1462803391000
   description: "<p>June is here! \_With the <a href=\"https://hackforchangedc.splashthat.com/\"\
     >National Day of Civic</a> occurring just a few days before, we'll have plenty\
@@ -317,7 +263,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -409,7 +355,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1457035881000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -735,7 +681,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -1061,6 +1007,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/231179171/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvkbqb
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1468362600000
+  updated: 1459265764000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
