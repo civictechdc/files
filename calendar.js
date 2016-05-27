@@ -2,46 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1463253176000, 
-            "description": "<p><b>Details:</b></p> <p>GDG-DC and DCAndroid will be hosting a Viewing Party for the Live Hangout @Capital One in Tyson's Corner. Join us on May 26 from 5:30pm to 8:30pm to see the Googlers discuss the super secret new product that is being announced at Google I/O, and get a chance to ask them questions live through Google Hangout.</p> <p><b>Location:</b>\u00a0<a href=\"https://www.google.com/maps/place/8020+Towers+Crescent+Dr,+Vienna,+VA+22182/@38.9150354,-77.2227482,17z/data=!3m1!4b1!4m5!3m4!1s0x89b64ae7b529801f:0xa640d04f3eb213ed!8m2!3d38.9150354!4d-77.2205595?hl=en\">8020 Towers Crescent Drive, Vienna VA 22182</a></p> <p><b>Agenda:</b></p> <p>5:30-6:00 pm - Check-In\u00a0&amp; Networking (with Food/Drinks)</p> <p>6:00 pm - Hangout Begins!</p> <p>The Firebase platform released several tighter integration with Android Development at Google I/O 2016.\u00a0</p> <p><i>If you are a front-end designer, app developer, or tech enthusiast, you won't want to miss this!!</i></p> <p>REGISTER FOR THE EVENT HERE:\u00a0<a href=\"https://events.withgoogle.com/post-io-event-live-hangout/\"><a href=\"https://events.withgoogle.com/post-io-event-live-hangout/\" class=\"linkified\">https://events.withgoogle.com/post-io-event-live-hangout/</a></a></p> <p>Submit your questions now on Google+ or on Twitter using the hashtag\u00a0#AskFirebaseLive.</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/c/c/e/9/600_450352457.jpeg\" /></p> <p>\n\n\n8:00 pm - Till we leave - Q&amp;A Breakout Sessions/Networking/Socializing</p> <p><b>Parking:</b>\u00a0 Follow signs to Guest Parking.\u00a0 Be sure to bring your ticket inside for validation.</p> <p><b>This event is Metro accessible</b></p> <p>Event Max:\u00a0 100-ish</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/231124720/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "id": "231124720", 
-            "maybe_rsvp_count": 0, 
-            "name": "GDG-DC / DCAndroid Post Google I/O Viewing Party with Firebase Team", 
-            "rsvp_limit": 120, 
-            "status": "upcoming", 
-            "time": 1464298200000, 
-            "updated": 1464284203000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "8020 Towers Crescent Drive", 
-                "city": "Vienna", 
-                "country": "us", 
-                "id": 24546887, 
-                "lat": 38.915035000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.220557999999997, 
-                "name": "Capital One Tower Crescent - 2nd Floor", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 95
-        }, 
-        {
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
@@ -159,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1326383071000, 
@@ -198,7 +158,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1457035701000, 
@@ -465,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1463499045000, 
