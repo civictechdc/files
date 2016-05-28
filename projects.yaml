@@ -1457,16 +1457,16 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 491,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 493,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 24,
     link: 'https://github.com/drownedout', name: drownedout}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 22,
+    link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 20,
     link: 'https://github.com/mebates', name: mebates}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 19,
-    link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 19,
     link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 12,
@@ -1507,20 +1507,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 98156]
-  - [HTML, 57648]
+  - [Ruby, 98356]
+  - [HTML, 57636]
   - [CSS, 24994]
   - [CoffeeScript, 1476]
   - [JavaScript, 693]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 71
+  open_issues: 69
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-05-26T15:32:09Z'
+  pushed_at: '2016-05-28T15:25:40Z'
   short_name: dcaf_case_management
-  size: 9246
+  size: 9249
   updated_at: '2016-05-08T17:22:09Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

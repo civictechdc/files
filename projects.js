@@ -4540,7 +4540,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 491, 
+                "contributions": 493, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4557,16 +4557,16 @@ projects([
                 "name": "drownedout"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1946584?v=3", 
+                "contributions": 22, 
+                "link": "https://github.com/Kevin-Wei", 
+                "name": "Kevin-Wei"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6223901?v=3", 
                 "contributions": 20, 
                 "link": "https://github.com/mebates", 
                 "name": "mebates"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1946584?v=3", 
-                "contributions": 19, 
-                "link": "https://github.com/Kevin-Wei", 
-                "name": "Kevin-Wei"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
@@ -4671,11 +4671,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                98156
+                98356
             ], 
             [
                 "HTML", 
-                57648
+                57636
             ], 
             [
                 "CSS", 
@@ -4698,16 +4698,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 71, 
+        "open_issues": 69, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-05-26T15:32:09Z", 
+        "pushed_at": "2016-05-28T15:25:40Z", 
         "short_name": "dcaf_case_management", 
-        "size": 9246, 
+        "size": 9249, 
         "updated_at": "2016-05-08T17:22:09Z", 
         "watchers": 6
     }, 
