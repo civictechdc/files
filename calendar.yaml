@@ -108,7 +108,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1326383071000
   description: "<p>To quote Arrested Development:\_<a href=\"https://www.youtube.com/watch?v=tj7RlQdF25A\"\
     >\"Hasn't everything already been discovered already though? like Magellan...\
@@ -223,7 +223,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -616,14 +616,14 @@ other:
   yes_rsvp_count: 4
 - created: 1463417025000
   description: "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\"\
-    >Eventbrite </a>to attend. Extra early registration through 5/24.</p> <p>Learn\
-    \ about making your website findable by search engines and how to help visitors\
-    \ locate content on your website.\_</p> <p><br/>We will discuss:</p> <p>- Terminology\
-    \ and trends in search, tagging and other elements of search and findability\_\
-    <br/>- Important considerations in search engine optimization (SEO)<br/>- Basic\
-    \ information architecture and other elements of findability\_<br/>- New considerations\
-    \ in mobile and social\_<br/>- Trends in SEO and findability</p> <p>Note that\
-    \ we are confirming location details.</p>"
+    >Eventbrite </a>to attend.\_</p> <p>Learn about making your website findable by\
+    \ search engines and how to help visitors locate content on your website.\_</p>\
+    \ <p><br/>We will discuss:</p> <p>- Terminology and trends in search, tagging\
+    \ and other elements of search and findability\_<br/>- Important considerations\
+    \ in search engine optimization (SEO)<br/>- Basic information architecture and\
+    \ other elements of findability\_<br/>- New considerations in mobile and social\_\
+    <br/>- Trends in SEO and findability</p> <p>Note that we are confirming location\
+    \ details.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/231166266/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -634,7 +634,7 @@ other:
   name: Findability & Searchability
   status: upcoming
   time: 1466548200000
-  updated: 1463419133000
+  updated: 1464491040000
   utc_offset: -14400000
   venue: {address_1: '1133 15th Street, NW (12th Floor)', city: Washington, country: us,
     id: 16254252, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
@@ -720,9 +720,11 @@ other:
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
     \ sign up for our show &amp; tell.\_So far we have:</p> <p>\u2022\_Christian Flores\
-    \ will show his Metro app.\_</p> <p>\u2022 <a href=\"https://twitter.com/joe_haaga\"\
-    >Joe Haaga</a> will discuss an extensible command line utility for train arrivals.</p>\
-    \ <p><br/>\u2022\_Marcos Huerta will demo his\_Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\"\
+    \ will show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\_\
+    iOS app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p>\
+    \ <p><br/>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will\
+    \ discuss an extensible command line utility for train arrivals.</p> <p><br/>\u2022\
+    \_Marcos Huerta will demo his\_Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\"\
     >DC Metro Pi Speaker</a>.</p> <p><br/>Many thanks to our sponsors at\_<a href=\"\
     https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\_and<a\
     \ href=\"http://mobilitylab.org/\">Mobility Lab</a>\_for making this event possible!</p>\
@@ -745,7 +747,7 @@ other:
   name: Metro Hack Night V
   status: upcoming
   time: 1467158400000
-  updated: 1464278171000
+  updated: 1464491576000
   utc_offset: -21600000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,

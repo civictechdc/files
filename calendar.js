@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1326383071000, 
@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1451511461000, 
@@ -580,7 +580,7 @@ calendar({
         }, 
         {
             "created": 1463417025000, 
-            "description": "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\">Eventbrite </a>to attend. Extra early registration through 5/24.</p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website.\u00a0</p> <p><br/>We will discuss:</p> <p>- Terminology and trends in search, tagging and other elements of search and findability\u00a0<br/>- Important considerations in search engine optimization (SEO)<br/>- Basic information architecture and other elements of findability\u00a0<br/>- New considerations in mobile and social\u00a0<br/>- Trends in SEO and findability</p> <p>Note that we are confirming location details.</p>", 
+            "description": "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\">Eventbrite </a>to attend.\u00a0</p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website.\u00a0</p> <p><br/>We will discuss:</p> <p>- Terminology and trends in search, tagging and other elements of search and findability\u00a0<br/>- Important considerations in search engine optimization (SEO)<br/>- Basic information architecture and other elements of findability\u00a0<br/>- New considerations in mobile and social\u00a0<br/>- Trends in SEO and findability</p> <p>Note that we are confirming location details.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/231166266/", 
             "group": {
                 "created": 1189804715000, 
@@ -598,7 +598,7 @@ calendar({
             "name": "Findability & Searchability", 
             "status": "upcoming", 
             "time": 1466548200000, 
-            "updated": 1463419133000, 
+            "updated": 1464491040000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th Street, NW (12th Floor)", 
@@ -675,7 +675,7 @@ calendar({
         }, 
         {
             "created": 1464053008000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. If you've made an app, hack, map or dataviz about Metrorail, sign up for our show &amp; tell.\u00a0So far we have:</p> <p>\u2022\u00a0Christian Flores will show his Metro app.\u00a0</p> <p>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will discuss an extensible command line utility for train arrivals.</p> <p><br/>\u2022\u00a0Marcos Huerta will demo his\u00a0Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\">DC Metro Pi Speaker</a>.</p> <p><br/>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228585705/\">Metro Hack Night IV</a>? See\u00a0<a href=\"http://mobilitylab.org/2016/02/26/wmata-hosts-metro-hack-night/\">WMATA hosts Metro Hack Night, announces more real-time data</a>\u00a0and\u00a0<a href=\"https://www.washingtonpost.com/news/dr-gridlock/wp/2016/02/24/metro-opens-doors-to-app-developers/\">Metro opens doors to app developers</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. If you've made an app, hack, map or dataviz about Metrorail, sign up for our show &amp; tell.\u00a0So far we have:</p> <p>\u2022\u00a0Christian Flores will show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\u00a0iOS app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p> <p><br/>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will discuss an extensible command line utility for train arrivals.</p> <p><br/>\u2022\u00a0Marcos Huerta will demo his\u00a0Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\">DC Metro Pi Speaker</a>.</p> <p><br/>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228585705/\">Metro Hack Night IV</a>? See\u00a0<a href=\"http://mobilitylab.org/2016/02/26/wmata-hosts-metro-hack-night/\">WMATA hosts Metro Hack Night, announces more real-time data</a>\u00a0and\u00a0<a href=\"https://www.washingtonpost.com/news/dr-gridlock/wp/2016/02/24/metro-opens-doors-to-app-developers/\">Metro opens doors to app developers</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231353360/", 
             "group": {
                 "created": 1384372275000, 
@@ -693,7 +693,7 @@ calendar({
             "name": "Metro Hack Night V", 
             "status": "upcoming", 
             "time": 1467158400000, 
-            "updated": 1464278171000, 
+            "updated": 1464491576000, 
             "utc_offset": -21600000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
