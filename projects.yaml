@@ -1,6 +1,6 @@
-- activity: [3, 4, 4, 0, 0, 8, 2, 7, 9, 0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0,
-    0, 1, 0, 0, 2, 0, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
-    0, 0, 0]
+- activity: [1, 4, 4, 0, 0, 9, 7, 1, 9, 0, 19, 54, 10, 0, 2, 3, 0, 0, 0, 0, 0, 1,
+    0, 0, 1, 0, 0, 2, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -635,9 +635,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0,
-    2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0, 2, 0, 0, 4, 22, 38, 42, 10, 8, 72, 2, 20, 14,
-    2, 20, 31, 1, 7]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 8, 2, 0, 0, 0,
+    2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0, 2, 0, 0, 4, 32, 56, 14, 12, 6, 74, 12, 8, 14,
+    2, 30, 21, 1, 7]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1012,7 +1012,7 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 17, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1457,7 +1457,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 503,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 526,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1501,28 +1501,28 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 30
+  forks: 31
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 99269]
-  - [HTML, 57636]
+  - [Ruby, 102893]
+  - [HTML, 57718]
   - [CSS, 24994]
   - [CoffeeScript, 1476]
   - [JavaScript, 693]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 74
+  open_issues: 75
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-05-29T20:25:50Z'
+  pushed_at: '2016-05-30T06:58:05Z'
   short_name: dcaf_case_management
-  size: 9386
-  updated_at: '2016-05-08T17:22:09Z'
-  watchers: 6
+  size: 9355
+  updated_at: '2016-05-30T08:25:29Z'
+  watchers: 7
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]

@@ -1,19 +1,19 @@
 [
     {
         "activity": [
-            3, 
+            1, 
             4, 
             4, 
             0, 
             0, 
-            8, 
-            2, 
+            9, 
             7, 
+            1, 
             9, 
             0, 
-            9, 
-            63, 
-            11, 
+            19, 
+            54, 
+            10, 
             0, 
             2, 
             3, 
@@ -30,8 +30,8 @@
             0, 
             2, 
             0, 
-            4, 
-            2, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -2049,8 +2049,8 @@
             2, 
             7, 
             1, 
-            4, 
-            6, 
+            8, 
+            2, 
             0, 
             0, 
             0, 
@@ -2069,18 +2069,18 @@
             0, 
             0, 
             4, 
-            22, 
-            38, 
-            42, 
-            10, 
+            32, 
+            56, 
+            14, 
+            12, 
+            6, 
+            74, 
+            12, 
             8, 
-            72, 
-            2, 
-            20, 
             14, 
             2, 
-            20, 
-            31, 
+            30, 
+            21, 
             1, 
             7
         ], 
@@ -3116,16 +3116,16 @@
     {
         "activity": [
             0, 
-            2, 
+            3, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
             1, 
             0, 
-            0, 
-            0, 
-            0, 
-            1, 
-            0, 
-            0, 
-            17, 
+            3, 
+            14, 
             0, 
             0, 
             0, 
@@ -4540,7 +4540,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 503, 
+                "contributions": 526, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4663,7 +4663,7 @@
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
-        "forks": 30, 
+        "forks": 31, 
         "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/colinxfleming/dcaf_case_management", 
@@ -4671,11 +4671,11 @@
         "languages": [
             [
                 "Ruby", 
-                99269
+                102893
             ], 
             [
                 "HTML", 
-                57636
+                57718
             ], 
             [
                 "CSS", 
@@ -4698,18 +4698,18 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 74, 
+        "open_issues": 75, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-05-29T20:25:50Z", 
+        "pushed_at": "2016-05-30T06:58:05Z", 
         "short_name": "dcaf_case_management", 
-        "size": 9386, 
-        "updated_at": "2016-05-08T17:22:09Z", 
-        "watchers": 6
+        "size": 9355, 
+        "updated_at": "2016-05-30T08:25:29Z", 
+        "watchers": 7
     }, 
     {
         "activity": [
