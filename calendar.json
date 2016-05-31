@@ -40,7 +40,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1452612310000, 
@@ -118,7 +118,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -198,7 +198,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1462803391000, 
@@ -236,7 +236,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1451511461000, 
@@ -274,7 +274,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1459265642000, 
@@ -805,7 +805,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1452612310000, 
