@@ -1,5 +1,5 @@
-- activity: [0, 6, 2, 0, 0, 9, 7, 1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 1,
-    0, 0, 1, 0, 0, 2, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+- activity: [0, 8, 0, 0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 1, 0,
+    0, 0, 1, 0, 0, 2, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -210,7 +210,7 @@
   size: 1980
   updated_at: '2016-05-08T17:22:47Z'
   watchers: 12
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -258,9 +258,9 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [0, 0, 5, 1, 10, 10, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0,
-    1, 4, 1, 4, 11, 4, 3, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0,
-    1, 2, 0]
+- activity: [0, 3, 2, 1, 16, 5, 2, 6, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 5, 1, 0,
+    5, 1, 2, 7, 6, 7, 0, 4, 1, 1, 0, 3, 0, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0,
+    2, 1, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
   contributors:
@@ -386,7 +386,7 @@
   updated_at: '2016-04-18T19:16:38Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -635,9 +635,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 6, 0, 3, 2, 5, 2, 7, 3, 6, 2, 0, 0, 1,
-    1, 4, 1, 4, 10, 8, 2, 0, 2, 20, 2, 0, 0, 0, 6, 36, 64, 2, 12, 14, 64, 16, 8, 10,
-    2, 30, 21, 3, 5]
+- activity: [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 6, 2, 1, 2, 5, 5, 4, 3, 6, 2, 0, 0, 2,
+    0, 4, 1, 14, 2, 6, 2, 2, 20, 0, 2, 0, 0, 0, 18, 24, 64, 6, 10, 54, 22, 20, 12,
+    2, 10, 22, 22, 5, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -785,10 +785,10 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 23
+  open_issues: 24
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-05-28T22:39:55Z'
+  pushed_at: '2016-06-01T14:33:20Z'
   short_name: dc-campaign-finance-watch
   size: 115192
   updated_at: '2016-05-25T21:08:04Z'
@@ -1012,7 +1012,7 @@
   size: 273
   updated_at: '2016-02-11T11:35:22Z'
   watchers: 10
-- activity: [0, 3, 0, 0, 0, 0, 0, 1, 0, 3, 14, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 3, 0, 0, 0, 0, 0, 1, 0, 5, 12, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1103,9 +1103,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [1, 1, 4, 25, 0, 27, 10, 4, 15, 0, 7, 0, 6, 0, 70, 10, 0, 2, 6, 3, 2,
-    8, 0, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 1, 0, 0, 108, 28, 2, 3, 0, 0, 0, 0,
-    0, 0, 0, 0, 4, 0]
+- activity: [0, 1, 7, 22, 4, 27, 6, 4, 15, 0, 7, 2, 4, 0, 78, 2, 0, 2, 6, 3, 2, 8,
+    13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 11, 111, 16, 0, 3, 0, 0, 0, 0, 0,
+    0, 0, 4, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1286,7 +1286,7 @@
   size: 21200
   updated_at: '2016-02-01T04:27:57Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1315,7 +1315,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 27, 8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 28, 7, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1366,8 +1366,8 @@
   size: 216
   updated_at: '2016-05-08T17:22:55Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1399,7 +1399,7 @@
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 10, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1431,9 +1431,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6,
-    7, 15, 0, 0, 9, 6, 8, 39, 2, 17, 9, 15, 10, 71, 48, 26, 51, 73, 38, 42, 48, 27,
-    25, 30, 28, 39, 1, 11, 70]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13,
+    9, 6, 0, 7, 2, 11, 4, 40, 7, 10, 20, 4, 21, 73, 51, 14, 48, 83, 27, 53, 38, 36,
+    23, 22, 46, 21, 1, 13, 69]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1465,7 +1465,7 @@
     link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 22,
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 20,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 21,
     link: 'https://github.com/mebates', name: mebates}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 19,
     link: 'https://github.com/mchelen', name: mchelen}
@@ -1508,19 +1508,19 @@
   id: 43036761
   languages:
   - [Ruby, 107661]
-  - [HTML, 60182]
+  - [HTML, 60145]
   - [CSS, 26380]
   - [CoffeeScript, 1476]
   - [JavaScript, 1336]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 69
+  open_issues: 70
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-05-31T02:54:15Z'
+  pushed_at: '2016-06-01T03:39:11Z'
   short_name: dcaf_case_management
-  size: 9371
+  size: 9382
   updated_at: '2016-05-30T08:25:29Z'
   watchers: 7
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1551,8 +1551,8 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 3, 0, 0, 4, 0, 10, 12, 28, 23, 14, 27, 23, 43, 15, 27, 11, 9, 18, 30, 26, 16,
-    15, 5, 9, 0, 6, 0, 0]
+    1, 2, 0, 4, 0, 2, 8, 12, 28, 24, 17, 23, 27, 48, 9, 24, 11, 10, 23, 34, 20, 18,
+    12, 2, 9, 0, 6, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
@@ -1614,8 +1614,8 @@
   size: 17694
   updated_at: '2016-05-13T12:52:54Z'
   watchers: 6
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1,
-    0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1,
+    0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1750,7 +1750,7 @@
   updated_at: '2016-05-08T17:22:58Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -1794,7 +1794,7 @@
   updated_at: '2016-02-09T01:18:54Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0, 4, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 2, 4, 0, 3, 1, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
