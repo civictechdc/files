@@ -38,129 +38,10 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 33
         }
     ], 
     "other": [
-        {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228284715/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "2nd Floor", 
-            "id": "cjdtnlyvjbcb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Beginners Night!", 
-            "status": "upcoming", 
-            "time": 1464820200000, 
-            "updated": 1464818485000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "4350 Fairfax Drive", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24552730, 
-                "lat": 38.881686999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.113335000000006, 
-                "name": "The Human Geo", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 24
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387919/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pdkzrlyvjbcb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab- Beginners Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1464820200000, 
-            "updated": 1464820976000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1200 18th St. NW Ste 650", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23819674, 
-                "lat": 38.905945000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.042061000000004, 
-                "name": "The Iron Yard DC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 50
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>To quote Arrested Development:\u00a0<a href=\"https://www.youtube.com/watch?v=tj7RlQdF25A\">\"Hasn't everything already been discovered already though? like Magellan... Cortez... NASA... \", \"well, yeah, they did a pretty good job\", \"it never hurts to double check\".\u00a0</a></p> <p>Some of our favorite Cartographers are traveling from near and far for GeoDC this month! <a href=\"http://geography.wisc.edu/cartography/\">Tanya Buckingham from University Wisconsin Madison</a> will giver her \"Top 10\" list for creating and running a cartography space!\u00a0</p> <p>Nuela Cowen from the local fan favorite - <a href=\"https://geography.columbian.gwu.edu/\">George Washington University</a> - will highlight their epic partnerships with OpenStreetMap and how their students are learning and shaping new forms of cartography.\u00a0</p> <p>More to follow - we meet the first Wednesday of every month at Local 16 on the second floor,\u00a0gathering to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>As always. This promises to be a FANTASTIC evening! Plus. We'll have special trivia hints and clues that promise to give you a leg up for July's GeoDC for the first summer geo-trivia-extravaganza.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/230731719/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcyvjbcb", 
-            "maybe_rsvp_count": 0, 
-            "name": "GeoDC June Edition: Cartography Community!", 
-            "status": "upcoming", 
-            "time": 1464822000000, 
-            "updated": 1464220375000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1602 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24181227, 
-                "lat": 38.916733000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.037186000000005, 
-                "name": "Local 16", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 91
-        }, 
         {
             "created": 1457035701000, 
             "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -199,7 +80,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1462803391000, 
@@ -237,7 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1451511461000, 
@@ -275,7 +156,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459265642000, 
@@ -777,7 +658,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457035701000, 
@@ -939,7 +820,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1460389774000, 
@@ -967,6 +848,62 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231179171/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvkbqb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1468362600000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227736623/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bcxvllyvkbrb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1468449000000, 
+            "updated": 1446220149000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
@@ -1011,7 +948,7 @@
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvlbfb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/231584528/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
@@ -1045,7 +982,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
@@ -1077,7 +1014,7 @@
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvmbkb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/231584529/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
@@ -1111,7 +1048,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
