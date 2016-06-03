@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }
     ], 
     "other": [
@@ -80,7 +80,48 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 58
+        }, 
+        {
+            "created": 1464972715000, 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup! The schedule will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following -\u00a0</p> <p><a href=\"https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour\">&lt;/a&gt;</p> <p><b>This week, Valerie will give an overview of recursion (&lt;a href=\"https://en.wikipedia.org/wiki/Recursion_(computer_science)\"&gt;<a href=\"https://en.wikipedia.org/wiki/Recursion_(computer_science\" class=\"linkified\">https://en.wikipedia.org/wiki/Recursion_(computer_science</a>)</a>), one of the fundamental concepts of computer science. We\u2019ll talk about what recursion is, how it can be used to approach problems like sorting and searching, and do short exercises to write recursive functions.</b></p> <p>We want to do a combination of whiteboarding and coding on the computer so please bring a computer. <b>You can code in the language of your choice (including pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231624224/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Call (703) 981 - 4542 if the door is locked outside.", 
+            "id": "231624224", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup: Recursion Review", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1465252200000, 
+            "updated": 1464972715000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1025 Thomas Jefferson Street, NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23852906, 
+                "lat": 38.903111000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.059639000000004, 
+                "name": "Palantir Technologies", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1462803391000, 
@@ -118,7 +159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1451511461000, 
@@ -156,7 +197,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -252,7 +293,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457035881000, 
@@ -279,7 +320,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1459265642000, 
@@ -623,6 +664,47 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1464965624000, 
+            "description": "<p>Join your fellow data visualizers on Tuesday, June 28th \u00a0at Chief (1800 Massachusetts Ave NW) for <a href=\"https://www.linkedin.com/in/seantibbetts\">Sean Tibbetts</a>\u2019 presentation on how his company, <a href=\"http://www.tandemnsi.com/2015/12/cyber-timez-builds-wearable-tech-to-help-disabled/\">Cyber Timez</a>, uses sensor data and wearable devices, and software to help the blind, deaf, and disabled interact and thrive in the world around them.</p> <p><img src=\"http://www.tandemnsi.com/wp-content/uploads/2015/12/cybertimez_640x320-640x360.jpg\" /></p> <p><a href=\"https://www.linkedin.com/in/seantibbetts\">Sean Tibbetts</a> is an innovative leader currently focused on providing greater independence and a better quality of life for a wide array of people with disabilities by deploying customized wearable technology solutions. His career in Information Technology spans almost three decades, started with IT dial-up help desk in the '90's to the\u00a0CEO and Co-Founder of <a href=\"http://www.cybertimez.com\">Cyber Timez</a>, an award winning startup that\u00a0works with the deaf, low vision, blind, and physically disabled communities, and is\u00a0guided by their motto \"Always in the Service of Others\".\u00a0His entrance into the accessible technology arena came after multiple people implored him to help veterans returning from the wars in Afghanistan and Iraq.\u00a0</p> <p><b>AGENDA</b></p> <p>\u2022 6:30 - Doors open, networking</p> <p>\u2022 7ish - Introductions &amp; Announcements</p> <p>\u2022 7:20 - Wearable Tech Presentation</p> <p>\u2022 8:05 - Q&amp;A &amp; Demo</p> <p>\u2022\u00a08:30 - Data Drinks</p> <p><b>ANNOUNCEMENTS</b></p> <p>Hiring? Job Seeking?\u00a0<a href=\"http://datable.org/\">Datable.org</a></p> <p>Building your brand in tech?\u00a0<a href=\"https://docs.google.com/document/d/1eSNzAqxNVzdw592GDEzX9d0akbegJIy5z_qvbpCF2n4/edit?usp=sharing\">Sponsor DC2</a></p> <p>Have a difficult data question? Ask 13,000 local\u00a0Data\u00a0Practitioners with\u00a0&lt;a&gt;Pushie&lt;/a&gt;</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/c/9/7/6/600_450351574.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/231621640/", 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "RSVP so security will let you in the building.", 
+            "id": "231621640", 
+            "maybe_rsvp_count": 0, 
+            "name": "Making Wearable Tech Great Again", 
+            "rsvp_limit": 190, 
+            "status": "upcoming", 
+            "time": 1467153000000, 
+            "updated": 1464969844000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 33
+        }, 
+        {
             "created": 1464053008000, 
             "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. If you've made an app, hack, map or dataviz about Metrorail, sign up for our show &amp; tell.\u00a0So far we have:</p> <p>\u2022\u00a0Christian Flores will show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\u00a0iOS app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p> <p><br/>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will discuss an extensible command line utility for train arrivals.</p> <p><br/>\u2022\u00a0Marcos Huerta will demo his\u00a0Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\">DC Metro Pi Speaker</a>.</p> <p><br/>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228585705/\">Metro Hack Night IV</a>? See\u00a0<a href=\"http://mobilitylab.org/2016/02/26/wmata-hosts-metro-hack-night/\">WMATA hosts Metro Hack Night, announces more real-time data</a>\u00a0and\u00a0<a href=\"https://www.washingtonpost.com/news/dr-gridlock/wp/2016/02/24/metro-opens-doors-to-app-developers/\">Metro opens doors to app developers</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231353360/", 
@@ -876,34 +958,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227736623/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvkbrb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1468449000000, 
-            "updated": 1446220149000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
