@@ -306,7 +306,7 @@
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
-  forks: 41
+  forks: 47
   help_wanted: []
   homepage: http://www.codefordc.org
   html_url: https://github.com/codefordc/codefordc.github.com
@@ -321,14 +321,14 @@
     url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 26
+  open_issues: 29
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-06-04T02:59:26Z'
+  pushed_at: '2016-06-04T16:25:48Z'
   short_name: codefordc.github.com
   size: 19112
-  updated_at: '2016-05-07T18:41:52Z'
-  watchers: 23
+  updated_at: '2016-06-04T16:20:16Z'
+  watchers: 24
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -446,7 +446,7 @@
   size: 2743
   updated_at: '2016-04-14T12:30:23Z'
   watchers: 5
-- activity: [0, 0, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     1, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -483,7 +483,7 @@
   default_branch: master
   description: DC Metro Metrics is a project dedicated to collecting and sharing publicly
     available data related to the DC WMATA Metrorail system.
-  forks: 9
+  forks: 10
   help_wanted: []
   homepage: null
   html_url: https://github.com/LeeMendelowitz/DCMetroMetrics
@@ -1103,8 +1103,8 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [0, 1, 26, 3, 13, 21, 7, 12, 3, 0, 7, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3,
-    13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 120, 4, 3, 0, 0, 0, 0, 0, 0,
+- activity: [1, 0, 27, 2, 21, 14, 6, 15, 0, 3, 4, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3,
+    13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 122, 2, 3, 0, 0, 0, 0, 0, 0,
     0, 0, 4, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1457,7 +1457,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 548,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 549,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1491,38 +1491,40 @@
     link: 'https://github.com/edwardpark', name: edwardpark}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12459939?v=3', contributions: 1,
     link: 'https://github.com/kndllbrwn', name: kndllbrwn}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5253461?v=3', contributions: 1,
+    link: 'https://github.com/rekhers', name: rekhers}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5439589?v=3', contributions: 1,
     link: 'https://github.com/valeriecodes', name: valeriecodes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16469242?v=3', contributions: 1,
     link: 'https://github.com/RAGarza8', name: RAGarza8}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6002123?v=3', contributions: 1,
     link: 'https://github.com/trycrmr', name: trycrmr}
-  contributors_count: 20
+  contributors_count: 21
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 31
+  forks: 32
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
   - [Ruby, 107555]
-  - [HTML, 60145]
+  - [HTML, 60175]
   - [CSS, 26380]
   - [CoffeeScript, 1476]
   - [JavaScript, 1336]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 78
+  open_issues: 82
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-02T13:58:03Z'
+  pushed_at: '2016-06-04T17:28:16Z'
   short_name: dcaf_case_management
-  size: 9390
-  updated_at: '2016-05-30T08:25:29Z'
-  watchers: 7
+  size: 9365
+  updated_at: '2016-06-04T16:09:37Z'
+  watchers: 8
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
@@ -1609,9 +1611,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-06-02T16:06:35Z'
+  pushed_at: '2016-06-04T13:09:51Z'
   short_name: school-modernization
-  size: 17727
+  size: 17728
   updated_at: '2016-05-13T12:52:54Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1,
