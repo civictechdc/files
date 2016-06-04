@@ -1,4 +1,4 @@
-- activity: [2, 6, 0, 0, 7, 3, 6, 10, 0, 2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0,
+- activity: [2, 6, 0, 0, 7, 3, 6, 10, 0, 3, 65, 15, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0,
     0, 1, 0, 0, 2, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -94,7 +94,7 @@
   updated_at: '2016-05-08T17:22:19Z'
   watchers: 30
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -324,7 +324,7 @@
   open_issues: 26
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-05-22T16:55:45Z'
+  pushed_at: '2016-06-04T02:59:26Z'
   short_name: codefordc.github.com
   size: 19112
   updated_at: '2016-05-07T18:41:52Z'
@@ -1515,7 +1515,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 74
+  open_issues: 78
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-06-02T13:58:03Z'
