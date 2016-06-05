@@ -35,7 +35,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 53
 other:
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -86,7 +86,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 63
 - created: 1464972715000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -123,7 +123,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1462803391000
   description: "<p>June is here! \_With the <a href=\"https://hackforchangedc.splashthat.com/\"\
     >National Day of Civic</a> occurring just a few days before, we'll have plenty\
@@ -153,7 +153,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 103
 - created: 1451511461000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -212,11 +212,14 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1465338600000
-  updated: 1459265764000
+  updated: 1465146441000
   utc_offset: -14400000
+  venue: {address_1: 901 G St NW, city: Washington, country: us, id: 679273, lat: 38.898738999999999,
+    localized_country_name: USA, lon: -77.024225999999999, name: MLK Library, repinned: false,
+    state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1464722687000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -327,7 +330,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -481,7 +484,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1417881835000
   description: <p><b>Data, privacy, and application design</b></p> <p><br/>When dealing
     with research data, you have to be careful to protect user privacy. This can make
@@ -510,7 +513,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -785,7 +788,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\

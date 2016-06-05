@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 53
         }
     ], 
     "other": [
@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1464972715000, 
@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1462803391000, 
@@ -159,7 +159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1451511461000, 
@@ -221,11 +221,24 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1465338600000, 
-            "updated": 1459265764000, 
+            "updated": 1465146441000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "901 G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 679273, 
+                "lat": 38.898738999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.024225999999999, 
+                "name": "MLK Library", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1464722687000, 
@@ -320,7 +333,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1459265642000, 
@@ -443,7 +456,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -483,7 +496,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1457965726000, 
@@ -702,7 +715,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1464053008000, 
