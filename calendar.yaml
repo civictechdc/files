@@ -35,7 +35,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 48
 other:
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
@@ -86,7 +86,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - created: 1464972715000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -123,7 +123,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1462803391000
   description: "<p>June is here! \_With the <a href=\"https://hackforchangedc.splashthat.com/\"\
     >National Day of Civic</a> occurring just a few days before, we'll have plenty\
@@ -277,11 +277,11 @@ other:
   headcount: 0
   id: bcxvllyvjblb
   maybe_rsvp_count: 0
-  name: Python - Hack Night
+  name: Python - Using Functions - Hack Night
   rsvp_limit: 50
   status: upcoming
   time: 1465425000000
-  updated: 1446220149000
+  updated: 1465066829000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -327,7 +327,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -342,7 +342,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvjbsb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/231650591/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -357,7 +357,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1462932183000
   description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/3/f/8/d/600_450256269.jpeg\"\
     \ /></p> <p>\n\n\nPlease join us in June to hear how <a href=\"https://drill.apache.org/\"\
@@ -611,7 +611,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1464722524000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -785,7 +785,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
