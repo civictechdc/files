@@ -861,8 +861,8 @@ projects([
             1, 
             4, 
             11, 
-            1, 
-            6, 
+            3, 
+            4, 
             4, 
             0, 
             1, 
@@ -885,7 +885,7 @@ projects([
             0, 
             2, 
             1, 
-            0
+            7
         ], 
         "ci": {
             "codeclimate": true, 
@@ -2064,8 +2064,8 @@ projects([
             0, 
             7, 
             2, 
-            3, 
-            5, 
+            7, 
+            1, 
             4, 
             6, 
             0, 
@@ -2087,17 +2087,17 @@ projects([
             0, 
             4, 
             22, 
-            24, 
-            56, 
+            38, 
+            42, 
             10, 
-            6, 
-            74, 
+            8, 
+            72, 
             2, 
             20, 
             14, 
             2, 
-            14, 
-            37, 
+            20, 
+            31, 
             1, 
             7, 
             0
@@ -2982,8 +2982,8 @@ projects([
             0, 
             2, 
             0, 
-            2, 
-            6, 
+            8, 
+            0, 
             0, 
             0, 
             0, 
@@ -4467,8 +4467,8 @@ projects([
             6, 
             0, 
             9, 
-            0, 
-            13, 
+            2, 
+            11, 
             2, 
             40, 
             7, 
@@ -4476,22 +4476,22 @@ projects([
             24, 
             0, 
             51, 
-            45, 
-            58, 
-            18, 
-            47, 
-            79, 
-            26, 
-            51, 
-            49, 
-            20, 
-            23, 
+            63, 
             40, 
-            39, 
-            11, 
-            5, 
-            27, 
-            62
+            35, 
+            74, 
+            35, 
+            48, 
+            35, 
+            45, 
+            24, 
+            32, 
+            25, 
+            41, 
+            9, 
+            7, 
+            35, 
+            68
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4558,7 +4558,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 552, 
+                "contributions": 555, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4635,16 +4635,16 @@ projects([
                 "name": "ewiggins"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5253461?v=3", 
+                "contributions": 4, 
+                "link": "https://github.com/rekhers", 
+                "name": "rekhers"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12372787?v=3", 
                 "contributions": 4, 
                 "link": "https://github.com/adinneen", 
                 "name": "adinneen"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5253461?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/rekhers", 
-                "name": "rekhers"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/8108438?v=3", 
@@ -4695,15 +4695,15 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                107827
+                107820
             ], 
             [
                 "HTML", 
-                60528
+                60593
             ], 
             [
                 "CSS", 
-                26434
+                26433
             ], 
             [
                 "CoffeeScript", 
@@ -4722,16 +4722,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 81, 
+        "open_issues": 78, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-04T20:11:38Z", 
+        "pushed_at": "2016-06-05T22:22:47Z", 
         "short_name": "dcaf_case_management", 
-        "size": 9391, 
+        "size": 9404, 
         "updated_at": "2016-06-04T16:09:37Z", 
         "watchers": 8
     }, 
@@ -4855,21 +4855,21 @@ projects([
             4, 
             0, 
             10, 
-            9, 
-            28, 
-            9, 
+            10, 
             27, 
-            22, 
-            9, 
-            49, 
-            30, 
+            17, 
+            23, 
+            21, 
+            13, 
+            53, 
+            20, 
+            21, 
             18, 
-            19, 
-            9, 
-            12, 
+            6, 
+            13, 
+            36, 
+            17, 
             26, 
-            27, 
-            27, 
             10, 
             11, 
             3, 
@@ -5007,9 +5007,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-06-04T13:09:51Z", 
+        "pushed_at": "2016-06-05T19:12:37Z", 
         "short_name": "school-modernization", 
-        "size": 17728, 
+        "size": 17744, 
         "updated_at": "2016-05-13T12:52:54Z", 
         "watchers": 6
     }, 

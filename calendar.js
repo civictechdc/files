@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 56
         }
     ], 
     "other": [
@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1464972715000, 
@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1462803391000, 
@@ -298,12 +298,24 @@ calendar({
             "headcount": 0, 
             "id": "bcxvllyvjblb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Using Functions - Hack Night", 
+            "name": "Python  Lab- Using Functions", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1465425000000, 
-            "updated": 1465066829000, 
+            "updated": 1465162407000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Online", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 15
@@ -401,7 +413,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1463499045000, 
@@ -496,7 +508,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1457965726000, 
@@ -591,7 +603,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1464722524000, 
@@ -715,7 +727,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1464053008000, 
