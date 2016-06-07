@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 68
         }
     ], 
     "other": [
@@ -80,7 +80,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1464972715000, 
@@ -121,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1462803391000, 
@@ -159,7 +159,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 114
         }, 
         {
             "created": 1451511461000, 
@@ -197,7 +197,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1459265642000, 
@@ -278,7 +278,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220149000, 
@@ -345,7 +345,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1459265642000, 
@@ -413,7 +413,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1463499045000, 
@@ -436,8 +436,20 @@
             "name": "Ruby on Rails: Collaborate on a Surrealist Rails App", 
             "status": "upcoming", 
             "time": 1466029800000, 
-            "updated": 1463499045000, 
+            "updated": 1465239264000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "806 7th St NW #201", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24412919, 
+                "lat": 38.900185, 
+                "localized_country_name": "USA", 
+                "lon": -77.022148000000001, 
+                "name": "threespot", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 19
@@ -658,7 +670,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459265642000, 
@@ -727,11 +739,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1464053008000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. If you've made an app, hack, map or dataviz about Metrorail, sign up for our show &amp; tell.\u00a0So far we have:</p> <p>\u2022\u00a0Christian Flores will show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\u00a0iOS app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p> <p><br/>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will discuss an extensible command line utility for train arrivals.</p> <p><br/>\u2022\u00a0Marcos Huerta will demo his\u00a0Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\">DC Metro Pi Speaker</a>.</p> <p><br/>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228585705/\">Metro Hack Night IV</a>? See\u00a0<a href=\"http://mobilitylab.org/2016/02/26/wmata-hosts-metro-hack-night/\">WMATA hosts Metro Hack Night, announces more real-time data</a>\u00a0and\u00a0<a href=\"https://www.washingtonpost.com/news/dr-gridlock/wp/2016/02/24/metro-opens-doors-to-app-developers/\">Metro opens doors to app developers</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. If you've made an app, hack, map or dataviz about Metrorail, sign up for our show &amp; tell.\u00a0So far we have:</p> <p>\u2022\u00a0Christian Flores will show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\u00a0iOS app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p> <p><br/>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will discuss an extensible command line utility for train arrivals.</p> <p><br/>\u2022\u00a0Marcos Huerta will demo his\u00a0Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\">DC Metro Pi Speaker</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://stocche.ro/\">Nick Stocchero</a> will show how he uses Twitter to power\u00a0<a href=\"https://www.ismetroonfire.com/\">ismetroonfire.com</a>.</p> <p><br/>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.\u00a0</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228585705/\">Metro Hack Night IV</a>? See\u00a0<a href=\"http://mobilitylab.org/2016/02/26/wmata-hosts-metro-hack-night/\">WMATA hosts Metro Hack Night, announces more real-time data</a>\u00a0and\u00a0<a href=\"https://www.washingtonpost.com/news/dr-gridlock/wp/2016/02/24/metro-opens-doors-to-app-developers/\">Metro opens doors to app developers</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231353360/", 
             "group": {
                 "created": 1384372275000, 
@@ -749,7 +761,7 @@
             "name": "Metro Hack Night V", 
             "status": "upcoming", 
             "time": 1467158400000, 
-            "updated": 1464491576000, 
+            "updated": 1465256792000, 
             "utc_offset": -21600000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -765,7 +777,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1457035701000, 
@@ -805,7 +817,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
