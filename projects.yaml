@@ -264,7 +264,7 @@
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 226,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 227,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -318,7 +318,7 @@
   html_url: https://github.com/codefordc/codefordc.github.com
   id: 11922700
   languages:
-  - [HTML, 116900]
+  - [HTML, 116901]
   - [JavaScript, 16189]
   - [CSS, 13748]
   - [Shell, 5425]
@@ -330,9 +330,9 @@
   open_issues: 26
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-06-05T16:46:50Z'
+  pushed_at: '2016-06-08T15:33:11Z'
   short_name: codefordc.github.com
-  size: 19120
+  size: 19123
   updated_at: '2016-06-04T16:20:16Z'
   watchers: 24
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1321,7 +1321,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 16, 0, 27, 8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 16, 0, 28, 7, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1372,8 +1372,8 @@
   size: 216
   updated_at: '2016-05-08T17:22:55Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1463,7 +1463,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 567,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 569,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1479,18 +1479,18 @@
     link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7366046?v=3', contributions: 16,
     link: 'https://github.com/ashlynnpai', name: ashlynnpai}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 12,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 14,
     link: 'https://github.com/charleshuang80', name: charleshuang80}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3891862?v=3', contributions: 12,
     link: 'https://github.com/rebeccaestes', name: rebeccaestes}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/12245842?v=3', contributions: 5,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/12245842?v=3', contributions: 7,
     link: 'https://github.com/sco-bo', name: sco-bo}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 5,
     link: 'https://github.com/cmgiven', name: cmgiven}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4694248?v=3', contributions: 4,
-    link: 'https://github.com/ewiggins', name: ewiggins}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5253461?v=3', contributions: 4,
     link: 'https://github.com/rekhers', name: rekhers}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4694248?v=3', contributions: 4,
+    link: 'https://github.com/ewiggins', name: ewiggins}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8108438?v=3', contributions: 4,
     link: 'https://github.com/Nico-ehs', name: Nico-ehs}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12372787?v=3', contributions: 4,
@@ -1515,20 +1515,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 108513]
-  - [HTML, 60608]
-  - [CSS, 26433]
+  - [Ruby, 109268]
+  - [HTML, 60719]
+  - [CSS, 26590]
   - [CoffeeScript, 1476]
   - [JavaScript, 1336]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 75
+  open_issues: 71
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-08T05:12:42Z'
+  pushed_at: '2016-06-08T14:02:26Z'
   short_name: dcaf_case_management
-  size: 9420
+  size: 9428
   updated_at: '2016-06-04T16:09:37Z'
   watchers: 8
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1617,9 +1617,9 @@
   open_issues: 2
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-06-06T11:48:07Z'
+  pushed_at: '2016-06-08T15:43:48Z'
   short_name: school-modernization
-  size: 17778
+  size: 17808
   updated_at: '2016-05-13T12:52:54Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0,
