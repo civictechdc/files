@@ -37,104 +37,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 76
 other:
-- created: 1462803391000
-  description: "<p>June is here! \_With the <a href=\"https://hackforchangedc.splashthat.com/\"\
-    >National Day of Civic</a> occurring just a few days before, we'll have plenty\
-    \ of things to talk about at the DC API meetup. \_</p> <p>As always, we'll have\
-    \ good food and drink to go with the great presentations and conversation, so\
-    \ go ahead and mark the first Tuesday of the month on your calendar. \_See you\
-    \ then! \_</p> <p>6:00pm - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm\
-    \ Introductions and Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>*\_\
-    TJ Stalcup - Wealth Engine\_<br/>* Gary Schaetz - Dept. of the Treasury<br/>*\
-    \ Greg Rudl - ICA Language Services<br/>* Caroline Coy - Dept. of Health and Human\
-    \ Services<br/>* Chris Metcalf - Socrata</p> <p>7:55pm - 8:00pm Refill your beverage\_\
-    <br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/230988286/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '230988286'
-  maybe_rsvp_count: 0
-  name: DC API User Group - June Edition
-  status: upcoming
-  time: 1465336800000
-  updated: 1464064494000
-  utc_offset: -14400000
-  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
-    id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
-    name: CHIEF, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 114
-- created: 1451511461000
-  description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
-    \ is looking forward to hearing about *your* cool hack. Presentation signups are\
-    \ here:</p> <p><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p>\
-    \ <p>The format is informal, engaging, and friendly: presenters have *5* minutes\
-    \ to show off their hack (it goes faster than you\u2019d expect) and then the\
-    \ audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.\
-    \ The hacks that people present are anything from how to train your dog to text\
-    \ you when it needs a walk to [something more serious... like blenders made out\
-    \ of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches,\
-    \ no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting,\
-    \ complete this short form to let us know: <a href=\"http://bit.ly/presentatdc\"\
-    \ class=\"linkified\">http://bit.ly/presentatdc</a></p> <p>See you at the meetup!\
-    \ We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks\
-    \ to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>"
-  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/227724726/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
-    who: Hackers}
-  headcount: 0
-  id: '227724726'
-  maybe_rsvp_count: 0
-  name: 'Round 33: NULL adhesive heresy'
-  status: upcoming
-  time: 1465338600000
-  updated: 1462828076000
-  utc_offset: -14400000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 36
-- created: 1459265642000
-  description: '<p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p>***We will be creating an app this meet up So bring
-    you ideas and see you soon!***</p> <p>!!!ATTENTION: Please download Android Studio
-    to your laptop before the meet up. It will save a lot of time so you can join
-    the fun!!!!</p> <p><br/>Resources</p> <p>Beginners should check out our <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It''s chock full of information to get you up and running.
-    It is a work in progress and we''ll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can''t Come This Week, but Want to Stay
-    in Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>'
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/231460372/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvjbkb
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1465338600000
-  updated: 1465340720000
-  utc_offset: -14400000
-  venue: {address_1: 901 G St NW, city: Washington, country: us, id: 679273, lat: 38.898738999999999,
-    localized_country_name: USA, lon: -77.024225999999999, name: MLK Library, repinned: false,
-    state: DC, zip: '20001'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 8
 - created: 1464722687000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -248,7 +150,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 37
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -344,7 +246,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 56
 - created: 1463499045000
   description: "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\"\
     >Valerie Woolard</a>! \_Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\"\
@@ -434,7 +336,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 57
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -709,13 +611,15 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 68
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
     \ sign up for our show &amp; tell.\_So far we have:</p> <p>\u2022\_Christian Flores\
     \ will show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\_\
     iOS app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p>\
+    \ <p><br/>\u2022 Dan Larson will use his\_simulation model of the WMATA system\
+    \ to predict train loading and platform crowding during the morning rush.</p>\
     \ <p><br/>\u2022 <a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will\
     \ discuss an extensible command line utility for train arrivals.</p> <p><br/>\u2022\
     \_Marcos Huerta will demo his\_Python-built <a href=\"https://github.com/astrowonk/DC-Metro-Pi-Speaker\"\
@@ -743,14 +647,14 @@ other:
   name: Metro Hack Night V
   status: upcoming
   time: 1467158400000
-  updated: 1465256792000
+  updated: 1465354079000
   utc_offset: -21600000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -900,7 +804,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1045,7 +949,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1089,6 +993,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvkbzb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvkbzb
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1468967400000
+  updated: 1459265764000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
