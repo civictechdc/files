@@ -2112,7 +2112,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 214, 
+                "contributions": 222, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2165,16 +2165,22 @@
                 "name": "caseypatrickdriscoll"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/donaldbraman", 
+                "name": "donaldbraman"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6662612?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/Elieri", 
                 "name": "Elieri"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4620925?v=3", 
-                "contributions": 2, 
-                "link": "https://github.com/donaldbraman", 
-                "name": "donaldbraman"
+                "avatar_url": "https://avatars.githubusercontent.com/u/3836461?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/jamesfe", 
+                "name": "jamesfe"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4925075?v=3", 
@@ -2183,7 +2189,7 @@
                 "name": "pythagoraswitch"
             }
         ], 
-        "contributors_count": 12, 
+        "contributors_count": 13, 
         "created_at": "2014-07-12T18:04:36Z", 
         "default_branch": "develop", 
         "description": "Displays data about DC Campaign Finance on a site", 
@@ -2372,15 +2378,15 @@
         "languages": [
             [
                 "JavaScript", 
-                146764
+                161189
+            ], 
+            [
+                "HTML", 
+                6644
             ], 
             [
                 "CSS", 
                 6613
-            ], 
-            [
-                "HTML", 
-                6080
             ], 
             [
                 "Python", 
@@ -2394,16 +2400,16 @@
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 24, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-06-01T14:33:20Z", 
+        "pushed_at": "2016-06-09T12:37:47Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 115192, 
+        "size": 115185, 
         "updated_at": "2016-05-25T21:08:04Z", 
         "watchers": 18
     }, 
@@ -4558,7 +4564,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 594, 
+                "contributions": 598, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4701,7 +4707,7 @@
         "languages": [
             [
                 "Ruby", 
-                111751
+                110142
             ], 
             [
                 "HTML", 
@@ -4735,9 +4741,9 @@
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-09T07:39:47Z", 
+        "pushed_at": "2016-06-09T14:55:37Z", 
         "short_name": "dcaf_case_management", 
-        "size": 9418, 
+        "size": 9425, 
         "updated_at": "2016-06-04T16:09:37Z", 
         "watchers": 8
     }, 

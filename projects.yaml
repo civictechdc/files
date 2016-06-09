@@ -647,7 +647,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 214,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 222,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 124,
     link: 'https://github.com/romoy', name: romoy}
@@ -665,13 +665,15 @@
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/870645?v=3', contributions: 2,
     link: 'https://github.com/caseypatrickdriscoll', name: caseypatrickdriscoll}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/6662612?v=3', contributions: 2,
-    link: 'https://github.com/Elieri', name: Elieri}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4620925?v=3', contributions: 2,
     link: 'https://github.com/donaldbraman', name: donaldbraman}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/6662612?v=3', contributions: 2,
+    link: 'https://github.com/Elieri', name: Elieri}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3836461?v=3', contributions: 1,
+    link: 'https://github.com/jamesfe', name: jamesfe}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4925075?v=3', contributions: 1,
     link: 'https://github.com/pythagoraswitch', name: pythagoraswitch}
-  contributors_count: 12
+  contributors_count: 13
   created_at: '2014-07-12T18:04:36Z'
   default_branch: develop
   description: Displays data about DC Campaign Finance on a site
@@ -783,20 +785,20 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 146764]
+  - [JavaScript, 161189]
+  - [HTML, 6644]
   - [CSS, 6613]
-  - [HTML, 6080]
   - [Python, 4997]
   - [Shell, 829]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 24
+  open_issues: 22
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-06-01T14:33:20Z'
+  pushed_at: '2016-06-09T12:37:47Z'
   short_name: dc-campaign-finance-watch
-  size: 115192
+  size: 115185
   updated_at: '2016-05-25T21:08:04Z'
   watchers: 18
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1463,7 +1465,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 594,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 598,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1517,7 +1519,7 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 111751]
+  - [Ruby, 110142]
   - [HTML, 60724]
   - [CSS, 26590]
   - [CoffeeScript, 1476]
@@ -1528,9 +1530,9 @@
   open_issues: 66
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-09T07:39:47Z'
+  pushed_at: '2016-06-09T14:55:37Z'
   short_name: dcaf_case_management
-  size: 9418
+  size: 9425
   updated_at: '2016-06-04T16:09:37Z'
   watchers: 8
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
