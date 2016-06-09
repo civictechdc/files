@@ -38,10 +38,50 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }
     ], 
     "other": [
+        {
+            "created": 1446220149000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227736622/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "qqscvlyvjblb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python  Lab- Using Functions", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1465425000000, 
+            "updated": 1465420567000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Online", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 26
+        }, 
         {
             "created": 1464722687000, 
             "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab!</p> <p><b>Open Lab</b></p> <p>Come work on projects, ask for help or feedback!</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Study Group leader? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
@@ -80,47 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227736622/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bcxvllyvjblb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python  Lab- Using Functions", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1465425000000, 
-            "updated": 1465162407000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Online", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24429929, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "Virtual Google Hangouts", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457035881000, 
@@ -215,7 +215,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1463499045000, 
@@ -254,7 +254,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1446220217000, 
@@ -440,8 +440,20 @@ calendar({
             "name": "Ruby on Rails Lab: Ruby Fundamentals", 
             "status": "upcoming", 
             "time": 1466634600000, 
-            "updated": 1464722524000, 
+            "updated": 1465420177000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1005 7th St NW, Suite 100", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24427130, 
+                "lat": 38.903229000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.021629000000004, 
+                "name": "Contactually", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 14
@@ -472,7 +484,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1464053008000, 
@@ -511,7 +523,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1459265642000, 
@@ -676,7 +688,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1452612310000, 
@@ -815,13 +827,13 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "bcxvllyvkbrb", 
+            "id": "qqscvlyvkbrb", 
             "maybe_rsvp_count": 0, 
             "name": "Python - Hack Night", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1468449000000, 
-            "updated": 1446220149000, 
+            "updated": 1465420567000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -988,6 +1000,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1465422954000, 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:30 for snacks and beer, with speakers starting at 7:00.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "231755172", 
+            "maybe_rsvp_count": 0, 
+            "name": "Bike Hack Night VI", 
+            "status": "upcoming", 
+            "time": 1473289200000, 
+            "updated": 1465426845000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "150 M St NE", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24595318, 
+                "lat": 38.905895000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.004501000000005, 
+                "name": "REI Community Space at Wunder Garten", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
