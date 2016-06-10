@@ -2351,7 +2351,7 @@ projects([
             {
                 "assignee": null, 
                 "body": "Currently, there are contributions through 2014, but we should update this to capture data from the current cycle.\r\n\r\nSteps:\r\n\r\n- [ ]  Download csv from OCF (make sure the dates are correct so we don't double count contributions)\r\n- [ ]  Run the csv through the address updater\r\n- [ ]  Run the csv through the deduper (I have the training file)\r\n- [ ]  Run the importer2 against the csv\r\n- [ ]  Run the upgrade scripts", 
-                "comments": 8, 
+                "comments": 9, 
                 "created_at": "2016-03-30T11:53:40Z", 
                 "issue": "Update database with up to date contributions", 
                 "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/121", 
@@ -2369,7 +2369,7 @@ projects([
                 ], 
                 "project": "Campaign Finance Watch", 
                 "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
-                "updated_at": "2016-05-03T13:43:27Z"
+                "updated_at": "2016-06-09T23:36:21Z"
             }
         ], 
         "homepage": "http://codefordc.github.io/dc-campaign-finance-watch/", 
@@ -4083,19 +4083,19 @@ projects([
             0, 
             0, 
             0, 
+            8, 
+            8, 
+            10, 
+            22, 
+            4, 
             0, 
-            16, 
             0, 
-            28, 
-            7, 
+            0, 
+            0, 
+            0, 
+            0, 
             1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            5, 
+            4, 
             0, 
             0, 
             0, 
@@ -4564,7 +4564,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 598, 
+                "contributions": 602, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4707,7 +4707,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                110142
+                112657
             ], 
             [
                 "HTML", 
@@ -4734,16 +4734,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 66, 
+        "open_issues": 67, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-09T14:55:37Z", 
+        "pushed_at": "2016-06-09T23:48:05Z", 
         "short_name": "dcaf_case_management", 
-        "size": 9425, 
+        "size": 9435, 
         "updated_at": "2016-06-04T16:09:37Z", 
         "watchers": 8
     }, 
@@ -5598,8 +5598,8 @@ projects([
             0, 
             0, 
             7, 
-            0, 
-            4, 
+            1, 
+            3, 
             0, 
             4, 
             0, 
