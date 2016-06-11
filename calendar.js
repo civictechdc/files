@@ -26,7 +26,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -94,7 +94,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1463499045000, 
@@ -201,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1457965726000, 
@@ -402,7 +402,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1459265642000, 
@@ -597,6 +597,48 @@ calendar({
             "yes_rsvp_count": 6
         }, 
         {
+            "created": 1465589104000, 
+            "description": "<p>Join DC Legal Hackers at Smoke &amp; Barrel on July 6th to mingle with lawyers, technologists, and tech policy gurus over (vegan) wings!\u00a0</p> <p>We'll issue spot subjects for upcoming meetups and hackathons, including events about: patent data, government forms, VR, online harassment, and [insert your idea here]. We'll brainstorm while eating wings, which is also known as wingstorming. We'll chat about Oracle v. Google probably. If you're studying for the Bar Exam, carve out a few hours to de-stress at this bar event w/ other folks who are currently or have previously gone through it.\u00a0</p> <p>Please RSVP so we can estimate how many wings are needed.\u00a0</p> <p>We look forward to seeing you there! \ud83d\udcbb\u2696 \u00a0+\u00a0\ud83c\udf7b\ud83c\udf57</p> <p><i>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</i></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/231804131/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Downstairs", 
+            "id": "231804131", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack Happy Hour & Wingstorm \ud83d\udcbb\u2696  + \ud83c\udf7b\ud83c\udf57", 
+            "status": "upcoming", 
+            "time": 1467846000000, 
+            "updated": 1465589440000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2471 18th Street, N.W.", 
+                "city": "Washington DC", 
+                "country": "us", 
+                "id": 4363482, 
+                "lat": 38.921931000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.042298000000002, 
+                "name": "Smoke & Barrel", 
+                "phone": "202.319.9353", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20009"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/229297471/", 
@@ -633,7 +675,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1460389774000, 
@@ -973,7 +1015,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1326383071000, 
