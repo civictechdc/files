@@ -1,6 +1,6 @@
-- activity: [6, 0, 0, 7, 3, 6, 10, 0, 3, 65, 15, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0,
-    1, 0, 0, 2, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [4, 0, 0, 8, 2, 7, 9, 0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1,
+    0, 0, 2, 0, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1440,8 +1440,8 @@
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9,
-    6, 0, 9, 0, 13, 2, 40, 7, 10, 24, 0, 51, 45, 58, 18, 47, 79, 26, 51, 49, 20, 23,
-    40, 39, 11, 5, 36, 80, 68]
+    6, 0, 9, 2, 11, 2, 40, 7, 10, 24, 0, 51, 63, 40, 35, 74, 35, 48, 35, 45, 24, 32,
+    25, 41, 9, 7, 48, 84, 56]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
