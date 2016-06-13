@@ -26,7 +26,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1459265642000, 
@@ -50,11 +50,23 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1465943400000, 
-            "updated": 1459265764000, 
+            "updated": 1465836593000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1015 7th Street NW.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1462932183000, 
@@ -94,7 +106,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1463499045000, 
@@ -157,11 +169,23 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1466029800000, 
-            "updated": 1465816682000, 
+            "updated": 1465831198000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Online", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -201,7 +225,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1457965726000, 
@@ -229,7 +253,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1459265642000, 
@@ -335,7 +359,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457212385000, 
@@ -363,7 +387,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1464053008000, 
@@ -402,7 +426,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1459265642000, 
@@ -471,7 +495,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1457035701000, 
@@ -511,7 +535,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1459265642000, 
@@ -1015,7 +1039,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1326383071000, 
