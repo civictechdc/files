@@ -32,7 +32,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1462932183000
   description: "<p><img src=\"http://photos2.meetupstatic.com/photos/event/3/f/8/d/600_450256269.jpeg\"\
     \ /></p> <p>\n\n\nPlease join us in June to hear how <a href=\"https://drill.apache.org/\"\
@@ -98,7 +98,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 90
 - created: 1463499045000
   description: "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\"\
     >Valerie Woolard</a>! \_Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\"\
@@ -191,7 +191,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 89
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -218,7 +218,7 @@ other:
     \ information is provided or drop a comment on the Meetup page. We'll come and\
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
-  duration: 612000000
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/230761378/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -230,11 +230,11 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1466461800000
-  updated: 1457965726000
+  updated: 1465925015000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -264,7 +264,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1463417025000
   description: "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\"\
     >Eventbrite </a>to attend.\_</p> <p>Learn about making your website findable by\
@@ -444,7 +444,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 74
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -502,7 +502,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 22
 - created: 1464965624000
   description: "<p>Join your fellow data visualizers on Tuesday, June 28th \_at Chief\
     \ (1800 Massachusetts Ave NW) for <a href=\"https://www.linkedin.com/in/seantibbetts\"\
@@ -658,7 +658,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -735,7 +735,7 @@ other:
     name: Smoke & Barrel, phone: 202.319.9353, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 30
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
