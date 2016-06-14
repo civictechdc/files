@@ -41,7 +41,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 39
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -140,7 +140,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 88
 - created: 1463499045000
   description: "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\"\
     >Valerie Woolard</a>! \_Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\"\
@@ -204,7 +204,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1417881835000
   description: <p><b>Data, privacy, and application design</b></p> <p><br/>When dealing
     with research data, you have to be careful to protect user privacy. This can make
@@ -233,7 +233,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -334,7 +334,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1464722524000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
@@ -516,7 +516,35 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
+- created: 1465843887000
+  description: "<p>This month, we take to the streets to conduct fieldwork. We'll\
+    \ be mapping the Shaw/Howard neighborhoods using <a href=\"http://mapillary.com/\"\
+    >Mapillary</a> and <a href=\"http://fieldpapers.org\">FieldPapers</a>\_to map\
+    \ local business and institutions. (You may wish to download and install Mapillary\
+    \ on your mobile prior to the event.)</p> <p>Bring your laptop and a mouse, something\
+    \ to write on/with, and wear good walking shoe. And yes, we will have pizza to\
+    \ sustain the mapping effort.</p> <p>Please note: Attendee RSVPs + emails are\
+    \ to be shared with WeWork after the event.\_</p>"
+  event_url: http://www.meetup.com/Maptime-DC/events/231867071/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  id: '231867071'
+  maybe_rsvp_count: 0
+  name: 'Outdoor mapping: Field Work!'
+  rsvp_limit: 25
+  status: upcoming
+  time: 1467153000000
+  updated: 1465843887000
+  utc_offset: -14400000
+  venue: {address_1: 641 S St NW, city: Washington, country: us, id: 24604166, lat: 38.914532000000001,
+    localized_country_name: USA, lon: -77.021125999999995, name: We Work Wonderbread,
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 15
 - created: 1464965624000
   description: "<p>Join your fellow data visualizers on Tuesday, June 28th \_at Chief\
     \ (1800 Massachusetts Ave NW) for <a href=\"https://www.linkedin.com/in/seantibbetts\"\
@@ -1122,7 +1150,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
