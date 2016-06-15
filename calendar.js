@@ -2,86 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231650591/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvjbsb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1465943400000, 
-            "updated": 1465836593000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1015 7th Street NW.", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23509615, 
-                "lat": 38.903422999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.021598999999995, 
-                "name": "ECMC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 10
-        }, 
-        {
-            "created": 1462932183000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/3/f/8/d/600_450256269.jpeg\" /></p> <p>\n\n\nPlease join us in June to hear how <a href=\"https://drill.apache.org/\">Apache Drill</a>\u00a0can be used to query Hadoop, NoSQL and Cloud Storage.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings</p> <p>7:00 PM --\u00a0De-siloing data with Apache Drill<i>\u00a0- </i>Charles S. Givre</p> <p>8:45 PM -- Post event drink</p> <p><b>Talks</b></p> <p><i>De-siloing data with Apache Drill</i></p> <p>One of the problems which every enterprise faces is data-silos. \u00a0Breaking down these data silos can be extremely costly both in terms of time and money, however Apache Drill offers a new approach which can de-silo data without the need to redesign architecture. \u00a0Drill is an open source, schema-free SQL engine which can query all kinds of data including CSV files, JDBC/ODBC databases, JSON, NoSQL, HDFS and more. \u00a0Drill uses ANSI-SQL and is JDBC/ODBC compatible as well, so that it can communicate results with BI tools such as Splunk or Tableau. \u00a0In this workshop, we will demonstrate how to use Drill to query simple data, complex data and data from databases, and \"big data\" sources. Finally we will cover how to write your own functions to extend the functionality of Drill.</p> <p><br/><b>Speakers</b></p> <p><a href=\"https://www.linkedin.com/in/cgivre\">Charles Givre</a> is an unapologetic data geek who is passionate about helping others learn about data science and become passionate about it themselves. For the\u00a0last five years, Charles has worked as a data scientist at Booz Allen Hamilton for various government clients and has done some really neat data science work along\u00a0the way, hopefully saving US taxpayers some money. Most of his work has been in developing meaningful metrics to assess how well the workforce is performing. For\u00a0the last two years, Charles has been part of the management team for one of Booze Allen Hamilton\u2019s largest analytic contracts, where he was tasked with increasing\u00a0the amount of data science on the contract\u2014both in terms of tasks and people.Even more than the data science work, Charles loves learning about and teaching new\u00a0technologies and techniques. He has been instrumental in bringing Python scripting to both his government clients and the analytic workforce and has developed a\u00a040-hour Introduction to Analytic Scripting class for that purpose. Additionally, Charles has developed a 60-hour Fundamentals of Data Science class, which he has\u00a0taught to Booz Allen staff, government civilians, and US military personnel around the world. Charles has a master\u2019s degree from Brandeis University, two bachelor\u2019s\u00a0degrees from the University of Arizona, and various IT security certifications. In his nonexistent spare time, he plays trombone, spends time with his family, and works\u00a0on restoring British sports cars. Charles has a workshop on Drill at <a href=\"https://github.com/cgivre/drillworkshop\">Git</a>, can be reached at\u00a0<a href=\"mailto:[masked]\">[masked]</a>, blogs at\u00a0<a href=\"http://thedataist.com/\">thedataist.com</a>\u00a0and\u00a0is on Twitter <a href=\"https://twitter.com/cgivre\">@cgivre</a>\u00a0</p> <p><br/><b>Location</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/231032325/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "231032325", 
-            "maybe_rsvp_count": 0, 
-            "name": "De-siloing data with Apache Drill", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1465943400000, 
-            "updated": 1463969803000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "3700 O'Donnell Street ", 
-                "city": "Baltimore", 
-                "country": "us", 
-                "id": 23668500, 
-                "lat": 39.280602000000002, 
-                "localized_country_name": "USA", 
-                "lon": -76.565917999999996, 
-                "name": "AOL / Advertising.com", 
-                "repinned": false, 
-                "state": "MD"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 91
-        }, 
-        {
             "created": 1463499045000, 
             "description": "<p>Come out to our awesome event presented by <a href=\"https://www.linkedin.com/in/vwoolard\">Valerie Woolard</a>! \u00a0Valerie is a Rails developer at <a href=\"http://www.panoply.fm/\">Panoply</a>. She loves talking about programming, linguistics, running and podcasts.\u00a0</p> <p>Inspired by a workshop by Terian Koscik at RailsConf 2016, we\u2019ll be building Rails apps in the exquisite corpse style. We\u2019ll be working in groups and basic knowledge of Rails and databases will be very helpful. \u00a0To find out more information checkout these links!</p> <p>Terian\u2019s page on this workshop:\u00a0<a href=\"http://pineconedoesthings.com/surreal.html\"><a href=\"http://pineconedoesthings.com/surreal.html\" class=\"linkified\">http://pineconedoesthings.com/surreal.html</a></a></p> <p>Exquisite corpse wikipedia page:\u00a0<a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\"><a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\" class=\"linkified\">https://en.wikipedia.org/wiki/Exquisite_corpse</a></a></p>", 
             "duration": 7200000, 
@@ -118,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1446220217000, 
@@ -226,7 +146,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459265642000, 
@@ -293,7 +213,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1464722524000, 
@@ -507,7 +427,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1457035701000, 
@@ -834,7 +754,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457965726000, 
@@ -975,6 +895,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1457035701000, 
+            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/229365752/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "qtfhrlyvlbcb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab - First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1470090600000, 
+            "updated": 1457392514000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
