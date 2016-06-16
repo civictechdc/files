@@ -1,4 +1,4 @@
-- activity: [0, 0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0,
+- activity: [0, 0, 0, 10, 6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0,
     1, 0, 0, 2, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -261,7 +261,7 @@
 - activity: [0, 1, 20, 1, 2, 6, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 6, 0, 0, 5, 1,
     2, 8, 5, 7, 0, 4, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 0, 4, 0, 0, 2, 1,
     0, 8, 0]
-  ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
+  ci: {codeclimate: true, continua11y: true, coverage: false, travis: true}
   civic_json: null
   contributors:
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 227,
@@ -1020,7 +1020,7 @@
   size: 273
   updated_at: '2016-06-13T12:08:30Z'
   watchers: 11
-- activity: [0, 0, 0, 0, 0, 1, 0, 5, 12, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 1, 0, 13, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1439,9 +1439,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6,
-    0, 7, 2, 11, 4, 40, 7, 10, 20, 4, 21, 73, 51, 14, 48, 83, 27, 53, 38, 36, 23,
-    22, 46, 21, 2, 16, 94, 42, 44]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 6,
+    0, 7, 2, 12, 3, 40, 7, 10, 24, 0, 28, 68, 50, 15, 46, 87, 23, 53, 44, 30, 23,
+    27, 50, 12, 2, 33, 80, 45, 38]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
