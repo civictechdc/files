@@ -27,7 +27,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1459265642000, 
@@ -133,7 +133,45 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
+        }, 
+        {
+            "created": 1466183724000, 
+            "description": "<p>We are excited to announce the Spring 2016 DDL Incubator Program Project Pitchfest!</p> <p><br/>For the last three months, five teams of DC data scientists have come together to turn theory into practice on projects that help ingest and visualize the news, show transportation resources around the DC region, search the US patent database, and more.\u00a0</p> <p><br/>Learn from their experience deploying a news network graph as an interactive web app on Heroku, displaying traffic using Tableau, and analyzing prospective-presidential candidates ratings over time...among many others! Enjoy pizza on us as we are taken from concept to production on five data products, and then join the judges by voting for the winner!\u00a0</p> <p><br/><b>Agenda:</b></p> <p>6:00pm\u00a0-- Food and networking</p> <p>6:30pm\u00a0-- Introduction and presentations</p> <p>8:00pm\u00a0-- Go out for post-event drinks!</p> <p><br/><b>About the teams:</b></p> <p>Olivia, Ryan, Prema, and Elizabeth are exploring relationships in themes among more than 52,000 news articles gathered over three months.</p> <p><br/>Parijat, Martin, and Robert have created a system for searching the US patent registry for patent's with different aspects of similarity.</p> <p><br/>In partnership with the US Census Bureau: Jeremy, Nirmal, Kruthika, and Daniel have been visualizing transportation resources around the DC region.</p> <p><br/>Hussain, Craig, Benjamin, and Johnson have been exploring the possibilities of expanding and reusing an advanced form of network graphs.\u00a0</p> <p><br/>Kate, LeeAnn, Lizzie, Judy, and Andrew have focused on ingesting and visualizing the latest news from NPR and other sources within an interactive webapp.\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Data-Innovation-DC/events/231967968/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Innovation-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "231967968", 
+            "maybe_rsvp_count": 0, 
+            "name": "DDL Data Science Project Pitchfest 3", 
+            "status": "upcoming", 
+            "time": 1466805600000, 
+            "updated": 1466184599000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "640 Massachusetts Ave Nw", 
+                "city": "Washington", 
+                "country": "US", 
+                "id": 20556562, 
+                "lat": 38.901859000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.020995999999997, 
+                "name": "Georgetown University School of Continuing Studies", 
+                "repinned": false
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1457212385000, 
@@ -200,7 +238,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1459265642000, 
@@ -308,7 +346,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1457035701000, 
@@ -348,7 +386,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -404,7 +442,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1452612310000, 
@@ -577,7 +615,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1459265642000, 
