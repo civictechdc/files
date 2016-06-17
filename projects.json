@@ -834,12 +834,12 @@
     }, 
     {
         "activity": [
-            0, 
             1, 
+            0, 
             20, 
             1, 
-            2, 
-            6, 
+            7, 
+            1, 
             0, 
             0, 
             0, 
@@ -850,19 +850,19 @@
             2, 
             0, 
             0, 
-            0, 
-            5, 
+            3, 
+            2, 
             6, 
             0, 
             0, 
             5, 
             1, 
-            2, 
-            8, 
-            5, 
+            3, 
+            11, 
+            1, 
             7, 
-            0, 
-            4, 
+            2, 
+            2, 
             1, 
             1, 
             0, 
@@ -1455,7 +1455,6 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
             0, 
             0, 
@@ -1472,23 +1471,24 @@
             0, 
             0, 
             0, 
-            1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
             0, 
             1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            1, 
+            0, 
             0, 
             0, 
             0
@@ -2407,9 +2407,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-06-09T12:37:47Z", 
+        "pushed_at": "2016-06-17T03:02:52Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 115185, 
+        "size": 115190, 
         "updated_at": "2016-05-25T21:08:04Z", 
         "watchers": 18
     }, 
@@ -4564,7 +4564,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 607, 
+                "contributions": 610, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4618,7 +4618,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
-                "contributions": 14, 
+                "contributions": 16, 
                 "link": "https://github.com/charleshuang80", 
                 "name": "charleshuang80"
             }, 
@@ -4713,11 +4713,11 @@
         "languages": [
             [
                 "Ruby", 
-                112657
+                112633
             ], 
             [
                 "HTML", 
-                60997
+                61370
             ], 
             [
                 "CSS", 
@@ -4747,9 +4747,9 @@
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-14T22:26:36Z", 
+        "pushed_at": "2016-06-17T04:07:03Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10013, 
+        "size": 10025, 
         "updated_at": "2016-06-10T17:57:58Z", 
         "watchers": 9
     }, 
