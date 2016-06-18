@@ -170,7 +170,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 36
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -323,7 +323,7 @@ other:
     localized_country_name: USA, lon: -77.021125999999995, name: We Work Wonderbread,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 25
 - created: 1464965624000
   description: "<p>Join your fellow data visualizers on Tuesday, June 28th \_at Chief\
@@ -398,7 +398,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 43
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -584,7 +584,7 @@ other:
     name: Smoke & Barrel, phone: 202.319.9353, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
