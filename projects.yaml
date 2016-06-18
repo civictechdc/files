@@ -1465,7 +1465,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 610,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 633,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1473,7 +1473,7 @@
     link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/13918431?v=3', contributions: 23,
     link: 'https://github.com/CamLatimer', name: CamLatimer}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 22,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 23,
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 21,
     link: 'https://github.com/mebates', name: mebates}
@@ -1521,20 +1521,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 112633]
-  - [HTML, 61370]
+  - [Ruby, 115183]
+  - [HTML, 61344]
   - [CSS, 26872]
   - [CoffeeScript, 1476]
   - [JavaScript, 1336]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 70
+  open_issues: 65
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-17T04:07:03Z'
+  pushed_at: '2016-06-17T22:59:43Z'
   short_name: dcaf_case_management
-  size: 10025
+  size: 10003
   updated_at: '2016-06-10T17:57:58Z'
   watchers: 9
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

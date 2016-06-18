@@ -4564,7 +4564,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 610, 
+                "contributions": 633, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4588,7 +4588,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1946584?v=3", 
-                "contributions": 22, 
+                "contributions": 23, 
                 "link": "https://github.com/Kevin-Wei", 
                 "name": "Kevin-Wei"
             }, 
@@ -4713,11 +4713,11 @@
         "languages": [
             [
                 "Ruby", 
-                112633
+                115183
             ], 
             [
                 "HTML", 
-                61370
+                61344
             ], 
             [
                 "CSS", 
@@ -4740,16 +4740,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 70, 
+        "open_issues": 65, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-17T04:07:03Z", 
+        "pushed_at": "2016-06-17T22:59:43Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10025, 
+        "size": 10003, 
         "updated_at": "2016-06-10T17:57:58Z", 
         "watchers": 9
     }, 

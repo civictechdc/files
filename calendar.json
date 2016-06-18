@@ -27,7 +27,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1459265642000, 
@@ -56,45 +56,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
-        }, 
-        {
-            "created": 1463417025000, 
-            "description": "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\">Eventbrite </a>to attend.\u00a0</p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website.\u00a0</p> <p><br/>We will discuss:</p> <p>- Terminology and trends in search, tagging and other elements of search and findability\u00a0<br/>- Important considerations in search engine optimization (SEO)<br/>- Basic information architecture and other elements of findability\u00a0<br/>- New considerations in mobile and social\u00a0<br/>- Trends in SEO and findability</p> <p>Note that we are confirming location details.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/231166266/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "231166266", 
-            "maybe_rsvp_count": 0, 
-            "name": "Findability & Searchability", 
-            "status": "upcoming", 
-            "time": 1466548200000, 
-            "updated": 1464491040000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th Street, NW (12th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 16254252, 
-                "lat": 38.904854, 
-                "localized_country_name": "USA", 
-                "lon": -77.034003999999996, 
-                "name": "General Assembly @ 1776", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 45
         }, 
         {
             "created": 1464722524000, 
@@ -171,7 +132,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1457212385000, 
@@ -346,7 +307,45 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 94
+        }, 
+        {
+            "created": 1463417025000, 
+            "description": "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\">Eventbrite </a>to attend.\u00a0</p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website.\u00a0</p> <p><br/>We will discuss:</p> <p>- Terminology and trends in search, tagging and other elements of search and findability\u00a0<br/>- Important considerations in search engine optimization (SEO)<br/>- Basic information architecture and other elements of findability\u00a0<br/>- New considerations in mobile and social\u00a0<br/>- Trends in SEO and findability</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/231166266/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "231166266", 
+            "maybe_rsvp_count": 0, 
+            "name": "Findability & Searchability", 
+            "status": "upcoming", 
+            "time": 1467239400000, 
+            "updated": 1466195891000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW ", 
+                "city": "3rd floor", 
+                "country": "us", 
+                "id": 24145676, 
+                "lat": 38.905971999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043205, 
+                "name": "Canvas Co/work ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1457035701000, 
