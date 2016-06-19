@@ -1,4 +1,4 @@
-- activity: [0, 0, 7, 3, 6, 10, 0, 2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1,
+- activity: [0, 0, 7, 3, 6, 10, 0, 3, 65, 15, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1,
     0, 0, 2, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -117,9 +117,9 @@
     thumbnail: http://ancfinder.org/static/img/favicon.png
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 261,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 263,
     link: 'https://github.com/JoshData', name: JoshData}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 115,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 116,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4323988?v=3', contributions: 30,
     link: 'https://github.com/leahbannon', name: leahbannon}
@@ -157,7 +157,7 @@
   html_url: https://github.com/codefordc/ancfinder
   id: 8715969
   languages:
-  - [Python, 102895]
+  - [Python, 102960]
   - [HTML, 61445]
   - [CSS, 9460]
   - [Shell, 5208]
@@ -167,12 +167,12 @@
     url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Python
   name: ANC Finder
-  open_issues: 41
+  open_issues: 40
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-06-17T15:51:39Z'
+  pushed_at: '2016-06-18T22:14:26Z'
   short_name: ancfinder
-  size: 72063
+  size: 72068
   updated_at: '2016-05-08T17:22:22Z'
   watchers: 32
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1529,12 +1529,12 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 63
+  open_issues: 62
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-18T15:27:55Z'
+  pushed_at: '2016-06-18T21:42:28Z'
   short_name: dcaf_case_management
-  size: 10016
+  size: 10019
   updated_at: '2016-06-10T17:57:58Z'
   watchers: 9
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
