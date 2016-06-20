@@ -835,8 +835,8 @@
     {
         "activity": [
             1, 
-            0, 
-            20, 
+            10, 
+            10, 
             1, 
             7, 
             1, 
@@ -854,13 +854,13 @@
             6, 
             2, 
             0, 
-            0, 
-            5, 
+            1, 
+            4, 
             1, 
             4, 
             11, 
-            3, 
             4, 
+            3, 
             4, 
             0, 
             1, 
@@ -880,9 +880,9 @@
             2, 
             2, 
             0, 
-            0, 
-            2, 
             1, 
+            2, 
+            0, 
             7, 
             1, 
             0
@@ -2407,7 +2407,7 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-06-19T23:07:42Z", 
+        "pushed_at": "2016-06-20T01:49:37Z", 
         "short_name": "dc-campaign-finance-watch", 
         "size": 115190, 
         "updated_at": "2016-05-25T21:08:04Z", 
@@ -4564,7 +4564,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 644, 
+                "contributions": 645, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4713,7 +4713,7 @@
         "languages": [
             [
                 "Ruby", 
-                115183
+                115186
             ], 
             [
                 "HTML", 
@@ -4740,14 +4740,14 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 63, 
+        "open_issues": 66, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-19T04:35:37Z", 
+        "pushed_at": "2016-06-20T01:01:09Z", 
         "short_name": "dcaf_case_management", 
         "size": 10025, 
         "updated_at": "2016-06-10T17:57:58Z", 
