@@ -27,7 +27,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1464722524000, 
@@ -69,6 +69,47 @@ calendar({
             "yes_rsvp_count": 24
         }, 
         {
+            "created": 1466375669000, 
+            "description": "<p>Join us this week as we attend a DC Android Google I/O Event co-hosted by General Assembly please RSVP here as well\u00a0<a href=\"http://www.meetup.com/DCAndroid/events/231703428/\" class=\"linkified\">http://www.meetup.com/DCAndroid/events/231703428/</a></p> <p>\n\n\nInterested in learning how to build Android apps with an awesome group of women?Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none).\u00a0</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232014887/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Find us in the Women Who code shirts", 
+            "id": "232014887", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab: Google I/O Recap", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1466719200000, 
+            "updated": 1466380849000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15th St NW, 8th floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 19813392, 
+                "lat": 38.904854, 
+                "localized_country_name": "USA", 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1466183724000, 
             "description": "<p>We are excited to announce the Spring 2016 DDL Incubator Program Project Pitchfest!</p> <p><br/>For the last three months, five teams of DC data scientists have come together to turn theory into practice on projects that help ingest and visualize the news, show transportation resources around the DC region, search the US patent database, and more.\u00a0</p> <p><br/>Learn from their experience deploying a news network graph as an interactive web app on Heroku, displaying traffic using Tableau, and analyzing prospective-presidential candidates ratings over time...among many others! Enjoy pizza on us as we are taken from concept to production on five data products, and then join the judges by voting for the winner!\u00a0</p> <p><br/><b>Agenda:</b></p> <p>6:00pm\u00a0-- Food and networking</p> <p>6:30pm\u00a0-- Introduction and presentations</p> <p>8:00pm\u00a0-- Go out for post-event drinks!</p> <p><br/><b>About the teams:</b></p> <p>Olivia, Ryan, Prema, and Elizabeth are exploring relationships in themes among more than 52,000 news articles gathered over three months.</p> <p><br/>Parijat, Martin, and Robert have created a system for searching the US patent registry for patent's with different aspects of similarity.</p> <p><br/>In partnership with the US Census Bureau: Jeremy, Nirmal, Kruthika, and Daniel have been visualizing transportation resources around the DC region.</p> <p><br/>Hussain, Craig, Benjamin, and Johnson have been exploring the possibilities of expanding and reusing an advanced form of network graphs.\u00a0</p> <p><br/>Kate, LeeAnn, Lizzie, Judy, and Andrew have focused on ingesting and visualizing the latest news from NPR and other sources within an interactive webapp.\u00a0</p>", 
             "duration": 7200000, 
@@ -104,7 +145,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1457212385000, 
@@ -171,7 +212,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1459265642000, 
@@ -919,33 +960,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
-        }, 
-        {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231980787/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "cjdtnlyvlbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Beginners Night!", 
-            "status": "upcoming", 
-            "time": 1470263400000, 
-            "updated": 1458050849000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
