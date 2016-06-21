@@ -2,34 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1457965726000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/230761378/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rzpmrlyvjbbc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1466461800000, 
-            "updated": 1465925015000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 36
-        }, 
-        {
             "created": 1466461407000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -47,11 +19,11 @@ calendar({
             "headcount": 0, 
             "id": "232040012", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
+            "name": "Python Lab - Loops", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1466634600000, 
-            "updated": 1466461407000, 
+            "updated": 1466471544000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "Online", 
@@ -67,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1464722524000, 
@@ -106,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1466375669000, 
@@ -185,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1457212385000, 
@@ -252,7 +224,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1459265642000, 
@@ -360,7 +332,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1466461444000, 
@@ -400,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1463417025000, 
@@ -707,7 +679,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1459265642000, 
@@ -803,7 +775,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1457965726000, 
@@ -987,7 +959,7 @@ calendar({
         }, 
         {
             "created": 1466454487000, 
-            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.) We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:05 with pizza and drinks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Doors open at 6:00; presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\u00a0William Henderson will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.\u00a0</p> <p>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.) We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:05 with pizza and drinks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Doors open at 6:00; presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.\u00a0</p> <p>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
@@ -1006,7 +978,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1470175200000, 
-            "updated": 1466465791000, 
+            "updated": 1466486120000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "921 SW 6th Ave", 
@@ -1022,7 +994,35 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbdb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvlbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1470177000000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
@@ -1092,7 +1092,7 @@ calendar({
         }, 
         {
             "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
@@ -1111,7 +1111,7 @@ calendar({
             "rsvp_limit": 300, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1465580946000, 
+            "updated": 1466475277000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
