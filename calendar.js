@@ -27,7 +27,47 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
+        }, 
+        {
+            "created": 1466461407000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232040012/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "232040012", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1466634600000, 
+            "updated": 1466461407000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Online", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1464722524000, 
@@ -66,7 +106,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1466375669000, 
@@ -145,7 +185,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1457212385000, 
@@ -212,7 +252,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 87
         }, 
         {
             "created": 1459265642000, 
@@ -240,7 +280,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1465843887000, 
@@ -278,7 +318,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -320,7 +360,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
+        }, 
+        {
+            "created": 1466461444000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232040033/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "232040033", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1467239400000, 
+            "updated": 1466461444000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Online", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1463417025000, 
@@ -446,11 +526,11 @@ calendar({
             "headcount": 0, 
             "id": "pdkzrlyvkbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Beginners Night", 
+            "name": "Python Beginners Night- Canceled", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1467844200000, 
-            "updated": 1459264870000, 
+            "updated": 1466461322000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -523,7 +603,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
@@ -683,7 +763,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -807,7 +887,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457212385000, 
@@ -903,63 +983,46 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbdb/", 
+            "created": 1466454487000, 
+            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.) We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:05 with pizza and drinks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Doors open at 6:00; presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\u00a0William Henderson will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.\u00a0</p> <p>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
+                "created": 1384372275000, 
+                "group_lat": 38.889999389648438, 
+                "group_lon": -77.069999694824219, 
+                "id": 11092702, 
                 "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
             }, 
             "headcount": 0, 
-            "id": "pjkzrlyvlbdb", 
+            "id": "232037344", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
+            "name": "Portland Show & Tell", 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
-            "time": 1470177000000, 
-            "updated": 1459265764000, 
+            "time": 1470175200000, 
+            "updated": 1466465791000, 
             "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387925/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
+            "venue": {
+                "address_1": "921 SW 6th Ave", 
+                "city": "Portland", 
+                "country": "us", 
+                "id": 24617175, 
+                "lat": 45.517544000000001, 
+                "localized_country_name": "USA", 
+                "lon": -122.680008, 
+                "name": "Hilton Portland", 
+                "repinned": false, 
+                "state": "OR"
             }, 
-            "headcount": 0, 
-            "id": "pdkzrlyvlbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Beginners Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1470263400000, 
-            "updated": 1459264870000, 
-            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1326383071000, 
@@ -1064,7 +1127,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
