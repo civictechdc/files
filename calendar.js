@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1464722524000, 
@@ -157,7 +157,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1457212385000, 
@@ -185,7 +185,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1464053008000, 
@@ -252,7 +252,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1466540232000, 
@@ -293,7 +293,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1465843887000, 
@@ -373,7 +373,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1466461444000, 
@@ -417,7 +417,7 @@ calendar({
         }, 
         {
             "created": 1463417025000, 
-            "description": "<p>IMPORTANT: You must through <a href=\"http://wcm-find.eventbrite.com\">Eventbrite </a>to attend.\u00a0</p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website.\u00a0</p> <p><br/>We will discuss:</p> <p>- Terminology and trends in search, tagging and other elements of search and findability\u00a0<br/>- Important considerations in search engine optimization (SEO)<br/>- Basic information architecture and other elements of findability\u00a0<br/>- New considerations in mobile and social\u00a0<br/>- Trends in SEO and findability</p>", 
+            "description": "<p>IMPORTANT: You must register through <a href=\"http://wcm-find.eventbrite.com\">Eventbrite </a>to attend.\u00a0</p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website.\u00a0</p> <p><br/>We will discuss:</p> <p>- Terminology and trends in search, tagging and other elements of search and findability\u00a0<br/>- Important considerations in search engine optimization (SEO)<br/>- Basic information architecture and other elements of findability\u00a0<br/>- New considerations in mobile and social\u00a0<br/>- Trends in SEO and findability</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/231166266/", 
             "group": {
                 "created": 1189804715000, 
@@ -435,7 +435,7 @@ calendar({
             "name": "Findability & Searchability", 
             "status": "upcoming", 
             "time": 1467239400000, 
-            "updated": 1466195891000, 
+            "updated": 1466574924000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1203 19th St NW ", 
@@ -491,7 +491,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459265642000, 
@@ -574,7 +574,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1465589104000, 
@@ -720,7 +720,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1459265642000, 
@@ -816,7 +816,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457965726000, 
