@@ -34,7 +34,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 9
 - created: 1466183724000
   description: "<p>We are excited to announce the Spring 2016 DDL Incubator Program\
     \ Project Pitchfest!</p> <p><br/>For the last three months, five teams of DC data\
@@ -76,7 +76,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 100
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -173,7 +173,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 99
+  yes_rsvp_count: 101
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -233,7 +233,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1465843887000
   description: "<p>This month, we take to the streets to conduct fieldwork. We'll\
     \ be mapping the Shaw/Howard neighborhoods using <a href=\"http://mapillary.com/\"\
@@ -260,7 +260,7 @@ other:
     localized_country_name: USA, lon: -77.021125999999995, name: We Work Wonderbread,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 19
+  waitlist_count: 21
   yes_rsvp_count: 25
 - created: 1464965624000
   description: "<p>Join your fellow data visualizers on Tuesday, June 28th \_at Chief\
@@ -308,7 +308,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 125
+  yes_rsvp_count: 134
 - created: 1466461444000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -340,7 +340,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1463417025000
   description: "<p>IMPORTANT: You must register through <a href=\"http://wcm-find.eventbrite.com\"\
     >Eventbrite </a>to attend.\_</p> <p>Learn about making your website findable by\
@@ -367,7 +367,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -474,7 +474,7 @@ other:
     name: Smoke & Barrel, phone: 202.319.9353, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -887,15 +887,19 @@ other:
     \ Commuter Transportation (ACT)</a>\_is providing us a meeting space in conjunction\
     \ with the\_<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You\
     \ do not need to register for the conference in order to attend our meetup, but\
-    \ please do RSVP via this site.) We'll be in the Parlor Rm of the\_<a href=\"\
-    http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\"\
+    \ please do RSVP via this site.)\_</p> <p>We'll be in the Parlor Rm of the\_<a\
+    \ href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\"\
     >Hilton Portland</a>.\_Doors open at 6:05 with pizza and drinks courtesy of our\
     \ sponsor, Arlington, VA's\_<a href=\"http://mobilitylab.org/\">Mobility Lab</a>.\
     \ Doors open at 6:00; presentations start at 6:30; we'll wrap up by 8:30. We invite\
     \ folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\
     \_<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show\
     \ us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track\
-    \ and map their rides.\_</p> <p>Stay tuned to <a href=\"https://twitter.com/techiesdc\"\
+    \ and map their rides.</p> <p>\u2022\_Ryan Rzepecki of <a href=\"http://socialbicycles.com/\"\
+    >Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\"\
+    >Biketown</a> bike and the data being collected.</p> <p><br/>\u2022 <a href=\"\
+    http://chrissmith.us/\">Chris Smith</a> will show how\_<a href=\"http://transitappliance.com/\"\
+    >Transit Appliance</a> works.</p> <p><br/>Stay tuned to <a href=\"https://twitter.com/techiesdc\"\
     >@techiesdc</a> for updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/232037344/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -908,14 +912,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1470175200000
-  updated: 1466486120000
+  updated: 1466695240000
   utc_offset: -14400000
   venue: {address_1: 921 SW 6th Ave, city: Portland, country: us, id: 24617175, lat: 45.517544000000001,
     localized_country_name: USA, lon: -122.680008, name: Hilton Portland, repinned: false,
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
