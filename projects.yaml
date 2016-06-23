@@ -1,4 +1,4 @@
-- activity: [0, 0, 10, 6, 2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1,
+- activity: [0, 0, 10, 6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1,
     0, 0, 2, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1529,7 +1529,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 69
+  open_issues: 71
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-06-22T02:14:30Z'
