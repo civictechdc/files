@@ -1,47 +1,5 @@
 codefordc: []
 other:
-- created: 1466183724000
-  description: "<p>We are excited to announce the Spring 2016 DDL Incubator Program\
-    \ Project Pitchfest!</p> <p><br/>For the last three months, five teams of DC data\
-    \ scientists have come together to turn theory into practice on projects that\
-    \ help ingest and visualize the news, show transportation resources around the\
-    \ DC region, search the US patent database, and more.\_</p> <p><br/>Learn from\
-    \ their experience deploying a news network graph as an interactive web app on\
-    \ Heroku, displaying traffic using Tableau, and analyzing prospective-presidential\
-    \ candidates ratings over time...among many others! Enjoy pizza on us as we are\
-    \ taken from concept to production on five data products, and then join the judges\
-    \ by voting for the winner!\_</p> <p><br/><b>Agenda:</b></p> <p>6:00pm\_-- Food\
-    \ and networking</p> <p>6:30pm\_-- Introduction and presentations</p> <p>8:00pm\_\
-    -- Go out for post-event drinks!</p> <p><br/><b>About the teams:</b></p> <p>Olivia,\
-    \ Ryan, Prema, and Elizabeth are exploring relationships in themes among more\
-    \ than 52,000 news articles gathered over three months.</p> <p><br/>Parijat, Martin,\
-    \ and Robert have created a system for searching the US patent registry for patent's\
-    \ with different aspects of similarity.</p> <p><br/>In partnership with the US\
-    \ Census Bureau: Jeremy, Nirmal, Kruthika, and Daniel have been visualizing transportation\
-    \ resources around the DC region.</p> <p><br/>Hussain, Craig, Benjamin, and Johnson\
-    \ have been exploring the possibilities of expanding and reusing an advanced form\
-    \ of network graphs.\_</p> <p><br/>Kate, LeeAnn, Lizzie, Judy, and Andrew have\
-    \ focused on ingesting and visualizing the latest news from NPR and other sources\
-    \ within an interactive webapp.\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Data-Innovation-DC/events/231967968/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
-    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Innovation-DC,
-    who: Data-preneurs}
-  headcount: 0
-  id: '231967968'
-  maybe_rsvp_count: 0
-  name: DDL Data Science Project Pitchfest 3
-  status: upcoming
-  time: 1466805600000
-  updated: 1466184599000
-  utc_offset: -14400000
-  venue: {address_1: 640 Massachusetts Ave Nw, city: Washington, country: US, id: 20556562,
-    lat: 38.901859000000002, localized_country_name: USA, lon: -77.020995999999997,
-    name: Georgetown University School of Continuing Studies, repinned: false}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 110
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -88,7 +46,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
@@ -276,7 +234,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 145
+  yes_rsvp_count: 147
 - created: 1466714240000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -350,7 +308,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1463417025000
   description: "<p><b><i>Important:</i></b> You MUST register on <a href=\"https://www.eventbrite.com/e/findability-and-searchability-tickets-25484487789\"\
     >Eventbrite</a> to attend.</p> <p><b>Overview<br/></b></p> <p>Learn about making\
@@ -554,7 +512,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -953,14 +911,17 @@ other:
     \ folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\
     \_<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show\
     \ us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track\
-    \ and map their rides.</p> <p>\u2022\_Ryan Rzepecki of <a href=\"http://socialbicycles.com/\"\
-    >Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\"\
-    >Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\_<a href=\"\
-    http://alexbigazzi.com\">Alex\_Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\"\
-    >SPEC</a>\" (Sensing Pollution Exposure by Community)\_project, mapping air quality\
-    \ along bike routes.</p> <p><br/>\u2022\_Bibiana\_McHugh,\_Madeline Steele, and\_\
-    Grant\_Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s\
-    \ IT operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a>\
+    \ and map their rides.</p> <p>\u2022\_Brian Blanc of\_<a href=\"http://nelsonnygaard.com/\"\
+    >Nelson\\Nygaard</a>\_will show how the\_<a href=\"http://www.pdx.edu/transportation-lab/orcycle\"\
+    >ORcycle</a>\_app help make biking safer.</p> <p>\u2022\_Ryan Rzepecki of <a href=\"\
+    http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the\
+    \ new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data\
+    \ being collected.</p> <p><br/>\u2022\_<a href=\"http://alexbigazzi.com\">Alex\_\
+    Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\"\
+    \ (Sensing Pollution Exposure by Community)\_project, mapping air quality along\
+    \ bike routes.</p> <p>\u2022\_Bibiana\_McHugh,\_Madeline Steele, and\_Grant\_\
+    Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT\
+    \ operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a>\
     \ will show how\_<a href=\"http://transitappliance.com/\">Transit Appliance</a>\
     \ works.</p> <p><br/>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\
     \ for updates.</p>"
@@ -975,7 +936,7 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1470175200000
-  updated: 1466711600000
+  updated: 1466822574000
   utc_offset: -14400000
   venue: {address_1: 921 SW 6th Ave, city: Portland, country: us, id: 24617175, lat: 45.517544000000001,
     localized_country_name: USA, lon: -122.680008, name: Hilton Portland, repinned: false,

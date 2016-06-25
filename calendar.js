@@ -2,44 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1466183724000, 
-            "description": "<p>We are excited to announce the Spring 2016 DDL Incubator Program Project Pitchfest!</p> <p><br/>For the last three months, five teams of DC data scientists have come together to turn theory into practice on projects that help ingest and visualize the news, show transportation resources around the DC region, search the US patent database, and more.\u00a0</p> <p><br/>Learn from their experience deploying a news network graph as an interactive web app on Heroku, displaying traffic using Tableau, and analyzing prospective-presidential candidates ratings over time...among many others! Enjoy pizza on us as we are taken from concept to production on five data products, and then join the judges by voting for the winner!\u00a0</p> <p><br/><b>Agenda:</b></p> <p>6:00pm\u00a0-- Food and networking</p> <p>6:30pm\u00a0-- Introduction and presentations</p> <p>8:00pm\u00a0-- Go out for post-event drinks!</p> <p><br/><b>About the teams:</b></p> <p>Olivia, Ryan, Prema, and Elizabeth are exploring relationships in themes among more than 52,000 news articles gathered over three months.</p> <p><br/>Parijat, Martin, and Robert have created a system for searching the US patent registry for patent's with different aspects of similarity.</p> <p><br/>In partnership with the US Census Bureau: Jeremy, Nirmal, Kruthika, and Daniel have been visualizing transportation resources around the DC region.</p> <p><br/>Hussain, Craig, Benjamin, and Johnson have been exploring the possibilities of expanding and reusing an advanced form of network graphs.\u00a0</p> <p><br/>Kate, LeeAnn, Lizzie, Judy, and Andrew have focused on ingesting and visualizing the latest news from NPR and other sources within an interactive webapp.\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Data-Innovation-DC/events/231967968/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Innovation-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "231967968", 
-            "maybe_rsvp_count": 0, 
-            "name": "DDL Data Science Project Pitchfest 3", 
-            "status": "upcoming", 
-            "time": 1466805600000, 
-            "updated": 1466184599000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "640 Massachusetts Ave Nw", 
-                "city": "Washington", 
-                "country": "US", 
-                "id": 20556562, 
-                "lat": 38.901859000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.020995999999997, 
-                "name": "Georgetown University School of Continuing Studies", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 110
-        }, 
-        {
             "created": 1457212385000, 
             "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -77,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1464053008000, 
@@ -265,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 147
         }, 
         {
             "created": 1466714240000, 
@@ -346,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1463417025000, 
@@ -558,7 +520,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1460389774000, 
@@ -903,7 +865,7 @@ calendar({
         }, 
         {
             "created": 1466454487000, 
-            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0</p> <p>We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:05 with pizza and drinks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Doors open at 6:00; presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p><br/>\u2022\u00a0Bibiana\u00a0McHugh,\u00a0Madeline Steele, and\u00a0Grant\u00a0Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0</p> <p>We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:05 with pizza and drinks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Doors open at 6:00; presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0Brian Blanc of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will show how the\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0app help make biking safer.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana\u00a0McHugh,\u00a0Madeline Steele, and\u00a0Grant\u00a0Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
@@ -922,7 +884,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1470175200000, 
-            "updated": 1466711600000, 
+            "updated": 1466822574000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "921 SW 6th Ave", 
