@@ -258,8 +258,8 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [0, 20, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 2, 6, 0, 0, 5, 1, 3,
-    11, 1, 7, 2, 2, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 0, 4, 0, 0, 2, 1, 0,
+- activity: [0, 20, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4,
+    11, 1, 6, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 0, 2, 1, 0,
     8, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -1465,7 +1465,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 649,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 657,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1521,8 +1521,8 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 115373]
-  - [HTML, 61344]
+  - [Ruby, 115762]
+  - [HTML, 61369]
   - [CSS, 26872]
   - [CoffeeScript, 1476]
   - [JavaScript, 1336]
@@ -1532,9 +1532,9 @@
   open_issues: 91
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-22T02:14:30Z'
+  pushed_at: '2016-06-25T17:51:05Z'
   short_name: dcaf_case_management
-  size: 10036
+  size: 10054
   updated_at: '2016-06-10T17:57:58Z'
   watchers: 9
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

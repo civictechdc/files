@@ -46,7 +46,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 39
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
@@ -99,7 +99,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 106
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -129,7 +129,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 12
 - created: 1466540232000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
@@ -234,7 +234,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 147
+  yes_rsvp_count: 146
 - created: 1466714240000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -355,7 +355,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - created: 1466797097000
   description: "<p>You know what goes great with the summer heat? \_Air conditioning,\
     \ refreshing drinks, and good conversation about APIs. \_</p> <p>I know some of\
@@ -413,7 +413,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -911,15 +911,15 @@ other:
     \ folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\
     \_<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show\
     \ us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track\
-    \ and map their rides.</p> <p>\u2022\_Brian Blanc of\_<a href=\"http://nelsonnygaard.com/\"\
-    >Nelson\\Nygaard</a>\_will show how the\_<a href=\"http://www.pdx.edu/transportation-lab/orcycle\"\
-    >ORcycle</a>\_app help make biking safer.</p> <p>\u2022\_Ryan Rzepecki of <a href=\"\
-    http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the\
-    \ new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data\
-    \ being collected.</p> <p><br/>\u2022\_<a href=\"http://alexbigazzi.com\">Alex\_\
-    Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\"\
-    \ (Sensing Pollution Exposure by Community)\_project, mapping air quality along\
-    \ bike routes.</p> <p>\u2022\_Bibiana\_McHugh,\_Madeline Steele, and\_Grant\_\
+    \ and map their rides.</p> <p>\u2022\_<a href=\"https://twitter.com/bryanpblanc\"\
+    >Bryan Blanc</a> of\_<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\_\
+    will show how the\_<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\_\
+    app helps make biking safer.</p> <p>\u2022\_Ryan Rzepecki of <a href=\"http://socialbicycles.com/\"\
+    >Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\"\
+    >Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\_<a href=\"\
+    http://alexbigazzi.com\">Alex\_Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\"\
+    >SPEC</a>\" (Sensing Pollution Exposure by Community)\_project, mapping air quality\
+    \ along bike routes.</p> <p>\u2022\_Bibiana\_McHugh,\_Madeline Steele, and\_Grant\_\
     Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT\
     \ operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a>\
     \ will show how\_<a href=\"http://transitappliance.com/\">Transit Appliance</a>\
@@ -936,7 +936,7 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1470175200000
-  updated: 1466822574000
+  updated: 1466875414000
   utc_offset: -14400000
   venue: {address_1: 921 SW 6th Ave, city: Portland, country: us, id: 24617175, lat: 45.517544000000001,
     localized_country_name: USA, lon: -122.680008, name: Hilton Portland, repinned: false,
