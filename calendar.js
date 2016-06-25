@@ -37,7 +37,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1457212385000, 
@@ -77,7 +77,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1464053008000, 
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1459265642000, 
@@ -185,7 +185,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1465843887000, 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1466714240000, 
@@ -350,7 +350,7 @@ calendar({
         }, 
         {
             "created": 1463417025000, 
-            "description": "<p><b>Overview</b></p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website.\u00a0\u00a0</p> <p>- Terminology and trends in search, tagging and other elements of search and findability \u00a0<br/>- Important considerations in search engine optimization (SEO)\u00a0<br/>- Basic information architecture and other elements of findability \u00a0<br/>- New considerations in mobile and social \u00a0<br/>- Trends in SEO and findability</p> <p><b>Agenda</b></p> <p>6:30 - Networking, drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30 - More networking<br/>9:00 - Adjourn</p> <p><b>Speakers</b></p> <p><b>Adam Reimer</b>, President, Adam Reimer Marketing</p> <p>Adam is an award winning marketer known for his metric driven strategies.\u00a0 Whether it\u2019s ROI based SEO, driving memberships and awareness or top of funnel social and affiliate marketing, he\u2019s the trusted strategic resource for companies and nonprofits of all sizes.\u00a0 Find out more on his blog\u00a0<a href=\"http://www.adamriemer.me/\">www.AdamRiemer.me</a></p> <p><b>Dave Watts</b>, CTO, Figleaf Software</p> <p>[bio pending]</p> <p><b>Rebecca Viser</b>, Senior Project Manager, The Brookings Institution</p> <p>[bio pending - Rebecca oversees the web development of\u00a0<a href=\"http://www.brookings.edu/\">www.brookings.edu</a>, including the transition from Sitecore to WordPress]</p> <p><b>Our host - Canvas Co/Work</b></p> <p>Many thanks to\u00a0<a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwifnIn29K_NAhUGPz4KHVLHBjEQFggcMAA&amp;url=http%3A%2F%2Fcanvasco.work%2F&amp;usg=AFQjCNG9AZmfsfIMyE8NmCLD9Fvp1vJ5cw&amp;sig2=BHVsNYHp9koQRi12fK45hw\">Canvas Co/Work</a>\u00a0for hosting us.</p> <p><b> Our sponsor - Figleaf Software</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/a/5/f/600_451431807.jpeg\" /></p> <p>Figleaf Software - <a href=\"http://www.figleaf.com\">www.figleaf.com</a></p>", 
+            "description": "<p><b><i>Important:</i></b> You MUST register on <a href=\"https://www.eventbrite.com/e/findability-and-searchability-tickets-25484487789\">Eventbrite</a> to attend.</p> <p><b>Overview<br/></b></p> <p>Learn about making your website findable by search engines and how to help visitors locate content on your website. \u00a0</p> <p><br/>- Terminology and trends in search, tagging and other elements of search and findability \u00a0<br/>- Important considerations in search engine optimization (SEO)\u00a0<br/>- Basic information architecture and other elements of findability \u00a0<br/>- New considerations in mobile and social \u00a0<br/>- Trends in SEO and findability</p> <p><b>Agenda</b></p> <p>6:30 - Networking, drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30 - More networking<br/>9:00 - Adjourn</p> <p><b>Speakers</b></p> <p><b>Adam Reimer</b>, President, Adam Reimer Marketing</p> <p>Adam is an award winning marketer known for his metric driven strategies.\u00a0 Whether it\u2019s ROI based SEO, driving memberships and awareness or top of funnel social and affiliate marketing, he\u2019s the trusted strategic resource for companies and nonprofits of all sizes.\u00a0 Find out more on his blog\u00a0<a href=\"http://www.adamriemer.me/\">www.AdamRiemer.me</a></p> <p><b>Dave Watts</b>, CTO, Figleaf Software</p> <p>[bio pending]</p> <p><b>Rebecca Viser</b>, Senior Project Manager, The Brookings Institution</p> <p>Rebecca manages all website development for <a href=\"http://www.brookings.edu/\">brookings.edu</a>, a 65,000-page deep site. She is currently leading the day-to-day redesign of the Brookings website, which will move Brookings from Sitecore to WordPress. Rebecca has previously worked\u00a0a number of non-profits, including Georgetown University Press, GoodWeave, and Corporate Voices for Working Families, and served as an Americorps VISTA with DC Learns. She hopes to one day be able to explain what she does to her parents.</p> <p><b>Our host - Canvas Co/Work</b></p> <p>Many thanks to\u00a0<a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwifnIn29K_NAhUGPz4KHVLHBjEQFggcMAA&amp;url=http%3A%2F%2Fcanvasco.work%2F&amp;usg=AFQjCNG9AZmfsfIMyE8NmCLD9Fvp1vJ5cw&amp;sig2=BHVsNYHp9koQRi12fK45hw\">Canvas Co/Work</a>\u00a0for hosting us.</p> <p><b> Our sponsor - Figleaf Software</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/a/5/f/600_451431807.jpeg\" /></p> <p>Figleaf Software - <a href=\"http://www.figleaf.com\">www.figleaf.com</a></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/231166266/", 
             "group": {
                 "created": 1189804715000, 
@@ -368,7 +368,7 @@ calendar({
             "name": "Findability & Searchability", 
             "status": "upcoming", 
             "time": 1467239400000, 
-            "updated": 1466787957000, 
+            "updated": 1466806811000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1203 19th St NW ", 
@@ -385,6 +385,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 50
+        }, 
+        {
+            "created": 1466797097000, 
+            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Antoinette Janus - Typical Agency<br/>* TBA<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/232139209/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "232139209", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - July Edition", 
+            "status": "upcoming", 
+            "time": 1467756000000, 
+            "updated": 1466797097000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1459265642000, 
@@ -439,7 +477,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1465589104000, 
@@ -681,7 +719,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457965726000, 
@@ -709,7 +747,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
@@ -1115,7 +1153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1326383071000, 

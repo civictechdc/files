@@ -41,7 +41,7 @@ other:
     name: Georgetown University School of Continuing Studies, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 110
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -88,7 +88,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
     \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
@@ -141,7 +141,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 105
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -201,7 +201,7 @@ other:
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1465843887000
   description: "<p>This month, we take to the streets to conduct fieldwork. We'll\
     \ be mapping the Shaw/Howard neighborhoods using <a href=\"http://mapillary.com/\"\
@@ -276,7 +276,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 142
+  yes_rsvp_count: 145
 - created: 1466714240000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -352,25 +352,31 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 9
 - created: 1463417025000
-  description: "<p><b>Overview</b></p> <p>Learn about making your website findable\
-    \ by search engines and how to help visitors locate content on your website.\_\
-    \_</p> <p>- Terminology and trends in search, tagging and other elements of search\
-    \ and findability \_<br/>- Important considerations in search engine optimization\
-    \ (SEO)\_<br/>- Basic information architecture and other elements of findability\
-    \ \_<br/>- New considerations in mobile and social \_<br/>- Trends in SEO and\
-    \ findability</p> <p><b>Agenda</b></p> <p>6:30 - Networking, drinks &amp; light\
-    \ appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30 - More networking<br/>9:00\
-    \ - Adjourn</p> <p><b>Speakers</b></p> <p><b>Adam Reimer</b>, President, Adam\
-    \ Reimer Marketing</p> <p>Adam is an award winning marketer known for his metric\
-    \ driven strategies.\_ Whether it\u2019s ROI based SEO, driving memberships and\
-    \ awareness or top of funnel social and affiliate marketing, he\u2019s the trusted\
-    \ strategic resource for companies and nonprofits of all sizes.\_ Find out more\
-    \ on his blog\_<a href=\"http://www.adamriemer.me/\">www.AdamRiemer.me</a></p>\
+  description: "<p><b><i>Important:</i></b> You MUST register on <a href=\"https://www.eventbrite.com/e/findability-and-searchability-tickets-25484487789\"\
+    >Eventbrite</a> to attend.</p> <p><b>Overview<br/></b></p> <p>Learn about making\
+    \ your website findable by search engines and how to help visitors locate content\
+    \ on your website. \_</p> <p><br/>- Terminology and trends in search, tagging\
+    \ and other elements of search and findability \_<br/>- Important considerations\
+    \ in search engine optimization (SEO)\_<br/>- Basic information architecture and\
+    \ other elements of findability \_<br/>- New considerations in mobile and social\
+    \ \_<br/>- Trends in SEO and findability</p> <p><b>Agenda</b></p> <p>6:30 - Networking,\
+    \ drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30\
+    \ - More networking<br/>9:00 - Adjourn</p> <p><b>Speakers</b></p> <p><b>Adam Reimer</b>,\
+    \ President, Adam Reimer Marketing</p> <p>Adam is an award winning marketer known\
+    \ for his metric driven strategies.\_ Whether it\u2019s ROI based SEO, driving\
+    \ memberships and awareness or top of funnel social and affiliate marketing, he\u2019\
+    s the trusted strategic resource for companies and nonprofits of all sizes.\_\
+    \ Find out more on his blog\_<a href=\"http://www.adamriemer.me/\">www.AdamRiemer.me</a></p>\
     \ <p><b>Dave Watts</b>, CTO, Figleaf Software</p> <p>[bio pending]</p> <p><b>Rebecca\
-    \ Viser</b>, Senior Project Manager, The Brookings Institution</p> <p>[bio pending\
-    \ - Rebecca oversees the web development of\_<a href=\"http://www.brookings.edu/\"\
-    >www.brookings.edu</a>, including the transition from Sitecore to WordPress]</p>\
-    \ <p><b>Our host - Canvas Co/Work</b></p> <p>Many thanks to\_<a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwifnIn29K_NAhUGPz4KHVLHBjEQFggcMAA&amp;url=http%3A%2F%2Fcanvasco.work%2F&amp;usg=AFQjCNG9AZmfsfIMyE8NmCLD9Fvp1vJ5cw&amp;sig2=BHVsNYHp9koQRi12fK45hw\"\
+    \ Viser</b>, Senior Project Manager, The Brookings Institution</p> <p>Rebecca\
+    \ manages all website development for <a href=\"http://www.brookings.edu/\">brookings.edu</a>,\
+    \ a 65,000-page deep site. She is currently leading the day-to-day redesign of\
+    \ the Brookings website, which will move Brookings from Sitecore to WordPress.\
+    \ Rebecca has previously worked\_a number of non-profits, including Georgetown\
+    \ University Press, GoodWeave, and Corporate Voices for Working Families, and\
+    \ served as an Americorps VISTA with DC Learns. She hopes to one day be able to\
+    \ explain what she does to her parents.</p> <p><b>Our host - Canvas Co/Work</b></p>\
+    \ <p>Many thanks to\_<a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwifnIn29K_NAhUGPz4KHVLHBjEQFggcMAA&amp;url=http%3A%2F%2Fcanvasco.work%2F&amp;usg=AFQjCNG9AZmfsfIMyE8NmCLD9Fvp1vJ5cw&amp;sig2=BHVsNYHp9koQRi12fK45hw\"\
     >Canvas Co/Work</a>\_for hosting us.</p> <p><b> Our sponsor - Figleaf Software</b></p>\
     \ <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/a/5/f/600_451431807.jpeg\"\
     \ /></p> <p>Figleaf Software - <a href=\"http://www.figleaf.com\">www.figleaf.com</a></p>"
@@ -384,7 +390,7 @@ other:
   name: Findability & Searchability
   status: upcoming
   time: 1467239400000
-  updated: 1466787957000
+  updated: 1466806811000
   utc_offset: -14400000
   venue: {address_1: '1203 19th St NW ', city: 3rd floor, country: us, id: 24145676,
     lat: 38.905971999999998, localized_country_name: USA, lon: -77.043205, name: 'Canvas
@@ -392,6 +398,34 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 50
+- created: 1466797097000
+  description: "<p>You know what goes great with the summer heat? \_Air conditioning,\
+    \ refreshing drinks, and good conversation about APIs. \_</p> <p>I know some of\
+    \ you may still be traveling after the holiday weekend, but if you're around,\
+    \ go ahead and mark your calendars for the first Tuesday of the month and head\
+    \ on over to Chief for interesting presentations and good company. \_</p> <p>6:00pm\
+    \ - 6:45pm Food, drinks and networking\_<br/>6:45pm - 6:55pm Introductions and\
+    \ Announcements\_<br/>6:55pm - 8:00pm Presentations</p> <p>*\_Antoinette Janus\
+    \ - Typical Agency<br/>* TBA<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\_\
+    <br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/232139209/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '232139209'
+  maybe_rsvp_count: 0
+  name: DC API User Group - July Edition
+  status: upcoming
+  time: 1467756000000
+  updated: 1466797097000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
+    name: CHIEF, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -462,7 +496,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1465589104000
   description: "<p>Join DC Legal Hackers at Smoke &amp; Barrel on July 6th to mingle\
     \ with lawyers, technologists, and tech policy gurus over (vegan) wings!\_</p>\
@@ -678,7 +712,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -721,7 +755,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1172,7 +1206,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
