@@ -2,14 +2,14 @@ projects([
     {
         "activity": [
             0, 
+            8, 
+            2, 
             7, 
-            3, 
-            6, 
-            10, 
+            9, 
             0, 
-            3, 
-            65, 
-            15, 
+            9, 
+            63, 
+            11, 
             0, 
             2, 
             3, 
@@ -26,8 +26,8 @@ projects([
             0, 
             2, 
             0, 
-            3, 
-            3, 
+            4, 
+            2, 
             0, 
             0, 
             0, 
@@ -3420,8 +3420,8 @@ projects([
     {
         "activity": [
             2, 
-            21, 
-            14, 
+            24, 
+            11, 
             6, 
             15, 
             0, 
@@ -3429,15 +3429,15 @@ projects([
             4, 
             6, 
             0, 
-            9, 
-            71, 
+            14, 
+            66, 
             0, 
             0, 
-            3, 
             8, 
-            0, 
-            7, 
             3, 
+            0, 
+            9, 
+            1, 
             13, 
             0, 
             0, 
@@ -3453,8 +3453,8 @@ projects([
             1, 
             1, 
             0, 
-            14, 
-            122, 
+            32, 
+            104, 
             2, 
             3, 
             0, 
@@ -4564,7 +4564,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 664, 
+                "contributions": 691, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4713,11 +4713,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                115869
+                121540
             ], 
             [
                 "HTML", 
-                61281
+                61848
             ], 
             [
                 "CSS", 
@@ -4740,16 +4740,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 90, 
+        "open_issues": 80, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-25T22:56:36Z", 
+        "pushed_at": "2016-06-26T04:59:09Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10034, 
+        "size": 10073, 
         "updated_at": "2016-06-10T17:57:58Z", 
         "watchers": 9
     }, 

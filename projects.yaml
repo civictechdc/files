@@ -1,6 +1,6 @@
-- activity: [0, 7, 3, 6, 10, 0, 3, 65, 15, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0,
-    0, 2, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [0, 8, 2, 7, 9, 0, 9, 63, 11, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0,
+    2, 0, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1111,9 +1111,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [2, 21, 14, 6, 15, 0, 3, 4, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0,
-    0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 122, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4,
-    0, 0, 0, 0, 0]
+- activity: [2, 24, 11, 6, 15, 0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0,
+    0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 32, 104, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0,
+    4, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1465,7 +1465,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 664,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 691,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1521,20 +1521,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 115869]
-  - [HTML, 61281]
+  - [Ruby, 121540]
+  - [HTML, 61848]
   - [CSS, 26872]
   - [CoffeeScript, 1476]
   - [JavaScript, 1336]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 90
+  open_issues: 80
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-25T22:56:36Z'
+  pushed_at: '2016-06-26T04:59:09Z'
   short_name: dcaf_case_management
-  size: 10034
+  size: 10073
   updated_at: '2016-06-10T17:57:58Z'
   watchers: 9
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
