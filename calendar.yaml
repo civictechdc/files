@@ -186,7 +186,7 @@ other:
     localized_country_name: USA, lon: -77.021125999999995, name: We Work Wonderbread,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 22
+  waitlist_count: 23
   yes_rsvp_count: 26
 - created: 1464965624000
   description: "<p>Join your fellow data visualizers on Tuesday, June 28th \_at Chief\
@@ -308,7 +308,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1463417025000
   description: "<p><b><i>Important:</i></b> You MUST register on <a href=\"https://www.eventbrite.com/e/findability-and-searchability-tickets-25484487789\"\
     >Eventbrite</a> to attend.</p> <p><b>Overview<br/></b></p> <p>Learn about making\
@@ -454,7 +454,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1465589104000
   description: "<p>Join DC Legal Hackers at Smoke &amp; Barrel on July 6th to mingle\
     \ with lawyers, technologists, and tech policy gurus over (vegan) wings!\_</p>\
@@ -512,7 +512,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -670,7 +670,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1199,7 +1199,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
