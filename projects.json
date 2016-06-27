@@ -1006,8 +1006,8 @@
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/16513656?v=3", 
                 "contributions": 1, 
-                "link": "https://github.com/brownkd82", 
-                "name": "brownkd82"
+                "link": "https://github.com/KristinaB-MLSSecDev", 
+                "name": "KristinaB-MLSSecDev"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6130757?v=3", 
@@ -4247,23 +4247,23 @@
             0, 
             0, 
             0, 
+            2, 
+            2, 
             0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            2, 
             4, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            6, 
             0, 
             0, 
             0, 
@@ -4564,7 +4564,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 702, 
+                "contributions": 707, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4713,7 +4713,7 @@
         "languages": [
             [
                 "Ruby", 
-                123093
+                123223
             ], 
             [
                 "HTML", 
@@ -4729,7 +4729,7 @@
             ], 
             [
                 "JavaScript", 
-                1336
+                1365
             ]
         ], 
         "license": {
@@ -4740,16 +4740,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 79, 
+        "open_issues": 76, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-06-26T17:11:30Z", 
+        "pushed_at": "2016-06-26T23:18:38Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10079, 
+        "size": 10086, 
         "updated_at": "2016-06-10T17:57:58Z", 
         "watchers": 9
     }, 
