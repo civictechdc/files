@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 25
 other:
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
@@ -91,7 +91,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 115
+  yes_rsvp_count: 108
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -125,16 +125,21 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1466540232000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
     \ will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following -\_\
-    </p> <p>&lt;a href=\"https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour\"\
-    &gt;&lt;/a&gt;</p> <p>TBD</p> <p>We want to do a combination of whiteboarding\
-    \ and coding on the computer so please bring a computer. <b>You can code in the\
-    \ language of your choice (including pseudocode)!</b></p> <p><br/>This event is\
-    \ intended to be exclusively open for women; we are trans* friendly.</p>"
+    </p> <p><a href=\"https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour\"\
+    >&lt;/a&gt;</p> <p>&lt;a href=\"https://www.hackerrank.com/challenges/icecream-parlor\"\
+    &gt;<a href=\"https://www.hackerrank.com/challenges/icecream-parlor\" class=\"\
+    linkified\">https://www.hackerrank.com/challenges/icecream-parlor</a></a></p>\
+    \ <p><a href=\"https://www.hackerrank.com/challenges/maximize-sum\"><a href=\"\
+    https://www.hackerrank.com/challenges/maximize-sum\" class=\"linkified\">https://www.hackerrank.com/challenges/maximize-sum</a></a></p>\
+    \ <p>We want to do a combination of whiteboarding and coding on the computer so\
+    \ please bring a computer. <b>You can code in the language of your choice (including\
+    \ pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for\
+    \ women; we are trans* friendly.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/232062060/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -148,14 +153,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1467153000000
-  updated: 1466540232000
+  updated: 1467134821000
   utc_offset: -14400000
   venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
     id: 23852906, lat: 38.903111000000003, localized_country_name: USA, lon: -77.059639000000004,
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 34
 - created: 1465843887000
   description: "<p>This month, we take to the streets to conduct fieldwork. We'll\
     \ be mapping the Shaw/Howard neighborhoods using <a href=\"http://mapillary.com/\"\
@@ -182,7 +187,7 @@ other:
     localized_country_name: USA, lon: -77.021125999999995, name: We Work Wonderbread,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 23
+  waitlist_count: 20
   yes_rsvp_count: 30
 - created: 1464965624000
   description: "<p>Join your fellow data visualizers on Tuesday, June 28th \_at Chief\
@@ -304,36 +309,50 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1463417025000
   description: "<p><b><i>Important:</i></b> You MUST register on <a href=\"https://www.eventbrite.com/e/findability-and-searchability-tickets-25484487789\"\
     >Eventbrite</a> to attend.</p> <p><b>Overview<br/></b></p> <p>Learn about making\
     \ your website findable by search engines and how to help visitors locate content\
-    \ on your website. \_</p> <p><br/>- Terminology and trends in search, tagging\
-    \ and other elements of search and findability \_<br/>- Important considerations\
-    \ in search engine optimization (SEO)\_<br/>- Basic information architecture and\
-    \ other elements of findability \_<br/>- New considerations in mobile and social\
-    \ \_<br/>- Trends in SEO and findability</p> <p><b>Agenda</b></p> <p>6:30 - Networking,\
-    \ drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30\
+    \ on your website. \_</p> <p>- Terminology and trends in search, tagging and other\
+    \ elements of search and findability \_<br/>- Important considerations in search\
+    \ engine optimization (SEO)\_<br/>- Basic information architecture and other elements\
+    \ of findability \_<br/>- New considerations in mobile and social \_<br/>- Trends\
+    \ in SEO and findability</p> <p><b>Agenda</b></p> <p>6:30 - Networking, drinks\
+    \ &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30\
     \ - More networking<br/>9:00 - Adjourn</p> <p><b>Speakers</b></p> <p><b>Adam Reimer</b>,\
     \ President, Adam Reimer Marketing</p> <p>Adam is an award winning marketer known\
     \ for his metric driven strategies.\_ Whether it\u2019s ROI based SEO, driving\
     \ memberships and awareness or top of funnel social and affiliate marketing, he\u2019\
     s the trusted strategic resource for companies and nonprofits of all sizes.\_\
     \ Find out more on his blog\_<a href=\"http://www.adamriemer.me/\">www.AdamRiemer.me</a></p>\
-    \ <p><b>Dave Watts</b>, CTO, Figleaf Software</p> <p>[bio pending]</p> <p><b>Rebecca\
-    \ Viser</b>, Senior Project Manager, The Brookings Institution</p> <p>Rebecca\
-    \ manages all website development for <a href=\"http://www.brookings.edu/\">brookings.edu</a>,\
-    \ a 65,000-page deep site. She is currently leading the day-to-day redesign of\
-    \ the Brookings website, which will move Brookings from Sitecore to WordPress.\
-    \ Rebecca has previously worked\_a number of non-profits, including Georgetown\
-    \ University Press, GoodWeave, and Corporate Voices for Working Families, and\
-    \ served as an Americorps VISTA with DC Learns. She hopes to one day be able to\
-    \ explain what she does to her parents.</p> <p><b>Our host - Canvas Co/Work</b></p>\
+    \ <p><b>Dave Watts</b>, CTO, Figleaf Software</p> <p>Dave is co-founder and Chief\
+    \ Technology Officer for Figleaf Software, where he drives the technology vision\
+    \ and enhances Fig Leaf\u2019s competitive edge by developing the company\u2019\
+    s best practices, covering server configuration, performance tuning, application\
+    \ development, and application deployment. Dave was the second person ever to\
+    \ be Certified by Google, Inc. as a Google Enterprise Professional Certified Trainer\
+    \ for the Google Search Appliance, Google Mini and Google Apps. When not developing\
+    \ or teaching for Fig Leaf Software, Dave enjoys playing with new gadgets and\
+    \ technologies.</p> <p><b>Rebecca Viser</b>, Senior Project Manager, The Brookings\
+    \ Institution</p> <p>Rebecca manages all website development for <a href=\"http://www.brookings.edu/\"\
+    >brookings.edu</a>, a 65,000-page deep site. She is currently leading the day-to-day\
+    \ redesign of the Brookings website, which will move Brookings from Sitecore to\
+    \ WordPress. Rebecca has previously worked\_a number of non-profits, including\
+    \ Georgetown University Press, GoodWeave, and Corporate Voices for Working Families,\
+    \ and served as an Americorps VISTA with DC Learns. She hopes to one day be able\
+    \ to explain what she does to her parents.</p> <p><b>Our host - Canvas Co/Work</b></p>\
     \ <p>Many thanks to\_<a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwifnIn29K_NAhUGPz4KHVLHBjEQFggcMAA&amp;url=http%3A%2F%2Fcanvasco.work%2F&amp;usg=AFQjCNG9AZmfsfIMyE8NmCLD9Fvp1vJ5cw&amp;sig2=BHVsNYHp9koQRi12fK45hw\"\
     >Canvas Co/Work</a>\_for hosting us.</p> <p><b> Our sponsor - Figleaf Software</b></p>\
     \ <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/a/5/f/600_451431807.jpeg\"\
-    \ /></p> <p>Figleaf Software - <a href=\"http://www.figleaf.com\">www.figleaf.com</a></p>"
+    \ /></p> <p>Figleaf Software - <a href=\"http://www.figleaf.com\">www.figleaf.com</a></p>\
+    \ <p>\u201CWe\u2019ve Got You Covered\" - Located in the heart of Washington,\
+    \ DC, we\u2019re a Service Disabled Veteran-Owned Small Business. For over 20\
+    \ years, we\u2019ve helped a diverse range of clients with needs across the entire\
+    \ spectrum of web-related services, including design, marketing and content strategies,\
+    \ custom software development, product licensing and personalized training. Please\
+    \ visit\_<a href=\"http://www.figleaf.com/\">www.figleaf.com</a>\_or call\_&lt;a&gt;[masked]&lt;/a&gt;\_\
+    to speak directly with a consultant today. \_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/231166266/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -344,7 +363,7 @@ other:
   name: Findability & Searchability
   status: upcoming
   time: 1467239400000
-  updated: 1466806811000
+  updated: 1467126891000
   utc_offset: -14400000
   venue: {address_1: '1203 19th St NW ', city: 3rd floor, country: us, id: 24145676,
     lat: 38.905971999999998, localized_country_name: USA, lon: -77.043205, name: 'Canvas
@@ -380,7 +399,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 33
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -509,7 +528,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -586,7 +605,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -845,17 +864,20 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1467072890000
-  description: "<p>Reminder: You MUST register on Eventbrite to attend.</p> <p>OVERVIEW</p>\
-    \ <p>Content marketing is a method of creating relevant and compelling content\
-    \ that engages your existing\_audience and attracts a new one, all with the end\
-    \ goals of nurturing stronger levels of brand engagement and encouraging customer\
-    \ action.</p> <p>Join the Web Content Mavens as we discuss\_<br/>- the essentials\
-    \ of content marketing<br/>- content marketing as an engagement tool<br/>- using\
-    \ content marketing to\_attract new audiences<br/>- content marketing techniques\
-    \ for locating and involving brand advocates<br/>- ideas for engaging new and\_\
-    existing audiences in\_your brand and mission</p> <p><br/>AGENDA</p> <p>6:30 -\
-    \ Check-in, drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 -\
-    \ Q &amp; A<br/>8:30 - More networking<br/>9:00 - Adjourn</p>"
+  description: "<p>Reminder: You MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\"\
+    >Eventbrite</a> to attend.</p> <p>Content marketing is a method of creating and\
+    \ sharing relevant and compelling content that engages your existing\_audience\
+    \ and attracts a new one.</p> <p>Join us as we discuss content marketing with\
+    \ an emphasis on engagement:<br/>* reaching and attracting new audiences<br/>*\
+    \ building stronger levels of brand engagement<br/>* encouraging participation<br/>*\
+    \ completing calls-to-action such as\_purchasing, joining, advocating and sharing</p>\
+    \ <p>Discussion points:</p> <p>- The essentials of content marketing\_<br/>- Content\
+    \ marketing as an engagement tool<br/>- Using content marketing to\_attract new\
+    \ audiences \_<br/>- Writing effective calls-to-action\_<br/>- Content marketing\
+    \ techniques for locating and involving brand advocates \_<br/>- Ideas for engaging\
+    \ new and\_existing audiences in\_your brand and mission</p> <p>AGENDA</p> <p><br/>6:30\
+    \ - Check-in, drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15\
+    \ - Q &amp; A<br/>8:30 - More networking<br/>9:00 - Adjourn</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/232211736/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -866,14 +888,14 @@ other:
   name: 'Content Marketing: A Tool for Engagement'
   status: upcoming
   time: 1469658600000
-  updated: 1467073183000
+  updated: 1467123412000
   utc_offset: -14400000
   venue: {address_1: '1203 19th St NW ', city: 3rd floor, country: us, id: 24145676,
     lat: 38.905971999999998, localized_country_name: USA, lon: -77.043205, name: 'Canvas
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 7
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1166,7 +1188,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
