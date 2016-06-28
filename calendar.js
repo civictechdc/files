@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1464053008000, 
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 113
         }, 
         {
             "created": 1459265642000, 
@@ -106,7 +106,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1466540232000, 
@@ -147,7 +147,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1465843887000, 
@@ -185,7 +185,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -227,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 153
+            "yes_rsvp_count": 154
         }, 
         {
             "created": 1466714240000, 
@@ -268,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1466461444000, 
@@ -346,11 +346,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1466797097000, 
-            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>*\u00a0Antoinette Janus - Typical Agency<br/>* TBA<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Alex\u00a0Zbarcea - \u00a0Spectrum Systems<br/>* Antoinette Janus - Typical Agency<br/>* TBA</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/232139209/", 
             "group": {
                 "created": 1347647025000, 
@@ -368,7 +368,7 @@ calendar({
             "name": "DC API User Group - July Edition", 
             "status": "upcoming", 
             "time": 1467756000000, 
-            "updated": 1466797097000, 
+            "updated": 1467060347000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -384,7 +384,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459265642000, 
@@ -439,7 +439,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1465589104000, 
@@ -585,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459265642000, 
@@ -681,7 +681,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1457965726000, 
@@ -861,7 +861,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1466454487000, 
@@ -900,7 +900,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1459265642000, 
@@ -956,7 +956,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1452612310000, 
@@ -1087,7 +1087,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1417881835000, 
@@ -1118,7 +1118,7 @@ calendar({
         }, 
         {
             "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
@@ -1137,7 +1137,7 @@ calendar({
             "rsvp_limit": 300, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1466527544000, 
+            "updated": 1467063324000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
@@ -1153,7 +1153,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1326383071000, 
