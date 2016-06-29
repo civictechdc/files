@@ -36,14 +36,13 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 29
 other:
 - created: 1464053008000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
-    \ data visualizations. If you've made an app, hack, map or dataviz about Metrorail,\
-    \ sign up for our show &amp; tell.\_So far we have:</p> <p>\u2022\_Christian Flores\
-    \ will show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\_\
-    iOS app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p>\
+    \ data visualizations. Our speakers are:</p> <p>\u2022\_Christian Flores will\
+    \ show <a href=\"http://www.dcmasstransit.com/\">DC Mass Transit</a>, an\_iOS\
+    \ app that combines Metrobus, Metrorail, Circulator, Streetcar and Capital Bikeshare.</p>\
     \ <p><br/>\u2022 Dan Larson will use his\_simulation model of the WMATA system\
     \ to predict train loading and platform crowding during the morning rush.</p>\
     \ <p><br/>\u2022 Justin Antos offer a look at his\_Metrorail Capacity Analysis\
@@ -70,9 +69,7 @@ other:
     https://www.washingtonpost.com/news/dr-gridlock/wp/2016/02/24/metro-opens-doors-to-app-developers/\"\
     >Metro opens doors to app developers</a>.</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\"\
     >@techiesdc</a>\_for \"Transportation Techies\" updates. Use <a href=\"https://twitter.com/hashtag/metrohacknight\"\
-    >#metrohacknight</a> for your own tweets.</p> <p>Up next is\_<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\"\
-    >Bike Hack Night VI</a>\_on\_September 7, at\_<a href=\"http://wundergartendc.com/rei/\"\
-    >REI's Wunder Garten</a>.</p>"
+    >#metrohacknight</a> for your own tweets.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231353360/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -84,14 +81,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1467151200000
-  updated: 1467080355000
+  updated: 1467145792000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 104
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -125,17 +122,17 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1466540232000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup! The schedule\
-    \ will be as follows:</p> <p><br/>- Dinner</p> <p>- Work on the following -\_\
-    </p> <p><a href=\"https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour\"\
+    \ will be as follows:</p> <p>- Dinner</p> <p>- Work on the following -\_</p> <p><a\
+    \ href=\"https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour\"\
     >&lt;/a&gt;</p> <p>&lt;a href=\"https://www.hackerrank.com/challenges/icecream-parlor\"\
     &gt;<a href=\"https://www.hackerrank.com/challenges/icecream-parlor\" class=\"\
     linkified\">https://www.hackerrank.com/challenges/icecream-parlor</a></a></p>\
-    \ <p><a href=\"https://www.hackerrank.com/challenges/maximize-sum\"><a href=\"\
-    https://www.hackerrank.com/challenges/maximize-sum\" class=\"linkified\">https://www.hackerrank.com/challenges/maximize-sum</a></a></p>\
+    \ <p><a href=\"https://www.hackerrank.com/challenges/pairs\"><a href=\"https://www.hackerrank.com/challenges/pairs\"\
+    \ class=\"linkified\">https://www.hackerrank.com/challenges/pairs</a></a></p>\
     \ <p>We want to do a combination of whiteboarding and coding on the computer so\
     \ please bring a computer. <b>You can code in the language of your choice (including\
     \ pseudocode)!</b></p> <p><br/>This event is intended to be exclusively open for\
@@ -153,14 +150,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1467153000000
-  updated: 1467134821000
+  updated: 1467149953000
   utc_offset: -14400000
   venue: {address_1: '1025 Thomas Jefferson Street, NW', city: Washington, country: us,
     id: 23852906, lat: 38.903111000000003, localized_country_name: USA, lon: -77.059639000000004,
     name: Palantir Technologies, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 32
 - created: 1465843887000
   description: "<p>This month, we take to the streets to conduct fieldwork. We'll\
     \ be mapping the Shaw/Howard neighborhoods using <a href=\"http://mapillary.com/\"\
@@ -187,7 +184,7 @@ other:
     localized_country_name: USA, lon: -77.021125999999995, name: We Work Wonderbread,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 7
   yes_rsvp_count: 30
 - created: 1464965624000
   description: "<p>Join your fellow data visualizers on Tuesday, June 28th \_at Chief\
@@ -235,7 +232,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 154
+  yes_rsvp_count: 153
 - created: 1466714240000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -277,7 +274,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1466461444000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -370,7 +367,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1466797097000
   description: "<p>You know what goes great with the summer heat? \_Air conditioning,\
     \ refreshing drinks, and good conversation about APIs. \_</p> <p>I know some of\
@@ -399,7 +396,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 39
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -470,7 +467,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1465589104000
   description: "<p>Join DC Legal Hackers at Smoke &amp; Barrel on July 6th to mingle\
     \ with lawyers, technologists, and tech policy gurus over (vegan) wings!\_</p>\
@@ -506,7 +503,7 @@ other:
     name: Smoke & Barrel, phone: 202.319.9353, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -528,7 +525,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -605,7 +602,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -895,7 +892,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 12
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -992,7 +989,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1280,7 +1277,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 34
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
