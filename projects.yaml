@@ -264,7 +264,7 @@
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 227,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4156602?v=3', contributions: 230,
     link: 'https://github.com/stvnrlly', name: stvnrlly}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1056324?v=3', contributions: 50,
     link: 'https://github.com/mattbailey0', name: mattbailey0}
@@ -272,28 +272,30 @@
     link: 'https://github.com/leahbannon', name: leahbannon}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 10,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 7,
-    link: 'https://github.com/justgrimes', name: justgrimes}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/6002123?v=3', contributions: 8,
+    link: 'https://github.com/trycrmr', name: trycrmr}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1071322?v=3', contributions: 7,
     link: 'https://github.com/ajschumacher', name: ajschumacher}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/781944?v=3', contributions: 7,
+    link: 'https://github.com/justgrimes', name: justgrimes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7332618?v=3', contributions: 5,
     link: 'https://github.com/jtreed25', name: jtreed25}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 4,
-    link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7108211?v=3', contributions: 4,
     link: 'https://github.com/drewbo', name: drewbo}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1833870?v=3', contributions: 2,
-    link: 'https://github.com/geobrando', name: geobrando}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/4592?v=3', contributions: 2,
-    link: 'https://github.com/konklone', name: konklone}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 4,
+    link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/9613759?v=3', contributions: 2,
     link: 'https://github.com/katerabinowitz', name: katerabinowitz}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1833870?v=3', contributions: 2,
+    link: 'https://github.com/geobrando', name: geobrando}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1693152?v=3', contributions: 2,
+    link: 'https://github.com/Fran33', name: Fran33}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 2,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2947360?v=3', contributions: 2,
     link: 'https://github.com/PeteOK', name: PeteOK}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1693152?v=3', contributions: 2,
-    link: 'https://github.com/Fran33', name: Fran33}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/4592?v=3', contributions: 2,
+    link: 'https://github.com/konklone', name: konklone}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12520191?v=3', contributions: 1,
     link: 'https://github.com/amnight', name: amnight}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 1,
@@ -308,7 +310,7 @@
     link: 'https://github.com/paulhyland', name: paulhyland}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3248065?v=3', contributions: 1,
     link: 'https://github.com/shannonturner', name: shannonturner}
-  contributors_count: 22
+  contributors_count: 23
   created_at: '2013-08-06T11:45:40Z'
   default_branch: master
   description: The current Code for DC website
@@ -318,7 +320,7 @@
   html_url: https://github.com/codefordc/codefordc.github.com
   id: 11922700
   languages:
-  - [HTML, 116901]
+  - [HTML, 116892]
   - [JavaScript, 16189]
   - [CSS, 13748]
   - [Shell, 5425]
@@ -327,10 +329,10 @@
     url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 26
+  open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-06-08T15:33:11Z'
+  pushed_at: '2016-06-30T03:47:20Z'
   short_name: codefordc.github.com
   size: 19123
   updated_at: '2016-06-13T04:28:33Z'
@@ -1531,12 +1533,12 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 71
+  open_issues: 72
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-06-29T23:55:54Z'
+  pushed_at: '2016-06-30T01:42:38Z'
   short_name: dcaf_case_management
-  size: 10083
+  size: 10096
   updated_at: '2016-06-10T17:57:58Z'
   watchers: 9
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
