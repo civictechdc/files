@@ -38,13 +38,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 49
         }
     ], 
     "other": [
         {
             "created": 1466797097000, 
-            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Alex\u00a0Zbarcea - \u00a0Spectrum Systems<br/>* Antoinette Janus - Typical Agency<br/>* TBA</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Alex\u00a0Zbarcea - \u00a0Spectrum Systems<br/>* Alison Rowland - Department of Commerce<br/>* Antoinette Janus - Typical Agency\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/232139209/", 
             "group": {
                 "created": 1347647025000, 
@@ -62,7 +62,7 @@ calendar({
             "name": "DC API User Group - July Edition", 
             "status": "upcoming", 
             "time": 1467756000000, 
-            "updated": 1467060347000, 
+            "updated": 1467380366000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1459265642000, 
@@ -106,7 +106,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1452612310000, 
@@ -133,7 +133,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1465589104000, 
@@ -175,7 +175,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1326383071000, 
@@ -214,7 +214,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 48
+        }, 
+        {
+            "created": 1467383574000, 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This week Valerie Woolard will be giving a primer on Big-O notation and computational complexity. We'll talk about what big-O means, and how to analyze the complexity of algorithms. You can follow along with the lesson here:\u00a0<a href=\"https://github.com/valeriecodes/big-o-review\" class=\"linkified\">https://github.com/valeriecodes/big-o-review</a></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232303748/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "232303748", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1468276200000, 
+            "updated": 1467383574000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1005 7th St NW, Suite 100", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24427130, 
+                "lat": 38.903229000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.021629000000004, 
+                "name": "Contactually", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1460389774000, 
@@ -279,7 +319,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1459265642000, 
@@ -335,7 +375,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1417881835000, 
@@ -472,7 +512,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1446220217000, 
@@ -594,7 +634,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1457035701000, 
@@ -634,7 +674,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1466454487000, 
@@ -860,7 +900,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1459265642000, 
@@ -1001,32 +1041,30 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbvb/", 
+            "created": 1467374992000, 
+            "description": "<p>Reminders:\u00a0<br/>- You MUST register on\u00a0Eventbrite\u00a0to attend<br/>- We are in the planning stages so information is preliminary</p> <p>Join us for the Web User Experience Mini-Conference!</p> <p>Five hours of web user experience presentations, discussions and networking.\u00a0</p> <p>The mini-conference is focused on websites, web apps and mobile web.</p> <p>Topics include website usability testing for desktop and mobile, understanding personas and user journeys, make plans for improving UX challenges, as well as discussions around web apps and how to maintain positive user interactions as they move from website to application.\u00a0</p> <p><br/>4pm - Registration and Networking<br/>4:30 - Session 1<br/>5:30 - Networking Break and Light Dinner<br/>6:00 - Session 2<br/>7:00 - Networking Break Over Cocktails<br/>7:30 - Session 3<br/>8:30 - Networking Over Coffee and Dessert</p> <p>We are seeking speakers on the following topic areas, although you are welcome to suggest alternate topics.</p> <p><br/>- Usability Testing<br/>- Mobile/Responsive Testing<br/>- Agile UX<br/>- Where to Start With a Broken Web UX<br/>- Writing Personas<br/>- User Journeys<br/>- Building wireframes, mockups, prototypes, etc.<br/>- Design a Better Navigation</p> <p><br/>Note that\u00a0content strategy will be addressed in a future mini-conference.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
             "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
                 "group_lon": -77.040000915527344, 
-                "id": 13508462, 
+                "id": 685061, 
                 "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
             }, 
             "headcount": 0, 
-            "id": "pjkzrlyvlbvb", 
+            "id": "232301329", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
+            "name": "Mini-Conference: Web User Experience", 
             "status": "upcoming", 
-            "time": 1471386600000, 
-            "updated": 1459265764000, 
+            "time": 1471982400000, 
+            "updated": 1467376209000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1465422954000, 
@@ -1065,7 +1103,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1326383071000, 
