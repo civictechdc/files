@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }
     ], 
     "other": [
@@ -254,7 +254,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1460389774000, 
@@ -319,7 +319,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1459265642000, 
@@ -375,7 +375,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1417881835000, 
@@ -415,7 +415,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1457965726000, 
@@ -986,6 +986,45 @@
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1467374992000, 
+            "description": "<p>Reminders:\u00a0<br/>- You MUST register on\u00a0<a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>\u00a0to attend<br/>- We are in the planning stages so all information is preliminary</p> <p>Join us for the Web User Experience Mini-Conference!</p> <p>Five hours of web user experience presentations, discussions and networking.\u00a0</p> <p>The mini-conference is focused on websites, web apps and mobile web.</p> <p>Topics include website usability testing for desktop and mobile, understanding personas and user journeys, make plans for improving UX challenges, as well as discussions around web apps and how to maintain positive user interactions as they move from website to application.\u00a0</p> <p><br/>4pm - Registration and Networking<br/>4:30 - Session 1<br/>5:30 - Networking Break and Light Dinner<br/>6:00 - Session 2<br/>7:00 - Networking Break Over Cocktails<br/>7:30 - Session 3<br/>8:30 - Networking Over Coffee and Dessert</p> <p>We are seeking speakers on the following topic areas, although you are welcome to suggest alternate topics.</p> <p><br/>- Usability Testing<br/>- Mobile/Responsive Testing<br/>- Agile UX<br/>- Where to Start With a Broken Web UX<br/>- Writing Personas<br/>- User Journeys<br/>- Building wireframes, mockups, prototypes, etc.<br/>- Design a Better Navigation</p> <p><br/>Note that\u00a0content strategy will be addressed in a future mini-conference.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "232301329", 
+            "maybe_rsvp_count": 0, 
+            "name": "Mini-Conference: Web User Experience", 
+            "status": "upcoming", 
+            "time": 1470945600000, 
+            "updated": 1467396811000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1401 I Street, NW, Suite 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 2316151, 
+                "lat": 38.901665000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.032416999999995, 
+                "name": "The Creative Group", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20533"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1457965726000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 612000000, 
@@ -1041,32 +1080,6 @@
             "yes_rsvp_count": 3
         }, 
         {
-            "created": 1467374992000, 
-            "description": "<p>Reminders:\u00a0<br/>- You MUST register on\u00a0Eventbrite\u00a0to attend<br/>- We are in the planning stages so information is preliminary</p> <p>Join us for the Web User Experience Mini-Conference!</p> <p>Five hours of web user experience presentations, discussions and networking.\u00a0</p> <p>The mini-conference is focused on websites, web apps and mobile web.</p> <p>Topics include website usability testing for desktop and mobile, understanding personas and user journeys, make plans for improving UX challenges, as well as discussions around web apps and how to maintain positive user interactions as they move from website to application.\u00a0</p> <p><br/>4pm - Registration and Networking<br/>4:30 - Session 1<br/>5:30 - Networking Break and Light Dinner<br/>6:00 - Session 2<br/>7:00 - Networking Break Over Cocktails<br/>7:30 - Session 3<br/>8:30 - Networking Over Coffee and Dessert</p> <p>We are seeking speakers on the following topic areas, although you are welcome to suggest alternate topics.</p> <p><br/>- Usability Testing<br/>- Mobile/Responsive Testing<br/>- Agile UX<br/>- Where to Start With a Broken Web UX<br/>- Writing Personas<br/>- User Journeys<br/>- Building wireframes, mockups, prototypes, etc.<br/>- Design a Better Navigation</p> <p><br/>Note that\u00a0content strategy will be addressed in a future mini-conference.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "232301329", 
-            "maybe_rsvp_count": 0, 
-            "name": "Mini-Conference: Web User Experience", 
-            "status": "upcoming", 
-            "time": 1471982400000, 
-            "updated": 1467376209000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1465422954000, 
             "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
@@ -1103,7 +1116,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1326383071000, 
