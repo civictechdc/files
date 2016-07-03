@@ -94,8 +94,8 @@
   updated_at: '2016-06-04T19:04:35Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 2, 0]
+    0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    3, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: contactus@ancfinder.org, name: ANC Finder, url: 'https://twitter.com/@ancfinder'}
@@ -259,7 +259,7 @@
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
 - activity: [20, 1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11,
-    1, 6, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 0, 5, 1, 0, 13,
+    3, 4, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 3, 2, 1, 8, 5,
     0, 0, 3]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -643,9 +643,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 3, 5, 4, 6, 0, 0, 0, 2, 4, 1, 0, 14,
-    4, 6, 0, 2, 20, 0, 2, 0, 0, 4, 22, 24, 56, 10, 6, 74, 2, 20, 14, 2, 14, 37, 2,
-    12, 2, 4, 3, 8, 2]
+- activity: [0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0, 2, 4, 1, 0, 14,
+    4, 6, 0, 2, 20, 0, 2, 0, 0, 4, 22, 38, 42, 10, 8, 72, 2, 20, 14, 2, 20, 31, 2,
+    13, 1, 4, 5, 6, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1113,9 +1113,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [21, 14, 6, 15, 0, 3, 4, 6, 0, 9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0, 0,
-    0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 14, 122, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
-    0, 0, 0, 0, 0]
+- activity: [24, 11, 6, 15, 0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0,
+    0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 32, 104, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4,
+    0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1467,7 +1467,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 741,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 756,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1525,20 +1525,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 123510]
+  - [Ruby, 123917]
   - [HTML, 63238]
-  - [CSS, 26986]
+  - [CSS, 26871]
   - [CoffeeScript, 1543]
   - [JavaScript, 1471]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 87
+  open_issues: 80
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-07-02T20:29:22Z'
+  pushed_at: '2016-07-03T05:21:09Z'
   short_name: dcaf_case_management
-  size: 10119
+  size: 10096
   updated_at: '2016-06-10T17:57:58Z'
   watchers: 9
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
