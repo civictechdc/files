@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 62
         }
     ], 
     "other": [
@@ -214,7 +214,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1467383574000, 
@@ -254,7 +254,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1460389774000, 
@@ -319,7 +319,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1459265642000, 
@@ -512,7 +512,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1446220217000, 
@@ -682,8 +682,8 @@ calendar({
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
+                "group_lat": 45.520000457763672, 
+                "group_lon": -122.66999816894531, 
                 "id": 11092702, 
                 "join_mode": "open", 
                 "name": "Transportation Techies", 
@@ -1085,8 +1085,8 @@ calendar({
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
+                "group_lat": 45.520000457763672, 
+                "group_lon": -122.66999816894531, 
                 "id": 11092702, 
                 "join_mode": "open", 
                 "name": "Transportation Techies", 

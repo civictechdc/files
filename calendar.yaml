@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 62
 other:
 - created: 1466797097000
   description: "<p>You know what goes great with the summer heat? \_Air conditioning,\
@@ -195,7 +195,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1467383574000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This\
@@ -223,7 +223,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -300,7 +300,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -547,7 +547,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 101
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -763,7 +763,7 @@ other:
     \ works.</p> <p><br/>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\
     \ for updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/232037344/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
+  group: {created: 1384372275000, group_lat: 45.520000457763672, group_lon: -122.66999816894531,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
@@ -1192,7 +1192,7 @@ other:
     Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation\
     \ Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231755172/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
+  group: {created: 1384372275000, group_lat: 45.520000457763672, group_lon: -122.66999816894531,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
