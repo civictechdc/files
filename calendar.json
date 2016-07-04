@@ -44,7 +44,7 @@
     "other": [
         {
             "created": 1466797097000, 
-            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Alex\u00a0Zbarcea - \u00a0Spectrum Systems<br/>* Alison Rowland - Department of Commerce<br/>* Antoinette Janus - Typical Agency\u00a0</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Alex\u00a0Zbarcea - \u00a0Spectrum Systems<br/>* Alison Rowland - Department of Commerce<br/>* Antoinette Janus - Typical Agency \u00a0<br/>* Tom Fuller - Coherent Logic</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/232139209/", 
             "group": {
                 "created": 1347647025000, 
@@ -62,7 +62,7 @@
             "name": "DC API User Group - July Edition", 
             "status": "upcoming", 
             "time": 1467756000000, 
-            "updated": 1467380366000, 
+            "updated": 1467648825000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -78,11 +78,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>\n\n\nThis Week: This week is beginners night stop by and we'll help you get set up an running. We will also have different levels of android tutorials to walk through as well. So regardless of your level get started or come with questions if you're stuck. See you then!!</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232105421/", 
             "group": {
@@ -96,14 +96,27 @@
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Conference Room 1", 
             "id": "pjkzrlyvkbhb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Android Lab: Beginners Night", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1467757800000, 
-            "updated": 1459265764000, 
+            "updated": 1467650493000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3160 16th Street Northwest, 2 blocks from Columbia Heights metro", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24589986, 
+                "lat": 38.928534999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.033225999999999, 
+                "name": "Mt. Pleasant Neighborhood Library", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 8
@@ -254,7 +267,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1460389774000, 
@@ -281,7 +294,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1466045993000, 
@@ -319,7 +332,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -512,7 +525,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1446220217000, 
@@ -678,7 +691,7 @@
         }, 
         {
             "created": 1466454487000, 
-            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0</p> <p>We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:05 with pizza and drinks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Doors open at 6:00; presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Thus far we have:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a> of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will show how the\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0app helps make biking safer.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana\u00a0McHugh,\u00a0Madeline Steele, and\u00a0Grant\u00a0Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0</p> <p>We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:00 with snacks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a> of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will show how the\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0app helps make biking safer.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana\u00a0McHugh,\u00a0Madeline Steele, and\u00a0Grant\u00a0Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
@@ -697,7 +710,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1470175200000, 
-            "updated": 1466875414000, 
+            "updated": 1467651514000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "921 SW 6th Ave", 
@@ -713,7 +726,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1459265642000, 
