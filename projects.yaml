@@ -643,9 +643,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 4, 6, 0, 0, 0, 2, 4, 1, 0, 14,
-    4, 6, 0, 2, 20, 0, 2, 0, 0, 4, 22, 38, 42, 10, 8, 72, 2, 20, 14, 2, 20, 31, 2,
-    13, 1, 4, 5, 6, 2]
+- activity: [0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 8, 2, 0, 0, 0, 2, 4, 1, 0, 14,
+    4, 6, 0, 2, 20, 0, 2, 0, 0, 4, 32, 56, 14, 12, 6, 74, 12, 8, 14, 2, 30, 21, 2,
+    14, 0, 5, 8, 2, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1113,9 +1113,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [24, 11, 6, 15, 0, 3, 4, 6, 0, 14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0,
-    0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 32, 104, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4,
-    0, 0, 0, 0, 0, 0]
+- activity: [26, 9, 6, 15, 0, 7, 0, 6, 0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0,
+    0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 33, 103, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
+    0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1467,7 +1467,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 766,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 770,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1519,14 +1519,14 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 35
+  forks: 36
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 123915]
-  - [HTML, 63252]
+  - [Ruby, 123959]
+  - [HTML, 63699]
   - [CSS, 26871]
   - [CoffeeScript, 1543]
   - [JavaScript, 1471]
@@ -1536,9 +1536,9 @@
   open_issues: 81
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-07-03T17:43:59Z'
+  pushed_at: '2016-07-04T06:18:58Z'
   short_name: dcaf_case_management
-  size: 10108
+  size: 10130
   updated_at: '2016-06-10T17:57:58Z'
   watchers: 9
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
