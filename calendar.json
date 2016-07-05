@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 68
         }
     ], 
     "other": [
@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1459265642000, 
@@ -119,7 +119,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1467665376000, 
@@ -151,7 +151,7 @@
         }, 
         {
             "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>\n\n\nPARKING<br/>The location has a parking garage that costs about $11.00 and neighborhood parking. \u00a0For the closest metro that would be the Ballston-MU metro stop on the orange/silver line.\u00a0</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231497037/", 
             "group": {
@@ -170,11 +170,22 @@
             "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1467844200000, 
-            "updated": 1458050849000, 
+            "updated": 1467738052000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1110 N Glebe Rd Ste 200", 
+                "city": "Arlington", 
+                "country": "US", 
+                "id": 23504645, 
+                "lat": 38.884166999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.116805999999997, 
+                "name": "Blackstone Technology Group", 
+                "repinned": false
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1465589104000, 
@@ -216,7 +227,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1326383071000, 
@@ -255,7 +266,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1467383574000, 
@@ -295,7 +306,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1460389774000, 
@@ -315,14 +326,14 @@
             "headcount": 0, 
             "id": "srrkslyvkbpb", 
             "maybe_rsvp_count": 0, 
-            "name": "Front End Lab", 
+            "name": "Front End Lab First Timer's Night", 
             "status": "upcoming", 
             "time": 1468276200000, 
-            "updated": 1463425090000, 
+            "updated": 1467736242000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1466045993000, 
@@ -429,7 +440,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1417881835000, 
@@ -469,7 +480,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1457965726000, 
@@ -566,7 +577,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1446220217000, 
@@ -732,7 +743,7 @@
         }, 
         {
             "created": 1466454487000, 
-            "description": "<p>Interested in open data, software, mapping, and transportation? Come join us in Portland! The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0</p> <p>We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0Doors open at 6:00 with snacks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a> of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will show how the\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0app helps make biking safer.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana\u00a0McHugh,\u00a0Madeline Steele, and\u00a0Grant\u00a0Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Hello, Portland! Interested in open data, software, mapping, and transportation? We're meeting in Portland for the first time, with a showcase of bike- and transit- projects made by Portland's coolest coders.\u00a0</p> <p>The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0</p> <p>Doors open at 6:00 with snacks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a> of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will show how the\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0app helps make biking safer.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana\u00a0McHugh,\u00a0Madeline Steele, and\u00a0Grant\u00a0Humphries give us a look inside <a href=\"http://trimet.org/\">Trimet</a>'s IT operations.</p> <p><br/>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
@@ -751,7 +762,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1470175200000, 
-            "updated": 1467651514000, 
+            "updated": 1467732737000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "921 SW 6th Ave", 
@@ -767,7 +778,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1459265642000, 
@@ -1143,7 +1154,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1326383071000, 
