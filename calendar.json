@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 62
         }
     ], 
     "other": [
@@ -78,7 +78,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1459265642000, 
@@ -119,7 +119,35 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1467665376000, 
+            "description": "<p><b><i>Due to the holiday weekend, this meetup has been canceled for July 6th</i></b></p> <p>\n\n\nWe're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232373846/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "232373846", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Lab- No Meetup - July 6th(Canceled)", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1467844200000, 
+            "updated": 1467665376000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 0
         }, 
         {
             "created": 1452612310000, 
@@ -188,11 +216,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>So it's GEODC's 5 year Birthday. (ok. ok... technically it happened June 28\u00a02011.)\u00a0</p> <p>We'll be celebrating with a 5-year review... and our FIRST EVER GEO-TRIVIA.\u00a0</p> <p>CELEBRATE GOOD TIMES COME ON!\u00a0</p> <p>So if you know who invoked the first law of geography, what George Washington's side job was, and who made the first map - well. you're on your way to round two\u00a0</p> <p>If you can recite the difference between raster and vector data, identify all of the extensions in a shapefile, and identify 3 geo-relevant programming languages. You may advance to the next round.\u00a0</p> <p>If you can identify the capital of Mozambique, tell us the longest river in Europe, and pick which is the newest country - you may get a special prize.\u00a0</p> <p>If you can narrow down a location from an image... well - you may be in the running for the epic GRAND PRIZE. (yes. it involves gold. and glitter. and globes.)\u00a0</p> <p>If none of that sounds familiar - but you love all things maps! come anyway! and you'll walk away with more trivia answers than you had before!\u00a0</p> <p>Join us at Local16 for GeoDC's 5th Birthday! Some Trivia. Some Prizes. And some general geo-hijinks.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/229297471/", 
             "group": {
                 "created": 1307975249000, 
@@ -208,10 +236,10 @@
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcyvkbjb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "HAPPY BIRTHDAY GEO DC! Trivia Style!", 
             "status": "upcoming", 
             "time": 1467846000000, 
-            "updated": 1446214010000, 
+            "updated": 1467672967000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -227,7 +255,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1467383574000, 
@@ -267,7 +295,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1460389774000, 
@@ -294,7 +322,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1466045993000, 
@@ -378,17 +406,30 @@
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Farragut North Metro Station", 
             "id": "qqscvlyvkbrb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
+            "name": "Python Lab- Beginners Night", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1468449000000, 
-            "updated": 1465420567000, 
+            "updated": 1467665264000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th St. NW Ste 650", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1417881835000, 
@@ -428,7 +469,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1457965726000, 
@@ -456,7 +497,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1459265642000, 
@@ -581,7 +622,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
@@ -913,7 +954,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1459265642000, 
@@ -1060,33 +1101,6 @@
             "status": "upcoming", 
             "time": 1471300200000, 
             "updated": 1457965726000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1465845757000, 
-            "description": "<p>Women Who Code is partnering with Technical.ly this August for Super Meetup. Join us at WeWork's Manhattan Laundry location (opening soon!) for free drinks and snacks to celebrate the meetup community in DC (and recruit new members!) Please RSVP here &gt;&gt; <a href=\"http://www.meetup.com/Technically-DC/events/231194010/\">Super Meetup 2016</a></p> <p><br/>\u00a0\n------</p> <p>Details on Super Meetup:</p> <p><br/>Come have a free beer, grab a snack and get to know one another at Super Meetup!\u00a0</p> <p>Super Meetup is a gathering of the most-connected members of the local tech, startup, and entrepreneurial scene. It\u2019s a chance to make new friends and learn more about local tech and entrepreneurial resources and tech-focused meetup groups.</p> <p>The idea of the Super Meetup is simple: meetups are integral to any tech scene. Every now and then, it makes sense to rally the leaders of tech-related meetups in town and gather for one big mixer. The idea is to connect people with groups they may not have otherwise known about.</p> <p>There are dozens of active user groups in DC, but we don't often enough come together to make sure we know each other, know which groups are still active, what groups are doing, and where there is room for collaboration.</p> <p>#SuperMeetup16</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231867765/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "231867765", 
-            "maybe_rsvp_count": 0, 
-            "name": "Super Meetup with Technical.ly DC", 
-            "status": "upcoming", 
-            "time": 1471384800000, 
-            "updated": 1465845757000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
