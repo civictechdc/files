@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 64
 other:
 - created: 1466797097000
   description: "<p>You know what goes great with the summer heat? \_Air conditioning,\
@@ -67,7 +67,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 80
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -109,7 +109,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1467665376000
   description: "<p><b><i>Due to the holiday weekend, this meetup has been canceled\
     \ for July 6th</i></b></p> <p>\n\n\nWe're a group of women who want to learn and\
@@ -180,7 +180,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 22
 - created: 1465589104000
   description: "<p>Join DC Legal Hackers at Smoke &amp; Barrel on July 6th to mingle\
     \ with lawyers, technologists, and tech policy gurus over (vegan) wings!\_</p>\
@@ -216,7 +216,7 @@ other:
     name: Smoke & Barrel, phone: 202.319.9353, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 49
 - created: 1326383071000
   description: "<p>So it's GEODC's 5 year Birthday. (ok. ok... technically it happened\
     \ June 28\_2011.)\_</p> <p>We'll be celebrating with a 5-year review... and our\
@@ -251,7 +251,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 67
 - created: 1467383574000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This\
@@ -321,7 +321,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1466045993000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -412,14 +412,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1468449000000
-  updated: 1467665264000
+  updated: 1467681570000
   utc_offset: -14400000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -441,7 +441,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -743,7 +743,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -841,7 +841,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -900,7 +900,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1117,23 +1117,44 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1467374992000
-  description: "<p>Reminders:\_<br/>- You MUST register on\_<a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
-    >Eventbrite</a>\_to attend<br/>- We are in the planning stages so all information\
-    \ is preliminary</p> <p>Join us for the Web User Experience Mini-Conference!</p>\
-    \ <p>Five hours of web user experience presentations, discussions and networking.\_\
-    </p> <p>The mini-conference is focused on websites, web apps and mobile web.</p>\
-    \ <p>Topics include website usability testing for desktop and mobile, understanding\
-    \ personas and user journeys, make plans for improving UX challenges, as well\
-    \ as discussions around web apps and how to maintain positive user interactions\
-    \ as they move from website to application.\_</p> <p><br/>4pm - Registration and\
-    \ Networking<br/>4:30 - Session 1<br/>5:30 - Networking Break and Light Dinner<br/>6:00\
-    \ - Session 2<br/>7:00 - Networking Break Over Cocktails<br/>7:30 - Session 3<br/>8:30\
-    \ - Networking Over Coffee and Dessert</p> <p>We are seeking speakers on the following\
-    \ topic areas, although you are welcome to suggest alternate topics.</p> <p><br/>-\
-    \ Usability Testing<br/>- Mobile/Responsive Testing<br/>- Agile UX<br/>- Where\
-    \ to Start With a Broken Web UX<br/>- Writing Personas<br/>- User Journeys<br/>-\
-    \ Building wireframes, mockups, prototypes, etc.<br/>- Design a Better Navigation</p>\
-    \ <p><br/>Note that\_content strategy will be addressed in a future mini-conference.</p>"
+  description: "<p>Reminder:\_ - You MUST register on\_<a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
+    >Eventbrite</a>\_to attend</p> <p><br/>Note: Limited to 40 attendees. Tickets\
+    \ are released in tiers. Save $10-35 by registering early, which also helps with\
+    \ planning the speaker list.\_</p> <p><br/><b>The Web User Experience Mini-Conference</b></p>\
+    \ <p><b>Five hours of web user experience presentations, discussions and networking!</b></p>\
+    \ <p>Topics include identifying and understanding your website users, measuring\
+    \ and testing the usability of your website and incorporating\_UX design into\
+    \ your website update and tuning process.</p> <p>The content side of UX will be\
+    \ more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\"\
+    >Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>Agenda</b></p> <p>4:00\
+    \ - Registration and Networking\_<br/>4:30 - Session\_1:\_Users<br/>5:30 - Networking\
+    \ and Light Dinner\_<br/>6:00 - Session 2:\_Usability<br/>7:00 - Networking Over\
+    \ Cocktails\_<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking\
+    \ Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>These\
+    \ are guiding topic descriptions.\_</p> <p><i>Session\_1:\_Users<br/></i>Identifying\
+    \ and understanding your website users including personas and user journeys.</p>\
+    \ <p><i>Session 2:\_Usability<br/></i>Measuring and testing the usability of your\
+    \ website.</p> <p><i>Session 3:\_Planning &amp; Tuning<br/></i>Incorporating UX\
+    \ into your website update and tuning process. Concepts &amp; tools such as agile\
+    \ UX and wireframes/mockups/prototypes.</p> <p><b>Speakers</b></p> <p>The speaker\
+    \ list will be posted in mid-July.</p> <p><i>We are seeking speakers for following\
+    \ topic areas.</i></p> <p>For more information, email [masked].\_Please include\
+    \ your topic idea/ideas and background.</p> <p><b><i>Ideal talks</i></b><br/>1)\
+    \ Meet one of these criteria:<br/>\_ - gives new information or shows an innovative\
+    \ approach to established techniques<br/>\_ - presents a thought provoking or\
+    \ intriguing idea in an actionable context (i.e. inclusive design as a theory\
+    \ and how to put it in practice)<br/>\_ - applies complex technique in a way that\
+    \ is relevant to a range\_<br/>2) Focus on website users &amp; UX, with responsive/mobile\
+    \ also being relevant.<br/>3) Speaks to our core audiences: web managers, front-end\
+    \ devs, designers, usability &amp; content strategists, etc.<br/>4) Relates to\
+    \ one of the topic areas below.</p> <p><b>Topic Areas<br/></b>You are welcome\
+    \ to suggest alternate topics. Be aware we only have 2-3 slots available and need\
+    \ to cover a range of material.</p> <p>- Usability Testing (web, mobile &amp;\
+    \ responsive)<br/>- Where to Start: broken user experiences\_<br/>- Agile UX &amp;\
+    \ Managing UX Processes<br/>- User Journeys, Personas, etc<br/>- Building wireframes,\
+    \ mockups, prototypes, etc.\_<br/>- Design a Better Navigation\_</p> <p>Note that\_\
+    content strategy will be addressed in a future mini-conference.</p> <p>For more\
+    \ information, email [masked]. Please include your topic idea/ideas and background.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/232301329/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1141,10 +1162,10 @@ other:
   headcount: 0
   id: '232301329'
   maybe_rsvp_count: 0
-  name: 'Mini-Conference: Web User Experience'
+  name: 'MavenMini: Web User Experience'
   status: upcoming
   time: 1470945600000
-  updated: 1467396811000
+  updated: 1467707449000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -1310,6 +1331,55 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1467704208000
+  description: "<p>(We are in the planning stages so information is preliminary)</p>\
+    \ <p>Registration is through\_<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
+    >Eventbrite</a></p> <p><br/>Note: This event is limited to 45 attendees.\_</p>\
+    \ <p><b>== MavenMini: Association Web Mini-Conference ==</b></p> <p><b>Five hours\
+    \ of presentations, discussions and networking focused on association websites\
+    \ and digital properties.</b></p> <p>Our first MavenMini is August 11th on\_<a\
+    \ href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\"\
+    >Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and\
+    \ Networking\_<br/>4:30 - Session\_1:\_Websites<br/>5:30 - Networking and Light\
+    \ Dinner\_<br/>6:00 - Session 2: Digital Marketing<br/>7:00 - Networking Over\
+    \ Cocktails\_<br/>7:30 - Session 3: Tools &amp; Management<br/>8:30 - Networking\
+    \ Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p><i>Call\
+    \ for Speakers: </i>We are looking for presentations that present new information,\
+    \ a unique approach, a detailed overview of a complex element, etc. See below\
+    \ for more information.</p> <p>These are guiding topic descriptions -\_in draft\
+    \ form - and are not complete lists.</p> <p><i>Session\_1:\_Websites </i><br/>Redesigns,\
+    \ website tuning, responsive design</p> <p><i>Session 2:\_Digital Marketing<br/></i>Newsletters,\
+    \ email marketing, integrated communications, advocacy, calls-to-action.</p> <p><i>Session\
+    \ 3: Tools &amp; Site Management </i><br/>Integrating external tools with web\
+    \ properties (AMS, eLearning, etc), website management and governance</p> <p><b>Call\
+    \ for Speakers</b></p> <p>Note: We are particularly interested in association\
+    \ staff presenters.\_</p> <p>Talks should meet one of these criteria:\_</p> <p><br/>\_\
+    \ - Gives new information or shows an innovative approach to established techniques<br/>\_\
+    \ - Presents a thought provoking or intriguing idea in an actionable context (i.e.\
+    \ inclusive design as a theory and how to put it in practice)<br/>\_ - Applies\
+    \ complex technique to a range applications</p> <p>Talks should also speak to\
+    \ our core audiences: web managers, front-end devs, designers, usability &amp;\
+    \ content strategists, etc.</p> <p><b><i>Topic Areas</i></b></p> <p>Coming soon.\
+    \ Feel free to suggest something.</p> <p>For more information, email [masked].\
+    \ Please include your topic idea/ideas and background.</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/232383194/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '232383194'
+  maybe_rsvp_count: 0
+  name: 'MavenMini: Association Web'
+  status: upcoming
+  time: 1473969600000
+  updated: 1467707564000
+  utc_offset: -14400000
+  venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
+    id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
+    name: The Creative Group, repinned: false, state: DC, zip: '20533'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1382,6 +1452,60 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1467700232000
+  description: "<p>(We are in the planning stages so information is preliminary)</p>\
+    \ <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
+    >Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in\
+    \ tiers. Save $10-35 by registering early, which also helps with planning the\
+    \ speaker list.\_</p> <p><b>== MavenMini: Content Strategy &amp; Content Management\
+    \ Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management\
+    \ and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini\
+    \ is August 11th on\_<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\"\
+    >Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and\
+    \ Networking\_<br/>4:30 - Session\_1:\_Content Organization<br/>5:30 - Networking\
+    \ and Light Dinner\_<br/>6:00 - Session 2: Content Display\_<br/>7:00 - Networking\
+    \ Over Cocktails\_<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking\
+    \ Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We\
+    \ are looking for presentations on these topics that present new information,\
+    \ a unique approach, a detailed overview of a complex element, etc. See below\
+    \ for more information.</p> <p>These are guiding topic descriptions -\_in draft\
+    \ form.</p> <p><i>Session\_1:\_Content Organization<br/></i>Taxonomy, Information\
+    \ Architecture, Navigation</p> <p><i>Session 2:\_Content Display<br/></i>Responsive\
+    \ content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3:\
+    \ Planning &amp; Tuning<br/></i>Content Management and Content Management Systems.\
+    \ Governance.</p> <p>Note: If possible, we'll add a section on content creation,\
+    \ including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list\
+    \ will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p>\
+    \ <p>Talks should meet one of these criteria:\_<br/>\_ - Gives new information\
+    \ or shows an innovative approach to established techniques\_<br/>\_ - Presents\
+    \ a thought provoking or intriguing idea in an actionable context (i.e. inclusive\
+    \ design as a theory and how to put it in practice)\_<br/>\_ - Applies complex\
+    \ technique to a range applications</p> <p>Talks should also speak to our core\
+    \ audiences: web managers, front-end devs, designers, usability &amp; content\
+    \ strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are\
+    \ welcome to suggest alternate topics.\_</p> <p>- Taxonomy, tagging<br/>-\_Navigation\
+    \ &amp; IA<br/>-\_Responsive content<br/>-\_Mobile content<br/>-\_Integrated &amp;\
+    \ multi-channel content approaches<br/>- Web\_CMS - selecting, working with, integrating<br/>-\_\
+    Content management, content governance - techniques</p> <p>For more information,\
+    \ email [masked]. Please include your topic idea/ideas and background.</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/232382584/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '232382584'
+  maybe_rsvp_count: 0
+  name: 'MavenMini: Content Strategy & Content Management'
+  status: upcoming
+  time: 1476388800000
+  updated: 1467707620000
+  utc_offset: -14400000
+  venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
+    id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
+    name: The Creative Group, repinned: false, state: DC, zip: '20533'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1764,6 +1888,47 @@ other:
   name: Monthly Meetup
   status: upcoming
   time: 1496876400000
+  updated: 1446214010000
+  utc_offset: -14400000
+  venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
+    localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1417881835000
+  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
+    /></p>
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywkbhb/
+  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
+    who: Data Wranglers}
+  headcount: 0
+  id: hffzclywkbhb
+  maybe_rsvp_count: 0
+  name: January Meetup
+  status: upcoming
+  time: 1499293800000
+  updated: 1417881835000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1326383071000
+  description: <p>On the first Wednesday of the month, we'll gather to socialize,
+    network, and hear about the work people are doing with maps, GIS, geodata, and
+    more.</p>
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywkbhb/
+  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
+    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
+  headcount: 0
+  how_to_find_us: Upstairs bar
+  id: dlcllcywkbhb
+  maybe_rsvp_count: 0
+  name: Monthly Meetup
+  status: upcoming
+  time: 1499295600000
   updated: 1446214010000
   utc_offset: -14400000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,

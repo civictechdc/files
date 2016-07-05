@@ -643,9 +643,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [0, 0, 0, 3, 0, 4, 2, 3, 0, 7, 2, 7, 1, 8, 2, 0, 0, 0, 2, 4, 1, 0, 14,
-    4, 6, 0, 2, 20, 0, 2, 0, 0, 4, 32, 56, 14, 12, 6, 74, 12, 8, 14, 2, 30, 21, 2,
-    14, 0, 5, 8, 2, 2]
+- activity: [0, 0, 0, 3, 0, 6, 0, 3, 2, 5, 2, 7, 3, 6, 2, 0, 0, 1, 1, 4, 1, 4, 10,
+    8, 2, 0, 2, 20, 2, 0, 0, 0, 6, 36, 64, 2, 12, 14, 64, 16, 8, 10, 2, 30, 22, 4,
+    11, 0, 5, 10, 0, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1113,9 +1113,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [26, 9, 6, 15, 0, 7, 0, 6, 0, 42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0,
-    0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 0, 33, 103, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
-    0, 0, 0, 0, 0]
+- activity: [27, 10, 4, 15, 0, 7, 0, 6, 0, 70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0,
+    0, 0, 0, 2, 0, 0, 0, 0, 1, 1, 0, 0, 108, 28, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4,
+    0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1535,7 +1535,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 81
+  open_issues: 80
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-07-04T16:53:37Z'
@@ -1548,8 +1548,10 @@
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
-  contributors: []
-  contributors_count: 0
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/505429?v=3', contributions: 1,
+    link: 'https://github.com/dgreisen', name: dgreisen}
+  contributors_count: 1
   created_at: '2015-12-08T00:12:34Z'
   default_branch: master
   description: ''
@@ -1565,9 +1567,9 @@
   open_issues: 6
   owner: {avatar: 'https://avatars.githubusercontent.com/u/4590660?v=3', name: DCCouncil,
     type: Organization, url: 'https://github.com/DCCouncil'}
-  pushed_at: '2016-02-01T04:42:52Z'
+  pushed_at: '2016-07-05T01:51:48Z'
   short_name: dc-law
-  size: 30
+  size: 31
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4,
@@ -1629,9 +1631,9 @@
   open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-07-02T15:39:25Z'
+  pushed_at: '2016-07-05T01:58:54Z'
   short_name: school-modernization
-  size: 18193
+  size: 18215
   updated_at: '2016-05-13T12:52:54Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1,
