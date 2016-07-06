@@ -38,89 +38,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }
     ], 
     "other": [
-        {
-            "created": 1466797097000, 
-            "description": "<p>You know what goes great with the summer heat? \u00a0Air conditioning, refreshing drinks, and good conversation about APIs. \u00a0</p> <p>I know some of you may still be traveling after the holiday weekend, but if you're around, go ahead and mark your calendars for the first Tuesday of the month and head on over to Chief for interesting presentations and good company. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Alex\u00a0Zbarcea - \u00a0Spectrum Systems<br/>* Alison Rowland - Department of Commerce<br/>* Antoinette Janus - Typical Agency \u00a0<br/>* Tom Fuller - Coherent Logic</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/232139209/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "232139209", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - July Edition", 
-            "status": "upcoming", 
-            "time": 1467756000000, 
-            "updated": 1467648825000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 88
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>\n\n\nThis Week: This week is beginners night stop by and we'll help you get set up an running. We will also have different levels of android tutorials to walk through as well. So regardless of your level get started or come with questions if you're stuck. See you then!!</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232105421/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Conference Room 1", 
-            "id": "pjkzrlyvkbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab: Beginners Night", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1467757800000, 
-            "updated": 1467650493000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "3160 16th Street Northwest, 2 blocks from Columbia Heights metro", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24589986, 
-                "lat": 38.928534999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.033225999999999, 
-                "name": "Mt. Pleasant Neighborhood Library", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
         {
             "created": 1467665376000, 
             "description": "<p><b><i>Due to the holiday weekend, this meetup has been canceled for July 6th</i></b></p> <p>\n\n\nWe're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -185,7 +106,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1465589104000, 
@@ -266,7 +187,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1467383574000, 
@@ -306,7 +227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1460389774000, 
@@ -333,7 +254,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1466045993000, 
@@ -371,11 +292,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>This week: Following up on the To Do List App we'll be diving deeper into layouts and demonstrating how to design a screen using the design view and text view Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231179171/", 
             "group": {
@@ -391,15 +312,15 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvkbqb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Android Lab:Deep Dive Android Layouts ", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1468362600000, 
-            "updated": 1459265764000, 
+            "updated": 1467802563000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1446220149000, 
@@ -440,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1417881835000, 
@@ -480,7 +401,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1457965726000, 
@@ -512,7 +433,7 @@ calendar({
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>This week: We will be focusing on building creating your own Activity file 8 in Java. We'll talk about Java and how it relates to Android.No experience necessary.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232295681/", 
             "group": {
@@ -528,11 +449,11 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvkbzb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Android Lab: Creating Activities ", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1468967400000, 
-            "updated": 1459265764000, 
+            "updated": 1467802805000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -577,7 +498,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1446220217000, 
@@ -699,7 +620,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457035701000, 
@@ -778,7 +699,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1459265642000, 
@@ -1118,8 +1039,35 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1465845757000, 
+            "description": "<p>Women Who Code is partnering with Technical.ly this August for Super Meetup. Join us at WeWork's Manhattan Laundry location (opening soon!) for free drinks and snacks to celebrate the meetup community in DC (and recruit new members!) Please RSVP here &gt;&gt; <a href=\"http://www.meetup.com/Technically-DC/events/231194010/\">Super Meetup 2016</a></p> <p><br/>\u00a0\n------</p> <p>Details on Super Meetup:</p> <p><br/>Come have a free beer, grab a snack and get to know one another at Super Meetup!\u00a0</p> <p>Super Meetup is a gathering of the most-connected members of the local tech, startup, and entrepreneurial scene. It\u2019s a chance to make new friends and learn more about local tech and entrepreneurial resources and tech-focused meetup groups.</p> <p>The idea of the Super Meetup is simple: meetups are integral to any tech scene. Every now and then, it makes sense to rally the leaders of tech-related meetups in town and gather for one big mixer. The idea is to connect people with groups they may not have otherwise known about.</p> <p>There are dozens of active user groups in DC, but we don't often enough come together to make sure we know each other, know which groups are still active, what groups are doing, and where there is room for collaboration.</p> <p>#SuperMeetup16</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231867765/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "231867765", 
+            "maybe_rsvp_count": 0, 
+            "name": "Super Meetup with Technical.ly DC", 
+            "status": "upcoming", 
+            "time": 1471384800000, 
+            "updated": 1465845757000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
@@ -1138,7 +1086,7 @@ calendar({
             "rsvp_limit": 300, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1467063324000, 
+            "updated": 1467783128000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
@@ -1154,7 +1102,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1326383071000, 
