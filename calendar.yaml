@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 72
 other:
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -120,7 +120,7 @@ other:
     name: Smoke & Barrel, phone: 202.319.9353, repinned: false, state: DC, zip: '20009'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1326383071000
   description: "<p>So it's GEODC's 5 year Birthday. (ok. ok... technically it happened\
     \ June 28\_2011.)\_</p> <p>We'll be celebrating with a 5-year review... and our\
@@ -155,7 +155,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 76
 - created: 1467383574000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This\
@@ -183,7 +183,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -225,7 +225,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1466045993000
   description: "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone\
     \ is looking forward to hearing about *your* cool hack. Presentation signups are\
@@ -330,7 +330,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -363,7 +363,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -385,7 +385,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 33
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -553,7 +553,75 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 117
+- created: 1467841459000
+  description: "<p>For our July Data Science DC Meetup, we are excited to have Abhijit\
+    \ Dasgupta\_join us to talk about meta-analysis - synthesizing direct and indirect\
+    \ effects of treatments, and some applications for big data analyses.</p> <p>----------------------------\_\
+    </p> <p><br/>Sponsored by <b>Statistics.com</b>\_-- Learn new skills in Data Science,\
+    \ Analytics, and Statistics!\_Four-week online courses at all levels, world-class\
+    \ instructors, private discussion boards.\_<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\"\
+    >Save 30% with code DSDC2016</a>\_-- starting soon: biostatistics, predictive\
+    \ modeling, clinical trials, epidemiology, Bayesian, R, Python.</p> <p>----------------------------</p>\
+    \ <p><b>Agenda:</b></p> <p>\u2022\_6:30pm -- Networking, Empanadas, and Refreshments</p>\
+    \ <p>\u2022\_7:00pm -- Introduction, Announcements</p> <p>\u2022\_7:15pm -- Presentation\
+    \ and Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (Tonic ,\_2036 G St NW)</p>\
+    \ <p><b>Abstract:</b></p> <p><b>Meta-analysis: Synthesizing direct and indirect\
+    \ effects of treatments, and some applications for big data analyses.</b></p>\
+    \ <p>Meta-analysis refers to the synthesis of results from several small but comparable\
+    \ studies to derive overall estimates of treatment effects that typically will\
+    \ be more robust and have higher statistical power. Classical meta-analysis involves\
+    \ studies looking at the same treatments to get an overall summary effect of one\
+    \ particular treatment effect. Network meta-analysis can be modeled to utilize\
+    \ indirect comparisons to compare the relative effectiveness of several different\
+    \ treatments of the same condition. In this presentation I will describe both\
+    \ classical and network meta-analysis, as well as the typical problems and biases\
+    \ one has to be aware of in doing meta-analyses. The computations and weighting\
+    \ schemes used in meta-analysis can have direct applications to implement a Divide-and-Conquer\
+    \ strategy so that modeling of large data sets can be done in chunks and the results\
+    \ combined to get valid results for the entire data set. I will describe an example\
+    \ from my experience in fitting competing risks models to a large administrative\
+    \ data set.</p> <p><b>Bio:</b></p> <p><br/><b>Abhijit Dasgupta</b></p> <p>Dr.\
+    \ Abhijit Dasgupta is a consulting statistician/data scientist in the Washington\
+    \ DC metropolis. He is fascinated by the innovative use of data analytic methods\
+    \ to gain insight and tell substantive stories, using modern methods for modeling,\
+    \ simulation and visualization.</p> <p>A PhD-level biostatistician by training,\
+    \ Dr. Dasgupta currently works to bridge the statistics-machine learning divide,\
+    \ by merging machine learning methods with sound statistical thinking and principles\
+    \ to help enhance our ability to derive intelligence from data. He now has over\
+    \ 50 peer-reviewed research and collaborative papers in areas ranging from bioinformatics,\
+    \ cancer research and operations research to methods for cluster analysis and\
+    \ intelligent robust modeling. He also consults for local startups doing bioengineering,\
+    \ business analytics and bioinformatics. Dr. Dasgupta also helps train companies\
+    \ in using R for their analytics needs, leveraging over 20 years experience using\
+    \ R and Python for data analyses and reporting.</p> <p>Dr. Dasgupta also works\
+    \ to build the local data community, organizing the Statistical Programming DC\
+    \ meet up and serving on the Board of Data Community DC.</p> <p><b>Sponsors:</b></p>\
+    \ <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\"\
+    >George Washington Business School MS in Business Analytics Program</a>,\_<a href=\"\
+    http://bit.ly/12YljkP\">Statistics.com</a>,\_<a href=\"http://datamininglab.com/\"\
+    >Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
+    >Booz Allen Hamilton</a>, and\_<a href=\"http://engineering.aol.com/\">AOL</a>.\_\
+    (Would your organization like to sponsor too? Please get in touch!)\_</p>"
+  event_url: http://www.meetup.com/Data-Science-DC/events/232427357/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '232427357'
+  maybe_rsvp_count: 0
+  name: 'Meta-analysis: Synthesizing direct and indirect effects of treatments'
+  rsvp_limit: 500
+  status: upcoming
+  time: 1469053800000
+  updated: 1467842558000
+  utc_offset: -14400000
+  venue: {address_1: 1957 E St NW, city: Washington, country: us, id: 11329012, lat: 38.896228999999998,
+    localized_country_name: USA, lon: -77.043960999999996, name: 'GWU, Elliott School,
+      Room 213', repinned: false, state: DC, zip: '20052'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 8
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -604,7 +672,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/vpdwvlyvkbbc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232427050/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -714,7 +782,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/vpdwvlyvkbkc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232427068/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -860,7 +928,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -982,7 +1050,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1136,15 +1204,15 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 2
 - created: 1467374992000
-  description: "<p>Reminder:\_ - You MUST register on\_<a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
-    >Eventbrite</a>\_to attend</p> <p><br/>Note: Limited to 40 attendees. Tickets\
-    \ are released in tiers. Save $10-35 by registering early, which also helps with\
-    \ planning the speaker list.\_</p> <p><br/><b>The Web User Experience Mini-Conference</b></p>\
-    \ <p><b>Five hours of web user experience presentations, discussions and networking!</b></p>\
-    \ <p>Topics include identifying and understanding your website users, measuring\
-    \ and testing the usability of your website and incorporating\_UX design into\
-    \ your website update and tuning process.</p> <p>The content side of UX will be\
-    \ more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\"\
+  description: "<p>Reminder: \_Registration is\_through\_<a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
+    >Eventbrite</a>\_only.</p> <p><br/>Limited to 40 attendees. Tickets are released\
+    \ in tiers. Save $10-35 by registering early, which also helps with planning topics\
+    \ and speakers.</p> <p><br/><b>== MavenMini :\_</b><b>Web User Experience Mini-Conference\
+    \ ==</b></p> <p><b>Five hours of web user experience presentations, discussions\
+    \ and networking!</b></p> <p>Topics include identifying and understanding your\
+    \ website users, measuring and testing the usability of your website and incorporating\_\
+    UX design into your website update and tuning process.</p> <p>The content side\
+    \ of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\"\
     >Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>Agenda</b></p> <p>4:00\
     \ - Registration and Networking\_<br/>4:30 - Session\_1:\_Users<br/>5:30 - Networking\
     \ and Light Dinner\_<br/>6:00 - Session 2:\_Usability<br/>7:00 - Networking Over\
@@ -1154,26 +1222,10 @@ other:
     \ and understanding your website users including personas and user journeys.</p>\
     \ <p><i>Session 2:\_Usability<br/></i>Measuring and testing the usability of your\
     \ website.</p> <p><i>Session 3:\_Planning &amp; Tuning<br/></i>Incorporating UX\
-    \ into your website update and tuning process. Concepts &amp; tools such as agile\
+    \ into your website update/tuning process. Concepts &amp; tools such as agile\
     \ UX and wireframes/mockups/prototypes.</p> <p><b>Speakers</b></p> <p>The speaker\
-    \ list will be posted in mid-July.</p> <p><i>We are seeking speakers for following\
-    \ topic areas.</i></p> <p>For more information, email [masked].\_Please include\
-    \ your topic idea/ideas and background.</p> <p><b><i>Ideal talks</i></b><br/>1)\
-    \ Meet one of these criteria:<br/>\_ - gives new information or shows an innovative\
-    \ approach to established techniques<br/>\_ - presents a thought provoking or\
-    \ intriguing idea in an actionable context (i.e. inclusive design as a theory\
-    \ and how to put it in practice)<br/>\_ - applies complex technique in a way that\
-    \ is relevant to a range\_<br/>2) Focus on website users &amp; UX, with responsive/mobile\
-    \ also being relevant.<br/>3) Speaks to our core audiences: web managers, front-end\
-    \ devs, designers, usability &amp; content strategists, etc.<br/>4) Relates to\
-    \ one of the topic areas below.</p> <p><b>Topic Areas<br/></b>You are welcome\
-    \ to suggest alternate topics. Be aware we only have 2-3 slots available and need\
-    \ to cover a range of material.</p> <p>- Usability Testing (web, mobile &amp;\
-    \ responsive)<br/>- Where to Start: broken user experiences\_<br/>- Agile UX &amp;\
-    \ Managing UX Processes<br/>- User Journeys, Personas, etc<br/>- Building wireframes,\
-    \ mockups, prototypes, etc.\_<br/>- Design a Better Navigation\_</p> <p>Note that\_\
-    content strategy will be addressed in a future mini-conference.</p> <p>For more\
-    \ information, email [masked]. Please include your topic idea/ideas and background.</p>"
+    \ list will be posted in mid-July.</p> <p><b>Sponsors</b></p> <p>Interested in\
+    \ sponsoring? Contact [masked] for more information.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/232301329/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1184,7 +1236,7 @@ other:
   name: 'MavenMini: Web User Experience'
   status: upcoming
   time: 1470945600000
-  updated: 1467707449000
+  updated: 1467834011000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -1483,6 +1535,64 @@ other:
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1467833256000
+  description: "<p>(We haven't finalized a date. You are welcome to register but be\
+    \ aware that are in the planning stages and information is preliminary)</p> <p>Registration\
+    \ is through\_<a href=\"https://www.eventbrite.com/e/mavenmini-nonprofit-web-tickets-26449911397\"\
+    >Eventbrite </a></p> <p><br/>Looking for the Association Web mini-conference?\
+    \ <a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
+    >Here</a></p> <p><b>== MavenMini: Nonprofit\_Web Mini-Conference ==</b></p> <p><b>Five\
+    \ hours of presentations, discussions and networking focused on both nonprofit\
+    \ websites and digital marketing, advocacy &amp; engagement tools<br/></b></p>\
+    \ <p>&gt; Meet your nonprofit peers and share stories over dinner, drinks and\
+    \ dessert.<br/>&gt; Listen to sessions focused on the specific needs and interests\
+    \ of nonprofits.<br/>&gt; Hear talks from other nonprofit leaders, from experts\
+    \ in nonprofits websites and from thought leaders.<br/>&gt; Follow-up with fellow\
+    \ attendees after the event.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and\
+    \ Networking\_<br/>4:30 - Session\_1:\_Websites<br/>5:30 - Networking and Light\
+    \ Dinner\_<br/>6:00 - Session 2: Digital Marketing, Advocacy and Engagement<br/>7:00\
+    \ - Networking Over Cocktails\_<br/>7:30 - Session 3: Tools and Integrated Marketing<br/>8:30\
+    \ - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Call for\
+    \ Speakers &amp; Topics</b></p> <p>We are looking for speakers on the topics below.</p>\
+    \ <p>We are interested in hearing from nonprofit staff. You do not need to be\
+    \ an experienced speaker!! This is a small conference and a great opportunity\
+    \ for you to get your feet wet with speaking to a group.</p> <p>Generally, talks\
+    \ range from 15-25 minutes and should include a slideshow or other visual presentation.</p>\
+    \ <p><i>\_<b>Criteria</b></i></p> <p>\_Talks should meet one of these criteria:</p>\
+    \ <p>- Gives new information or shows an innovative approach to established techniques<br/>-\
+    \ Presents a thought provoking or intriguing idea in an actionable context (i.e.\
+    \ inclusive design as a theory and how to put it in practice)<br/>- Applies complex\
+    \ technique to a range applications</p> <p>Talks should also speak to our core\
+    \ audiences: web managers, front-end devs, designers, usability &amp; content\
+    \ strategists, etc. We are specifically looking for nonprofit staff to participate.\
+    \ You do not need to be an experienced speaker.</p> <p><i><b>Topics</b></i></p>\
+    \ <p>These are just guiding topic descriptions - not intended to be exhaustive\
+    \ or literal.</p> <p><i>Session\_1:\_Websites<br/></i>Topics such as: redesigns,\
+    \ building community, conference sites, etc</p> <p><i>Session 2:\_Digital Marketing<br/></i>Topics\
+    \ such as newsletters, email marketing, integrated communications, advocacy, converting\
+    \ prospects, etc.</p> <p><i>Session 3: Tools &amp; CRM<br/></i>Topics such as\
+    \ integrating external tools with web properties (CRMs, etc), website management\
+    \ and governance, persuading leadership, etc.</p> <p>For more information on speaking,\
+    \ email [masked]. Please include a topic sentence (or topic idea/ideas) and a\
+    \ brief background. If you have several ideas/topics, share them all!</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/232424128/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '232424128'
+  maybe_rsvp_count: 0
+  name: 'MavenMini: Nonprofit Web [date TBD]'
+  status: upcoming
+  time: 1478116800000
+  updated: 1467833256000
+  utc_offset: -14400000
+  venue: {address_1: '1110 Vermont Avenue NW, Suite 500', city: Washington, country: us,
+    id: 19625362, lat: 38.904330999999999, localized_country_name: USA, lon: -77.033278999999993,
+    name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
