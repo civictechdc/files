@@ -103,6 +103,9 @@
     },
     {
         "Building Permit Index": "https://github.com/DCgov/permit-index"
+    },
+    {
+        "Rent Stabilization": "https://github.com/codefordc/rent-stabilization"
     }
 ],
 "meetups": [
