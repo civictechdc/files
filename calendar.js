@@ -1,11 +1,11 @@
 calendar({
     "codefordc": [
         {
-            "announced": true, 
-            "created": 1467084192000, 
-            "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
+            "announced": false, 
+            "created": 1467850116000, 
+            "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
             "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/232215812/", 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/232430889/", 
             "group": {
                 "created": 1375990708000, 
                 "group_lat": 38.909999847412109, 
@@ -17,150 +17,114 @@ calendar({
                 "who": "Civic Hackers"
             }, 
             "headcount": 0, 
-            "id": "232215812", 
+            "id": "232430889", 
             "maybe_rsvp_count": 0, 
             "name": "Civic Hacknight", 
             "status": "upcoming", 
-            "time": 1467844200000, 
-            "updated": 1467084192000, 
+            "time": 1468967400000, 
+            "updated": 1467850116000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "address_1": "641 S St NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24266346, 
-                "lat": 38.898567, 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
                 "localized_country_name": "USA", 
-                "lon": -77.031006000000005, 
-                "name": "Social Tables", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
                 "repinned": false, 
-                "state": "DC"
+                "state": "DC", 
+                "zip": "20001"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 3
+        }, 
+        {
+            "announced": false, 
+            "created": 1467850168000, 
+            "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
+            "duration": 9900000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/232430996/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "232430996", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1471386600000, 
+            "updated": 1467850168000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
+            "announced": false, 
+            "created": 1467850198000, 
+            "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
+            "duration": 9900000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/232431048/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "232431048", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1473805800000, 
+            "updated": 1467850198000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }
     ], 
     "other": [
-        {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>\n\n\nPARKING<br/>The location has a parking garage that costs about $11.00 and neighborhood parking. \u00a0For the closest metro that would be the Ballston-MU metro stop on the orange/silver line.\u00a0</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231497037/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "cjdtnlyvkbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Beginners Night!", 
-            "status": "upcoming", 
-            "time": 1467844200000, 
-            "updated": 1467738052000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1110 N Glebe Rd Ste 200", 
-                "city": "Arlington", 
-                "country": "US", 
-                "id": 23504645, 
-                "lat": 38.884166999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.116805999999997, 
-                "name": "Blackstone Technology Group", 
-                "repinned": false
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 22
-        }, 
-        {
-            "created": 1465589104000, 
-            "description": "<p>Join DC Legal Hackers at Smoke &amp; Barrel on July 6th to mingle with lawyers, technologists, and tech policy gurus over (vegan) wings!\u00a0</p> <p>We'll issue spot subjects for upcoming meetups and hackathons, including events about: patent data, government forms, VR, online harassment, and [insert your idea here]. We'll brainstorm while eating wings, which is also known as wingstorming. We'll chat about Oracle v. Google probably. If you're studying for the Bar Exam, carve out a few hours to de-stress at this bar event w/ other folks who are currently or have previously gone through it.\u00a0</p> <p>Please RSVP so we can estimate how many wings are needed.\u00a0</p> <p>We look forward to seeing you there! \ud83d\udcbb\u2696 \u00a0+\u00a0\ud83c\udf7b\ud83c\udf57</p> <p><i>DC Legal Hackers is the DC Chapter of a growing movement of<a href=\"https://legalinformatics.wordpress.com/2013/09/12/legal-hacking-technology-and-innovation-groups/\">\u00a0more than twenty</a>\u00a0legal hacking, technology, or innovation groups around the country.\u00a0A legal hacker is someone who cares about the intersection of law and technology and seeks to improve legal practice through technology while simultaneously using legal skills to promote technological innovation and exploration.</i></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/231804131/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Downstairs", 
-            "id": "231804131", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack Happy Hour & Wingstorm \ud83d\udcbb\u2696  + \ud83c\udf7b\ud83c\udf57", 
-            "status": "upcoming", 
-            "time": 1467846000000, 
-            "updated": 1465589440000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2471 18th Street, N.W.", 
-                "city": "Washington DC", 
-                "country": "us", 
-                "id": 4363482, 
-                "lat": 38.921931000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.042298000000002, 
-                "name": "Smoke & Barrel", 
-                "phone": "202.319.9353", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20009"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 53
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>So it's GEODC's 5 year Birthday. (ok. ok... technically it happened June 28\u00a02011.)\u00a0</p> <p>We'll be celebrating with a 5-year review... and our FIRST EVER GEO-TRIVIA.\u00a0</p> <p>CELEBRATE GOOD TIMES COME ON!\u00a0</p> <p>So if you know who invoked the first law of geography, what George Washington's side job was, and who made the first map - well. you're on your way to round two\u00a0</p> <p>If you can recite the difference between raster and vector data, identify all of the extensions in a shapefile, and identify 3 geo-relevant programming languages. You may advance to the next round.\u00a0</p> <p>If you can identify the capital of Mozambique, tell us the longest river in Europe, and pick which is the newest country - you may get a special prize.\u00a0</p> <p>If you can narrow down a location from an image... well - you may be in the running for the epic GRAND PRIZE. (yes. it involves gold. and glitter. and globes.)\u00a0</p> <p>If none of that sounds familiar - but you love all things maps! come anyway! and you'll walk away with more trivia answers than you had before!\u00a0</p> <p>Join us at Local16 for GeoDC's 5th Birthday! Some Trivia. Some Prizes. And some general geo-hijinks.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/229297471/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcyvkbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "HAPPY BIRTHDAY GEO DC! Trivia Style!", 
-            "status": "upcoming", 
-            "time": 1467846000000, 
-            "updated": 1467672967000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1602 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24181227, 
-                "lat": 38.916733000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.037186000000005, 
-                "name": "Local 16", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 76
-        }, 
         {
             "created": 1467383574000, 
             "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This week Valerie Woolard will be giving a primer on Big-O notation and computational complexity. We'll talk about what big-O means, and how to analyze the complexity of algorithms. You can follow along with the lesson here:\u00a0<a href=\"https://github.com/valeriecodes/big-o-review\" class=\"linkified\">https://github.com/valeriecodes/big-o-review</a></p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -199,7 +163,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1460389774000, 
@@ -264,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -292,7 +256,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1467817941000, 
@@ -510,7 +474,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1467841459000, 
@@ -550,7 +514,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446220217000, 
@@ -726,7 +690,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1457035701000, 
@@ -805,7 +769,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1459265642000, 
@@ -927,7 +891,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1460389774000, 
@@ -1051,6 +1015,33 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
+            "created": 1467817941000, 
+            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/vpdwvlyvlbnb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "vpdwvlyvlbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails Lab Night", 
+            "status": "upcoming", 
+            "time": 1470868200000, 
+            "updated": 1467817941000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
@@ -1079,7 +1070,7 @@ calendar({
         }, 
         {
             "created": 1467374992000, 
-            "description": "<p>Reminder: \u00a0Registration is\u00a0through\u00a0<a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>\u00a0only.</p> <p><br/>Limited to 40 attendees. Tickets are released in tiers. Save $10-35 by registering early, which also helps with planning topics and speakers.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>These are guiding topic descriptions.\u00a0</p> <p><i>Session\u00a01:\u00a0Users<br/></i>Identifying and understanding your website users including personas and user journeys.</p> <p><i>Session 2:\u00a0Usability<br/></i>Measuring and testing the usability of your website.</p> <p><i>Session 3:\u00a0Planning &amp; Tuning<br/></i>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes.</p> <p><b>Speakers</b></p> <p>The speaker list will be posted in mid-July.</p> <p><b>Sponsors</b></p> <p>Interested in sponsoring? Contact [masked] for more information.</p>", 
+            "description": "<p><b>Only 20 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers. Save $10-35 by registering early.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>These are guiding topic descriptions.\u00a0</p> <p><i>Session\u00a01:\u00a0Users<br/></i>Identifying and understanding your website users including personas and user journeys.</p> <p><i>Session 2:\u00a0Usability<br/></i>Measuring and testing the usability of your website.</p> <p><i>Session 3:\u00a0Planning &amp; Tuning<br/></i>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes.</p> <p><b>Speakers</b></p> <p>The speaker list will be posted in mid-July.</p> <p><b>Sponsors</b></p> <p>Interested in sponsoring? Contact [masked] for more information.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
             "group": {
                 "created": 1189804715000, 
@@ -1097,7 +1088,7 @@ calendar({
             "name": "MavenMini: Web User Experience", 
             "status": "upcoming", 
             "time": 1470945600000, 
-            "updated": 1467834011000, 
+            "updated": 1467857567000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -1114,7 +1105,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1465422954000, 
