@@ -5050,9 +5050,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-07-07T00:05:27Z", 
+        "pushed_at": "2016-07-08T12:23:13Z", 
         "short_name": "school-modernization", 
-        "size": 18339, 
+        "size": 18356, 
         "updated_at": "2016-05-13T12:52:54Z", 
         "watchers": 6
     }, 
@@ -5764,19 +5764,25 @@ projects([
                 "name": "nbanion"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8390111?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/snakonechny", 
+                "name": "snakonechny"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/11261788?v=3", 
                 "contributions": 3, 
                 "link": "https://github.com/mseew", 
                 "name": "mseew"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/8390111?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/snakonechny", 
-                "name": "snakonechny"
+                "avatar_url": "https://avatars.githubusercontent.com/u/12875730?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/ursulakaczmarek", 
+                "name": "ursulakaczmarek"
             }
         ], 
-        "contributors_count": 4, 
+        "contributors_count": 5, 
         "created_at": "2016-05-27T00:06:05Z", 
         "default_branch": "master", 
         "description": "Evaluate how a change in rent stabilization policy would affect rental properties in the District.", 
@@ -5792,7 +5798,7 @@ projects([
             ], 
             [
                 "R", 
-                5390
+                6559
             ]
         ], 
         "license": null, 
@@ -5805,9 +5811,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-07-08T00:16:27Z", 
+        "pushed_at": "2016-07-08T15:25:16Z", 
         "short_name": "rent-stabilization", 
-        "size": 468, 
+        "size": 469, 
         "updated_at": "2016-07-07T03:25:00Z", 
         "watchers": 0
     }
