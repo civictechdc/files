@@ -190,7 +190,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1466045993000, 
@@ -256,7 +256,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1467817941000, 
@@ -337,7 +337,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1417881835000, 
@@ -377,7 +377,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1457965726000, 
@@ -474,11 +474,12 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1467841459000, 
-            "description": "<p>For our July Data Science DC Meetup, we are excited to have Abhijit Dasgupta\u00a0join us to talk about meta-analysis - synthesizing direct and indirect effects of treatments, and some applications for big data analyses.</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>\u00a0-- starting soon: biostatistics, predictive modeling, clinical trials, epidemiology, Bayesian, R, Python.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Meta-analysis: Synthesizing direct and indirect effects of treatments, and some applications for big data analyses.</b></p> <p>Meta-analysis refers to the synthesis of results from several small but comparable studies to derive overall estimates of treatment effects that typically will be more robust and have higher statistical power. Classical meta-analysis involves studies looking at the same treatments to get an overall summary effect of one particular treatment effect. Network meta-analysis can be modeled to utilize indirect comparisons to compare the relative effectiveness of several different treatments of the same condition. In this presentation I will describe both classical and network meta-analysis, as well as the typical problems and biases one has to be aware of in doing meta-analyses. The computations and weighting schemes used in meta-analysis can have direct applications to implement a Divide-and-Conquer strategy so that modeling of large data sets can be done in chunks and the results combined to get valid results for the entire data set. I will describe an example from my experience in fitting competing risks models to a large administrative data set.</p> <p><b>Bio:</b></p> <p><br/><b>Abhijit Dasgupta</b></p> <p>Dr. Abhijit Dasgupta is a consulting statistician/data scientist in the Washington DC metropolis. He is fascinated by the innovative use of data analytic methods to gain insight and tell substantive stories, using modern methods for modeling, simulation and visualization.</p> <p>A PhD-level biostatistician by training, Dr. Dasgupta currently works to bridge the statistics-machine learning divide, by merging machine learning methods with sound statistical thinking and principles to help enhance our ability to derive intelligence from data. He now has over 50 peer-reviewed research and collaborative papers in areas ranging from bioinformatics, cancer research and operations research to methods for cluster analysis and intelligent robust modeling. He also consults for local startups doing bioengineering, business analytics and bioinformatics. Dr. Dasgupta also helps train companies in using R for their analytics needs, leveraging over 20 years experience using R and Python for data analyses and reporting.</p> <p>Dr. Dasgupta also works to build the local data community, organizing the Statistical Programming DC meet up and serving on the Board of Data Community DC.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our July Data Science DC Meetup, we are excited to have Abhijit Dasgupta\u00a0join us to talk about meta-analysis - synthesizing direct and indirect effects of treatments, and some applications for big data analyses.</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>\u00a0-- starting soon: biostatistics, predictive modeling, clinical trials, epidemiology, Bayesian, R, Python.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Meta-analysis: Synthesizing direct and indirect effects of treatments, and some applications for big data analyses.</b></p> <p>Meta-analyses are in the news!!! From affecting <a href=\"https://en.wikipedia.org/wiki/Saturated_fat_and_cardiovascular_disease_controversy#Systematic_reviews\">what we choose to eat</a> to looking at <a href=\"https://www.autismspeaks.org/science/science-news/new-meta-analysis-confirms-no-association-between-vaccines-and-autism\">vaccines' impact on autism</a>, meta-analyses have an impact in improving our knowledge and understanding, specially when a topic is confusing or has contradictory results and views. It is a means of seeing the forest for the trees, distilling and synthesizing the extant knowledge about a topic.</p> <p>Meta-analyses are mainly seen in the world of biomedical research, so interest is in \"treatments\", namely drugs \u00a0or particular diets or the like. However, \"treatments\" can mean a marketing campaign or a behavioral intervention (like spanking) or a change of a protocol. With that understanding, meta-analysis refers to the synthesis of results from several small but comparable studies to derive overall estimates of treatment effects that typically will be more robust and have higher statistical power.\u00a0</p> <p>Classical meta-analysis involves studies looking at the same treatments to get an overall summary effect of one particular treatment effect. Network meta-analysis can be modeled to utilize indirect comparisons to compare the relative effectiveness of several different treatments of the same condition. In this presentation I will describe both classical and network meta-analysis, as well as the typical problems and biases one has to be aware of in doing meta-analyses. The computations and weighting schemes used in meta-analysis can have direct applications to implement a Divide-and-Conquer strategy so that modeling of large data sets can be done in chunks and the results combined to get valid results for the entire data set. I will describe an example from my experience in fitting competing risks models to a large administrative data set.</p> <p><b>Bio:</b></p> <p><br/><b>Abhijit Dasgupta</b></p> <p>Dr. Abhijit Dasgupta is a consulting statistician/data scientist in the Washington DC metropolis. He is fascinated by the innovative use of data analytic methods to gain insight and tell substantive stories, using modern methods for modeling, simulation and visualization.</p> <p>A PhD-level biostatistician by training, Dr. Dasgupta currently works to bridge the statistics-machine learning divide, by merging machine learning methods with sound statistical thinking and principles to help enhance our ability to derive intelligence from data. He now has over 50 peer-reviewed research and collaborative papers in areas ranging from bioinformatics, cancer research and operations research to methods for cluster analysis and intelligent robust modeling. He also consults for local startups doing bioengineering, business analytics and bioinformatics. Dr. Dasgupta also helps train companies in using R for their analytics needs, leveraging over 20 years experience using R and Python for data analyses and reporting.</p> <p>Dr. Dasgupta also works to build the local data community, organizing the Statistical Programming DC meet up and serving on the Board of Data Community DC.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "duration": 10800000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/232427357/", 
             "group": {
                 "created": 1311348860000, 
@@ -497,7 +498,7 @@ calendar({
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1469053800000, 
-            "updated": 1467842558000, 
+            "updated": 1467926570000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1957 E St NW", 
@@ -514,7 +515,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1446220217000, 
@@ -769,7 +770,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -891,7 +892,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1460389774000, 
@@ -1269,8 +1270,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "MavenMini: Association Web", 
             "status": "upcoming", 
-            "time": 1473969600000, 
-            "updated": 1467707564000, 
+            "time": 1475179200000, 
+            "updated": 1467918881000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 

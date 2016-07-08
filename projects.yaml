@@ -1,5 +1,5 @@
-- activity: [10, 6, 10, 0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0,
-    2, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [3, 6, 10, 0, 2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2,
+    0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -454,8 +454,8 @@
   size: 2743
   updated_at: '2016-04-14T12:30:23Z'
   watchers: 5
-- activity: [2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
+- activity: [2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -1441,9 +1441,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 6, 0, 7, 2,
-    12, 3, 40, 7, 10, 24, 0, 28, 68, 50, 15, 46, 87, 23, 53, 44, 30, 23, 27, 50, 12,
-    2, 33, 80, 53, 49, 29, 84, 72]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0,
+    13, 2, 40, 7, 10, 24, 0, 45, 51, 58, 10, 47, 87, 26, 48, 47, 25, 23, 38, 40, 11,
+    6, 36, 80, 87, 8, 29, 89, 71]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1467,13 +1467,13 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 789,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 791,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7366046?v=3', contributions: 26,
     link: 'https://github.com/ashlynnpai', name: ashlynnpai}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 25,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 26,
     link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/13918431?v=3', contributions: 23,
     link: 'https://github.com/CamLatimer', name: CamLatimer}
@@ -1495,7 +1495,7 @@
     link: 'https://github.com/sco-bo', name: sco-bo}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 5,
     link: 'https://github.com/cmgiven', name: cmgiven}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/11823445?v=3', contributions: 4,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/11823445?v=3', contributions: 5,
     link: 'https://github.com/KatSDC', name: KatSDC}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5253461?v=3', contributions: 4,
     link: 'https://github.com/rekhers', name: rekhers}
@@ -1528,19 +1528,19 @@
   id: 43036761
   languages:
   - [Ruby, 125799]
-  - [HTML, 63889]
+  - [HTML, 63914]
   - [CSS, 26871]
   - [CoffeeScript, 1543]
-  - [JavaScript, 1471]
+  - [JavaScript, 1476]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 89
+  open_issues: 86
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-07-07T12:53:32Z'
+  pushed_at: '2016-07-07T22:29:00Z'
   short_name: dcaf_case_management
-  size: 10167
+  size: 10169
   updated_at: '2016-07-06T19:24:33Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
