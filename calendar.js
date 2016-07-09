@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "announced": false, 
@@ -163,7 +163,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1460389774000, 
@@ -190,7 +190,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1466045993000, 
@@ -228,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1459265642000, 
@@ -272,7 +272,7 @@ calendar({
         }, 
         {
             "created": 1467817941000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p>Tonight we're going to do another instance of one of our most popular recent events: building a surrealist Rails app.</p> <p>Inspired by a workshop by Terian Koscik at RailsConf 2016, we\u2019ll be building Rails apps in the exquisite corpse style. We\u2019ll be working in groups and basic knowledge of Rails and databases will be very helpful. To find out more information checkout these links!\u00a0</p> <p>Terian\u2019s page on this workshop: <a href=\"http://pineconedoesthings.com/surreal.html\"><a href=\"http://pineconedoesthings.com/surreal.html\" class=\"linkified\">http://pineconedoesthings.com/surreal.html</a></a>\u00a0</p> <p>Exquisite corpse wikipedia page: <a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\"><a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\" class=\"linkified\">https://en.wikipedia.org/wiki/Exquisite_corpse</a></a></p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Build surrealist Rails apps!</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232417635/", 
             "group": {
@@ -288,10 +288,10 @@ calendar({
             "headcount": 0, 
             "id": "vpdwvlyvkbrb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Lab Night", 
+            "name": "Ruby on Rails: Collaborate on a Surrealist Rails App", 
             "status": "upcoming", 
             "time": 1468449000000, 
-            "updated": 1467818485000, 
+            "updated": 1468084124000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -349,7 +349,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1417881835000, 
@@ -389,7 +389,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1457965726000, 
@@ -527,7 +527,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 129
         }, 
         {
             "created": 1446220217000, 
@@ -555,7 +555,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1467817941000, 
