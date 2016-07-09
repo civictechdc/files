@@ -1,4 +1,4 @@
-- activity: [3, 6, 10, 0, 2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2,
+- activity: [3, 6, 10, 0, 3, 65, 15, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2,
     0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -94,8 +94,8 @@
   updated_at: '2016-06-04T19:04:35Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    3, 0, 0]
+    0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+    2, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: contactus@ancfinder.org, name: ANC Finder, url: 'https://twitter.com/@ancfinder'}
@@ -258,8 +258,8 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 2, 6, 0, 0, 5, 1, 3, 11, 1,
-    7, 2, 2, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 0, 4, 0, 0, 5, 1, 0, 13, 0,
+- activity: [1, 7, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 1,
+    6, 4, 0, 1, 1, 0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 0, 5, 1, 0, 13, 0,
     0, 3, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -454,7 +454,7 @@
   size: 2743
   updated_at: '2016-04-14T12:30:23Z'
   watchers: 5
-- activity: [2, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1442,8 +1442,8 @@
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0,
-    13, 2, 40, 7, 10, 24, 0, 45, 51, 58, 10, 47, 87, 26, 48, 47, 25, 23, 38, 40, 11,
-    6, 36, 80, 87, 8, 29, 89, 71]
+    13, 2, 40, 7, 10, 24, 0, 51, 45, 58, 18, 47, 79, 26, 51, 49, 20, 23, 40, 39, 11,
+    5, 36, 80, 90, 17, 17, 92, 68]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1467,7 +1467,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 791,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 794,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1475,24 +1475,24 @@
     link: 'https://github.com/ashlynnpai', name: ashlynnpai}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 26,
     link: 'https://github.com/drownedout', name: drownedout}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/13918431?v=3', contributions: 23,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/13918431?v=3', contributions: 24,
     link: 'https://github.com/CamLatimer', name: CamLatimer}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 23,
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 23,
+    link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 21,
     link: 'https://github.com/mebates', name: mebates}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 19,
-    link: 'https://github.com/mchelen', name: mchelen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4694248?v=3', contributions: 18,
     link: 'https://github.com/ewiggins', name: ewiggins}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 16,
     link: 'https://github.com/charleshuang80', name: charleshuang80}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/12245842?v=3', contributions: 15,
+    link: 'https://github.com/sco-bo', name: sco-bo}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3891862?v=3', contributions: 12,
     link: 'https://github.com/rebeccaestes', name: rebeccaestes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12873557?v=3', contributions: 9,
     link: 'https://github.com/clarissastark', name: clarissastark}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/12245842?v=3', contributions: 9,
-    link: 'https://github.com/sco-bo', name: sco-bo}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 5,
     link: 'https://github.com/cmgiven', name: cmgiven}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/11823445?v=3', contributions: 5,
@@ -1527,20 +1527,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 125799]
-  - [HTML, 63914]
-  - [CSS, 26871]
+  - [Ruby, 126919]
+  - [HTML, 64095]
+  - [CSS, 27127]
   - [CoffeeScript, 1543]
   - [JavaScript, 1476]
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 86
+  open_issues: 83
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-07-07T22:29:00Z'
+  pushed_at: '2016-07-09T06:18:49Z'
   short_name: dcaf_case_management
-  size: 10169
+  size: 10185
   updated_at: '2016-07-06T19:24:33Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
@@ -1573,7 +1573,7 @@
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0,
-    10, 6, 25, 15, 24, 18, 16, 41, 35, 15, 25, 9, 7, 31, 27, 24, 13, 9, 2, 9, 0, 6,
+    10, 9, 28, 9, 27, 22, 9, 49, 30, 18, 19, 9, 12, 26, 27, 27, 10, 11, 3, 6, 3, 3,
     0, 0, 0, 0, 0, 0, 1]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:

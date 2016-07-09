@@ -5,9 +5,9 @@ projects([
             6, 
             10, 
             0, 
-            2, 
-            64, 
-            17, 
+            3, 
+            65, 
+            15, 
             0, 
             2, 
             3, 
@@ -341,7 +341,6 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
             0, 
             0, 
@@ -352,7 +351,8 @@ projects([
             0, 
             0, 
             0, 
-            3, 
+            1, 
+            2, 
             0, 
             0
         ], 
@@ -848,18 +848,18 @@ projects([
             0, 
             0, 
             3, 
-            2, 
             6, 
+            2, 
             0, 
             0, 
             5, 
             1, 
-            3, 
+            4, 
             11, 
             1, 
-            7, 
-            2, 
-            2, 
+            6, 
+            4, 
+            0, 
             1, 
             1, 
             0, 
@@ -874,8 +874,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            4, 
+            2, 
+            2, 
             0, 
             0, 
             5, 
@@ -1446,7 +1446,7 @@ projects([
     }, 
     {
         "activity": [
-            2, 
+            0, 
             0, 
             0, 
             2, 
@@ -4482,28 +4482,28 @@ projects([
             10, 
             24, 
             0, 
-            45, 
             51, 
+            45, 
             58, 
-            10, 
+            18, 
             47, 
-            87, 
+            79, 
             26, 
-            48, 
-            47, 
-            25, 
+            51, 
+            49, 
+            20, 
             23, 
-            38, 
             40, 
+            39, 
             11, 
-            6, 
+            5, 
             36, 
             80, 
-            87, 
-            8, 
-            29, 
-            89, 
-            71
+            90, 
+            17, 
+            17, 
+            92, 
+            68
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4570,7 +4570,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 791, 
+                "contributions": 794, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4594,7 +4594,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/13918431?v=3", 
-                "contributions": 23, 
+                "contributions": 24, 
                 "link": "https://github.com/CamLatimer", 
                 "name": "CamLatimer"
             }, 
@@ -4605,16 +4605,16 @@ projects([
                 "name": "Kevin-Wei"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
+                "contributions": 23, 
+                "link": "https://github.com/mchelen", 
+                "name": "mchelen"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6223901?v=3", 
                 "contributions": 21, 
                 "link": "https://github.com/mebates", 
                 "name": "mebates"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/30691?v=3", 
-                "contributions": 19, 
-                "link": "https://github.com/mchelen", 
-                "name": "mchelen"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4694248?v=3", 
@@ -4629,6 +4629,12 @@ projects([
                 "name": "charleshuang80"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/12245842?v=3", 
+                "contributions": 15, 
+                "link": "https://github.com/sco-bo", 
+                "name": "sco-bo"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3891862?v=3", 
                 "contributions": 12, 
                 "link": "https://github.com/rebeccaestes", 
@@ -4639,12 +4645,6 @@ projects([
                 "contributions": 9, 
                 "link": "https://github.com/clarissastark", 
                 "name": "clarissastark"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/12245842?v=3", 
-                "contributions": 9, 
-                "link": "https://github.com/sco-bo", 
-                "name": "sco-bo"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
@@ -4731,15 +4731,15 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                125799
+                126919
             ], 
             [
                 "HTML", 
-                63914
+                64095
             ], 
             [
                 "CSS", 
-                26871
+                27127
             ], 
             [
                 "CoffeeScript", 
@@ -4758,16 +4758,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 86, 
+        "open_issues": 83, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-07-07T22:29:00Z", 
+        "pushed_at": "2016-07-09T06:18:49Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10169, 
+        "size": 10185, 
         "updated_at": "2016-07-06T19:24:33Z", 
         "watchers": 10
     }, 
@@ -4893,27 +4893,27 @@ projects([
             4, 
             0, 
             10, 
-            6, 
-            25, 
-            15, 
-            24, 
-            18, 
-            16, 
-            41, 
-            35, 
-            15, 
-            25, 
             9, 
-            7, 
-            31, 
+            28, 
+            9, 
             27, 
-            24, 
-            13, 
+            22, 
             9, 
-            2, 
+            49, 
+            30, 
+            18, 
+            19, 
             9, 
-            0, 
+            12, 
+            26, 
+            27, 
+            27, 
+            10, 
+            11, 
+            3, 
             6, 
+            3, 
+            3, 
             0, 
             0, 
             0, 
