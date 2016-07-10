@@ -1,13 +1,13 @@
 [
     {
         "activity": [
-            3, 
-            6, 
-            10, 
+            2, 
+            7, 
+            9, 
             0, 
-            3, 
-            65, 
-            15, 
+            9, 
+            63, 
+            11, 
             0, 
             2, 
             3, 
@@ -24,8 +24,8 @@
             0, 
             2, 
             0, 
-            3, 
-            3, 
+            4, 
+            2, 
             0, 
             0, 
             0, 
@@ -332,17 +332,7 @@
             0, 
             0, 
             0, 
-            1, 
-            2, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            1, 
-            0, 
+            3, 
             0, 
             0, 
             0, 
@@ -352,7 +342,17 @@
             0, 
             0, 
             1, 
-            2, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            3, 
+            0, 
             0, 
             0
         ], 
@@ -856,8 +856,8 @@
             1, 
             4, 
             11, 
-            1, 
-            6, 
+            3, 
+            4, 
             4, 
             0, 
             1, 
@@ -877,11 +877,11 @@
             2, 
             2, 
             0, 
-            0, 
-            5, 
+            3, 
+            2, 
             1, 
-            0, 
-            13, 
+            8, 
+            5, 
             0, 
             0, 
             3, 
@@ -1448,8 +1448,8 @@
         "activity": [
             0, 
             0, 
-            0, 
             2, 
+            0, 
             1, 
             0, 
             0, 
@@ -4251,8 +4251,8 @@
             0, 
             0, 
             0, 
-            0, 
-            4, 
+            2, 
+            2, 
             0, 
             0, 
             0, 
@@ -4474,8 +4474,8 @@
             6, 
             0, 
             9, 
-            0, 
-            13, 
+            2, 
+            11, 
             2, 
             40, 
             7, 
@@ -4483,27 +4483,27 @@
             24, 
             0, 
             51, 
-            45, 
-            58, 
-            18, 
-            47, 
-            79, 
-            26, 
-            51, 
-            49, 
-            20, 
-            23, 
+            63, 
             40, 
-            39, 
-            11, 
-            5, 
-            36, 
-            80, 
-            90, 
-            17, 
-            17, 
-            92, 
-            68
+            35, 
+            74, 
+            35, 
+            48, 
+            35, 
+            45, 
+            24, 
+            32, 
+            25, 
+            41, 
+            9, 
+            7, 
+            48, 
+            84, 
+            76, 
+            24, 
+            29, 
+            83, 
+            88
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4570,7 +4570,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 808, 
+                "contributions": 833, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4599,6 +4599,12 @@
                 "name": "CamLatimer"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
+                "contributions": 24, 
+                "link": "https://github.com/charleshuang80", 
+                "name": "charleshuang80"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1946584?v=3", 
                 "contributions": 23, 
                 "link": "https://github.com/Kevin-Wei", 
@@ -4623,12 +4629,6 @@
                 "name": "ewiggins"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
-                "contributions": 16, 
-                "link": "https://github.com/charleshuang80", 
-                "name": "charleshuang80"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12245842?v=3", 
                 "contributions": 15, 
                 "link": "https://github.com/sco-bo", 
@@ -4651,6 +4651,12 @@
                 "contributions": 5, 
                 "link": "https://github.com/cmgiven", 
                 "name": "cmgiven"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/dfelsent", 
+                "name": "dfelsent"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/11823445?v=3", 
@@ -4683,28 +4689,22 @@
                 "name": "MiroFurtado"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
-                "contributions": 3, 
-                "link": "https://github.com/dfelsent", 
-                "name": "dfelsent"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7883907?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/edwardpark", 
                 "name": "edwardpark"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/kndllbrwn", 
-                "name": "kndllbrwn"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5439589?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/valeriecodes", 
                 "name": "valeriecodes"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/kndllbrwn", 
+                "name": "kndllbrwn"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/16469242?v=3", 
@@ -4731,11 +4731,11 @@
         "languages": [
             [
                 "Ruby", 
-                127448
+                130842
             ], 
             [
                 "HTML", 
-                64226
+                64914
             ], 
             [
                 "CSS", 
@@ -4743,11 +4743,11 @@
             ], 
             [
                 "CoffeeScript", 
-                1543
+                2879
             ], 
             [
                 "JavaScript", 
-                1476
+                1501
             ]
         ], 
         "license": {
@@ -4758,16 +4758,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 78, 
+        "open_issues": 72, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-07-09T21:33:50Z", 
+        "pushed_at": "2016-07-10T07:29:35Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10180, 
+        "size": 10221, 
         "updated_at": "2016-07-06T19:24:33Z", 
         "watchers": 10
     }, 
@@ -4893,21 +4893,21 @@
             4, 
             0, 
             10, 
-            9, 
-            28, 
-            9, 
+            10, 
             27, 
-            22, 
-            9, 
-            49, 
-            30, 
+            17, 
+            23, 
+            21, 
+            13, 
+            53, 
+            20, 
+            21, 
             18, 
-            19, 
-            9, 
-            12, 
+            6, 
+            13, 
+            36, 
+            17, 
             26, 
-            27, 
-            27, 
             10, 
             11, 
             3, 
