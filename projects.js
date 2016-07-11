@@ -4570,7 +4570,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 838, 
+                "contributions": 839, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4731,7 +4731,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                130842
+                130858
             ], 
             [
                 "HTML", 
@@ -4758,16 +4758,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 73, 
+        "open_issues": 75, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-07-10T17:14:33Z", 
+        "pushed_at": "2016-07-10T20:03:13Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10589, 
+        "size": 10591, 
         "updated_at": "2016-07-10T16:23:00Z", 
         "watchers": 10
     }, 
