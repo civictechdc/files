@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1459265642000, 
@@ -201,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1467817941000, 
@@ -241,7 +241,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220149000, 
@@ -322,7 +322,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1457965726000, 
@@ -350,7 +350,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
@@ -419,7 +419,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 146
+            "yes_rsvp_count": 149
         }, 
         {
             "created": 1467841459000, 
@@ -460,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 154
+            "yes_rsvp_count": 155
         }, 
         {
             "created": 1446220217000, 
@@ -488,7 +488,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1467817941000, 
@@ -771,7 +771,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1452612310000, 
@@ -902,7 +902,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -958,7 +958,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1467817941000, 
@@ -1016,7 +1016,7 @@ calendar({
         }, 
         {
             "created": 1467374992000, 
-            "description": "<p><b>Only 14 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>AGENDA</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>TOPICS &amp; SPEAKERS</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><i><b>Session\u00a01:\u00a0Users\u00a0</b></i></p> <p>Identifying and understanding your website users including personas and user journeys.</p> <p><br/><b>Speaker: </b>Dara Pressley, CustomInk<br/><b>Speaker:</b> [coming soon]</p> <p><i><b>Session 2:\u00a0Usability\u00a0</b></i></p> <p>Measuring and testing the usability of your website.</p> <p>Speaker: [coming soon]<br/>Speaker: [coming soon]</p> <p><i><b>Session 3:\u00a0Planning &amp; Tuning\u00a0</b></i></p> <p>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><b>Speaker</b>: Faz Besharatian, Estudio Faz<br/>Speaker: [coming soon]</p> <p><b>SPONSORS</b></p> <p>Interested in sponsoring? Contact [masked] for more information.</p>", 
+            "description": "<p><b>Only 14 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>AGENDA</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>TOPICS &amp; SPEAKERS</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><i><b>SESSION 1:\u00a0Users\u00a0</b><br/></i>Identifying and understanding your website users including personas and user journeys.\u00a0</p> <p><b>Speakers and Topics</b></p> <p>\"Create Great Personas and Use them\"<br/>Dara Pressley, CustomInk\u00a0</p> <p>[2nd speaker coming soon]</p> <p><br/><i><b>SESSION 2:\u00a0Usability\u00a0</b><br/></i>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p>[speakers coming soon]</p> <p><br/><i><b>SESSION 3:\u00a0Planning &amp; Tuning\u00a0</b><br/></i>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><b>Speakers and Topics</b></p> <p>Faz Besharatian, Estudio Faz\u00a0</p> <p>\"Using the Feature Value Matrix to make decisions\"\u00a0<br/>Nazhin Beiramee, Abt Associates\u00a0</p> <p>[3rd speaker coming soon]</p> <p><b>SPONSORS</b></p> <p>Interested in sponsoring? Contact [masked] for more information.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
             "group": {
                 "created": 1189804715000, 
@@ -1034,7 +1034,7 @@ calendar({
             "name": "MavenMini: Web User Experience", 
             "status": "upcoming", 
             "time": 1470945600000, 
-            "updated": 1468312962000, 
+            "updated": 1468346353000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -1145,7 +1145,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1326383071000, 
