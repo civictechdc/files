@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "announced": false, 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1459265642000, 
@@ -281,7 +281,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -322,7 +322,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1457965726000, 
@@ -419,7 +419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 149
+            "yes_rsvp_count": 148
         }, 
         {
             "created": 1467841459000, 
@@ -460,7 +460,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 155
+            "yes_rsvp_count": 160
         }, 
         {
             "created": 1446220217000, 
@@ -598,7 +598,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1467072890000, 
@@ -636,7 +636,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1457035701000, 
@@ -676,7 +676,45 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
+        }, 
+        {
+            "created": 1468351277000, 
+            "description": "<p>August! \u00a0The height of summer! \u00a0Let's gather to talk about and hear about APIs!! \u00a0</p> <p>We've got another solid line up of presenters for this next meetup, so go ahead and mark your calendars and get ready for a good time in the meantime. \u00a0</p> <p>\n\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Miguel Sancho - Cenit.io\u00a0<br/>* Alex Cohen - Census Bureau<br/>* Nater Kane - Social Security Administration\u00a0<br/>* Siobahn Green - Sonjara</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/232568448/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "232568448", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - August Edition", 
+            "status": "upcoming", 
+            "time": 1470175200000, 
+            "updated": 1468351277000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1466454487000, 
@@ -715,7 +753,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1459265642000, 
@@ -771,7 +809,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1452612310000, 
@@ -1016,7 +1054,7 @@
         }, 
         {
             "created": 1467374992000, 
-            "description": "<p><b>Only 14 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>AGENDA</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>TOPICS &amp; SPEAKERS</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><i><b>SESSION 1:\u00a0Users\u00a0</b><br/></i>Identifying and understanding your website users including personas and user journeys.\u00a0</p> <p><b>Speakers and Topics</b></p> <p>\"Create Great Personas and Use them\"<br/>Dara Pressley, CustomInk\u00a0</p> <p>[2nd speaker coming soon]</p> <p><br/><i><b>SESSION 2:\u00a0Usability\u00a0</b><br/></i>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p>[speakers coming soon]</p> <p><br/><i><b>SESSION 3:\u00a0Planning &amp; Tuning\u00a0</b><br/></i>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><b>Speakers and Topics</b></p> <p>Faz Besharatian, Estudio Faz\u00a0</p> <p>\"Using the Feature Value Matrix to make decisions\"\u00a0<br/>Nazhin Beiramee, Abt Associates\u00a0</p> <p>[3rd speaker coming soon]</p> <p><b>SPONSORS</b></p> <p>Interested in sponsoring? Contact [masked] for more information.</p>", 
+            "description": "<p><b>Only 14 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>AGENDA</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>SESSIONS\u00a0&amp; SPEAKERS</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><i><b>SESSION 1:\u00a0Users\u00a0</b><br/></i>Identifying and understanding your website users including personas and user journeys.\u00a0</p> <p><b>Speakers and Topics</b></p> <p>\"Create Great Personas and Use them\"<br/>Dara Pressley, CustomInk\u00a0</p> <p>[2nd speaker coming soon]</p> <p><br/><i><b>SESSION 2:\u00a0Usability\u00a0</b><br/></i>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p>[speakers coming soon]</p> <p><br/><i><b>SESSION 3:\u00a0Planning &amp; Tuning\u00a0</b><br/></i>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><b>Speakers and Topics</b></p> <p>Faz Besharatian, Estudio Faz\u00a0</p> <p>\"Using the Feature Value Matrix to make decisions\"\u00a0<br/>Nazhin Beiramee, Abt Associates\u00a0</p> <p>[3rd speaker coming soon]</p> <p><b>SPONSORS</b></p> <p>Interested in sponsoring? Contact [masked] for more information.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
             "group": {
                 "created": 1189804715000, 
@@ -1034,7 +1072,7 @@
             "name": "MavenMini: Web User Experience", 
             "status": "upcoming", 
             "time": 1470945600000, 
-            "updated": 1468346353000, 
+            "updated": 1468346883000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -1051,7 +1089,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457965726000, 
