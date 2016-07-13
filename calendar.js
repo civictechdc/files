@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 15
         }, 
         {
             "announced": false, 
@@ -126,84 +126,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1466045993000, 
-            "description": "<p>Hack &amp;&amp; Tell will be at WeWork Chinatown this month! Everyone is looking forward to hearing about *your* cool hack. Presentation signups are here:</p> <p><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>If you\u2019re interested in presenting, complete this short form to let us know:\u00a0<a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>See you at the meetup! We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
-            "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/231929821/", 
-            "group": {
-                "created": 1361902062000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 7361532, 
-                "join_mode": "open", 
-                "name": "DC Hack and Tell", 
-                "urlname": "DC-Hack-and-Tell", 
-                "who": "Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "231929821", 
-            "maybe_rsvp_count": 0, 
-            "name": "Round 34: Parable of the Polygons", 
-            "status": "upcoming", 
-            "time": 1468362600000, 
-            "updated": 1466046023000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "718 7th St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19047832, 
-                "lat": 38.899109000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.022223999999994, 
-                "name": "WeWork Chinatown", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 57
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>This week: Following up on the To Do List App we'll be diving deeper into layouts and demonstrating how to design a screen using the design view and text view Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/231179171/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvkbqb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab:Deep Dive Android Layouts ", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1468362600000, 
-            "updated": 1468004742000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1015 7th Street NW.", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23509615, 
-                "lat": 38.903422999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.021598999999995, 
-                "name": "ECMC", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
             "created": 1467817941000, 
             "description": "<p>Tonight we're going to do another instance of one of our most popular recent events: building a surrealist Rails app.</p> <p>Inspired by a workshop by Terian Koscik at RailsConf 2016, we\u2019ll be building Rails apps in the exquisite corpse style. We\u2019ll be working in groups and basic knowledge of Rails and databases will be very helpful. To find out more information checkout these links!\u00a0</p> <p>Terian\u2019s page on this workshop: <a href=\"http://pineconedoesthings.com/surreal.html\"><a href=\"http://pineconedoesthings.com/surreal.html\" class=\"linkified\">http://pineconedoesthings.com/surreal.html</a></a>\u00a0</p> <p>Exquisite corpse wikipedia page: <a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\"><a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\" class=\"linkified\">https://en.wikipedia.org/wiki/Exquisite_corpse</a></a></p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Build surrealist Rails apps!</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
@@ -281,8 +203,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 50
+            "waitlist_count": 1, 
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1417881835000, 
@@ -322,7 +244,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1457965726000, 
@@ -350,7 +272,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459265642000, 
@@ -419,7 +341,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 148
+            "yes_rsvp_count": 151
         }, 
         {
             "created": 1467841459000, 
@@ -460,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 160
+            "yes_rsvp_count": 162
         }, 
         {
             "created": 1446220217000, 
@@ -714,7 +636,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1466454487000, 
@@ -753,7 +675,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1459265642000, 
@@ -1147,6 +1069,34 @@ calendar({
             "yes_rsvp_count": 6
         }, 
         {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbvb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvlbvb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1471386600000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1465422954000, 
             "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible.\u00a0Doors open at 6:00 for snacks and beer, with speakers starting at 6:30.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a> if you'd like to present your bike/tech project. So far we have:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022 Tom Lee will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
@@ -1183,7 +1133,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1326383071000, 
