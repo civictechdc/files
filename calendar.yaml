@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - announced: false
   created: 1467850168000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -161,7 +161,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -193,11 +193,34 @@ other:
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 48
+  waitlist_count: 0
+  yes_rsvp_count: 49
 - created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
+  description: "<p>The state of the world's information systems are changing and so\
+    \ should your data processing habits. As the cloud takes precedence in IT environments,\
+    \ different systems that run the modern enterprise are not on the same network\
+    \ or system. These systems have data that business users need to leverage on a\
+    \ day to day and sometimes on an immediate basis.\_</p> <p>As big data evolves,\
+    \ we have seen movements from batch processing to micro-batches, to stream processing.\
+    \ All of this is great but folks still need to connect the internet together somehow\
+    \ to access the data.\_</p> <p>This discussion is about the new problems in business\
+    \ today and how to think about an asynchronous data processing framework that\
+    \ leverages both services oriented architecture and message oriented architecture.\_\
+    </p> <p><b>Asynchronous Data Processing w/ Services + Message Oriented Architecture</b></p>\
+    \ <p>\u2022\_Thoughts of why \"Asynchronous\" is the Future</p> <p>\u2022\_Discussion\
+    \ about Batch, Micro-Batch, Streaming</p> <p>\u2022\_Difference between a Queue\
+    \ / Enterprise Service Bus</p> <p>\u2022\_Proposed Architecture for Asynchronous\
+    \ Data Processing</p> <p>\n\n\n<b>Our Speaker</b></p> <p>Rahul Singh is a technology\
+    \ minded business person and a business minded technologist. As CEO of a company\
+    \ devoted to solving the most difficult problems in streamlining, organizing,\
+    \ and unifying business information, he is responsible for training the team,\
+    \ overseeing and creating technology with the research and development team, and\
+    \ fostering client and service partner relationships.\_</p> <p>Although he\u2019\
+    s programmed in over 30 computer languages and has worked with numerous platforms,\
+    \ frameworks, and libraries across all major internet software systems, he likes\
+    \ to spend his time sharpening his skills in information retrieval (search), knowledge\
+    \ management, business information systems, and machine learning to come up with\
+    \ ideas for a smarter, more modern enterprise.</p>"
   duration: 9000000
   event_url: http://www.meetup.com/Data-Wranglers-DC/events/225934786/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -206,10 +229,10 @@ other:
   headcount: 0
   id: hffzclyvkbjb
   maybe_rsvp_count: 0
-  name: July Meetup
+  name: Asynchronous Data Processing w/ Message Oriented Architecture
   status: upcoming
   time: 1468449000000
-  updated: 1463109249000
+  updated: 1468424880000
   utc_offset: -14400000
   venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
     localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
@@ -259,7 +282,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 15
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -291,7 +314,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1465512238000
   description: "<p>For July's meetup, we are honored to feature several data scientists\
     \ from Miner &amp; Kasch discussing recommendation\_engines, neural networks and\
@@ -384,7 +407,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 151
+  yes_rsvp_count: 137
 - created: 1467841459000
   description: "<p>For our July Data Science DC Meetup, we are excited to have Abhijit\
     \ Dasgupta\_join us to talk about meta-analysis - synthesizing direct and indirect\
@@ -463,7 +486,7 @@ other:
       Room 213', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 162
+  yes_rsvp_count: 154
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -603,6 +626,82 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 6
+- created: 1468421169000
+  description: "<p>Join your fellow data visualizers on Tuesday, July 26th at Chief(1800\
+    \ Massachusetts Ave NW) for The Battle of the Viz. University of Maryland Doctoral\
+    \ Students, Adil Yalcin and Fan Du, will be presenting\_ their own data visualization\
+    \ and analytics tools; Adil Yalcin will be showcasing his data analytics tool\
+    \ Keshif(<a href=\"http://keshif.me/\"><a href=\"http://keshif.me/\" class=\"\
+    linkified\">http://keshif.me/</a></a>) and Fan Du will be showcasing EventAction(<a\
+    \ href=\"http://hcil.umd.edu/eventaction/\"><a href=\"http://hcil.umd.edu/eventaction/\"\
+    \ class=\"linkified\">http://hcil.umd.edu/eventaction/</a></a>).</p> <p><br/>Our\
+    \ speakers are Ph.D. students in the Department of Computer Science at University\
+    \ of Maryland, College Park, and members of its Human Computer Interaction Laboratory\
+    \ (HCIL), which has a 30+ years of history of research and impact in technology\
+    \ and design.</p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10\
+    \ - 7:40 \u2013 Adil Yalcin and Keshif</p> <p>7:40 - 7:50 \u2013 Q &amp; A for\
+    \ Keshif</p> <p>7:50 - 8:20 \u2013 Fan Du and EventAction</p> <p>8:20 - 8:30 \u2013\
+    \ Q &amp; A for EventAction</p> <p>8:40 - Data Drinks</p> <p>SPECIAL DEAL:</p>\
+    \ <p>O'Reilly AI Conference September 26-27 | New York, NY</p> <p>Save 20% - UGDATASCIDC</p>\
+    \ <p>Discover the real-world opportunities of applied artificial intelligence</p>\
+    \ <p><a href=\"http://www.oreilly.com/pub/cpc/21362\"><a href=\"http://www.oreilly.com/pub/cpc/21362\"\
+    \ class=\"linkified\">http://www.oreilly.com/pub/cpc/21362</a></a></p> <p><b>About\
+    \ our Presenters: </b></p> <p><b>Adil Yalcin</b><b><br/>Bio:\_</b>My goal is to\
+    \ lower the barriers in rich data analysis for a broad audience through\_information\
+    \ visualization and interaction design, implementation, and evaluation.\_My PhD\
+    \ journey gives me a change to focus on the research and design foundations, and\
+    \ to search for new perspectives to advance how we think about data exploration.\
+    \ By providing highest quality tools and services, I inspire to help people and\
+    \ businesses identify opportunities for data analysis, explore their data, and\
+    \ gain insights at the speed of thought.\_(<a href=\"http://www.adilyalcin.me/\"\
+    >www.adilyalcin.me</a>)</p> <p><b>Abstract:</b>\_Visualization is the natural\
+    \ language for data, and interaction can create the natural dialogue. How can\
+    \ we design better spaces to engage in exploratory data dialogue? How can we avoid\
+    \ fruitless paths, and how can we focus on generating insights, not visualizations?\
+    \ In this talk, I will share examples of what inspires my design thinking, and\
+    \ demonstrate the tool I build on those principles, Keshif (<a href=\"http://www.keshif.me/\"\
+    >www.keshif.me</a>).</p> <p><b>Fan Du</b></p> <p><b>Bio:\_</b>My research focuses\
+    \ on data visualization and human-computer interaction, especially on analyzing\
+    \ healthcare data and user activity logs.\_I work with Prof. Ben Shneiderman and\
+    \ Dr. Catherine Plaisant as a research assistant.\_My Ph.D. study focuses on designing\
+    \ interactive data visualization tools to augment people\u2019s ability in handling\
+    \ and exploring temporal event sequences. Moving forward, I want to work with\
+    \ real users from different domains to see how my tools could help them solve\
+    \ problems.\_(<a href=\"http://frankdu.org/\">frankdu.org</a>)</p> <p><b>Abstract</b>:\
+    \ The rapidly growing interest in event analytics has resulted in visual techniques\
+    \ for extracting insights from event sequence data that come from medical histories,\
+    \ social media activities, online education patterns, cybersecurity threats, etc.\
+    \ This talk reviews our group\u2019s decade of research on visualizing and exploring\
+    \ temporal event sequences. I introduce EventFlow (<a href=\"http://hcil.umd.edu/eventflow/\"\
+    >hcil.umd.edu/eventflow</a>) for showing visual summaries of thousands of patient\
+    \ histories represented as time-stamped events and demonstrate how it supports\
+    \ hospital quality control analysts to investigate if the required procedures\
+    \ were carried out. I then describe simplification strategies for sharpening the\
+    \ analytic focus so as to cope with the increase in data volume and pattern variety.\
+    \ Finally, I discuss our recent work on cohort comparison and evidence-based intervention\
+    \ planning</p> <p>ANNOUNCEMENTS</p> <p>Hiring? Job Seeking? Datable.org</p> <p>Building\
+    \ your brand in tech? Sponsor DC2</p> <p>Have a difficult data question? Ask 13,000\
+    \ local Data Practitioners with Pushie</p>"
+  duration: 8100000
+  event_url: http://www.meetup.com/Data-Visualization-DC/events/232587719/
+  group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 6957082, join_mode: open, name: Data Visualization DC, urlname: Data-Visualization-DC,
+    who: Data Visualizers}
+  headcount: 0
+  id: '232587719'
+  maybe_rsvp_count: 0
+  name: The Battle of the Viz
+  rsvp_limit: 200
+  status: upcoming
+  time: 1469572200000
+  updated: 1468431522000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
+    name: CHIEF, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 38
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -638,7 +737,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1467072890000
   description: "<p>Reminder: You MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\"\
     >Eventbrite</a> to attend.</p> <p>Content marketing is a method of creating and\
@@ -671,7 +770,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 25
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -721,7 +820,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1468351277000
   description: "<p>August! \_The height of summer! \_Let's gather to talk about and\
     \ hear about APIs!! \_</p> <p>We've got another solid line up of presenters for\
@@ -799,7 +898,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -858,7 +957,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -995,7 +1094,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1158,7 +1257,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 9
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1234,7 +1333,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1265,6 +1364,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1468424212000
+  description: "<p>Coders and commuting: how do apps change the way we drive? This\
+    \ meetup invites people to demo projects about car-sharing, ride-sharing, traffic,\
+    \ and more.</p> <p>Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
+    >Michael</a>\_if you have a project you'd like to share. So far our presenters\
+    \ are:</p> <p><br/>\u2022 Anna Petrone from\_<a href=\"http://split.us/\">Split</a></p>\
+    \ <p>\u2022 Andriy Klymchuk from\_<a href=\"https://www.sameride.com/\">Sameride</a></p>\
+    \ <p>\u2022 Numaan Akram from\_<a href=\"http://rallybus.net/\">Rallybus</a></p>\
+    \ <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\"\
+    >Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\"\
+    >Safer streets with better data</a>.\"</p> <p><br/>As always, stay tuned to <a\
+    \ href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>"
+  event_url: http://www.meetup.com/Transportation-Techies/events/232589028/
+  group: {created: 1384372275000, group_lat: 45.520000457763672, group_lon: -122.66999816894531,
+    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
+    who: Techies}
+  headcount: 0
+  id: '232589028'
+  maybe_rsvp_count: 0
+  name: Playing with Traffic II
+  status: upcoming
+  time: 1471568400000
+  updated: 1468432854000
+  utc_offset: -25200000
+  venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
+    lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
+    name: WeWork Crystal City, repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -1313,7 +1442,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 54
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1618,7 +1747,7 @@ other:
     name: OpenGov Hub, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
