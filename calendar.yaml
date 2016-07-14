@@ -1,5 +1,5 @@
 codefordc:
-- announced: false
+- announced: true
   created: 1467850116000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
     \ you know and love.</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_\
@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 19
 - announced: false
   created: 1467850168000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -194,7 +194,7 @@ other:
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 48
 - created: 1417881835000
   description: "<p>The state of the world's information systems are changing and so\
     \ should your data processing habits. As the cloud takes precedence in IT environments,\
@@ -282,7 +282,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 18
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -407,7 +407,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 137
+  yes_rsvp_count: 138
 - created: 1467841459000
   description: "<p>For our July Data Science DC Meetup, we are excited to have Abhijit\
     \ Dasgupta\_join us to talk about meta-analysis - synthesizing direct and indirect\
@@ -486,7 +486,7 @@ other:
       Room 213', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 154
+  yes_rsvp_count: 157
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -515,7 +515,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 13
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -627,7 +627,7 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 6
 - created: 1468421169000
-  description: "<p>Join your fellow data visualizers on Tuesday, July 26th at Chief(1800\
+  description: "<p>Join your fellow data visualizers on Tuesday, June 26th at Chief(1800\
     \ Massachusetts Ave NW) for The Battle of the Viz. University of Maryland Doctoral\
     \ Students, Adil Yalcin and Fan Du, will be presenting\_ their own data visualization\
     \ and analytics tools; Adil Yalcin will be showcasing his data analytics tool\
@@ -638,19 +638,19 @@ other:
     \ speakers are Ph.D. students in the Department of Computer Science at University\
     \ of Maryland, College Park, and members of its Human Computer Interaction Laboratory\
     \ (HCIL), which has a 30+ years of history of research and impact in technology\
-    \ and design.</p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10\
-    \ - 7:40 \u2013 Adil Yalcin and Keshif</p> <p>7:40 - 7:50 \u2013 Q &amp; A for\
-    \ Keshif</p> <p>7:50 - 8:20 \u2013 Fan Du and EventAction</p> <p>8:20 - 8:30 \u2013\
-    \ Q &amp; A for EventAction</p> <p>8:40 - Data Drinks</p> <p>SPECIAL DEAL:</p>\
-    \ <p>O'Reilly AI Conference September 26-27 | New York, NY</p> <p>Save 20% - UGDATASCIDC</p>\
-    \ <p>Discover the real-world opportunities of applied artificial intelligence</p>\
-    \ <p><a href=\"http://www.oreilly.com/pub/cpc/21362\"><a href=\"http://www.oreilly.com/pub/cpc/21362\"\
-    \ class=\"linkified\">http://www.oreilly.com/pub/cpc/21362</a></a></p> <p><b>About\
-    \ our Presenters: </b></p> <p><b>Adil Yalcin</b><b><br/>Bio:\_</b>My goal is to\
-    \ lower the barriers in rich data analysis for a broad audience through\_information\
-    \ visualization and interaction design, implementation, and evaluation.\_My PhD\
-    \ journey gives me a change to focus on the research and design foundations, and\
-    \ to search for new perspectives to advance how we think about data exploration.\
+    \ and design.</p> <p><b>Agenda</b></p> <p><b>6:30 - 7:10 - Networking</b></p>\
+    \ <p><b>7:10 - 7:40 \u2013 Adil Yalcin and Keshif</b></p> <p><b>7:40 - 7:50 \u2013\
+    \ Q &amp; A for Keshif</b></p> <p><b>7:50 - 8:20 \u2013 Fan Du and EventFlow</b></p>\
+    \ <p><b>8:20 - 8:30 \u2013 Q &amp; A for EventFlow</b></p> <p><b>8:40 - Data Drinks</b></p>\
+    \ <p>SPECIAL DEAL:</p> <p>O'Reilly AI Conference September 26-27 | New York, NY</p>\
+    \ <p>Save 20% - UGDATASCIDC</p> <p>Discover the real-world opportunities of applied\
+    \ artificial intelligence</p> <p><a href=\"http://www.oreilly.com/pub/cpc/21362\"\
+    ><a href=\"http://www.oreilly.com/pub/cpc/21362\" class=\"linkified\">http://www.oreilly.com/pub/cpc/21362</a></a></p>\
+    \ <p><b>About our Presenters: </b></p> <p><b>Adil Yalcin</b><b><br/>Bio:\_</b>My\
+    \ goal is to lower the barriers in rich data analysis for a broad audience through\_\
+    information visualization and interaction design, implementation, and evaluation.\_\
+    My PhD journey gives me a change to focus on the research and design foundations,\
+    \ and to search for new perspectives to advance how we think about data exploration.\
     \ By providing highest quality tools and services, I inspire to help people and\
     \ businesses identify opportunities for data analysis, explore their data, and\
     \ gain insights at the speed of thought.\_(<a href=\"http://www.adilyalcin.me/\"\
@@ -679,7 +679,7 @@ other:
     \ were carried out. I then describe simplification strategies for sharpening the\
     \ analytic focus so as to cope with the increase in data volume and pattern variety.\
     \ Finally, I discuss our recent work on cohort comparison and evidence-based intervention\
-    \ planning</p> <p>ANNOUNCEMENTS</p> <p>Hiring? Job Seeking? Datable.org</p> <p>Building\
+    \ planning.</p> <p>ANNOUNCEMENTS</p> <p>Hiring? Job Seeking? Datable.org</p> <p>Building\
     \ your brand in tech? Sponsor DC2</p> <p>Have a difficult data question? Ask 13,000\
     \ local Data Practitioners with Pushie</p>"
   duration: 8100000
@@ -694,14 +694,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1469572200000
-  updated: 1468431522000
+  updated: 1468434257000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 53
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -848,7 +848,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1466454487000
   description: "<p>Hello, Portland! Interested in open data, software, mapping, and\
     \ transportation? We're meeting in Portland for the first time, with a showcase\
@@ -898,7 +898,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 46
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -957,7 +957,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1094,7 +1094,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1208,9 +1208,9 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1467374992000
-  description: "<p><b>Only 14 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
+  description: "<p><b>Only 13 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
     >Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are\
     \ released in tiers of 10.</p> <p><br/><b>== MavenMini :\_</b><b>Web User Experience\
     \ Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations,\
@@ -1250,7 +1250,7 @@ other:
   name: 'MavenMini: Web User Experience'
   status: upcoming
   time: 1470945600000
-  updated: 1468346883000
+  updated: 1468439991000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -1514,7 +1514,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1467704208000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
     \ <p>Registration is through\_<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
