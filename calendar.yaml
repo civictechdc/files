@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 29
 - announced: false
   created: 1467850168000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -114,132 +114,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 5
 other:
-- created: 1467817941000
-  description: "<p>Tonight we're going to do another instance of one of our most popular\
-    \ recent events: building a surrealist Rails app.</p> <p>Inspired by a workshop\
-    \ by Terian Koscik at RailsConf 2016, we\u2019ll be building Rails apps in the\
-    \ exquisite corpse style. We\u2019ll be working in groups and basic knowledge\
-    \ of Rails and databases will be very helpful. To find out more information checkout\
-    \ these links!\_</p> <p>Terian\u2019s page on this workshop: <a href=\"http://pineconedoesthings.com/surreal.html\"\
-    ><a href=\"http://pineconedoesthings.com/surreal.html\" class=\"linkified\">http://pineconedoesthings.com/surreal.html</a></a>\_\
-    </p> <p>Exquisite corpse wikipedia page: <a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\"\
-    ><a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\" class=\"linkified\"\
-    >https://en.wikipedia.org/wiki/Exquisite_corpse</a></a></p> <p><b>Meetup Agenda</b></p>\
-    \ <p><br/>\u2022\_<b>6:30pm</b> - Setup</p> <p>\u2022<b> 7pm</b> - Break for quick\
-    \ introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\_- Build surrealist Rails\
-    \ apps!</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain\
-    \ building managements requires meetup hosts to let people in and do not encourage\
-    \ them being contacted. Please respect the policy, in case the location requires\
-    \ access to the building contact the group lead if information is provided, or\
-    \ drop a comment on the meetup page. We'll come and get you. Want to be a Ruby\
-    \ on Rails Lead? If you are passionate about learning ROR with fellow awesome\
-    \ women and want to help us, come on out! Drop us a message or email us and let\
-    \ us know that you are interested in helping us with the Rails study group!</p>\
-    \ <p><b>RESOURCES</b></p> <p>These are the resources that members have been following\
-    \ along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
-    \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
-    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232417635/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: vpdwvlyvkbrb
-  maybe_rsvp_count: 0
-  name: 'Ruby on Rails: Collaborate on a Surrealist Rails App'
-  status: upcoming
-  time: 1468449000000
-  updated: 1468084124000
-  utc_offset: -14400000
-  venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
-    lat: 38.899357000000002, localized_country_name: USA, lon: -77.033066000000005,
-    name: Living Social, repinned: false, state: DC, zip: '20005'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 10
-- created: 1446220149000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\_\
-    </p> <p>This Women Who Code DC event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227736623/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: Farragut North Metro Station
-  id: qqscvlyvkbrb
-  maybe_rsvp_count: 0
-  name: Python Lab- Beginners Night
-  rsvp_limit: 50
-  status: upcoming
-  time: 1468449000000
-  updated: 1467681570000
-  utc_offset: -14400000
-  venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
-    lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
-    name: The Iron Yard DC, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 48
-- created: 1417881835000
-  description: "<p>The state of the world's information systems are changing and so\
-    \ should your data processing habits. As the cloud takes precedence in IT environments,\
-    \ different systems that run the modern enterprise are not on the same network\
-    \ or system. These systems have data that business users need to leverage on a\
-    \ day to day and sometimes on an immediate basis.\_</p> <p>As big data evolves,\
-    \ we have seen movements from batch processing to micro-batches, to stream processing.\
-    \ All of this is great but folks still need to connect the internet together somehow\
-    \ to access the data.\_</p> <p>This discussion is about the new problems in business\
-    \ today and how to think about an asynchronous data processing framework that\
-    \ leverages both services oriented architecture and message oriented architecture.\_\
-    </p> <p><b>Asynchronous Data Processing w/ Services + Message Oriented Architecture</b></p>\
-    \ <p>\u2022\_Thoughts of why \"Asynchronous\" is the Future</p> <p>\u2022\_Discussion\
-    \ about Batch, Micro-Batch, Streaming</p> <p>\u2022\_Difference between a Queue\
-    \ / Enterprise Service Bus</p> <p>\u2022\_Proposed Architecture for Asynchronous\
-    \ Data Processing</p> <p>\n\n\n<b>Our Speaker</b></p> <p>Rahul Singh is a technology\
-    \ minded business person and a business minded technologist. As CEO of a company\
-    \ devoted to solving the most difficult problems in streamlining, organizing,\
-    \ and unifying business information, he is responsible for training the team,\
-    \ overseeing and creating technology with the research and development team, and\
-    \ fostering client and service partner relationships.\_</p> <p>Although he\u2019\
-    s programmed in over 30 computer languages and has worked with numerous platforms,\
-    \ frameworks, and libraries across all major internet software systems, he likes\
-    \ to spend his time sharpening his skills in information retrieval (search), knowledge\
-    \ management, business information systems, and machine learning to come up with\
-    \ ideas for a smarter, more modern enterprise.</p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/225934786/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclyvkbjb
-  maybe_rsvp_count: 0
-  name: Asynchronous Data Processing w/ Message Oriented Architecture
-  status: upcoming
-  time: 1468449000000
-  updated: 1468424880000
-  utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 13300352, lat: 38.898952000000001,
-    localized_country_name: USA, lon: -77.048942999999994, name: 'GWU, Funger Hall,
-      Room 108', repinned: false, state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 80
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -282,7 +156,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -314,7 +188,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1465512238000
   description: "<p>For July's meetup, we are honored to feature several data scientists\
     \ from Miner &amp; Kasch discussing recommendation\_engines, neural networks and\
@@ -407,7 +281,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 138
+  yes_rsvp_count: 153
 - created: 1467841459000
   description: "<p>For our July Data Science DC Meetup, we are excited to have Abhijit\
     \ Dasgupta\_join us to talk about meta-analysis - synthesizing direct and indirect\
@@ -515,7 +389,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -547,8 +421,11 @@ other:
   name: Ruby on Rails Lab Night
   status: upcoming
   time: 1469053800000
-  updated: 1467817941000
+  updated: 1468455086000
   utc_offset: -14400000
+  venue: {address_1: '806 7th St NW #201', city: Washington, country: us, id: 24412919,
+    lat: 38.900185, localized_country_name: USA, lon: -77.022148000000001, name: threespot,
+    repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
@@ -595,7 +472,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -701,7 +578,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 58
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -770,7 +647,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -848,7 +725,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1466454487000
   description: "<p>Hello, Portland! Interested in open data, software, mapping, and\
     \ transportation? We're meeting in Portland for the first time, with a showcase\
@@ -898,7 +775,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1020,7 +897,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1208,7 +1085,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1467374992000
   description: "<p><b>Only 13 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
     >Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are\
@@ -1229,17 +1106,12 @@ other:
     \ in new or unexpected ways or to otherwise introduce you to an intriguing idea\
     \ or approach. All of our presentations focus on websites, web apps and mobile\
     \ web.</p> <p><br/><i><b>SESSION 1:\_Users\_</b><br/></i>Identifying and understanding\
-    \ your website users including personas and user journeys.\_</p> <p><b>Speakers\
-    \ and Topics</b></p> <p>\"Create Great Personas and Use them\"<br/>Dara Pressley,\
-    \ CustomInk\_</p> <p>[2nd speaker coming soon]</p> <p><br/><i><b>SESSION 2:\_\
-    Usability\_</b><br/></i>Measuring and testing the usability of your website.</p>\
-    \ <p><b>Speakers and Topics</b></p> <p>[speakers coming soon]</p> <p><br/><i><b>SESSION\
-    \ 3:\_Planning &amp; Tuning\_</b><br/></i>Incorporating UX into your website update/tuning\
-    \ process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p>\
-    \ <p><b>Speakers and Topics</b></p> <p>Faz Besharatian, Estudio Faz\_</p> <p>\"\
-    Using the Feature Value Matrix to make decisions\"\_<br/>Nazhin Beiramee, Abt\
-    \ Associates\_</p> <p>[3rd speaker coming soon]</p> <p><b>SPONSORS</b></p> <p>Interested\
-    \ in sponsoring? Contact [masked] for more information.</p>"
+    \ your website users including personas and user journeys.\_</p> <p><i><b>SESSION\
+    \ 2:\_Usability\_</b><br/></i>Measuring and testing the usability of your website.</p>\
+    \ <p><i><b>SESSION 3:\_Planning &amp; Tuning\_</b><br/></i>Incorporating UX into\
+    \ your website update/tuning process. Concepts &amp; tools such as agile UX and\
+    \ wireframes/mockups/prototypes</p> <p><b>SPONSORS</b></p> <p>Interested in sponsoring?\
+    \ Contact [masked] for more information.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/232301329/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -1250,7 +1122,7 @@ other:
   name: 'MavenMini: Web User Experience'
   status: upcoming
   time: 1470945600000
-  updated: 1468439991000
+  updated: 1468464582000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -1360,6 +1232,71 @@ other:
   status: upcoming
   time: 1471386600000
   updated: 1459265764000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
+- created: 1446220217000
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
+    \ This Women Who Code DC event is intended to be exclusively open for women; we\
+    \ are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227884040/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gcxvllyvlbwb
+  maybe_rsvp_count: 0
+  name: Python Lab
+  rsvp_limit: 50
+  status: upcoming
+  time: 1471473000000
+  updated: 1459264410000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
+- created: 1467817941000
+  description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
+    \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
+    \ <p>\u2022 <b>7:15pm - 8:30 pm</b>\_- Open Lab, tech talk, or project</p> <p><b>Contact\
+    \ policy at buildings that need access</b></p> <p>Certain building managements\
+    \ requires meetup hosts to let people in and do not encourage them being contacted.\
+    \ Please respect the policy, in case the location requires access to the building\
+    \ contact the group lead if information is provided, or drop a comment on the\
+    \ meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you\
+    \ are passionate about learning ROR with fellow awesome women and want to help\
+    \ us, come on out! Drop us a message or email us and let us know that you are\
+    \ interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p>\
+    \ <p>These are the resources that members have been following along, feel free\
+    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
+    \ <p>This event is intended to be exclusively open for people who identify as\
+    \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
+    \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
+    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/vpdwvlyvlbwb/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: vpdwvlyvlbwb
+  maybe_rsvp_count: 0
+  name: Ruby on Rails Lab Night
+  status: upcoming
+  time: 1471473000000
+  updated: 1467817941000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0

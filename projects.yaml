@@ -969,7 +969,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 2, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1858,7 +1858,7 @@
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16766406?v=3', contributions: 8,
     link: 'https://github.com/nbanion', name: nbanion}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/8390111?v=3', contributions: 3,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/8390111?v=3', contributions: 4,
     link: 'https://github.com/snakonechny', name: snakonechny}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/11261788?v=3', contributions: 3,
     link: 'https://github.com/mseew', name: mseew}
@@ -1876,15 +1876,15 @@
   id: 59790985
   languages:
   - [HTML, 1060597]
-  - [R, 6559]
+  - [R, 6443]
   license: null
   main_language: HTML
   name: Rent Stabilization
   open_issues: 0
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-07-08T15:25:16Z'
+  pushed_at: '2016-07-14T02:03:35Z'
   short_name: rent-stabilization
-  size: 469
+  size: 471
   updated_at: '2016-07-07T03:25:00Z'
   watchers: 0
