@@ -151,7 +151,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -171,15 +171,27 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvkbzb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab: Creating Activities ", 
+            "name": "Android Lab: Creating Activities", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1468967400000, 
-            "updated": 1467802805000, 
+            "updated": 1468691851000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3160 16th Street Northwest, 2 blocks from Columbia Heights metro", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24589986, 
+                "lat": 38.928534999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.033225999999999, 
+                "name": "Mt. Pleasant Neighborhood Library", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1465512238000, 
@@ -261,7 +273,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 210
+            "yes_rsvp_count": 211
         }, 
         {
             "created": 1446220217000, 
@@ -903,7 +915,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1467374992000, 
