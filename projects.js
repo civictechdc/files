@@ -1473,8 +1473,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -5786,9 +5786,15 @@ projects([
                 "contributions": 2, 
                 "link": "https://github.com/ursulakaczmarek", 
                 "name": "ursulakaczmarek"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7833279?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/br-mcdermott", 
+                "name": "br-mcdermott"
             }
         ], 
-        "contributors_count": 5, 
+        "contributors_count": 6, 
         "created_at": "2016-05-27T00:06:05Z", 
         "default_branch": "master", 
         "description": "Evaluate how a change in rent stabilization policy would affect rental properties in the District.", 
@@ -5817,9 +5823,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-07-14T02:03:35Z", 
+        "pushed_at": "2016-07-19T15:39:23Z", 
         "short_name": "rent-stabilization", 
-        "size": 471, 
+        "size": 460, 
         "updated_at": "2016-07-07T03:25:00Z", 
         "watchers": 0
     }

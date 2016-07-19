@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 55
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 18
         }, 
         {
             "announced": false, 
@@ -120,7 +120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "announced": true, 
@@ -160,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "announced": false, 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }
     ], 
     "other": [
@@ -272,7 +272,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1465512238000, 
@@ -312,7 +312,7 @@
                 "zip": "21044"
             }, 
             "visibility": "public", 
-            "waitlist_count": 33, 
+            "waitlist_count": 36, 
             "yes_rsvp_count": 175
         }, 
         {
@@ -354,7 +354,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 231
+            "yes_rsvp_count": 237
         }, 
         {
             "created": 1446220217000, 
@@ -379,7 +379,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1469053800000, 
-            "updated": 1468832380000, 
+            "updated": 1468944748000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1428 U Street, NW", 
@@ -396,7 +396,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1467817941000, 
@@ -416,10 +416,10 @@
             "headcount": 0, 
             "id": "vpdwvlyvkbbc", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Lab Night", 
+            "name": "Ruby on Rails Lab Night - Ruby Exercises", 
             "status": "upcoming", 
             "time": 1469053800000, 
-            "updated": 1468455086000, 
+            "updated": 1468939281000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "806 7th St NW #201", 
@@ -475,7 +475,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1468871910000, 
@@ -515,7 +515,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1459265642000, 
@@ -583,7 +583,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1467817941000, 
@@ -688,7 +688,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1468351277000, 
@@ -873,7 +873,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
@@ -1206,7 +1206,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1459265642000, 
@@ -1293,7 +1293,7 @@
         }, 
         {
             "created": 1468424212000, 
-            "description": "<p>Coders and commuting: how do apps change the way we drive? This meetup invites people to demo projects about car-sharing, ride-sharing, traffic, and more.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share. So far our presenters are:</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.</p> <p><br/>\u2022\u00a0Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p><br/>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Coders and commuting: how do apps change the way we drive? This meetup invites people to demo projects about car-sharing, ride-sharing, traffic, and more.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share. So far our presenters are:</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.\u00a0</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232589028/", 
             "group": {
                 "created": 1384372275000, 
@@ -1312,7 +1312,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1471568400000, 
-            "updated": 1468870655000, 
+            "updated": 1468937560000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1328,7 +1328,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1465422954000, 
