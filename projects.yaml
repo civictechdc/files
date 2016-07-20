@@ -1,6 +1,6 @@
-- activity: [1, 9, 0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0,
-    6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [2, 8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 5,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -85,7 +85,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 88
+  open_issues: 83
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-04-11T01:45:08Z'
@@ -258,8 +258,8 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [5, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0,
-    4, 1, 1, 0, 3, 0, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 4, 2, 0, 12, 1, 0, 0,
+- activity: [6, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 5, 1, 0, 5, 1, 2, 7, 6, 7, 0,
+    4, 1, 1, 0, 3, 0, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 5, 1, 0, 12, 1, 0, 0,
     3, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -643,9 +643,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [0, 3, 0, 6, 0, 3, 2, 5, 2, 7, 3, 6, 2, 0, 0, 1, 1, 4, 1, 4, 10, 8, 2,
-    0, 2, 20, 2, 0, 0, 0, 6, 36, 64, 2, 12, 14, 64, 16, 8, 10, 2, 30, 22, 4, 11, 0,
-    5, 10, 0, 2, 0, 0]
+- activity: [1, 2, 0, 6, 2, 1, 2, 5, 5, 4, 3, 6, 2, 0, 0, 2, 0, 4, 1, 14, 2, 6, 2,
+    2, 20, 0, 2, 0, 0, 0, 18, 24, 64, 6, 10, 54, 22, 20, 12, 2, 10, 22, 23, 8, 6,
+    0, 5, 10, 2, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -773,7 +773,7 @@
       \n- [ ]  Run the csv through the address updater\r\n- [ ]  Run the csv through\
       \ the deduper (I have the training file)\r\n- [ ]  Run the importer2 against\
       \ the csv\r\n- [ ]  Run the upgrade scripts"
-    comments: 12
+    comments: 13
     created_at: '2016-03-30T11:53:40Z'
     issue: Update database with up to date contributions
     issue_url: https://github.com/codefordc/dc-campaign-finance-watch/issues/121
@@ -782,7 +782,7 @@
     - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted'}
     project: Campaign Finance Watch
     project_url: https://github.com/codefordc/dc-campaign-finance-watch
-    updated_at: '2016-06-10T00:51:26Z'
+    updated_at: '2016-07-20T00:31:46Z'
   homepage: http://codefordc.org/dc-campaign-finance-watch/
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
@@ -795,7 +795,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 21
+  open_issues: 23
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-07-06T14:54:17Z'
@@ -1296,7 +1296,7 @@
   size: 21200
   updated_at: '2016-02-01T04:27:57Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1325,7 +1325,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 16, 0, 27, 8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 16, 0, 28, 7, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1409,7 +1409,7 @@
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 2, 2, 10, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 3, 3, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1441,9 +1441,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 15, 0, 0, 9, 6, 8,
-    39, 2, 17, 9, 15, 10, 71, 48, 26, 51, 73, 38, 42, 48, 27, 25, 30, 28, 39, 16,
-    28, 95, 56, 56, 32, 71, 97, 86, 6]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4,
+    40, 7, 10, 20, 4, 21, 73, 51, 14, 48, 83, 27, 53, 38, 36, 23, 22, 46, 22, 19,
+    33, 94, 49, 56, 34, 74, 91, 86, 8]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1537,17 +1537,17 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 82
+  open_issues: 83
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-07-19T02:14:50Z'
+  pushed_at: '2016-07-20T00:58:43Z'
   short_name: dcaf_case_management
   size: 10413
   updated_at: '2016-07-10T16:23:00Z'
   watchers: 10
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 1, 0]
+    1, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
   contributors:
@@ -1574,8 +1574,8 @@
   size: 31
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10,
-    12, 28, 23, 14, 27, 23, 43, 15, 27, 11, 9, 18, 30, 26, 16, 15, 5, 9, 0, 6, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 2, 8,
+    12, 28, 24, 17, 23, 27, 48, 9, 24, 11, 10, 23, 34, 20, 18, 12, 2, 9, 0, 6, 0,
     0, 0, 0, 0, 0, 0, 1, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1638,7 +1638,7 @@
   size: 18369
   updated_at: '2016-05-13T12:52:54Z'
   watchers: 6
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1774,7 +1774,7 @@
   updated_at: '2016-05-08T17:22:58Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -1850,7 +1850,7 @@
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 6, 0, 0,
-    0, 16, 1]
+    0, 16, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1890,3 +1890,47 @@
   size: 460
   updated_at: '2016-07-07T03:25:00Z'
   watchers: 0
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67,
+    5, 0, 0]
+  ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
+  civic_json: null
+  contributors:
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 48,
+    link: 'https://github.com/alulsh', name: alulsh}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7659813?v=3', contributions: 8,
+    link: 'https://github.com/khiggins115', name: khiggins115}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3990087?v=3', contributions: 6,
+    link: 'https://github.com/alexwweston', name: alexwweston}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/8509058?v=3', contributions: 6,
+    link: 'https://github.com/sara4844', name: sara4844}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/8990853?v=3', contributions: 3,
+    link: 'https://github.com/BuffyShepard', name: BuffyShepard}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/17552911?v=3', contributions: 2,
+    link: 'https://github.com/hareno44', name: hareno44}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/16272373?v=3', contributions: 2,
+    link: 'https://github.com/kimcabb', name: kimcabb}
+  contributors_count: 7
+  created_at: '2016-06-24T00:52:18Z'
+  default_branch: master
+  description: DCFemTech Hack for Good 2016 - WABA Bike Map Project
+  forks: 3
+  help_wanted: []
+  homepage: null
+  html_url: https://github.com/dcfemtech/hackforgood-waba-map
+  id: 61846251
+  languages:
+  - [JavaScript, 2969]
+  - [HTML, 954]
+  - [CSS, 164]
+  license: null
+  main_language: JavaScript
+  name: WABA Regional Bike Map
+  open_issues: 22
+  owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
+    type: Organization, url: 'https://github.com/dcfemtech'}
+  pushed_at: '2016-07-20T03:14:16Z'
+  short_name: hackforgood-waba-map
+  size: 9802
+  updated_at: '2016-07-20T00:21:31Z'
+  watchers: 3

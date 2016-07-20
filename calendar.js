@@ -2,47 +2,6 @@ calendar({
     "codefordc": [
         {
             "announced": true, 
-            "created": 1467850116000, 
-            "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/232430889/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "232430889", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1468967400000, 
-            "updated": 1467850116000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 56
-        }, 
-        {
-            "announced": true, 
             "created": 1468797949000, 
             "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.\u00a0With a special guest! Barney Krucoff, DC's new Chief Data Officer will be on hand to talk about DC's draft data policy.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 7:30 Barney Krucoff!</p> <p>7:30 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -234,88 +193,6 @@ calendar({
             "yes_rsvp_count": 35
         }, 
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>This week: We will be focusing on building creating your own Activity file 8 in Java. We'll talk about Java and how it relates to Android.No experience necessary.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232295681/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvkbzb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab: Creating Activities", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1468967400000, 
-            "updated": 1468868222000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1428 U Street, NW", 
-                "city": "Washington ", 
-                "country": "us", 
-                "id": 24660606, 
-                "lat": 38.909999999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.019997000000004, 
-                "name": "NAVA", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
-        {
-            "created": 1465512238000, 
-            "description": "<p>For July's meetup, we are honored to feature several data scientists from Miner &amp; Kasch discussing recommendation\u00a0engines, neural networks and data science\u00a0applications.</p> <p><b>Agenda</b></p> <p><br/>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Collaborative Filtering For Recommendation Engines - Patrick Roos</i></p> <p>7:35 PM --\u00a0<i>Building Successful Data Science Applications - Niels Kasch</i></p> <p>8:10 PM --\u00a0<i>Recognizing Novel Images using Pre-trained Neural Networks -\u00a0Maksym Morawski</i></p> <p><br/>9:00 PM -- Post event drinks at Green Turtle</p> <p><b>Location</b></p> <p><a href=\"http://www.loyola.edu/department/columbia/about/location-hours\">Loyola Columbia</a></p> <p>8890 McGaw Rd #230,\u00a0Columbia,\u00a0MD</p> <p><b>Directions</b></p> <p>There is ample free parking surrounding the building.</p> <p><b>Talks</b></p> <p><b>Collaborative Filtering For Recommendation Engines<br/></b></p> <p>Collaborative filtering is a method of making automatic, personalized predictions about the tastes of a user by collecting and leveraging the taste preferences from other users. The basis of the method assumes that the if users are known to share preferences for items, those users are more likely to have the same preference for other items. The method has had success in a variety of web-based markets, including Amazon, iTunes, Netflix, and LastFM. This talk covers the basics behind the collaborative filtering algorithm, it\u2019s strengths, weaknesses, and ways to augment it to make better recommendation engines.</p> <p><br/><b>Building Successful Data Science Applications</b></p> <p><br/>Data Scientists are under constant pressure to deliver the latest and greatest analytics that save or make organizations loads of money. In this talk, I will draw upon real-life experience to see what it takes to deliver successful data science applications in industry. Using an example from the telecommunications industry, I will show what business leaders need to do to put their data scientists into a position to succeed, and what a data scientist (or team of data scientists) should do to deliver high quality, reliable, and reproducible results - whether they are positive or negative. By walking through the life cycle of an analytics project I present the techniques and processes that foster trust in analytics and pave the way to putting your data science work into production.</p> <p><br/><b>Recognizing Novel Images using Pre-trained Neural Networks</b></p> <p><br/>While there exist many pre-trained neural networks to do image recognition, it is often of interest to classify images that these general networks are not typically trained on. \u00a0Training a neural network from scratch, however, can be quite a finicky, time intensive process. \u00a0However, it is possible to use these pre-trained neural networks as featurizers for novel images, and then to classify them using traditional, out of the box supervised learning methods.</p> <p><br/><b>Speakers</b></p> <p><b>Patrick Roos</b>\u00a0has two decades of industry and research experience using machine learning, data mining, distributed systems, and modeling to generate knowledge from data and tools to leverage it. He has a successful track record developing and applying big data\u00a0analytics\u00a0and predictive solutions across a variety of fields, including finance, \u00a0telecommunications, network science, biomedical informatics and genomics, behavior modeling, digital media information retrieval, and e-commerce recommender systems. He received his PhD in Computer Science from the University of Maryland, College Park, focusing on socio-cultural behavior modeling and prediction. Patrick can be reached at\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/><b><a href=\"https://www.linkedin.com/in/nielskasch\">Niels Kasch</a></b> is a seasoned data scientist and founding partner of Miner &amp; Kasch, a premier data science consulting firm based in Baltimore, MD. Niels has an extensive background in natural language processing, machine learning, and web-scale information extraction. He has delivered high quality analytics solutions to several Fortune 500 clients and has extensive hand-on experience and domain knowledge in verticals ranging from finance to oil and gas. Niels has a mature understanding of translating analytics investments into actionable insights and is helping businesses to make the transformation into predictive enterprises. Niels holds a Ph.D. in Computer Science from UMBC and a M.S. in Computer Science from East Carolina University. Niels can be reached on Twitter\u00a0<a href=\"https://twitter.com/nielskasch\">@nielskasch</a></p> <p><br/><b>Maksym Morawski</b> graduate with his masters in computer science from UMBC in 2013, with a focus on link prediction in social networks. \u00a0After a brief stint teaching he moved to Miner and Kasch in 2015 and works as a data scientist. Maksym can be reached at\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/><b>Company</b></p> <p><a href=\"http://minerkasch.com/\">Miner &amp; Kasch</a> is a Big Data platform architecture and data science consulting firm based in Baltimore, MD. Our consultants have industry-leading expertise across healthcare, finance, retail, government, energy, and entertainment. Miner &amp; Kasch platform architects provide customers full-stack expertise in technologies across the Big Data ecosystem, including Hadoop, Spark, HBase, Accumulo, Cassandra, and MPP Databases. Miner &amp; Kasch \u00a0data scientists provide insight into the most difficult questions customers encounter using cutting-edge machine learning, statistics, and data analysis tools.</p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/231781571/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "231781571", 
-            "maybe_rsvp_count": 0, 
-            "name": "Recommendation Engines, Neural Networks and Data Science Applications", 
-            "rsvp_limit": 175, 
-            "status": "upcoming", 
-            "time": 1468967400000, 
-            "updated": 1467172126000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "8890 McGaw Rd #230", 
-                "city": "Columbia", 
-                "country": "us", 
-                "id": 23832486, 
-                "lat": 39.209999000000003, 
-                "localized_country_name": "USA", 
-                "lon": -76.879997000000003, 
-                "name": "Loyola Columbia", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21044"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 34, 
-            "yes_rsvp_count": 175
-        }, 
-        {
             "created": 1467841459000, 
             "description": "<p>For our July Data Science DC Meetup, we are excited to have Abhijit Dasgupta\u00a0join us to talk about meta-analysis - synthesizing direct and indirect effects of treatments, and some applications for big data analyses.</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>\u00a0-- starting soon: biostatistics, predictive modeling, clinical trials, epidemiology, Bayesian, R, Python.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Meta-analysis: Synthesizing direct and indirect effects of treatments, and some applications for big data analyses.</b></p> <p>Meta-analyses are in the news!!! From affecting <a href=\"https://en.wikipedia.org/wiki/Saturated_fat_and_cardiovascular_disease_controversy#Systematic_reviews\">what we choose to eat</a> to looking at <a href=\"https://www.autismspeaks.org/science/science-news/new-meta-analysis-confirms-no-association-between-vaccines-and-autism\">vaccines' impact on autism</a>, meta-analyses have an impact in improving our knowledge and understanding, specially when a topic is confusing or has contradictory results and views. It is a means of seeing the forest for the trees, distilling and synthesizing the extant knowledge about a topic.</p> <p>Meta-analyses are mainly seen in the world of biomedical research, so interest is in \"treatments\", namely drugs \u00a0or particular diets or the like. However, \"treatments\" can mean a marketing campaign or a behavioral intervention (like spanking) or a change of a protocol. With that understanding, meta-analysis refers to the synthesis of results from several small but comparable studies to derive overall estimates of treatment effects that typically will be more robust and have higher statistical power.\u00a0</p> <p>Classical meta-analysis involves studies looking at the same treatments to get an overall summary effect of one particular treatment effect. Network meta-analysis can be modeled to utilize indirect comparisons to compare the relative effectiveness of several different treatments of the same condition. In this presentation I will describe both classical and network meta-analysis, as well as the typical problems and biases one has to be aware of in doing meta-analyses. The computations and weighting schemes used in meta-analysis can have direct applications to implement a Divide-and-Conquer strategy so that modeling of large data sets can be done in chunks and the results combined to get valid results for the entire data set. I will describe an example from my experience in fitting competing risks models to a large administrative data set.</p> <p><b>Bio:</b></p> <p><br/><b>Abhijit Dasgupta</b></p> <p>Dr. Abhijit Dasgupta is a consulting statistician/data scientist in the Washington DC metropolis. He is fascinated by the innovative use of data analytic methods to gain insight and tell substantive stories, using modern methods for modeling, simulation and visualization.</p> <p>A PhD-level biostatistician by training, Dr. Dasgupta currently works to bridge the statistics-machine learning divide, by merging machine learning methods with sound statistical thinking and principles to help enhance our ability to derive intelligence from data. He now has over 50 peer-reviewed research and collaborative papers in areas ranging from bioinformatics, cancer research and operations research to methods for cluster analysis and intelligent robust modeling. He also consults for local startups doing bioengineering, business analytics and bioinformatics. Dr. Dasgupta also helps train companies in using R for their analytics needs, leveraging over 20 years experience using R and Python for data analyses and reporting.</p> <p>Dr. Dasgupta also works to build the local data community, organizing the Statistical Programming DC meet up and serving on the Board of Data Community DC.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 10800000, 
@@ -475,7 +352,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1468871910000, 
@@ -543,7 +420,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1468421169000, 
@@ -583,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1467817941000, 
@@ -765,7 +642,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1459265642000, 
@@ -912,7 +789,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1460389774000, 
@@ -1112,7 +989,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1467374992000, 
@@ -1265,6 +1142,45 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1468853724000, 
+            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232708907/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "xvsfwlyvlbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails", 
+            "status": "upcoming", 
+            "time": 1471473000000, 
+            "updated": 1468867152000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "806 7th St NW #201", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24412919, 
+                "lat": 38.900185, 
+                "localized_country_name": "USA", 
+                "lon": -77.022148000000001, 
+                "name": "threespot", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1468865620000, 
             "description": "<p>Come join PyLadies for Happy Hour! It doesn't matter if you're a newbie or an expert - stop by for a drink and to meet other PyLadies and talk Python.</p> <p><br/>Be sure to bring any ideas or requests for what you'd like from PyLadies DC, too. We'd love to hear from you while you're there!</p> <p>Hope to see you soon!</p>", 
             "event_url": "http://www.meetup.com/dc-pyladies/events/232708177/", 
@@ -1328,7 +1244,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1465422954000, 
@@ -1367,7 +1283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1326383071000, 
@@ -1653,7 +1569,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1467833256000, 
