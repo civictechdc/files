@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "announced": false, 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }
     ], 
     "other": [
@@ -312,7 +312,7 @@
                 "zip": "21044"
             }, 
             "visibility": "public", 
-            "waitlist_count": 36, 
+            "waitlist_count": 34, 
             "yes_rsvp_count": 175
         }, 
         {
@@ -354,7 +354,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 237
+            "yes_rsvp_count": 248
         }, 
         {
             "created": 1446220217000, 
@@ -379,7 +379,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1469053800000, 
-            "updated": 1468944748000, 
+            "updated": 1468960319000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1428 U Street, NW", 
@@ -583,7 +583,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1467817941000, 
@@ -688,7 +688,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1468351277000, 
@@ -730,7 +730,7 @@
         }, 
         {
             "created": 1466454487000, 
-            "description": "<p>Hello, Portland! Interested in open data, software, mapping, and transportation? We're meeting in Portland for the first time, with a showcase of bike- and transit- projects made by Portland's coolest coders.\u00a0</p> <p>The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0</p> <p>Doors open at 6:00 with snacks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a>\u00a0of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will\u00a0discuss how crowdsourcing applications like\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0can support the future of transportation planning.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana McHugh will share <a href=\"http://trimet.org/\">Trimet</a>'s work on\u00a0integration with shared-use mobility options; new <a href=\"http://www.opentripplanner.org/\">OpenTripPlanner</a> API; open geocoder; and more data in OpenStreetMap.</p> <p>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Hello, Portland! Interested in open data, software, mapping, and transportation? We're meeting in Portland for the first time, with a showcase of bike- and transit- projects made by Portland's coolest coders.\u00a0</p> <p>The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0</p> <p>Doors open at 6:00 with snacks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a>\u00a0of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will\u00a0discuss how crowdsourcing applications like\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0can support the future of transportation planning.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana McHugh will share <a href=\"http://trimet.org/\">TriMet</a>'s work on\u00a0integration with shared-use mobility options; new <a href=\"http://docs.opentripplanner.org/en/latest/#opentripplanner\">OpenTripPlanner</a>\u00a0API; open geocoder; and more data in OpenStreetMap.</p> <p>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
@@ -749,7 +749,7 @@
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1470175200000, 
-            "updated": 1468810685000, 
+            "updated": 1468957633000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "921 SW 6th Ave", 
@@ -765,7 +765,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1459265642000, 
@@ -833,7 +833,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1452612310000, 
@@ -1293,7 +1293,7 @@
         }, 
         {
             "created": 1468424212000, 
-            "description": "<p>Coders and commuting: how do apps change the way we drive? This meetup invites people to demo projects about car-sharing, ride-sharing, traffic, and more.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share. So far our presenters are:</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.\u00a0</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. <i>Ride-sharing is caring!</i>\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share.</p> <p>If you know any\u00a0Transportation Techies in Oregon, be sure to tell them about our meetup there August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event to your calendar, be aware Meetup might use the wrong time zone. They use the group's location instead of the event's location, and since the group is temporarily \"based\" in Portland, the default time will be off by three hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232589028/", 
             "group": {
                 "created": 1384372275000, 
@@ -1312,7 +1312,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1471568400000, 
-            "updated": 1468937560000, 
+            "updated": 1468959940000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1328,7 +1328,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1465422954000, 
@@ -1367,7 +1367,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1326383071000, 

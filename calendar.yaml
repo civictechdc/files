@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - announced: true
   created: 1468797949000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -76,7 +76,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - announced: false
   created: 1467850168000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -190,7 +190,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 other:
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -361,7 +361,7 @@ other:
     lat: 39.209999000000003, localized_country_name: USA, lon: -76.879997000000003,
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
-  waitlist_count: 36
+  waitlist_count: 34
   yes_rsvp_count: 175
 - created: 1467841459000
   description: "<p>For our July Data Science DC Meetup, we are excited to have Abhijit\
@@ -441,7 +441,7 @@ other:
       Room 213', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 237
+  yes_rsvp_count: 248
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -467,7 +467,7 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1469053800000
-  updated: 1468944748000
+  updated: 1468960319000
   utc_offset: -14400000
   venue: {address_1: '1428 U Street, NW', city: 'Washington ', country: us, id: 24660606,
     lat: 38.909999999999997, localized_country_name: USA, lon: -77.019997000000004,
@@ -693,7 +693,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 109
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -812,7 +812,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1468351277000
   description: "<p>August! \_The height of summer! \_Let's gather to talk about and\
     \ hear about APIs!! \_</p> <p>We've got another solid line up of presenters for\
@@ -866,9 +866,9 @@ other:
     >Alex\_Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\"\
     >SPEC</a>\" (Sensing Pollution Exposure by Community)\_project, mapping air quality\
     \ along bike routes.</p> <p>\u2022\_Bibiana McHugh will share <a href=\"http://trimet.org/\"\
-    >Trimet</a>'s work on\_integration with shared-use mobility options; new <a href=\"\
-    http://www.opentripplanner.org/\">OpenTripPlanner</a> API; open geocoder; and\
-    \ more data in OpenStreetMap.</p> <p>\u2022 <a href=\"http://chrissmith.us/\"\
+    >TriMet</a>'s work on\_integration with shared-use mobility options; new <a href=\"\
+    http://docs.opentripplanner.org/en/latest/#opentripplanner\">OpenTripPlanner</a>\_\
+    API; open geocoder; and more data in OpenStreetMap.</p> <p>\u2022 <a href=\"http://chrissmith.us/\"\
     >Chris Smith</a> will show how\_<a href=\"http://transitappliance.com/\">Transit\
     \ Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's\
     \ bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\"\
@@ -884,14 +884,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1470175200000
-  updated: 1468810685000
+  updated: 1468957633000
   utc_offset: -14400000
   venue: {address_1: 921 SW 6th Ave, city: Portland, country: us, id: 24617175, lat: 45.517544000000001,
     localized_country_name: USA, lon: -122.680008, name: Hilton Portland, repinned: false,
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -953,7 +953,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1428,22 +1428,36 @@ other:
   yes_rsvp_count: 7
 - created: 1468424212000
   description: "<p>Coders and commuting: how do apps change the way we drive? This\
-    \ meetup invites people to demo projects about car-sharing, ride-sharing, traffic,\
-    \ and more.</p> <p>Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>\_if you have a project you'd like to share. So far our presenters\
-    \ are:</p> <p><br/>\u2022\_<a href=\"https://twitter.com/1littlevictory\">Anna\
-    \ Petrone</a>\_will present how <a href=\"http://split.us/\">Split</a> is building\
-    \ a scalable and efficient shared ride system.\_</p> <p>\u2022Andriy Klymchuk\
-    \ will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created,\
-    \ a mobile app for communities of commuters.</p> <p><br/>\u2022\_Numaan Akram\
-    \ from <a href=\"http://rallybus.net/\">Rally</a>\_will show how their technology\
-    \ connects riders to vans &amp; buses for trips that vary as widely as your daily\
-    \ commute to the Super Bowl.</p> <p><br/>\u2022\_Prachi Vakharia will show how\_\
-    <a href=\"https://rideamigos.com/\">RideAmigos</a>\_integrates transportation\
-    \ network companies into city planning.\_</p> <p>\u2022\_<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\"\
-    >Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\"\
-    >Mapbox Drive</a> and show how to use it to build your own ridesharing app.\_\
-    </p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\"\
+    \ month we'll hear from tech companies with apps that help people share the road.\
+    \ <i>Ride-sharing is caring!</i>\_We'll meet on the 12th floor of\_<a href=\"\
+    https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal\
+    \ City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor <a\
+    \ href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.\_\
+    </p> <p>\u2022\_<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\_\
+    will present how <a href=\"http://split.us/\">Split</a> is building a scalable\
+    \ and efficient shared ride system.\_</p> <p>\u2022Andriy Klymchuk will show how\
+    \ <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app\
+    \ for communities of commuters.</p> <p><br/>\u2022\_Numaan Akram from <a href=\"\
+    http://rallybus.net/\">Rally</a>\_will show how their technology connects riders\
+    \ to vans &amp; buses for trips that vary as widely as your daily commute to the\
+    \ Super Bowl.</p> <p><br/>\u2022\_Prachi Vakharia will show how\_<a href=\"https://rideamigos.com/\"\
+    >RideAmigos</a>\_integrates transportation network companies into city planning.</p>\
+    \ <p>\u2022\_Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\"\
+    >Getaround</a>'s\_software and hardware technologies.</p> <p><br/>\u2022\_<a href=\"\
+    https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will\
+    \ present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and\
+    \ show how to use it to build your own ridesharing app.</p> <p>Contact\_<a href=\"\
+    http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\_\
+    if you have a project you'd like to share.</p> <p>If you know any\_Transportation\
+    \ Techies in Oregon, be sure to tell them about our meetup there August 2: <a\
+    \ href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland\
+    \ Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\_\
+    <a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike\
+    \ Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event\
+    \ to your calendar, be aware Meetup might use the wrong time zone. They use the\
+    \ group's location instead of the event's location, and since the group is temporarily\
+    \ \"based\" in Portland, the default time will be off by three hours for our DC/Arlington\
+    \ events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\"\
     >Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\"\
     >Safer streets with better data</a>.\"</p> <p><br/>\_ \_ \_\U0001F697 \U0001F4A8\
     \_ \_ \_ \_ \_ \_ \_\U0001F69A \U0001F4A8\_ \_ \_ \_ \_ \_ \_\U0001F699 \U0001F4A8\
@@ -1461,14 +1475,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1471568400000
-  updated: 1468937560000
+  updated: 1468959940000
   utc_offset: -25200000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 53
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -1518,7 +1532,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 61
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
