@@ -106,6 +106,9 @@
     },
     {
         "Rent Stabilization": "https://github.com/codefordc/rent-stabilization"
+    },
+    {
+        "WABA Regional Bike Map": "https://github.com/dcfemtech/hackforgood-waba-map"
     }
 ],
 "meetups": [
