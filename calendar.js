@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 25
         }, 
         {
             "announced": false, 
@@ -298,7 +298,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1468421169000, 
@@ -338,7 +338,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 149
+            "yes_rsvp_count": 161
         }, 
         {
             "created": 1467817941000, 
@@ -366,6 +366,47 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
+        }, 
+        {
+            "created": 1469114333000, 
+            "description": "<p>For our August Data Science DC Meetup, we are excited to have John J. Nay, \u00a0a Ph.D. Candidate at the Vanderbilt University School of Engineering and a Research Fellow at Vanderbilt Law School\u2019s Program on Law &amp; Innovation,\u00a0join us to speak about\u00a0<b>predicting and understanding law with machine learning</b>!</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Predicting and Understanding Law with Machine Learning</b></p> <p>First, we present new methods to embed institutions and their legal text into shared continuous vector space to enable novel investigations into differences across institutions. Our model discerns meaningful differences between government branches. The similarities between learned representations of Congresses over time and sitting Presidents are negatively correlated with the bill veto rate, and the temporal ordering of Presidents and Congresses was implicitly learned from only text.</p> <p>Second, we describe <a href=\"http://predictgov.com/\">PredictGov</a>, a machine learning system for predicting Congress. Starting with the 107th Congress, we trained models on data from previous Congresses, predicted all bills in the current Congress, and repeated until the 113th Congress served as the test. The median of the predicted probabilities for enacted bills was 0.71, while the median of the predicted probabilities for failed bills was 0.01. We also conducted a sensitivity analysis on the model to determine important factors predicting enactment. We will describe these results and demonstrate its interactive implementation for real-time predictions of the 114th Congress.</p> <p><b>Bio:</b></p> <p><br/><b>John J. Nay</b></p> <p>John J. Nay is a Ph.D. Candidate at the Vanderbilt University School of Engineering and a Research Fellow at Vanderbilt Law School\u2019s Program on Law &amp; Innovation. He received his bachelor\u2019s degree with High Distinction from the University of Virginia. His computational work is directed toward law and policy applications, including <a href=\"http://johnjnay.com/predMarket/\">computer simulations of climate prediction markets</a>, <a href=\"http://johnjnay.com/forecastVeg/\">software for forecasting drought globally with satellite data</a>, <a href=\"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155656\">computational models predicting human cooperation</a>, <a href=\"http://www.informs-sim.org/wsc15papers/272.pdf\">software for automatically estimating models of decision-making</a>, <a href=\"https://dl.dropboxusercontent.com/u/108075111/Nay_2016_gov2vec.pdf\">natural language processing of law and policy</a>, and <a href=\"http://arxiv.org/abs/1607.02109\">machine learning for predicting and understanding law-making</a>. He is currently collaborating with social scientists, environmental scientists, and engineers on multiple National Science Foundation-funded projects, and with lawyers on developing legal technology. More information can be found at <a href=\"http://johnjnay.com/\">johnjnay.com</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/232779779/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "232779779", 
+            "maybe_rsvp_count": 0, 
+            "name": "Predicting and Understanding Law with Machine Learning", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1470090600000, 
+            "updated": 1469116034000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1957 E St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 11329012, 
+                "lat": 38.896228999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043960999999996, 
+                "name": "GWU, Elliott School, Room 213", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1457035701000, 
@@ -405,7 +446,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1468351277000, 
@@ -443,7 +484,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1459265642000, 
@@ -833,7 +874,7 @@ calendar({
         }, 
         {
             "created": 1467374992000, 
-            "description": "<p><b>Only 12 spots left!</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>AGENDA</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>SESSIONS\u00a0&amp; SPEAKERS</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><b><i>SESSION 1: Users<br/></i></b>Identifying and understanding your website users including personas and user journeys.</p> <p><br/><b>Speakers and Topics</b></p> <p>Dara Pressley, CustomInk\u00a0</p> <p>\n\n<i><b>SESSION 2:\u00a0Usability\u00a0</b><br/></i></p> <p>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p>Weimin Hou, Senior Usability Specialist, UserWorks</p> <p>Emily Patterson, Senior Manager, Web Analytics, PBS</p> <p>\n\n<b><i>SESSION 3:\u00a0Planning &amp; Tuning\u00a0<br/></i></b>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><br/><b>Speakers and Topics</b></p> <p>Faz Besharatian, Principal, GustoWorks</p> <p>Nazhin Beiramee, UX Consultant, Cirak Studios</p> <p>\n\n<b>OUR SPONSOR</b></p> <p><a href=\"http://userworks.com/\"><b>UserWorks</b></a></p> <p>UserWorks, Inc. is a user experience research and design firm located in the Washington, DC metro area. We are a Maryland small business and offer a wide range of services, including user interface design support, usability evaluations, and accessibilty evaluation services for both hardware and software products. We help organizations design and test products, assist them in developing their own usability and accessibility capabilities, and provide both fixed and portable lab facilities on a rental basis.</p> <p><i>\u00a0<br/></i></p> <p>\u00a0</p> <p><br/><i>\u00a0<br/></i></p> <p>Speakers and Topics</p>", 
+            "description": "<p><b>12 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>== AGENDA ==</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>== SESSIONS\u00a0&amp; SPEAKERS ==</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><b><i>SESSION 1: Users<br/></i></b>Identifying and understanding your website users including personas and user journeys.</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"TBA\"<br/></i>Dara Pressley, CustomInk\u00a0</p> <p><br/><i><b>SESSION 2:\u00a0Usability\u00a0<br/></b></i>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p><i>\"Measuring and Testing Website Usability\"<br/></i>Weimin Hou, Senior Usability Specialist, UserWorks</p> <p><i>\"Turning Data into User Insights\"<br/></i>Emily Patterson, Senior Manager, Web Analytics, PBS</p> <p><b><i>SESSION 3:\u00a0Planning &amp; Tuning<br/></i></b>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"TBA\"<br/></i>Faz Besharatian, Principal, GustoWorks</p> <p><i>\"Prioritizing Website Content and Features for Your Users\"</i><br/>Nazhin Beiramee, UX Consultant, Cirak Studios</p> <p>\n\n\n<b>== OUR SPONSOR ==</b></p> <p><a href=\"http://userworks.com/\"><b>UserWorks</b></a></p> <p>UserWorks, Inc. is a user experience research and design firm located in the Washington, DC metro area. We are a Maryland small business and offer a wide range of services, including user interface design support, usability evaluations, and accessibilty evaluation services for both hardware and software products. We help organizations design and test products, assist them in developing their own usability and accessibility capabilities, and provide both fixed and portable lab facilities on a rental basis.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
             "group": {
                 "created": 1189804715000, 
@@ -851,7 +892,7 @@ calendar({
             "name": "MavenMini: Web User Experience", 
             "status": "upcoming", 
             "time": 1470945600000, 
-            "updated": 1468625467000, 
+            "updated": 1469121381000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -868,7 +909,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1457965726000, 
@@ -1045,7 +1086,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1468424212000, 
@@ -1084,7 +1125,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1457212385000, 
