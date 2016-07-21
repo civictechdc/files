@@ -197,157 +197,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 35
-- created: 1467841459000
-  description: "<p>For our July Data Science DC Meetup, we are excited to have Abhijit\
-    \ Dasgupta\_join us to talk about meta-analysis - synthesizing direct and indirect\
-    \ effects of treatments, and some applications for big data analyses.</p> <p>----------------------------\_\
-    </p> <p><br/>Sponsored by <b>Statistics.com</b>\_-- Learn new skills in Data Science,\
-    \ Analytics, and Statistics!\_Four-week online courses at all levels, world-class\
-    \ instructors, private discussion boards.\_<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\"\
-    >Save 30% with code DSDC2016</a>\_-- starting soon: biostatistics, predictive\
-    \ modeling, clinical trials, epidemiology, Bayesian, R, Python.</p> <p>----------------------------</p>\
-    \ <p><b>Agenda:</b></p> <p>\u2022\_6:30pm -- Networking, Empanadas, and Refreshments</p>\
-    \ <p>\u2022\_7:00pm -- Introduction, Announcements</p> <p>\u2022\_7:15pm -- Presentation\
-    \ and Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (Tonic ,\_2036 G St NW)</p>\
-    \ <p><b>Abstract:</b></p> <p><b>Meta-analysis: Synthesizing direct and indirect\
-    \ effects of treatments, and some applications for big data analyses.</b></p>\
-    \ <p>Meta-analyses are in the news!!! From affecting <a href=\"https://en.wikipedia.org/wiki/Saturated_fat_and_cardiovascular_disease_controversy#Systematic_reviews\"\
-    >what we choose to eat</a> to looking at <a href=\"https://www.autismspeaks.org/science/science-news/new-meta-analysis-confirms-no-association-between-vaccines-and-autism\"\
-    >vaccines' impact on autism</a>, meta-analyses have an impact in improving our\
-    \ knowledge and understanding, specially when a topic is confusing or has contradictory\
-    \ results and views. It is a means of seeing the forest for the trees, distilling\
-    \ and synthesizing the extant knowledge about a topic.</p> <p>Meta-analyses are\
-    \ mainly seen in the world of biomedical research, so interest is in \"treatments\"\
-    , namely drugs \_or particular diets or the like. However, \"treatments\" can\
-    \ mean a marketing campaign or a behavioral intervention (like spanking) or a\
-    \ change of a protocol. With that understanding, meta-analysis refers to the synthesis\
-    \ of results from several small but comparable studies to derive overall estimates\
-    \ of treatment effects that typically will be more robust and have higher statistical\
-    \ power.\_</p> <p>Classical meta-analysis involves studies looking at the same\
-    \ treatments to get an overall summary effect of one particular treatment effect.\
-    \ Network meta-analysis can be modeled to utilize indirect comparisons to compare\
-    \ the relative effectiveness of several different treatments of the same condition.\
-    \ In this presentation I will describe both classical and network meta-analysis,\
-    \ as well as the typical problems and biases one has to be aware of in doing meta-analyses.\
-    \ The computations and weighting schemes used in meta-analysis can have direct\
-    \ applications to implement a Divide-and-Conquer strategy so that modeling of\
-    \ large data sets can be done in chunks and the results combined to get valid\
-    \ results for the entire data set. I will describe an example from my experience\
-    \ in fitting competing risks models to a large administrative data set.</p> <p><b>Bio:</b></p>\
-    \ <p><br/><b>Abhijit Dasgupta</b></p> <p>Dr. Abhijit Dasgupta is a consulting\
-    \ statistician/data scientist in the Washington DC metropolis. He is fascinated\
-    \ by the innovative use of data analytic methods to gain insight and tell substantive\
-    \ stories, using modern methods for modeling, simulation and visualization.</p>\
-    \ <p>A PhD-level biostatistician by training, Dr. Dasgupta currently works to\
-    \ bridge the statistics-machine learning divide, by merging machine learning methods\
-    \ with sound statistical thinking and principles to help enhance our ability to\
-    \ derive intelligence from data. He now has over 50 peer-reviewed research and\
-    \ collaborative papers in areas ranging from bioinformatics, cancer research and\
-    \ operations research to methods for cluster analysis and intelligent robust modeling.\
-    \ He also consults for local startups doing bioengineering, business analytics\
-    \ and bioinformatics. Dr. Dasgupta also helps train companies in using R for their\
-    \ analytics needs, leveraging over 20 years experience using R and Python for\
-    \ data analyses and reporting.</p> <p>Dr. Dasgupta also works to build the local\
-    \ data community, organizing the Statistical Programming DC meet up and serving\
-    \ on the Board of Data Community DC.</p> <p><b>Sponsors:</b></p> <p>This event\
-    \ is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\"\
-    >George Washington Business School MS in Business Analytics Program</a>,\_<a href=\"\
-    http://bit.ly/12YljkP\">Statistics.com</a>,\_<a href=\"http://datamininglab.com/\"\
-    >Elder Research</a>, <a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
-    >Booz Allen Hamilton</a>, and\_<a href=\"http://engineering.aol.com/\">AOL</a>.\_\
-    (Would your organization like to sponsor too? Please get in touch!)\_</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Data-Science-DC/events/232427357/
-  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
-    who: Data Scientists}
-  headcount: 0
-  id: '232427357'
-  maybe_rsvp_count: 0
-  name: 'Meta-analysis: Synthesizing direct and indirect effects of treatments'
-  rsvp_limit: 500
-  status: upcoming
-  time: 1469053800000
-  updated: 1467926570000
-  utc_offset: -14400000
-  venue: {address_1: 1957 E St NW, city: Washington, country: us, id: 11329012, lat: 38.896228999999998,
-    localized_country_name: USA, lon: -77.043960999999996, name: 'GWU, Elliott School,
-      Room 213', repinned: false, state: DC, zip: '20052'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 256
-- created: 1446220217000
-  description: "<p>We're a group of women who want to learn and develop our Python\
-    \ scripting skills. Some of us are professional developers and data scientists,\
-    \ others are hobbyists, and some are just beginning. The study group is intended\
-    \ for everyone who wishes to learn more about the Python programming language.\
-    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
-    \ the first Wednesday of every month, which caters especially for absolute beginners\
-    \ and people with basic familiarity.</p> <p>All other study group nights will\
-    \ generally cover more advanced topics and work on projects more in depth, according\
-    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
-    \ This Women Who Code DC event is intended to be exclusively open for women; we\
-    \ are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227736624/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  how_to_find_us: Near U Street/African-Amer Civil War Memorial/Cardozo metro station
-  id: gcxvllyvkbbc
-  maybe_rsvp_count: 0
-  name: Python Lab
-  rsvp_limit: 50
-  status: upcoming
-  time: 1469053800000
-  updated: 1468960319000
-  utc_offset: -14400000
-  venue: {address_1: '1428 U Street, NW', city: 'Washington ', country: us, id: 24660606,
-    lat: 38.909999999999997, localized_country_name: USA, lon: -77.019997000000004,
-    name: NAVA, repinned: false, state: DC, zip: '20001'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 27
-- created: 1467817941000
-  description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
-    \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
-    \ <p>\u2022 <b>7:15pm - 8:30 pm</b>\_- Open Lab</p> <p><b>Contact policy at buildings\
-    \ that need access</b></p> <p>Certain building managements requires meetup hosts\
-    \ to let people in and do not encourage them being contacted. Please respect the\
-    \ policy, in case the location requires access to the building contact the group\
-    \ lead if information is provided, or drop a comment on the meetup page. We'll\
-    \ come and get you. Want to be a Ruby on Rails Lead? If you are passionate about\
-    \ learning ROR with fellow awesome women and want to help us, come on out! Drop\
-    \ us a message or email us and let us know that you are interested in helping\
-    \ us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the\
-    \ resources that members have been following along, feel free to suggest if you\
-    \ have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>This event is intended to be exclusively open for people who identify as\
-    \ women - we are transgender friendly.</p> <p>Request to join our Slack channel\
-    \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
-    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232427050/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: vpdwvlyvkbbc
-  maybe_rsvp_count: 0
-  name: Ruby on Rails Lab Night - Ruby Exercises
-  status: upcoming
-  time: 1469053800000
-  updated: 1469037248000
-  utc_offset: -14400000
-  venue: {address_1: '806 7th St NW #201', city: Washington, country: us, id: 24412919,
-    lat: 38.900185, localized_country_name: USA, lon: -77.022148000000001, name: threespot,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 5
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -451,7 +300,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1468421169000
   description: "<p>Join your fellow data visualizers on Tuesday, June 26th at Chief(1800\
     \ Massachusetts Ave NW) for The Battle of the Viz. University of Maryland Doctoral\
@@ -527,7 +376,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 124
+  yes_rsvp_count: 149
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -642,6 +491,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 33
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232554954/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvlbdb
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1470177000000
+  updated: 1459265764000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1466454487000
   description: "<p>Hello, Portland! Interested in open data, software, mapping, and\
     \ transportation? We're meeting in Portland for the first time, with a showcase\
@@ -684,45 +563,15 @@ other:
   name: Portland Show & Tell
   rsvp_limit: 100
   status: upcoming
-  time: 1470175200000
-  updated: 1468957633000
-  utc_offset: -14400000
+  time: 1470186000000
+  updated: 1469072025000
+  utc_offset: -25200000
   venue: {address_1: 921 SW 6th Ave, city: Portland, country: us, id: 24617175, lat: 45.517544000000001,
     localized_country_name: USA, lon: -122.680008, name: Hilton Portland, repinned: false,
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232554954/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvlbdb
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1470177000000
-  updated: 1459265764000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 61
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -1311,18 +1160,95 @@ other:
   headcount: 0
   id: '232589028'
   maybe_rsvp_count: 0
-  name: Playing with Traffic II
+  name: Playing with Traffic ][
   rsvp_limit: 120
   status: upcoming
   time: 1471568400000
-  updated: 1468959940000
+  updated: 1469074516000
   utc_offset: -25200000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
+- created: 1457212385000
+  description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
+    >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
+    \ group where women can come together and help each other learn and understand\
+    \ web development. We welcome devs of all levels and encourage those with more\
+    \ experience to help out those that are just starting. There's always at least\
+    \ one mentor or leader present to help you with best practices or to guide you\
+    \ through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize\
+    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
+    \ be available at the event. Even if you have never coded before, you will be\
+    \ coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following\
+    \ format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
+    \ <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p>\
+    \ <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
+    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
+    \ Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\"\
+    \ class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study\
+    \ Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\"\
+    \ class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript\
+    \ Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\"\
+    \ class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p>\
+    \ <p>Certain building management companies require Meetup hosts to let people\
+    \ in and do not encourage them being contacted. Please respect the policy. In\
+    \ case the location requires access to the building, contact the group lead if\
+    \ information is provided or drop a comment on the Meetup page. We'll come and\
+    \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
+    \ we are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232508181/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: wqrfrlyvlbdc
+  maybe_rsvp_count: 0
+  name: Front End Hack Night
+  rsvp_limit: 40
+  status: upcoming
+  time: 1471905000000
+  updated: 1466782502000
+  utc_offset: -14400000
+  venue: {address_1: '1875 Connecticut Ave NW, Suite 715', city: Washington, country: us,
+    id: 24555695, lat: 38.915768, localized_country_name: USA, lon: -77.046059, name: Socrata,
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 7
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbfc/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvlbfc
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1471991400000
+  updated: 1459265764000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1467072890000
   description: "<p>Please note the date change.</p> <p><b><i>Reminder: </i></b>You\
     \ MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\"\
