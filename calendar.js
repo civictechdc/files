@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "announced": false, 
@@ -231,7 +231,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 251
+            "yes_rsvp_count": 256
         }, 
         {
             "created": 1446220217000, 
@@ -273,7 +273,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1467817941000, 
@@ -312,7 +312,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457212385000, 
@@ -460,7 +460,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 124
         }, 
         {
             "created": 1467817941000, 
@@ -487,45 +487,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
-        }, 
-        {
-            "created": 1467072890000, 
-            "description": "<p>Reminder: You MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\">Eventbrite</a> to attend.</p> <p>Content marketing is a method of creating and sharing relevant and compelling content that engages your existing\u00a0audience and attracts a new one.</p> <p>Join us as we discuss content marketing with an emphasis on engagement:<br/>* reaching and attracting new audiences<br/>* building stronger levels of brand engagement<br/>* encouraging participation<br/>* completing calls-to-action such as\u00a0purchasing, joining, advocating and sharing</p> <p>Discussion points:</p> <p>- The essentials of content marketing\u00a0<br/>- Content marketing as an engagement tool<br/>- Using content marketing to\u00a0attract new audiences \u00a0<br/>- Writing effective calls-to-action\u00a0<br/>- Content marketing techniques for locating and involving brand advocates \u00a0<br/>- Ideas for engaging new and\u00a0existing audiences in\u00a0your brand and mission</p> <p>AGENDA</p> <p><br/>6:30 - Check-in, drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30 - More networking<br/>9:00 - Adjourn</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/232211736/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "232211736", 
-            "maybe_rsvp_count": 0, 
-            "name": "Content Marketing: Tools for Engagement", 
-            "status": "upcoming", 
-            "time": 1469658600000, 
-            "updated": 1467991485000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1203 19th St NW ", 
-                "city": "3rd floor", 
-                "country": "us", 
-                "id": 24145676, 
-                "lat": 38.905971999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.043205, 
-                "name": "Canvas Co/work ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457035701000, 
@@ -565,7 +527,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1468351277000, 
@@ -1205,7 +1167,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1468424212000, 
@@ -1244,7 +1206,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
+        }, 
+        {
+            "created": 1467072890000, 
+            "description": "<p>Please note the date change.</p> <p><b><i>Reminder: </i></b>You MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\">Eventbrite</a> to attend.</p> <p>Content marketing is a method of creating and sharing relevant and compelling content that engages your existing\u00a0audience and attracts a new one.</p> <p>Join us as we discuss content marketing with an emphasis on engagement:<br/>* reaching and attracting new audiences<br/>* building stronger levels of brand engagement<br/>* encouraging participation<br/>* completing calls-to-action such as\u00a0purchasing, joining, advocating and sharing</p> <p>Discussion points:</p> <p>- The essentials of content marketing\u00a0<br/>- Content marketing as an engagement tool<br/>- Using content marketing to\u00a0attract new audiences \u00a0<br/>- Writing effective calls-to-action\u00a0<br/>- Content marketing techniques for locating and involving brand advocates \u00a0<br/>- Ideas for engaging new and\u00a0existing audiences in\u00a0your brand and mission</p> <p>AGENDA</p> <p><br/>6:30 - Check-in, drinks &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 - Q &amp; A<br/>8:30 - More networking<br/>9:00 - Adjourn</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/232211736/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "232211736", 
+            "maybe_rsvp_count": 0, 
+            "name": "Content Marketing: Tools for Engagement", 
+            "status": "upcoming", 
+            "time": 1472077800000, 
+            "updated": 1469039153000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW ", 
+                "city": "3rd floor", 
+                "country": "us", 
+                "id": 24145676, 
+                "lat": 38.905971999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043205, 
+                "name": "Canvas Co/work ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1465422954000, 

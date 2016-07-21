@@ -897,7 +897,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/4156602?v=3", 
-                "contributions": 230, 
+                "contributions": 231, 
                 "link": "https://github.com/stvnrlly", 
                 "name": "stvnrlly"
             }, 
@@ -956,10 +956,10 @@ projects([
                 "name": "JoshData"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4592?v=3", 
                 "contributions": 2, 
-                "link": "https://github.com/katerabinowitz", 
-                "name": "katerabinowitz"
+                "link": "https://github.com/konklone", 
+                "name": "konklone"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1833870?v=3", 
@@ -968,10 +968,10 @@ projects([
                 "name": "geobrando"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1693152?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/9613759?v=3", 
                 "contributions": 2, 
-                "link": "https://github.com/Fran33", 
-                "name": "Fran33"
+                "link": "https://github.com/katerabinowitz", 
+                "name": "katerabinowitz"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
@@ -986,10 +986,10 @@ projects([
                 "name": "PeteOK"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/4592?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1693152?v=3", 
                 "contributions": 2, 
-                "link": "https://github.com/konklone", 
-                "name": "konklone"
+                "link": "https://github.com/Fran33", 
+                "name": "Fran33"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12520191?v=3", 
@@ -1032,9 +1032,15 @@ projects([
                 "contributions": 1, 
                 "link": "https://github.com/shannonturner", 
                 "name": "shannonturner"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8164295?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/jayzmiles", 
+                "name": "jayzmiles"
             }
         ], 
-        "contributors_count": 23, 
+        "contributors_count": 24, 
         "created_at": "2013-08-06T11:45:40Z", 
         "default_branch": "master", 
         "description": "The current Code for DC website", 
@@ -1073,16 +1079,16 @@ projects([
         }, 
         "main_language": "HTML", 
         "name": "Code for DC Website", 
-        "open_issues": 26, 
+        "open_issues": 24, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-07-20T17:29:51Z", 
+        "pushed_at": "2016-07-20T18:06:14Z", 
         "short_name": "codefordc.github.com", 
-        "size": 19123, 
+        "size": 19124, 
         "updated_at": "2016-06-13T04:28:33Z", 
         "watchers": 25
     }, 
@@ -3425,22 +3431,21 @@ projects([
     }, 
     {
         "activity": [
-            4, 
-            15, 
+            9, 
+            8, 
             0, 
             7, 
-            0, 
             6, 
             0, 
-            70, 
-            10, 
             0, 
-            2, 
-            6, 
+            80, 
+            0, 
+            0, 
+            3, 
+            5, 
             3, 
             2, 
             8, 
-            0, 
             13, 
             0, 
             0, 
@@ -3452,13 +3457,13 @@ projects([
             0, 
             0, 
             0, 
+            0, 
             1, 
             1, 
             0, 
-            0, 
-            108, 
-            28, 
-            2, 
+            14, 
+            120, 
+            4, 
             3, 
             0, 
             0, 
@@ -3469,6 +3474,7 @@ projects([
             0, 
             0, 
             4, 
+            0, 
             0, 
             0, 
             0, 
@@ -5968,9 +5974,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-07-20T17:42:03Z", 
+        "pushed_at": "2016-07-20T20:49:53Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 9802, 
+        "size": 9805, 
         "updated_at": "2016-07-20T00:21:31Z", 
         "watchers": 3
     }
