@@ -456,8 +456,8 @@
   size: 2743
   updated_at: '2016-04-14T12:30:23Z'
   watchers: 5
-- activity: [0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+- activity: [0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -1539,7 +1539,7 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 83
+  open_issues: 84
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-07-20T00:58:43Z'
@@ -1635,9 +1635,9 @@
   open_issues: 3
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-07-14T12:18:49Z'
+  pushed_at: '2016-07-21T20:01:07Z'
   short_name: school-modernization
-  size: 18369
+  size: 18371
   updated_at: '2016-05-13T12:52:54Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0,
@@ -1898,7 +1898,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 48,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 49,
     link: 'https://github.com/alulsh', name: alulsh}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7659813?v=3', contributions: 8,
     link: 'https://github.com/khiggins115', name: khiggins115}
@@ -1910,19 +1910,21 @@
     link: 'https://github.com/BuffyShepard', name: BuffyShepard}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/17552911?v=3', contributions: 2,
     link: 'https://github.com/hareno44', name: hareno44}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/5642566?v=3', contributions: 2,
+    link: 'https://github.com/NealHumphrey', name: NealHumphrey}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16272373?v=3', contributions: 2,
     link: 'https://github.com/kimcabb', name: kimcabb}
-  contributors_count: 7
+  contributors_count: 8
   created_at: '2016-06-24T00:52:18Z'
   default_branch: master
   description: DCFemTech Hack for Good 2016 - WABA Bike Map Project
-  forks: 3
+  forks: 4
   help_wanted: []
   homepage: null
   html_url: https://github.com/dcfemtech/hackforgood-waba-map
   id: 61846251
   languages:
-  - [JavaScript, 2969]
+  - [JavaScript, 4057]
   - [HTML, 954]
   - [CSS, 164]
   license: null
@@ -1931,7 +1933,7 @@
   open_issues: 23
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-07-20T20:49:53Z'
+  pushed_at: '2016-07-21T23:10:58Z'
   short_name: hackforgood-waba-map
   size: 9805
   updated_at: '2016-07-20T00:21:31Z'
