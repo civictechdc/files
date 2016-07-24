@@ -243,7 +243,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1468871910000
   description: <p>Interested in sharpening your problem solving skills and learning
     more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll be
@@ -376,7 +376,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 195
+  yes_rsvp_count: 200
 - created: 1467817941000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
