@@ -270,7 +270,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1459265642000, 
@@ -294,11 +294,23 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1469572200000, 
-            "updated": 1459265764000, 
+            "updated": 1469447032000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3160 16th Street Northwest, 2 blocks from Columbia Heights metro", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24589986, 
+                "lat": 38.928534999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.033225999999999, 
+                "name": "Mt. Pleasant Neighborhood Library", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1468421169000, 
@@ -337,7 +349,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 200
         }, 
         {
@@ -365,7 +377,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1469114333000, 
@@ -406,7 +418,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 208
+            "yes_rsvp_count": 215
         }, 
         {
             "created": 1457035701000, 
@@ -670,7 +682,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1460389774000, 
