@@ -1120,8 +1120,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             5, 
+            0, 
             0, 
             0, 
             0, 
@@ -1666,8 +1666,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            2, 
+            1, 
+            1, 
             0, 
             0, 
             0, 
@@ -2209,6 +2209,34 @@ projects([
         "help_wanted": [
             {
                 "assignee": null, 
+                "body": "Enhancement: Looking at the home page, it would be helpful to have some high-level information on each candidate. I recommend we start with the combined campaign score. For past campaigns, it would also be great to include what percentage of the vote each candidate received, or (if that's too messy), just an indication of who won the race. \r\n", 
+                "comments": 1, 
+                "created_at": "2016-07-20T00:25:38Z", 
+                "issue": "As a user, I'd like each candidate's campaign score to appear next to her name on the home screen", 
+                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/169", 
+                "labels": [
+                    {
+                        "color": "84b6eb", 
+                        "name": "enhancement", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
+                    }, 
+                    {
+                        "color": "159818", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "b60205", 
+                        "name": "Priority: Critical", 
+                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Critical"
+                    }
+                ], 
+                "project": "Campaign Finance Watch", 
+                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
+                "updated_at": "2016-07-26T01:31:35Z"
+            }, 
+            {
+                "assignee": null, 
                 "body": "[Open Corporate Database](https://opencorporates.com/)\r\n\r\n- [ ] update contributors with a link to the open corporate entry\r\n- [ ] update UI to show link", 
                 "comments": 0, 
                 "created_at": "2016-04-10T18:47:06Z", 
@@ -2412,7 +2440,7 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 23, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -3301,8 +3329,8 @@ projects([
         "pushed_at": "2016-02-01T04:45:01Z", 
         "short_name": "booksfordc", 
         "size": 3569, 
-        "updated_at": "2016-06-13T12:08:04Z", 
-        "watchers": 21
+        "updated_at": "2016-07-26T06:18:13Z", 
+        "watchers": 22
     }, 
     {
         "activity": [
@@ -4371,8 +4399,8 @@ projects([
             0, 
             0, 
             2, 
-            1, 
-            11, 
+            2, 
+            10, 
             5, 
             0, 
             0, 
@@ -4770,16 +4798,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 77, 
+        "open_issues": 79, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-07-25T17:04:56Z", 
+        "pushed_at": "2016-07-26T03:57:17Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10463, 
+        "size": 10483, 
         "updated_at": "2016-07-20T12:44:57Z", 
         "watchers": 11
     }, 
