@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "announced": false, 
@@ -202,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1468421169000, 
@@ -241,8 +241,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
-            "yes_rsvp_count": 200
+            "waitlist_count": 112, 
+            "yes_rsvp_count": 197
         }, 
         {
             "created": 1467817941000, 
@@ -281,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1469494762000, 
@@ -321,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1469114333000, 
@@ -362,7 +362,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 236
+            "yes_rsvp_count": 243
         }, 
         {
             "created": 1457035701000, 
@@ -402,7 +402,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1468351277000, 
@@ -472,7 +472,7 @@ calendar({
         }, 
         {
             "created": 1466454487000, 
-            "description": "<p>Hello, Portland! Interested in open data, software, mapping, and transportation? We're meeting in Portland for the first time, with a showcase of bike- and transit- projects made by Portland's coolest coders.\u00a0</p> <p>The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0</p> <p>Doors open at 6:00 with snacks courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a>\u00a0of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will\u00a0discuss how crowdsourcing applications like\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0can support the future of transportation planning.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana McHugh will share <a href=\"http://trimet.org/\">TriMet</a>'s work on\u00a0integration with shared-use mobility options; new <a href=\"http://docs.opentripplanner.org/en/latest/#opentripplanner\">OpenTripPlanner</a>\u00a0API; open geocoder; and more data in OpenStreetMap.</p> <p>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Hello, Portland! Interested in open data, software, mapping, and transportation? We're meeting in Portland for the first time, with a showcase of bike- and transit- projects made by Portland's coolest coders.\u00a0</p> <p>The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0</p> <p>Doors open at 6:00 with pizza courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a>\u00a0of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will\u00a0discuss how crowdsourcing applications like\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0can support the future of transportation planning.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.</p> <p><br/>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana McHugh will share <a href=\"http://trimet.org/\">TriMet</a>'s work on\u00a0integration with shared-use mobility options; new <a href=\"http://docs.opentripplanner.org/en/latest/#opentripplanner\">OpenTripPlanner</a>\u00a0API; open geocoder; and more data in OpenStreetMap.</p> <p>\u2022 <a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
@@ -491,7 +491,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1470186000000, 
-            "updated": 1469072025000, 
+            "updated": 1469552436000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "921 SW 6th Ave", 
@@ -507,7 +507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1446219481000, 
@@ -547,7 +547,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1452612310000, 
@@ -626,7 +626,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1460389774000, 
@@ -1081,7 +1081,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1457212385000, 
