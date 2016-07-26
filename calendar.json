@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "announced": true, 
@@ -119,7 +119,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "announced": false, 
@@ -160,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }
     ], 
     "other": [
@@ -230,11 +230,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1468871910000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll be doing some algorithms problems in the language of your choice or pseudocode. All levels welcome!</p> <p>Feel free to bring your dinner and come problem-solve with us!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll be doing some algorithms problems in the language of your choice or pseudocode. All levels welcome!</p> <p>Problems for tonight: <a href=\"https://www.hackerrank.com/challenges/caesar-cipher-1\"><a href=\"https://www.hackerrank.com/challenges/caesar-cipher-1\" class=\"linkified\">https://www.hackerrank.com/challenges/caesar-cipher-1</a></a> and <a href=\"https://www.hackerrank.com/challenges/compare-the-triplets\"><a href=\"https://www.hackerrank.com/challenges/compare-the-triplets\" class=\"linkified\">https://www.hackerrank.com/challenges/compare-the-triplets</a></a></p> <p>Feel free to bring your dinner and come problem-solve with us!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232710938/", 
             "group": {
@@ -254,7 +254,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1469485800000, 
-            "updated": 1468871910000, 
+            "updated": 1469482128000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1005 7th St NW, Suite 100", 
@@ -349,7 +349,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 200
         }, 
         {
@@ -389,7 +389,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1469114333000, 
@@ -430,7 +430,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 226
+            "yes_rsvp_count": 233
         }, 
         {
             "created": 1457035701000, 
@@ -470,7 +470,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1468351277000, 
@@ -575,7 +575,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1446219481000, 
@@ -615,7 +615,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1452612310000, 
@@ -721,7 +721,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1466889019000, 
@@ -933,7 +933,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457965726000, 
@@ -1114,7 +1114,7 @@
         }, 
         {
             "created": 1468424212000, 
-            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. <i>Ride-sharing is caring!</i>\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share.</p> <p>If you know any\u00a0Transportation Techies in Oregon, be sure to tell them about our meetup there August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event to your calendar, be aware Meetup might use the wrong time zone. They use the group's location instead of the event's location, and since the group is temporarily \"based\" in Portland, the default time will be off by three hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. <i>Ride-sharing is caring!</i>\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p>\u2022\u00a0David Miller will share what he learned after launching <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller and packaged mobility platform.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share.</p> <p>If you know any\u00a0Transportation Techies in Oregon, be sure to tell them about our meetup there August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event to your calendar, be aware Meetup might use the wrong time zone. They use the group's location instead of the event's location, and since the group is temporarily \"based\" in Portland, the default time will be off by three hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232589028/", 
             "group": {
                 "created": 1384372275000, 
@@ -1133,7 +1133,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1471568400000, 
-            "updated": 1469074516000, 
+            "updated": 1469487514000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1149,7 +1149,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1457212385000, 
@@ -1294,7 +1294,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1326383071000, 
@@ -1333,7 +1333,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1466889132000, 
