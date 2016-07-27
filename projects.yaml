@@ -1487,7 +1487,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 881,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 883,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1499,10 +1499,10 @@
     link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 25,
     link: 'https://github.com/mchelen', name: mchelen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 24,
-    link: 'https://github.com/charleshuang80', name: charleshuang80}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/13918431?v=3', contributions: 24,
     link: 'https://github.com/CamLatimer', name: CamLatimer}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 24,
+    link: 'https://github.com/charleshuang80', name: charleshuang80}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 23,
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 21,
@@ -1513,12 +1513,14 @@
     link: 'https://github.com/rebeccaestes', name: rebeccaestes}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12873557?v=3', contributions: 9,
     link: 'https://github.com/clarissastark', name: clarissastark}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/11823445?v=3', contributions: 5,
-    link: 'https://github.com/KatSDC', name: KatSDC}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=3', contributions: 5,
-    link: 'https://github.com/dfelsent', name: dfelsent}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/2466413?v=3', contributions: 7,
+    link: 'https://github.com/benjamincrane', name: benjamincrane}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 5,
     link: 'https://github.com/cmgiven', name: cmgiven}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=3', contributions: 5,
+    link: 'https://github.com/dfelsent', name: dfelsent}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/11823445?v=3', contributions: 5,
+    link: 'https://github.com/KatSDC', name: KatSDC}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5253461?v=3', contributions: 4,
     link: 'https://github.com/rekhers', name: rekhers}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8108438?v=3', contributions: 4,
@@ -1529,17 +1531,17 @@
     link: 'https://github.com/MiroFurtado', name: MiroFurtado}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7883907?v=3', contributions: 2,
     link: 'https://github.com/edwardpark', name: edwardpark}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/12459939?v=3', contributions: 1,
-    link: 'https://github.com/kndllbrwn', name: kndllbrwn}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5439589?v=3', contributions: 1,
     link: 'https://github.com/valeriecodes', name: valeriecodes}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/12459939?v=3', contributions: 1,
+    link: 'https://github.com/kndllbrwn', name: kndllbrwn}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/17989540?v=3', contributions: 1,
     link: 'https://github.com/eheintzelman', name: eheintzelman}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16469242?v=3', contributions: 1,
     link: 'https://github.com/RAGarza8', name: RAGarza8}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6002123?v=3', contributions: 1,
     link: 'https://github.com/trycrmr', name: trycrmr}
-  contributors_count: 26
+  contributors_count: 27
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
@@ -1549,7 +1551,7 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 136116]
+  - [Ruby, 136125]
   - [HTML, 65411]
   - [CSS, 27095]
   - [CoffeeScript, 2879]
@@ -1557,12 +1559,12 @@
   license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 80
+  open_issues: 78
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-07-26T16:01:24Z'
+  pushed_at: '2016-07-27T03:00:46Z'
   short_name: dcaf_case_management
-  size: 10483
+  size: 10476
   updated_at: '2016-07-20T12:44:57Z'
   watchers: 11
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0,

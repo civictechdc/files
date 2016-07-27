@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "announced": true, 
@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "announced": false, 
@@ -160,90 +160,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }
     ], 
     "other": [
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232295731/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvkbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1469572200000, 
-            "updated": 1469447032000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "3160 16th Street Northwest, 2 blocks from Columbia Heights metro", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24589986, 
-                "lat": 38.928534999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.033225999999999, 
-                "name": "Mt. Pleasant Neighborhood Library", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 9
-        }, 
-        {
-            "created": 1468421169000, 
-            "description": "<p>Join your fellow data visualizers on Tuesday, June 26th at Chief(1800 Massachusetts Ave NW) for The Battle of the Viz. University of Maryland Doctoral Students, Adil Yalcin and Fan Du, will be presenting\u00a0 their own data visualization and analytics tools; Adil Yalcin will be showcasing his data analytics tool Keshif(<a href=\"http://keshif.me/\"><a href=\"http://keshif.me/\" class=\"linkified\">http://keshif.me/</a></a>) and Fan Du will be showcasing EventAction(<a href=\"http://hcil.umd.edu/eventaction/\"><a href=\"http://hcil.umd.edu/eventaction/\" class=\"linkified\">http://hcil.umd.edu/eventaction/</a></a>).</p> <p><br/>Our speakers are Ph.D. students in the Department of Computer Science at University of Maryland, College Park, and members of its Human Computer Interaction Laboratory (HCIL), which has a 30+ years of history of research and impact in technology and design.</p> <p><b>Agenda</b></p> <p><b>6:30 - 7:10 - Networking</b></p> <p><b>7:10 - 7:40 \u2013 Adil Yalcin and Keshif</b></p> <p><b>7:40 - 7:50 \u2013 Q &amp; A for Keshif</b></p> <p><b>7:50 - 8:20 \u2013 Fan Du and EventFlow</b></p> <p><b>8:20 - 8:30 \u2013 Q &amp; A for EventFlow</b></p> <p><b>8:40 - Data Drinks</b></p> <p>SPECIAL DEAL:</p> <p>O'Reilly AI Conference September 26-27 | New York, NY</p> <p>Save 20% - UGDATASCIDC</p> <p>Discover the real-world opportunities of applied artificial intelligence</p> <p><a href=\"http://www.oreilly.com/pub/cpc/21362\"><a href=\"http://www.oreilly.com/pub/cpc/21362\" class=\"linkified\">http://www.oreilly.com/pub/cpc/21362</a></a></p> <p><b>About our Presenters: </b></p> <p><b>Adil Yalcin</b><b><br/>Bio:\u00a0</b>My goal is to lower the barriers in rich data analysis for a broad audience through\u00a0information visualization and interaction design, implementation, and evaluation.\u00a0My PhD journey gives me a change to focus on the research and design foundations, and to search for new perspectives to advance how we think about data exploration. By providing highest quality tools and services, I inspire to help people and businesses identify opportunities for data analysis, explore their data, and gain insights at the speed of thought.\u00a0(<a href=\"http://www.adilyalcin.me/\">www.adilyalcin.me</a>)</p> <p><b>Abstract:</b>\u00a0Visualization is the natural language for data, and interaction can create the natural dialogue. How can we design better spaces to engage in exploratory data dialogue? How can we avoid fruitless paths, and how can we focus on generating insights, not visualizations? In this talk, I will share examples of what inspires my design thinking, and demonstrate the tool I build on those principles, Keshif (<a href=\"http://www.keshif.me/\">www.keshif.me</a>).</p> <p><b>Fan Du</b></p> <p><b>Bio:\u00a0</b>My research focuses on data visualization and human-computer interaction, especially on analyzing healthcare data and user activity logs.\u00a0I work with Prof. Ben Shneiderman and Dr. Catherine Plaisant as a research assistant.\u00a0My Ph.D. study focuses on designing interactive data visualization tools to augment people\u2019s ability in handling and exploring temporal event sequences. Moving forward, I want to work with real users from different domains to see how my tools could help them solve problems.\u00a0(<a href=\"http://frankdu.org/\">frankdu.org</a>)</p> <p><b>Abstract</b>: The rapidly growing interest in event analytics has resulted in visual techniques for extracting insights from event sequence data that come from medical histories, social media activities, online education patterns, cybersecurity threats, etc. This talk reviews our group\u2019s decade of research on visualizing and exploring temporal event sequences. I introduce EventFlow (<a href=\"http://hcil.umd.edu/eventflow/\">hcil.umd.edu/eventflow</a>) for showing visual summaries of thousands of patient histories represented as time-stamped events and demonstrate how it supports hospital quality control analysts to investigate if the required procedures were carried out. I then describe simplification strategies for sharpening the analytic focus so as to cope with the increase in data volume and pattern variety. Finally, I discuss our recent work on cohort comparison and evidence-based intervention planning.</p> <p>ANNOUNCEMENTS</p> <p>Hiring? Job Seeking? Datable.org</p> <p>Building your brand in tech? Sponsor DC2</p> <p>Have a difficult data question? Ask 13,000 local Data Practitioners with Pushie</p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/232587719/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "id": "232587719", 
-            "maybe_rsvp_count": 0, 
-            "name": "The Battle of the Viz", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1469572200000, 
-            "updated": 1469469381000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 97, 
-            "yes_rsvp_count": 200
-        }, 
         {
             "created": 1467817941000, 
             "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
@@ -321,7 +241,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1469114333000, 
@@ -362,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 248
+            "yes_rsvp_count": 285
         }, 
         {
             "created": 1457035701000, 
@@ -402,7 +322,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1468351277000, 
@@ -507,7 +427,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1446219481000, 
@@ -547,7 +467,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1452612310000, 
@@ -759,7 +679,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1468853724000, 
@@ -839,7 +759,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1467374992000, 
@@ -1267,7 +1187,35 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbnc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvlbnc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1472596200000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1465422954000, 
@@ -1306,7 +1254,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1326383071000, 
