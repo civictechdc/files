@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "announced": false, 
@@ -202,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1468421169000, 
@@ -241,8 +241,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 112, 
-            "yes_rsvp_count": 197
+            "waitlist_count": 97, 
+            "yes_rsvp_count": 200
         }, 
         {
             "created": 1467817941000, 
@@ -281,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1469494762000, 
@@ -362,7 +362,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 243
+            "yes_rsvp_count": 248
         }, 
         {
             "created": 1457035701000, 
@@ -468,7 +468,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1466454487000, 
@@ -507,7 +507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1446219481000, 
@@ -547,7 +547,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1452612310000, 
@@ -626,7 +626,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1460389774000, 
@@ -755,11 +755,11 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1470868200000, 
-            "updated": 1469494996000, 
+            "updated": 1469575360000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1468853724000, 
@@ -803,7 +803,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p><b>Topic Overview:\u00a0</b><b>The Business Value of Data Wrangling</b></p> <p><br/>Data Wrangling and Data Preparation have emerged as key topics in the world of Information Management and Business\u00a0Analytics.\u00a0 However, many people are not familiar with these terms, let alone the details these topics.\u00a0 Data volumes are growing exponentially, the speed at which data crosses people's desks increases almost daily, and the various types of data to be analyzed can be overwhelming.\u00a0 The industry has developed a powerful range of tools to store data and an equally powerful range of tools to analyze data.\u00a0 However, to date, there has not a been significant amount of focus on careful preparation and active manipulation of this data to allow for more thorough approaches to data and business analytics.\u00a0 This presentation will cover relevant background and provide a foundation for understanding the business value of Data Wrangling.\u00a0 Topics include:</p> <p><br/><b>What is Data Wrangling?</b></p> <p>\u2022\u00a0Data Wrangling vs. Data Preparation</p> <p>\u2022\u00a0Market and Analyst Overview</p> <p>\u2022\u00a0Common Data Wrangling Tasks</p> <p>\u2022\u00a0The Best Time and Place</p> <p>\u2022\u00a0Connecting Data Wrangling and Business Value\u00a0</p> <p><b>Speaker Bio:</b></p> <p>Bob Moore is a Vice President of Solutions Consulting at TIBCO.\u00a0 He has over 15 years of Business Intelligence and Data Visualization experience.\u00a0 Data Wrangling and Data Preparation, in conjunction with visual analytics tools, has been an \u00a0area of focus for the last decade.\u00a0 He has experience with data from numerous industries and varied use cases. \u00a0 \u00a0</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934824/", 
             "group": {
@@ -819,14 +819,27 @@ calendar({
             "headcount": 0, 
             "id": "hffzclyvlbfb", 
             "maybe_rsvp_count": 0, 
-            "name": "August Meetup", 
+            "name": "August Meetup - The Business Value of Data Wrangling", 
             "status": "upcoming", 
             "time": 1470868200000, 
-            "updated": 1459227076000, 
+            "updated": 1469568359000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1467374992000, 
@@ -920,7 +933,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -1214,7 +1227,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1467838122000, 
