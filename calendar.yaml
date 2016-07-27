@@ -205,7 +205,7 @@ other:
     interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
     event!</p> <p>This Women Who Code DC event is intended to be exclusively open
     for women; we are trans* friendly.</p>
-  duration: 1044000000
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/232881834/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -217,11 +217,11 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1469658600000
-  updated: 1469494762000
+  updated: 1469630519000
   utc_offset: -14400000
-  venue: {address_1: 1 Thomas Circle, city: Washington, country: us, id: 24416213,
-    lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
-    name: Fiscal Note, repinned: false, state: DC}
+  venue: {address_1: Online, city: Washington, country: us, id: 24429929, lat: 38.907192000000002,
+    localized_country_name: USA, lon: -77.036873, name: Virtual Google Hangouts, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 13
@@ -298,7 +298,7 @@ other:
       Room 213', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 285
+  yes_rsvp_count: 305
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -348,7 +348,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 59
 - created: 1468351277000
   description: "<p>August! \_The height of summer! \_Let's gather to talk about and\
     \ hear about APIs!! \_</p> <p>We've got another solid line up of presenters for\
@@ -456,7 +456,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 77
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -488,7 +488,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -554,7 +554,75 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
+- created: 1469632651000
+  description: '<p>Women Who Code is participating the 100 Days of Commits Challenge,
+    a community project that''s partnering with meetups around the country to have
+    people ''commit'' to 100 days of code through commits on github.</p> <p>Join us
+    for summer brew and catch-up to launch this campaign!</p> <p>
+
+
+
+    <a href="https://100daysofcommits.github.io/" class="linkified">https://100daysofcommits.github.io/</a></p>'
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232919976/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '232919976'
+  maybe_rsvp_count: 0
+  name: 100 Days of Commits Launch Happy Hour
+  status: upcoming
+  time: 1470434400000
+  updated: 1469632686000
+  utc_offset: -14400000
+  venue: {address_1: '  1600 7th Street NW Washington, DC 20001 ', city: Washington,
+    country: us, id: 24684063, lat: 38.911239999999999, localized_country_name: USA,
+    lon: -77.022171, name: 'Dacha Beer Garden ', repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 20
+- created: 1469621377000
+  description: "<p><b>Data Viz Workshop</b></p> <p>Last year I created the <a href=\"\
+    https://github.com/datacommunitydc/EventVenueMap\">DC2 Event Venue Map</a>\_to\
+    \ help our organizers find venues to support their events. The app pulls from\
+    \ a Google Sheet, codes the data in SVG's with D3, and overlays it on a Google\
+    \ map. This is what we'll learn in detail before we adjourn to <a href=\"http://www.meetup.com/dcnightowls/events/232916526/\"\
+    >Brunch N' Hack</a>.\_</p> <p><b>Prerequisits</b></p> <p>It is expected that you\
+    \ have some experience with Javascript and using Google sheets.</p> <p>To ensure\
+    \ you get your money's worth from the workshop, please be sure to review the code\
+    \ in the\_<a href=\"https://github.com/datacommunitydc/EventVenueMap\">DC2 Event\
+    \ Venue Map</a>\_and come ready with questions. We will spend the majority of\
+    \ the time answering your questions,\_going through the code, and playing with\
+    \ changes.</p> <p><b>Announcements</b></p> <p>Hiring? Job Seeking? Join <a href=\"\
+    http://match.datacommunitydc.org\">Datable</a>!</p> <p>Building your brand in\
+    \ tech? Promoting a Conference?\_<a href=\"http://datacommunitydc.org/sponsorship\"\
+    >Sponsor DC2</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\"\
+    \ /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\"\
+    \ /></p>"
+  duration: 5400000
+  event_url: http://www.meetup.com/Data-Visualization-DC/events/232916689/
+  fee: {accepts: wepay, amount: 35, currency: USD, description: per person, label: Price,
+    required: '1'}
+  group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 6957082, join_mode: open, name: Data Visualization DC, urlname: Data-Visualization-DC,
+    who: Data Visualizers}
+  headcount: 0
+  how_to_find_us: Tell the guard you're with the Brunch N' Hack, or call Sean Gonzalez.
+  id: '232916689'
+  maybe_rsvp_count: 0
+  name: 'Workshop: Google Sheets >> D3 >> Google Map'
+  rsvp_limit: 30
+  status: upcoming
+  time: 1470493800000
+  updated: 1469625957000
+  utc_offset: -14400000
+  venue: {address_1: '1133 15th St NW, The Penthouse ', city: Washington, country: us,
+    id: 23841355, lat: 0, localized_country_name: USA, lon: 0, name: '1776', repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -690,7 +758,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -770,7 +838,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 53
 - created: 1467374992000
   description: "<p><b>12 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
     >Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are\
@@ -1023,14 +1091,14 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1468424212000
   description: "<p>Coders and commuting: how do apps change the way we drive? This\
     \ month we'll hear from tech companies with apps that help people share the road.\
-    \ <i>Ride-sharing is caring!</i>\_We'll meet on the 12th floor of\_<a href=\"\
-    https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal\
-    \ City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor <a\
-    \ href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.\_\
+    \ We'll meet on the 12th floor of\_<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
+    >WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy\
+    \ of our sponsors\_<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_and <a\
+    \ href=\"https://rideamigos.com/\">RideAmigos</a>. Presentations start at 6:30.\_\
     </p> <p>\u2022\_<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\_\
     will present how <a href=\"http://split.us/\">Split</a> is building a scalable\
     \ and efficient shared ride system.\_</p> <p>\u2022Andriy Klymchuk will show how\
@@ -1076,7 +1144,7 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1471568400000
-  updated: 1469487514000
+  updated: 1469640492000
   utc_offset: -25200000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
@@ -1266,37 +1334,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbnc/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvlbnc
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1472596200000
-  updated: 1459265764000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 68
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\

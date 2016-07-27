@@ -206,7 +206,7 @@
         {
             "created": 1469494762000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 1044000000, 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232881834/", 
             "group": {
                 "created": 1395616294000, 
@@ -225,17 +225,17 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1469658600000, 
-            "updated": 1469494762000, 
+            "updated": 1469630519000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1 Thomas Circle", 
+                "address_1": "Online", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24416213, 
-                "lat": 38.905323000000003, 
+                "id": 24429929, 
+                "lat": 38.907192000000002, 
                 "localized_country_name": "USA", 
-                "lon": -77.032700000000006, 
-                "name": "Fiscal Note", 
+                "lon": -77.036873, 
+                "name": "Virtual Google Hangouts", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -282,7 +282,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 285
+            "yes_rsvp_count": 305
         }, 
         {
             "created": 1457035701000, 
@@ -322,7 +322,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1468351277000, 
@@ -427,7 +427,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1446219481000, 
@@ -467,7 +467,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1452612310000, 
@@ -546,7 +546,94 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
+        }, 
+        {
+            "created": 1469632651000, 
+            "description": "<p>Women Who Code is participating the 100 Days of Commits Challenge, a community project that's partnering with meetups around the country to have people 'commit' to 100 days of code through commits on github.</p> <p>Join us for summer brew and catch-up to launch this campaign!</p> <p>\n\n\n<a href=\"https://100daysofcommits.github.io/\" class=\"linkified\">https://100daysofcommits.github.io/</a></p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232919976/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "232919976", 
+            "maybe_rsvp_count": 0, 
+            "name": "100 Days of Commits Launch Happy Hour", 
+            "status": "upcoming", 
+            "time": 1470434400000, 
+            "updated": 1469632686000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "  1600 7th Street NW Washington, DC 20001 ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24684063, 
+                "lat": 38.911239999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.022171, 
+                "name": "Dacha Beer Garden ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 20
+        }, 
+        {
+            "created": 1469621377000, 
+            "description": "<p><b>Data Viz Workshop</b></p> <p>Last year I created the <a href=\"https://github.com/datacommunitydc/EventVenueMap\">DC2 Event Venue Map</a>\u00a0to help our organizers find venues to support their events. The app pulls from a Google Sheet, codes the data in SVG's with D3, and overlays it on a Google map. This is what we'll learn in detail before we adjourn to <a href=\"http://www.meetup.com/dcnightowls/events/232916526/\">Brunch N' Hack</a>.\u00a0</p> <p><b>Prerequisits</b></p> <p>It is expected that you have some experience with Javascript and using Google sheets.</p> <p>To ensure you get your money's worth from the workshop, please be sure to review the code in the\u00a0<a href=\"https://github.com/datacommunitydc/EventVenueMap\">DC2 Event Venue Map</a>\u00a0and come ready with questions. We will spend the majority of the time answering your questions,\u00a0going through the code, and playing with changes.</p> <p><b>Announcements</b></p> <p>Hiring? Job Seeking? Join <a href=\"http://match.datacommunitydc.org\">Datable</a>!</p> <p>Building your brand in tech? Promoting a Conference?\u00a0<a href=\"http://datacommunitydc.org/sponsorship\">Sponsor DC2</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p>", 
+            "duration": 5400000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/232916689/", 
+            "fee": {
+                "accepts": "wepay", 
+                "amount": 35, 
+                "currency": "USD", 
+                "description": "per person", 
+                "label": "Price", 
+                "required": "1"
+            }, 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Tell the guard you're with the Brunch N' Hack, or call Sean Gonzalez.", 
+            "id": "232916689", 
+            "maybe_rsvp_count": 0, 
+            "name": "Workshop: Google Sheets >> D3 >> Google Map", 
+            "rsvp_limit": 30, 
+            "status": "upcoming", 
+            "time": 1470493800000, 
+            "updated": 1469625957000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15th St NW, The Penthouse ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841355, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "1776", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1460389774000, 
@@ -679,7 +766,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1468853724000, 
@@ -759,7 +846,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1467374992000, 
@@ -975,11 +1062,11 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1468424212000, 
-            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. <i>Ride-sharing is caring!</i>\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p>\u2022\u00a0David Miller will share what he learned after launching <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller and packaged mobility platform.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share.</p> <p>If you know any\u00a0Transportation Techies in Oregon, be sure to tell them about our meetup there August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event to your calendar, be aware Meetup might use the wrong time zone. They use the group's location instead of the event's location, and since the group is temporarily \"based\" in Portland, the default time will be off by three hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsors\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"https://rideamigos.com/\">RideAmigos</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p>\u2022\u00a0David Miller will share what he learned after launching <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller and packaged mobility platform.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share.</p> <p>If you know any\u00a0Transportation Techies in Oregon, be sure to tell them about our meetup there August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event to your calendar, be aware Meetup might use the wrong time zone. They use the group's location instead of the event's location, and since the group is temporarily \"based\" in Portland, the default time will be off by three hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232589028/", 
             "group": {
                 "created": 1384372275000, 
@@ -998,7 +1085,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1471568400000, 
-            "updated": 1469487514000, 
+            "updated": 1469640492000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1187,35 +1274,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbnc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvlbnc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1472596200000, 
-            "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1465422954000, 
