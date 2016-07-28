@@ -4604,7 +4604,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 883, 
+                "contributions": 885, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4777,7 +4777,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                136125
+                137406
             ], 
             [
                 "HTML", 
@@ -4804,16 +4804,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 78, 
+        "open_issues": 73, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-07-27T03:00:46Z", 
+        "pushed_at": "2016-07-28T03:28:36Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10476, 
+        "size": 10445, 
         "updated_at": "2016-07-20T12:44:57Z", 
         "watchers": 11
     }, 
@@ -5985,7 +5985,7 @@ projects([
         "created_at": "2016-06-24T00:52:18Z", 
         "default_branch": "master", 
         "description": "DCFemTech Hack for Good 2016 - WABA Bike Map Project", 
-        "forks": 4, 
+        "forks": 5, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/dcfemtech/hackforgood-waba-map", 
@@ -6007,14 +6007,14 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "WABA Regional Bike Map", 
-        "open_issues": 23, 
+        "open_issues": 24, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/7329613?v=3", 
             "name": "dcfemtech", 
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-07-21T23:10:58Z", 
+        "pushed_at": "2016-07-28T03:40:28Z", 
         "short_name": "hackforgood-waba-map", 
         "size": 9805, 
         "updated_at": "2016-07-20T00:21:31Z", 

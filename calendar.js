@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "announced": false, 
@@ -165,85 +165,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1467817941000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232427068/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "xvsfwlyvkbkc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails - Open Lab Night", 
-            "status": "upcoming", 
-            "time": 1469658600000, 
-            "updated": 1469458564000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "901 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24679494, 
-                "lat": 38.898693000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.024780000000007, 
-                "name": "MLK Libray - Digital Commons 5", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
-            "created": 1469494762000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232881834/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "232881834", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab (Mini Project) - Google Hangouts", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1469658600000, 
-            "updated": 1469630519000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Online", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24429929, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "Virtual Google Hangouts", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
             "created": 1469114333000, 
             "description": "<p>For our August Data Science DC Meetup, we are excited to have John J. Nay, \u00a0a Ph.D. Candidate at the Vanderbilt University School of Engineering and a Research Fellow at Vanderbilt Law School\u2019s Program on Law &amp; Innovation,\u00a0join us to speak about\u00a0<b>predicting and understanding law with machine learning</b>!</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Predicting and Understanding Law with Machine Learning</b></p> <p>First, we present new methods to embed institutions and their legal text into shared continuous vector space to enable novel investigations into differences across institutions. Our model discerns meaningful differences between government branches. The similarities between learned representations of Congresses over time and sitting Presidents are negatively correlated with the bill veto rate, and the temporal ordering of Presidents and Congresses was implicitly learned from only text.</p> <p>Second, we describe <a href=\"http://predictgov.com/\">PredictGov</a>, a machine learning system for predicting Congress. Starting with the 107th Congress, we trained models on data from previous Congresses, predicted all bills in the current Congress, and repeated until the 113th Congress served as the test. The median of the predicted probabilities for enacted bills was 0.71, while the median of the predicted probabilities for failed bills was 0.01. We also conducted a sensitivity analysis on the model to determine important factors predicting enactment. We will describe these results and demonstrate its interactive implementation for real-time predictions of the 114th Congress.</p> <p><b>Bio:</b></p> <p><br/><b>John J. Nay</b></p> <p>John J. Nay is a Ph.D. Candidate at the Vanderbilt University School of Engineering and a Research Fellow at Vanderbilt Law School\u2019s Program on Law &amp; Innovation. He received his bachelor\u2019s degree with High Distinction from the University of Virginia. His computational work is directed toward law and policy applications, including <a href=\"http://johnjnay.com/predMarket/\">computer simulations of climate prediction markets</a>, <a href=\"http://johnjnay.com/forecastVeg/\">software for forecasting drought globally with satellite data</a>, <a href=\"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155656\">computational models predicting human cooperation</a>, <a href=\"http://www.informs-sim.org/wsc15papers/272.pdf\">software for automatically estimating models of decision-making</a>, <a href=\"https://dl.dropboxusercontent.com/u/108075111/Nay_2016_gov2vec.pdf\">natural language processing of law and policy</a>, and <a href=\"http://arxiv.org/abs/1607.02109\">machine learning for predicting and understanding law-making</a>. He is currently collaborating with social scientists, environmental scientists, and engineers on multiple National Science Foundation-funded projects, and with lawyers on developing legal technology. More information can be found at <a href=\"http://johnjnay.com/\">johnjnay.com</a>.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 10800000, 
@@ -282,7 +203,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 313
+            "yes_rsvp_count": 315
         }, 
         {
             "created": 1457035701000, 
@@ -322,7 +243,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1468351277000, 
@@ -360,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1459265642000, 
@@ -388,7 +309,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1466454487000, 
@@ -427,7 +348,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1446219481000, 
@@ -546,7 +467,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1469632651000, 
@@ -885,7 +806,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457965726000, 
@@ -1066,7 +987,7 @@ calendar({
         }, 
         {
             "created": 1468424212000, 
-            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsors\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"https://rideamigos.com/\">RideAmigos</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p>\u2022\u00a0David Miller will share what he learned after launching <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller and packaged mobility platform.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share.</p> <p>If you know any\u00a0Transportation Techies in Oregon, be sure to tell them about our meetup there August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event to your calendar, be aware Meetup might use the wrong time zone. They use the group's location instead of the event's location, and since the group is temporarily \"based\" in Portland, the default time will be off by three hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsors\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"https://rideamigos.com/\">RideAmigos</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022\u00a0Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p>\u2022\u00a0David Miller will share what he learned after launching <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller and packaged mobility platform.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Contact\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\">Michael</a>\u00a0if you have a project you'd like to share.</p> <p>If you know any\u00a0Transportation Techies in Oregon, be sure to tell them about our meetup there August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\">Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this event to your calendar, be aware Meetup might use the wrong time zone. They use the group's location instead of the event's location, and since the group is temporarily \"based\" in Portland, the default time will be off by three hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232589028/", 
             "group": {
                 "created": 1384372275000, 
@@ -1085,7 +1006,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1471568400000, 
-            "updated": 1469640492000, 
+            "updated": 1469669490000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1274,7 +1195,103 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbnc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvlbnc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1472596200000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1469674471000, 
+            "description": "<p>Interested in building big data solutions? If so, please join us this August to learn about the cloud services provided by Microsoft's Azure Platform.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- Building Big Data Solutions in Azure Data Platform<i>\u00a0- Mostafa Elzoghbi</i></p> <p>9:00 PM -- Post event drinks</p> <p><b>Directions</b></p> <p>There is ample parking surrounding the JHU APL building. Make sure you go to the south campus and not the main area in the north.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\" /></p> <p>\n\n\n<b>Talks</b></p> <p><b>Building Big Data Solutions in Azure Data Platform<br/></b></p> <p>The session covers how to get started to build big data solutions in Azure. Azure provides various Hadoop cluster types for Hadoop ecosystem. The session covers the basic understanding of HDInsight clusters including: Apache Hadoop, HBase, Storm and Spark. The session covers how to integrate with HDInsight in .NET using different Hadoop integration frameworks and libraries. The session convers Data platform services in Azure to build end-to-end big data solutions including IoT, batch, streaming and analytics products in cloud based data solutions. The session is a demo driven and covers how to work with HDInsight clusters to build efficient and scalable solutions.</p> <p><br/><b>Speakers</b></p> <p>Mostafa Elzoghbi is a Microsoft Sr. Technical Evangelist based in DC. Mostafa is specialized in Azure architecture and development, Office 365 development and administration, .NET development, and enterprise product development. I am an experienced architect in building cloud based solutions and a data nerd. Prior to joining Microsoft, Mostafa was awarded a Microsoft Most Valuable Professional (MVP) award for five consecutive years. Mostafa holds a M.Sc. of Computer Science and holds several Microsoft certifications. Mostafa can be reached on Twitter\u00a0<a href=\"https://twitter.com/MostafaElzoghbi\">@MostafaElzoghbi</a>\u00a0and at\u00a0<a href=\"http://www.mostafaelzoghbi.com/\"><a href=\"http://www.mostafaelzoghbi.com/\" class=\"linkified\">http://www.mostafaelzoghbi.com/</a></a></p>", 
+            "duration": 8100000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/232936519/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "232936519", 
+            "maybe_rsvp_count": 0, 
+            "name": "Building Big Data Solutions in Azure Data Platform", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1472596200000, 
+            "updated": 1469674615000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "11100 Johns Hopkins Road", 
+                "city": "Laurel", 
+                "country": "us", 
+                "id": 11286692, 
+                "lat": 39.164036000000003, 
+                "localized_country_name": "USA", 
+                "lon": -76.896636999999998, 
+                "name": " Johns Hopkins University Applied Physics Laboratory (APL) - Building 200 Room E100", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "20723"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 25
+        }, 
+        {
+            "created": 1468853724000, 
+            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/xvsfwlyvlbpc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "xvsfwlyvlbpc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails", 
+            "status": "upcoming", 
+            "time": 1472682600000, 
+            "updated": 1468853724000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1465422954000, 
@@ -1313,7 +1330,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1326383071000, 
