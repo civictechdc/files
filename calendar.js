@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 40
         }, 
         {
             "announced": false, 
@@ -282,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 305
+            "yes_rsvp_count": 313
         }, 
         {
             "created": 1457035701000, 
@@ -322,7 +322,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1468351277000, 
@@ -360,7 +360,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1459265642000, 
@@ -427,7 +427,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1446219481000, 
@@ -507,7 +507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
@@ -550,7 +550,7 @@ calendar({
         }, 
         {
             "created": 1469632651000, 
-            "description": "<p>Women Who Code is participating the 100 Days of Commits Challenge, a community project that's partnering with meetups around the country to have people 'commit' to 100 days of code through commits on github.</p> <p>Join us for summer brew and catch-up to launch this campaign!</p> <p>\n\n\n<a href=\"https://100daysofcommits.github.io/\" class=\"linkified\">https://100daysofcommits.github.io/</a></p>", 
+            "description": "<p>Women Who Code is participating in the 100 Days of Commits Challenge, a community project that's partnering with meetups around the country to have people 'commit' to 100 days of code through commits on github.</p> <p>Join us for summer brew and catch-up to launch this campaign!</p> <p>\n\n\n<a href=\"https://100daysofcommits.github.io/\" class=\"linkified\">https://100daysofcommits.github.io/</a></p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232919976/", 
             "group": {
                 "created": 1395616294000, 
@@ -568,7 +568,7 @@ calendar({
             "name": "100 Days of Commits Launch Happy Hour", 
             "status": "upcoming", 
             "time": 1470434400000, 
-            "updated": 1469632686000, 
+            "updated": 1469645443000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "  1600 7th Street NW Washington, DC 20001 ", 
@@ -584,7 +584,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1469621377000, 
@@ -846,7 +846,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1467374992000, 
@@ -1101,7 +1101,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1457212385000, 
@@ -1274,7 +1274,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1465422954000, 
