@@ -1,4 +1,4 @@
-- activity: [8, 0, 41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 5, 0,
+- activity: [0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 5, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1429,7 +1429,7 @@
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 3, 3, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 1, 2, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1950,7 +1950,7 @@
   license: null
   main_language: JavaScript
   name: WABA Regional Bike Map
-  open_issues: 24
+  open_issues: 23
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
   pushed_at: '2016-07-28T03:40:28Z'
