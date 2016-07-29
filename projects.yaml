@@ -1,4 +1,4 @@
-- activity: [0, 0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 5, 0,
+- activity: [0, 2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 3, 3, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -749,7 +749,7 @@
     - {color: d93f0b, name: 'Priority: Major', url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Major'}
     project: Campaign Finance Watch
     project_url: https://github.com/codefordc/dc-campaign-finance-watch
-    updated_at: '2016-04-10T19:30:16Z'
+    updated_at: '2016-07-29T12:01:31Z'
   - assignee: {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3',
       events_url: 'https://api.github.com/users/mkalish/events{/privacy}', followers_url: 'https://api.github.com/users/mkalish/followers',
       following_url: 'https://api.github.com/users/mkalish/following{/other_user}',
@@ -771,7 +771,7 @@
     - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted'}
     project: Campaign Finance Watch
     project_url: https://github.com/codefordc/dc-campaign-finance-watch
-    updated_at: '2016-04-10T18:53:42Z'
+    updated_at: '2016-07-29T12:03:08Z'
   - assignee: null
     body: "Currently, there are contributions through 2014, but we should update this\
       \ to capture data from the current cycle.\r\n\r\nSteps:\r\n\r\n- [ ]  Download\
@@ -788,7 +788,7 @@
     - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted'}
     project: Campaign Finance Watch
     project_url: https://github.com/codefordc/dc-campaign-finance-watch
-    updated_at: '2016-07-20T00:31:46Z'
+    updated_at: '2016-07-29T12:03:08Z'
   homepage: http://codefordc.org/dc-campaign-finance-watch/
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
@@ -801,7 +801,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 18
+  open_issues: 15
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-07-06T14:54:17Z'
@@ -1736,7 +1736,7 @@
   size: 1176
   updated_at: '2016-05-08T17:23:10Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
