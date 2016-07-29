@@ -2233,7 +2233,7 @@ projects([
                 ], 
                 "project": "Campaign Finance Watch", 
                 "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
-                "updated_at": "2016-07-26T01:31:35Z"
+                "updated_at": "2016-07-29T11:58:17Z"
             }, 
             {
                 "assignee": null, 
@@ -2261,35 +2261,7 @@ projects([
                 ], 
                 "project": "Campaign Finance Watch", 
                 "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
-                "updated_at": "2016-04-10T19:30:16Z"
-            }, 
-            {
-                "assignee": null, 
-                "body": "", 
-                "comments": 0, 
-                "created_at": "2016-04-10T18:42:59Z", 
-                "issue": "As a user, I want to see the total amount of money a contributor has contributed over a timeframe", 
-                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/136", 
-                "labels": [
-                    {
-                        "color": "84b6eb", 
-                        "name": "enhancement", 
-                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
-                    }, 
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "d93f0b", 
-                        "name": "Priority: Major", 
-                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Major"
-                    }
-                ], 
-                "project": "Campaign Finance Watch", 
-                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
-                "updated_at": "2016-04-10T19:30:16Z"
+                "updated_at": "2016-07-29T12:00:09Z"
             }, 
             {
                 "assignee": null, 
@@ -2317,7 +2289,7 @@ projects([
                 ], 
                 "project": "Campaign Finance Watch", 
                 "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
-                "updated_at": "2016-04-10T19:30:16Z"
+                "updated_at": "2016-07-29T12:00:25Z"
             }, 
             {
                 "assignee": null, 
@@ -2440,7 +2412,7 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 22, 
+        "open_issues": 18, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
