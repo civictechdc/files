@@ -38,7 +38,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 50
 - announced: false
   created: 1467850168000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -114,7 +114,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -227,7 +227,7 @@ other:
       Room 213', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 338
+  yes_rsvp_count: 348
 - created: 1457035701000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -277,7 +277,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 70
 - created: 1468351277000
   description: "<p>August! \_The height of summer! \_Let's gather to talk about and\
     \ hear about APIs!! \_</p> <p>We've got another solid line up of presenters for\
@@ -305,19 +305,18 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 78
 - created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
+  description: <p>Interested in learning how to build Android/Java apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
+    to our weekly Android/Java Lab! We welcome women with all levels of Android experience
     (including none). ***Please bring your laptop to this event as computers will
     not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
     <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    Getting Started Guide</a>. It is a work in progress and we'll be adding as we
+    go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended
+    to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This
+    Week, but Want to Stay in Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/232554954/
@@ -327,15 +326,15 @@ other:
   headcount: 0
   id: pjkzrlyvlbdb
   maybe_rsvp_count: 0
-  name: Android Lab
+  name: Android/Java Lab
   rsvp_limit: 25
   status: upcoming
   time: 1470177000000
-  updated: 1459265764000
+  updated: 1469825732000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1466454487000
   description: "<p>Hello, Portland! Interested in open data, software, mapping, and\
     \ transportation? We're meeting in Portland for the first time, with a showcase\
@@ -385,7 +384,7 @@ other:
     state: OR}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -416,7 +415,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -460,7 +459,7 @@ other:
     name: NAVA, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -482,7 +481,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 50
 - created: 1469632651000
   description: '<p>Women Who Code is participating in the 100 Days of Commits Challenge,
     a community project that''s partnering with meetups around the country to have
@@ -509,7 +508,7 @@ other:
     lon: -77.022171, name: 'Dacha Beer Garden ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1469621377000
   description: "<p><b>Data Viz Workshop</b></p> <p>Last year I created the <a href=\"\
     https://github.com/datacommunitydc/EventVenueMap\">DC2 Event Venue Map</a>\_to\
@@ -624,7 +623,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 33
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -686,7 +685,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -824,7 +823,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 18
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -851,7 +850,7 @@ other:
     \ information is provided or drop a comment on the Meetup page. We'll come and\
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
-  duration: 612000000
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/232508177/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -863,7 +862,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1471300200000
-  updated: 1457965726000
+  updated: 1469819995000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -959,7 +958,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1277,7 +1276,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvlbnc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232977662/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1342,7 +1341,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 61
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1675,7 +1674,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1467833256000
   description: "<p>(We haven't finalized a date. You are welcome to register but be\
     \ aware that are in the planning stages and information is preliminary)</p> <p>Registration\

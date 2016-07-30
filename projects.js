@@ -2,9 +2,9 @@ projects([
     {
         "activity": [
             0, 
-            2, 
-            64, 
-            17, 
+            3, 
+            65, 
+            15, 
             0, 
             2, 
             3, 
@@ -4576,7 +4576,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 885, 
+                "contributions": 886, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4611,16 +4611,16 @@ projects([
                 "name": "mchelen"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/13918431?v=3", 
-                "contributions": 24, 
-                "link": "https://github.com/CamLatimer", 
-                "name": "CamLatimer"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
                 "contributions": 24, 
                 "link": "https://github.com/charleshuang80", 
                 "name": "charleshuang80"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/13918431?v=3", 
+                "contributions": 24, 
+                "link": "https://github.com/CamLatimer", 
+                "name": "CamLatimer"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1946584?v=3", 
@@ -4659,10 +4659,10 @@ projects([
                 "name": "benjamincrane"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/11823445?v=3", 
                 "contributions": 5, 
-                "link": "https://github.com/cmgiven", 
-                "name": "cmgiven"
+                "link": "https://github.com/KatSDC", 
+                "name": "KatSDC"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
@@ -4671,10 +4671,10 @@ projects([
                 "name": "dfelsent"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/11823445?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
                 "contributions": 5, 
-                "link": "https://github.com/KatSDC", 
-                "name": "KatSDC"
+                "link": "https://github.com/cmgiven", 
+                "name": "cmgiven"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5253461?v=3", 
@@ -4701,22 +4701,28 @@ projects([
                 "name": "MiroFurtado"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/15959851?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/jeffreyeaton76", 
+                "name": "jeffreyeaton76"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7883907?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/edwardpark", 
                 "name": "edwardpark"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5439589?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/valeriecodes", 
-                "name": "valeriecodes"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/kndllbrwn", 
                 "name": "kndllbrwn"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5439589?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/valeriecodes", 
+                "name": "valeriecodes"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/17989540?v=3", 
@@ -4737,7 +4743,7 @@ projects([
                 "name": "trycrmr"
             }
         ], 
-        "contributors_count": 27, 
+        "contributors_count": 28, 
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
@@ -4753,11 +4759,11 @@ projects([
             ], 
             [
                 "HTML", 
-                65411
+                65403
             ], 
             [
                 "CSS", 
-                27095
+                27139
             ], 
             [
                 "CoffeeScript", 
@@ -4776,16 +4782,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 74, 
+        "open_issues": 73, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-07-30T02:29:09Z", 
+        "pushed_at": "2016-07-30T15:35:33Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10451, 
+        "size": 10453, 
         "updated_at": "2016-07-29T21:02:39Z", 
         "watchers": 12
     }, 
