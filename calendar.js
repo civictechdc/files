@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 79
         }, 
         {
             "announced": false, 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "announced": true, 
@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "announced": false, 
@@ -160,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }
     ], 
     "other": [
@@ -200,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1459265642000, 
@@ -244,7 +244,7 @@ calendar({
         }, 
         {
             "created": 1466454487000, 
-            "description": "<p>Hello, Portland! Interested in open data, software, mapping, and transportation? We're meeting in Portland for the first time, with a showcase of bike- and transit- projects made by Portland's coolest coders.\u00a0</p> <p>The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>.\u00a0</p> <p>Doors open at 6:00 with pizza courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a>\u00a0of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will\u00a0discuss how crowdsourcing applications like\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0can support the future of transportation planning.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.\u00a0</p> <p>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana McHugh will share <a href=\"http://trimet.org/\">TriMet</a>'s work on\u00a0integration with shared-use mobility options; new <a href=\"http://docs.opentripplanner.org/en/latest/#opentripplanner\">OpenTripPlanner</a>\u00a0API; open geocoder; and more data in OpenStreetMap.</p> <p>\u2022\u00a0Keith Billings and Nathan Upperman will show their prototype for a low-cost radio-controlled transit stop next-arrival display.</p> <p>\u2022\u00a0<a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Hello, Portland! Interested in open data, software, mapping, and transportation? We're meeting in Portland for the first time, with a showcase of bike- and transit- projects made by Portland's coolest coders.\u00a0</p> <p>The\u00a0<a href=\"http://actweb.org/\">Association for Commuter Transportation (ACT)</a>\u00a0is providing us a meeting space in conjunction with the\u00a0<a href=\"https://www.actconf.org/\">2016 ACT Conference</a>. (You do not need to register for the conference in order to attend our meetup, but please do RSVP via this site.)\u00a0We'll be in the Parlor Rm of the\u00a0<a href=\"http://www3.hilton.com/en/hotels/oregon/hilton-portland-and-executive-tower-PDXPHHH/\">Hilton Portland</a>; on the same level as the Grand Ballroom (hit \"B\" in the elevators, or take the escalators all the way down).</p> <p>Doors open at 6:00 with pizza courtesy of our sponsor, Arlington, VA's\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>. Presentations start at 6:30; we'll wrap up by 8:30. We invite folks to mingle afterwards until 9:00.\u00a0Our speakers are:</p> <p>\u2022\u00a0<a href=\"https://twitter.com/quicklywilliam\">William Henderson</a> will show us how <a href=\"https://ride.report/\">Ride Report</a> helps cyclists track and map their rides.</p> <p>\u2022\u00a0<a href=\"https://twitter.com/bryanpblanc\">Bryan Blanc</a>\u00a0of\u00a0<a href=\"http://nelsonnygaard.com/\">Nelson\\Nygaard</a>\u00a0will\u00a0discuss how crowdsourcing applications like\u00a0<a href=\"http://www.pdx.edu/transportation-lab/orcycle\">ORcycle</a>\u00a0can support the future of transportation planning.</p> <p>\u2022\u00a0Ryan Rzepecki of <a href=\"http://socialbicycles.com/\">Social Bicycles</a> will give us a preview of the new <a href=\"https://www.biketownpdx.com/\">Biketown</a> bike and the data being collected.\u00a0</p> <p>\u2022\u00a0<a href=\"http://alexbigazzi.com\">Alex\u00a0Bigazzi</a> will review his \"<a href=\"http://alexbigazzi.com/Spec/\">SPEC</a>\" (Sensing Pollution Exposure by Community)\u00a0project, mapping air quality along bike routes.</p> <p>\u2022\u00a0Bibiana McHugh will share <a href=\"http://trimet.org/\">TriMet</a>'s work on\u00a0integration with shared-use mobility options; new <a href=\"http://docs.opentripplanner.org/en/latest/#opentripplanner\">OpenTripPlanner</a>\u00a0API; open geocoder; and more data in OpenStreetMap.</p> <p>\u2022\u00a0Keith Billings and Nathan Upperman will show their prototype for a low-cost radio-controlled transit stop next-arrival display.</p> <p>\u2022\u00a0Mario Guzman will show how he made\u00a0<a href=\"https://itunes.apple.com/us/app/pdx-transit-trimet-portland/id1010532756?mt=8\">PDX Transit</a>, an iOS and Apple Watch\u00a0app for Portland transit.</p> <p><br/>\u2022\u00a0<a href=\"http://chrissmith.us/\">Chris Smith</a> will show how\u00a0<a href=\"http://transitappliance.com/\">Transit Appliance</a> works.</p> <p><br/>Looking forward to hanging out with Portland's bikenerds and transitnerds! Stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232037344/", 
             "group": {
                 "created": 1384372275000, 
@@ -260,10 +260,10 @@ calendar({
             "id": "232037344", 
             "maybe_rsvp_count": 0, 
             "name": "Portland Show & Tell", 
-            "rsvp_limit": 105, 
+            "rsvp_limit": 112, 
             "status": "upcoming", 
             "time": 1470186000000, 
-            "updated": 1470122207000, 
+            "updated": 1470182278000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "921 SW 6th Ave", 
@@ -278,12 +278,12 @@ calendar({
                 "state": "OR"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 105
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring your laptop).<br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387925/", 
             "group": {
@@ -302,23 +302,23 @@ calendar({
             "name": "Python Beginners Night", 
             "status": "upcoming", 
             "time": 1470263400000, 
-            "updated": 1470106049000, 
+            "updated": 1470162315000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1 Thomas Circle", 
+                "address_1": "1200 18th St. NW Ste 650", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24416213, 
-                "lat": 38.905323000000003, 
+                "id": 23819674, 
+                "lat": 38.905945000000003, 
                 "localized_country_name": "USA", 
-                "lon": -77.032700000000006, 
-                "name": "Fiscal Note", 
+                "lon": -77.042061000000004, 
+                "name": "The Iron Yard DC", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1452612310000, 
@@ -362,7 +362,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>This month, we'll be hearing from geo-interns across the city about projects they worked on this summer.</p> <p><br/>Pranav Kulkarni is an intern at Esri's R&amp;D Center. He will be talking about his internship experience and how he set up a machine learning workflow to improve search experience in ArcGIS Open Data.</p> <p>Beth Bodner, Samuel Raby, and Midhun Mohan are interns at Blue Raster and will be speaking about their experiences working in GIS application development.</p>", 
+            "description": "<p>This month, we'll be hearing from geo-interns across the city about projects they worked on this summer.</p> <p>Pranav Kulkarni is an intern at Esri's R&amp;D Center. He will be talking about his internship experience and how he set up a machine learning workflow to improve search experience in ArcGIS Open Data.<br/>Beth Bodner and Sam Raby are GIS development interns at Blue Raster, presenting a story map on tracking the progress of the UN\u2019s Sustainable Development Goals.</p> <p>Mikey (Midhun Mohan) is a data analytics intern at Blue Raster, presenting various 3D mapping and spatial modeling strategies associated with drone technology.</p> <p>Elisabeth Hickey, Rachel Anderson, and Rachel Beery are interns at National Geographic and will be talking about their internship experiences and the great resources Nat Geo has to offer.</p> <p>Katie Higgins from the American Red Cross International Services GIS team will talk about how she has spent the summer strengthening her HTML/CSS/Javascript skills while working on data visualization tools.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/231584528/", 
             "group": {
                 "created": 1307975249000, 
@@ -381,7 +381,7 @@ calendar({
             "name": "Monthly Meetup:Intern Edition!", 
             "status": "upcoming", 
             "time": 1470265200000, 
-            "updated": 1470159636000, 
+            "updated": 1470173087000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -397,7 +397,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1469632651000, 
@@ -435,7 +435,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1469621377000, 
@@ -511,7 +511,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1470064784000, 
@@ -588,7 +588,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1459265642000, 
@@ -656,11 +656,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p>Tonight's going to be an open lab time hosted by the Ruby on Rails group. Feel free to come and bring your projects to work on no matter the language.</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Lead?\u00a0</b></p> <p>If you are passionate about learning how to code with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with one of our study groups!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources\" class=\"linkified\">https://github.com/womenwhocodedc/organization/tree/master/learning-resources</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232708764/", 
             "group": {
@@ -676,10 +676,10 @@ calendar({
             "headcount": 0, 
             "id": "xvsfwlyvlbnb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Open Lab Night", 
             "status": "upcoming", 
             "time": 1470868200000, 
-            "updated": 1468866701000, 
+            "updated": 1470163914000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -696,7 +696,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1417881835000, 
@@ -736,7 +736,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1467374992000, 
@@ -830,7 +830,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1446220217000, 
@@ -858,11 +858,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p>Tonight we're going to do another instance of one of our most popular recent events: building a surrealist Rails app.</p> <p>Inspired by a workshop by Terian Koscik at RailsConf 2016, we\u2019ll be building Rails apps in the exquisite corpse style. We\u2019ll be working in groups and basic knowledge of Rails and databases will be very helpful. To find out more information checkout these links!\u00a0</p> <p>Terian\u2019s page on this workshop:</p> <p><a href=\"http://pineconedoesthings.com/surreal.html\"><a href=\"http://pineconedoesthings.com/surreal.html\" class=\"linkified\">http://pineconedoesthings.com/surreal.html</a></a>\u00a0</p> <p>Exquisite corpse wikipedia page:</p> <p><a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\"><a href=\"https://en.wikipedia.org/wiki/Exquisite_corpse\" class=\"linkified\">https://en.wikipedia.org/wiki/Exquisite_corpse</a></a></p> <p>Meetup Agenda\u00a0</p> <p>\u2022\u00a06:30pm\u00a0- Setup</p> <p>\u2022\u00a07pm\u00a0- Break for quick introductions</p> <p>\u2022\u00a07:15pm - 8:30 pm\u00a0- Build surrealist Rails apps!</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><br/><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232708907/", 
             "group": {
@@ -878,10 +878,10 @@ calendar({
             "headcount": 0, 
             "id": "xvsfwlyvlbwb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Ruby on Rails: Collaborate on a Surrealist Rails App", 
             "status": "upcoming", 
             "time": 1471473000000, 
-            "updated": 1468867152000, 
+            "updated": 1470164247000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "806 7th St NW #201", 
@@ -897,7 +897,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1468865620000, 
@@ -963,7 +963,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1457212385000, 
@@ -1035,7 +1035,7 @@ calendar({
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p><b>Say you're building a simple website with five pages linked together, and a simple navigation bar at the top. You make some changes to the code and want to know if everything still works. So you open your local version of the webpage and click through each button on the navigation bar to make sure they each still lead to the right destination. Not hard, and it doesn't take long.</b></p> <p>But now imagine you make some changes to a more complex app--one with 20 pages, a login system, various forms, and content that should look different depending on which type of user you're logged in as. You could come up with a checklist of all the buttons you'd have to manually click on\u2014and forms you\u2019d have to test-submit in various ways\u2014while logged in as various different users, checking to make sure your changes didn\u2019t accidentally blow up an obscure but necessary function of your website. Repeating a long list of tests every time you make a small update to your app would get repetitive and tedious.\u00a0</p> <p>Thankfully, computers love doing repetitive and tedious tasks for us! Automated testing\u2014when we write code to perform tests on other code\u2014helps us as developers to save time, expose poorly written code, confidently expand or update our apps, sleep better at night knowing that bugs are permanently addressed, and even think more critically when we sit down to write an app from scratch.\u00a0</p> <p>In this meetup we'll examine one of the most popular testing frameworks for Rails applications, called RSpec.\u00a0</p> <p>***</p> <p><br/>Meetup Agenda<br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- RSpec presentation</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232840418/", 
             "group": {
@@ -1051,14 +1051,14 @@ calendar({
             "headcount": 0, 
             "id": "xvsfwlyvlbgc", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Ruby on Rails: Intro to Testing with RSpec", 
             "status": "upcoming", 
             "time": 1472077800000, 
-            "updated": 1468853724000, 
+            "updated": 1470164323000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1467072890000, 
@@ -1205,13 +1205,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1468853724000, 
             "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/xvsfwlyvlbpc/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233071172/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1272,7 +1272,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1465422954000, 
@@ -1350,7 +1350,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1466889132000, 
@@ -1571,7 +1571,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1467700232000, 
