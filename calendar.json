@@ -22,7 +22,7 @@
             "name": "Civic Hacknight", 
             "status": "upcoming", 
             "time": 1470349800000, 
-            "updated": 1468894897000, 
+            "updated": 1470329797000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 94
         }, 
         {
             "announced": false, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "announced": true, 
@@ -200,56 +200,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
-        }, 
-        {
-            "created": 1469621377000, 
-            "description": "<p><b>Data Viz Workshop</b></p> <p>Last year I created the <a href=\"https://github.com/datacommunitydc/EventVenueMap\">DC2 Event Venue Map</a>\u00a0to help our organizers find venues to support their events. The app pulls from a Google Sheet, codes the data in SVG's with D3, and overlays it on a Google map. This is what we'll learn in detail before we adjourn to <a href=\"http://www.meetup.com/dcnightowls/events/232916526/\">Brunch N' Hack</a>.\u00a0</p> <p><b>Prerequisits</b></p> <p>It is expected that you have some experience with Javascript and using Google sheets.</p> <p>To ensure you get your money's worth from the workshop, please be sure to review the code in the\u00a0<a href=\"https://github.com/datacommunitydc/EventVenueMap\">DC2 Event Venue Map</a>\u00a0and come ready with questions. We will spend the majority of the time answering your questions,\u00a0going through the code, and playing with changes.</p> <p><b>Announcements</b></p> <p>Hiring? Job Seeking? Join <a href=\"http://match.datacommunitydc.org\">Datable</a>!</p> <p>Building your brand in tech? Promoting a Conference?\u00a0<a href=\"http://datacommunitydc.org/sponsorship\">Sponsor DC2</a></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/232916689/", 
-            "fee": {
-                "accepts": "wepay", 
-                "amount": 35, 
-                "currency": "USD", 
-                "description": "per person", 
-                "label": "Price", 
-                "required": "1"
-            }, 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Tell the guard you're with the Brunch N' Hack, or call Sean Gonzalez.", 
-            "id": "232916689", 
-            "maybe_rsvp_count": 0, 
-            "name": "Workshop: Google Sheets >> D3 >> Google Map", 
-            "rsvp_limit": 30, 
-            "status": "upcoming", 
-            "time": 1470493800000, 
-            "updated": 1469625957000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St NW, The Penthouse ", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841355, 
-                "lat": 0, 
-                "localized_country_name": "USA", 
-                "lon": 0, 
-                "name": "1776", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1460389774000, 
@@ -276,7 +227,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1470064784000, 
@@ -353,7 +304,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1459265642000, 
@@ -421,7 +372,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1468853724000, 
@@ -501,7 +452,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1467374992000, 
@@ -568,7 +519,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1465845757000, 
@@ -728,7 +679,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1457212385000, 
@@ -901,7 +852,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1459265642000, 
@@ -970,7 +921,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1468853724000, 
@@ -1037,7 +988,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459265642000, 
@@ -1144,7 +1095,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1452612310000, 
@@ -1171,7 +1122,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1326383071000, 
@@ -1210,7 +1161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1466889132000, 
@@ -1276,6 +1227,47 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1470324592000, 
+            "description": "<p>Friends,</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers</p> <p><br/>This event is only possible with the generous sponsorship from the sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a></p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/H1ryzXbz6LCQLwMnxiP8l9wJ2QPiYZq4_EOls5-yTRw8DFxS677Z0K3o8oYSUb5f7TZZ8_kiWlyhneChzHwJebWdanne5ENpEiBB-GArqaZ5O84J7HZ1UZAcmPuXN9iWhUPAfmzfMOZHu1jpiH8ZzGlXmegppi4BeHq7mhc=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/65172e36-6b1c-4c20-af74-b66d966beb3d.jpghttps://ci5.googleusercontent.com/proxy/zORz_PCDH8e7eOY_leQA94Gop0MLsx7rfAsHPBvdLdM7OErS6hYfk8EMgkKrvOuehgPixSyU50BLNRGDcKhpIh9ZG3evXh7mG9FZkUbIX-qS6s-wQH1VFMLabdqFqRi0bv2VbaWPj9Z_gNr6EtjXQXnKVy5IPSBHgVBNNfM=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/8d86ddb9-6191-41eb-a342-c7ee3d8b0f31.jpghttps://ci5.googleusercontent.com/proxy/ontdFSVTqSdkb7TYFSi25GxfCh33TDaDta0OatTgW-uDqN2ndStYC8B3ZnPE9ZHY7H8-5WYtRDrr3NY-bCXlekjhebTVBbQe5XwehiD44xt3_1nffDtNTryO9O9uEXUDhH1eePVALD5dWL0pVCYKM7m3JN_M7ZQokKJt3tlH=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5f87ef71-2068-4a58-b745-c2ccb207b201.jpeghttps://ci3.googleusercontent.com/proxy/cRVLDZDhLgwlYuAVlD-vujAcQ6odtM-vn9yOZyjEDp0yozMQ5B7bXMFdhz2J-lutqwSeWSJMo1lPQtjhkFXXdWmCqZ9qEbWslljbPpXaslaqmnt4bjs1l0KJhDvI_vwh4MqB_wMvc8Hwc03iutwdo8FBNv2OK6Lf9MIbrP4=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/e1c52804-4fe8-4376-9aca-17112cee6cfb.jpghttps://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpghttps://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p>", 
+            "duration": 118800000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/233117940/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "DevFestDC, Google, Cloud, Containers, Cloud Platform, App Engine, Compute Engine, Containers, Developers, Polymer, Meteor, AngularJS, Java, Python, Capital One, AWS, Azure, BigData, Hadoop, Machine Learning, Tensorflow", 
+            "id": "233117940", 
+            "maybe_rsvp_count": 0, 
+            "name": "DevFestDC - 2016 - Sep 23/24 @ CapitalOne", 
+            "rsvp_limit": 3, 
+            "status": "upcoming", 
+            "time": 1474633800000, 
+            "updated": 1470325420000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1680 Capital One Drive", 
+                "city": "McLean", 
+                "country": "us", 
+                "id": 23933274, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "Capital One", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 28, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1467704208000, 
@@ -1431,7 +1423,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1467700232000, 
