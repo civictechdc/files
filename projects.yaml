@@ -1,6 +1,6 @@
-- activity: [0, 40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 6, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -82,7 +82,7 @@
   - [CoffeeScript, 7895]
   - [Puppet, 5537]
   - [Shell, 118]
-  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
+  license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
   open_issues: 83
@@ -164,7 +164,7 @@
   - [JavaScript, 1951]
   - [Nginx, 1175]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
-    url: 'https://api.github.com/licenses/cc0-1.0'}
+    spdx_id: CC0-1.0, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Python
   name: ANC Finder
   open_issues: 40
@@ -328,7 +328,7 @@
   - [Shell, 5425]
   - [Ruby, 3638]
   license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
-    url: 'https://api.github.com/licenses/gpl-2.0'}
+    spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
   open_issues: 24
@@ -384,7 +384,7 @@
   - [HTML, 14079423]
   - [JavaScript, 4860]
   - [Python, 2215]
-  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
+  license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Mayor's Schedule Archive
   open_issues: 1
@@ -445,7 +445,7 @@
   - [HTML, 4094]
   - [JavaScript, 48]
   license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
-    url: 'https://api.github.com/licenses/gpl-2.0'}
+    spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: CSS
   name: Open 211
   open_issues: 2
@@ -507,7 +507,7 @@
   - [CSS, 16025]
   - [Shell, 9547]
   license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
-    url: 'https://api.github.com/licenses/gpl-2.0'}
+    spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: Python
   name: Metro Metrics
   open_issues: 15
@@ -563,7 +563,7 @@
   id: 31340793
   languages:
   - [R, 1614]
-  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
+  license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: R
   name: DC Tree Map
   open_issues: 0
@@ -602,7 +602,7 @@
   languages:
   - [Python, 18697]
   license: {featured: false, key: bsd-3-clause, name: BSD 3-clause "New" or "Revised"
-      License, url: 'https://api.github.com/licenses/bsd-3-clause'}
+      License, spdx_id: BSD-3-Clause, url: 'https://api.github.com/licenses/bsd-3-clause'}
   main_language: Python
   name: Emergency Response Times
   open_issues: 1
@@ -867,7 +867,7 @@
   id: 24201901
   languages: []
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
-    url: 'https://api.github.com/licenses/cc0-1.0'}
+    spdx_id: CC0-1.0, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: null
   name: 2014 Budget Treemap
   open_issues: 5
@@ -897,7 +897,7 @@
   id: 25925356
   languages: []
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
-    url: 'https://api.github.com/licenses/cc0-1.0'}
+    spdx_id: CC0-1.0, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: null
   name: DC Juvenile Arrests
   open_issues: 1
@@ -931,7 +931,7 @@
   - [HTML, 7749]
   - [Ruby, 1576]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
-    url: 'https://api.github.com/licenses/cc0-1.0'}
+    spdx_id: CC0-1.0, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: JavaScript
   name: Open Elections Map
   open_issues: 1
@@ -1017,7 +1017,7 @@
   - [HTML, 9010]
   - [CSS, 5271]
   license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
-    url: 'https://api.github.com/licenses/gpl-2.0'}
+    spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
   name: CSV Geocoder
   open_issues: 1
@@ -1071,7 +1071,7 @@
   - [CSS, 3392]
   - [HTML, 931]
   license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
-    url: 'https://api.github.com/licenses/gpl-2.0'}
+    spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
   name: Books for DC
   open_issues: 2
@@ -1199,7 +1199,7 @@
   - [HTML, 108735]
   - [JavaScript, 95208]
   - [CSS, 3906]
-  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
+  license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: HTML
   name: Conviction Expungement
   open_issues: 26
@@ -1235,7 +1235,7 @@
   - [JavaScript, 1183]
   - [CoffeeScript, 844]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
-    url: 'https://api.github.com/licenses/cc0-1.0'}
+    spdx_id: CC0-1.0, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: Ruby
   name: WhatsaMATA
   open_issues: 7
@@ -1291,7 +1291,7 @@
   - [R, 18236]
   - [JavaScript, 536]
   license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
-    url: 'https://api.github.com/licenses/gpl-2.0'}
+    spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Get DC Trees
   open_issues: 1
@@ -1371,7 +1371,7 @@
   - [HTML, 9617]
   - [CSS, 5318]
   license: {featured: false, key: gpl-2.0, name: GNU General Public License v2.0,
-    url: 'https://api.github.com/licenses/gpl-2.0'}
+    spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: JavaScript
   name: DC Geocoder+
   open_issues: 1
@@ -1544,10 +1544,10 @@
   - [CSS, 27139]
   - [CoffeeScript, 2879]
   - [JavaScript, 1501]
-  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
+  license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 80
+  open_issues: 79
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-08-02T21:05:30Z'
@@ -1637,7 +1637,7 @@
   - [CSS, 27133]
   - [Python, 6087]
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
-    url: 'https://api.github.com/licenses/cc0-1.0'}
+    spdx_id: CC0-1.0, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: HTML
   name: School Modernization Funds
   open_issues: 3
@@ -1772,7 +1772,7 @@
   id: 48180819
   languages: []
   license: {featured: false, key: cc0-1.0, name: Creative Commons Zero v1.0 Universal,
-    url: 'https://api.github.com/licenses/cc0-1.0'}
+    spdx_id: CC0-1.0, url: 'https://api.github.com/licenses/cc0-1.0'}
   main_language: null
   name: Welcome Wagon
   open_issues: 2
@@ -1816,7 +1816,7 @@
   id: 51339353
   languages:
   - [JavaScript, 4328]
-  license: {featured: true, key: mit, name: MIT License, url: 'https://api.github.com/licenses/mit'}
+  license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: JavaScript
   name: Student Community Service Matcher
   open_issues: 0

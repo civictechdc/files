@@ -38,7 +38,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 85
 - announced: false
   created: 1467850168000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -155,17 +155,19 @@ codefordc:
   yes_rsvp_count: 14
 other:
 - created: 1446219481000
-  description: <p>We're a group of women who want to learn and develop our Python
+  description: '<p>We''re a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
     others are hobbyists, and some are just beginning. The study group is intended
     for everyone who wishes to learn more about the Python programming language. Folks
     of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
     Wednesday of every month, which caters especially for absolute beginners and people
     with basic familiarity.</p> <p>All other study group nights will generally cover
-    more advanced topics and work on projects more in depth, according to everyone's
-    interests.</p> <p>(Please bring your laptop).<br/>There will be food at this event!</p>
-    <p>This Women Who Code DC event is intended to be exclusively open for women;
-    we are trans* friendly.</p>
+    more advanced topics and work on projects more in depth, according to everyone''s
+    interests.</p> <p>(Please bring your laptop).</p> <p>
+
+
+    This Women Who Code DC event is intended to be exclusively open for women; we
+    are trans* friendly.</p>'
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387925/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -177,14 +179,14 @@ other:
   name: Python Beginners Night
   status: upcoming
   time: 1470263400000
-  updated: 1470162315000
+  updated: 1470262736000
   utc_offset: -14400000
   venue: {address_1: 1200 18th St. NW Ste 650, city: Washington, country: us, id: 23819674,
     lat: 38.905945000000003, localized_country_name: USA, lon: -77.042061000000004,
     name: The Iron Yard DC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 66
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -228,7 +230,7 @@ other:
     name: NAVA, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 18
 - created: 1326383071000
   description: "<p>This month, we'll be hearing from geo-interns across the city about\
     \ projects they worked on this summer.</p> <p>Pranav Kulkarni is an intern at\
@@ -261,7 +263,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 77
 - created: 1469632651000
   description: '<p>Women Who Code is participating in the 100 Days of Commits Challenge,
     a community project that''s partnering with meetups around the country to have
@@ -371,7 +373,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1470064784000
   description: <p>Interested in sharpening your problem solving skills and learning
     more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week
@@ -430,7 +432,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 51
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -492,7 +494,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1468853724000
   description: "<p>Tonight's going to be an open lab time hosted by the Ruby on Rails\
     \ group. Feel free to come and bring your projects to work on no matter the language.</p>\
@@ -533,7 +535,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -555,7 +557,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1467374992000
   description: "<p><b>12 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
     >Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are\
@@ -788,7 +790,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1468424212000
   description: "<p>Coders and commuting: how do apps change the way we drive? This\
     \ month we'll hear from tech companies with apps that help people share the road.\
@@ -1054,7 +1056,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 71
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1300,7 +1302,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 73
+  yes_rsvp_count: 74
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1515,7 +1517,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1467700232000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
     \ <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\

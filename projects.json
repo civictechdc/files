@@ -2,9 +2,9 @@
     {
         "activity": [
             0, 
-            40, 
-            33, 
-            10, 
+            60, 
+            23, 
+            0, 
             0, 
             2, 
             3, 
@@ -12,16 +12,16 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             1, 
             0, 
             0, 
             2, 
-            0, 
-            6, 
+            1, 
+            5, 
             0, 
             0, 
             0, 
@@ -284,6 +284,7 @@
             "featured": true, 
             "key": "mit", 
             "name": "MIT License", 
+            "spdx_id": "MIT", 
             "url": "https://api.github.com/licenses/mit"
         }, 
         "main_language": "Java", 
@@ -537,6 +538,7 @@
             "featured": false, 
             "key": "cc0-1.0", 
             "name": "Creative Commons Zero v1.0 Universal", 
+            "spdx_id": "CC0-1.0", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": "Python", 
@@ -1075,6 +1077,7 @@
             "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
+            "spdx_id": "GPL-2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
         "main_language": "HTML", 
@@ -1246,6 +1249,7 @@
             "featured": true, 
             "key": "mit", 
             "name": "MIT License", 
+            "spdx_id": "MIT", 
             "url": "https://api.github.com/licenses/mit"
         }, 
         "main_language": "HTML", 
@@ -1433,6 +1437,7 @@
             "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
+            "spdx_id": "GPL-2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
         "main_language": "CSS", 
@@ -1621,6 +1626,7 @@
             "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
+            "spdx_id": "GPL-2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
         "main_language": "Python", 
@@ -1805,6 +1811,7 @@
             "featured": true, 
             "key": "mit", 
             "name": "MIT License", 
+            "spdx_id": "MIT", 
             "url": "https://api.github.com/licenses/mit"
         }, 
         "main_language": "R", 
@@ -1935,6 +1942,7 @@
             "featured": false, 
             "key": "bsd-3-clause", 
             "name": "BSD 3-clause \"New\" or \"Revised\" License", 
+            "spdx_id": "BSD-3-Clause", 
             "url": "https://api.github.com/licenses/bsd-3-clause"
         }, 
         "main_language": "Python", 
@@ -2640,6 +2648,7 @@
             "featured": false, 
             "key": "cc0-1.0", 
             "name": "Creative Commons Zero v1.0 Universal", 
+            "spdx_id": "CC0-1.0", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": null, 
@@ -2741,6 +2750,7 @@
             "featured": false, 
             "key": "cc0-1.0", 
             "name": "Creative Commons Zero v1.0 Universal", 
+            "spdx_id": "CC0-1.0", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": null, 
@@ -2859,6 +2869,7 @@
             "featured": false, 
             "key": "cc0-1.0", 
             "name": "Creative Commons Zero v1.0 Universal", 
+            "spdx_id": "CC0-1.0", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": "JavaScript", 
@@ -3132,6 +3143,7 @@
             "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
+            "spdx_id": "GPL-2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
         "main_language": "JavaScript", 
@@ -3287,6 +3299,7 @@
             "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
+            "spdx_id": "GPL-2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
         "main_language": "JavaScript", 
@@ -3679,6 +3692,7 @@
             "featured": true, 
             "key": "mit", 
             "name": "MIT License", 
+            "spdx_id": "MIT", 
             "url": "https://api.github.com/licenses/mit"
         }, 
         "main_language": "HTML", 
@@ -3801,6 +3815,7 @@
             "featured": false, 
             "key": "cc0-1.0", 
             "name": "Creative Commons Zero v1.0 Universal", 
+            "spdx_id": "CC0-1.0", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": "Ruby", 
@@ -3974,6 +3989,7 @@
             "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
+            "spdx_id": "GPL-2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
         "main_language": "HTML", 
@@ -4219,6 +4235,7 @@
             "featured": false, 
             "key": "gpl-2.0", 
             "name": "GNU General Public License v2.0", 
+            "spdx_id": "GPL-2.0", 
             "url": "https://api.github.com/licenses/gpl-2.0"
         }, 
         "main_language": "JavaScript", 
@@ -4778,11 +4795,12 @@
             "featured": true, 
             "key": "mit", 
             "name": "MIT License", 
+            "spdx_id": "MIT", 
             "url": "https://api.github.com/licenses/mit"
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 80, 
+        "open_issues": 79, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
@@ -5063,6 +5081,7 @@
             "featured": false, 
             "key": "cc0-1.0", 
             "name": "Creative Commons Zero v1.0 Universal", 
+            "spdx_id": "CC0-1.0", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": "HTML", 
@@ -5464,6 +5483,7 @@
             "featured": false, 
             "key": "cc0-1.0", 
             "name": "Creative Commons Zero v1.0 Universal", 
+            "spdx_id": "CC0-1.0", 
             "url": "https://api.github.com/licenses/cc0-1.0"
         }, 
         "main_language": null, 
@@ -5593,6 +5613,7 @@
             "featured": true, 
             "key": "mit", 
             "name": "MIT License", 
+            "spdx_id": "MIT", 
             "url": "https://api.github.com/licenses/mit"
         }, 
         "main_language": "JavaScript", 
