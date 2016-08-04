@@ -1331,7 +1331,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 28, 7, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+- activity: [0, 28, 8, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
     0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1415,7 +1415,7 @@
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 3, 3, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    1, 2, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1447,9 +1447,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4, 40,
-    7, 10, 20, 4, 21, 73, 51, 14, 48, 83, 27, 53, 38, 36, 23, 22, 46, 22, 19, 33,
-    94, 49, 56, 34, 74, 91, 86, 8, 39, 14]
+- activity: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 6, 0, 7, 2, 12, 3, 40,
+    7, 10, 24, 0, 28, 68, 50, 15, 46, 87, 23, 53, 44, 30, 23, 27, 50, 13, 19, 50,
+    80, 53, 49, 37, 85, 85, 80, 9, 40, 13]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1473,7 +1473,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 894,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 900,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 77,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1501,10 +1501,12 @@
     link: 'https://github.com/clarissastark', name: clarissastark}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/2466413?v=3', contributions: 7,
     link: 'https://github.com/benjamincrane', name: benjamincrane}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/11823445?v=3', contributions: 5,
-    link: 'https://github.com/KatSDC', name: KatSDC}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/6306695?v=3', contributions: 5,
+    link: 'https://github.com/MiroFurtado', name: MiroFurtado}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1399672?v=3', contributions: 5,
     link: 'https://github.com/dfelsent', name: dfelsent}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/11823445?v=3', contributions: 5,
+    link: 'https://github.com/KatSDC', name: KatSDC}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5375557?v=3', contributions: 5,
     link: 'https://github.com/cmgiven', name: cmgiven}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5253461?v=3', contributions: 4,
@@ -1513,9 +1515,7 @@
     link: 'https://github.com/Nico-ehs', name: Nico-ehs}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12372787?v=3', contributions: 4,
     link: 'https://github.com/adinneen', name: adinneen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/6306695?v=3', contributions: 3,
-    link: 'https://github.com/MiroFurtado', name: MiroFurtado}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/15959851?v=3', contributions: 2,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/15959851?v=3', contributions: 3,
     link: 'https://github.com/jeffreyeaton76', name: jeffreyeaton76}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7883907?v=3', contributions: 2,
     link: 'https://github.com/edwardpark', name: edwardpark}
@@ -1539,20 +1539,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 135669]
-  - [HTML, 65403]
+  - [Ruby, 136604]
+  - [HTML, 65399]
   - [CSS, 27139]
   - [CoffeeScript, 2879]
-  - [JavaScript, 1501]
+  - [JavaScript, 1978]
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 79
+  open_issues: 73
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-02T21:05:30Z'
+  pushed_at: '2016-08-04T02:55:59Z'
   short_name: dcaf_case_management
-  size: 10468
+  size: 10489
   updated_at: '2016-08-02T10:43:37Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0,
