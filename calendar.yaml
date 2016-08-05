@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - announced: true
   created: 1468797968000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -140,7 +140,7 @@ other:
     lon: -77.022171, name: 'Dacha Beer Garden ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 51
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -182,7 +182,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1470064784000
   description: <p>Interested in sharpening your problem solving skills and learning
     more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week
@@ -209,7 +209,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1466889019000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\_\
     The format is informal, engaging, and friendly: presenters have *5* minutes to\
@@ -241,7 +241,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 59
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -274,7 +274,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills.\_ Most of us are beginners and each meet up is geared for\
@@ -306,7 +306,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1468853724000
   description: "<p>Tonight's going to be an open lab time hosted by the Ruby on Rails\
     \ group. Feel free to come and bring your projects to work on no matter the language.</p>\
@@ -369,7 +369,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 86
+  yes_rsvp_count: 88
 - created: 1467374992000
   description: "<p><b>12 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
     >Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are\
@@ -662,7 +662,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 95
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -795,7 +795,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1467072890000
   description: "<p>Please note the date change.</p> <p><b><i>Reminder: </i></b>You\
     \ MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\"\
@@ -832,7 +832,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1467838122000
   description: "<p>This meetup is going to be a split level git and GitHub night:\
     \ one group will focus on intro to git and GitHub, and one group will focus on\
@@ -948,7 +948,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 77
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1146,7 +1146,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1240,7 +1240,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 3
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1259,7 +1259,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1470324592000
   description: "<p>Friends,</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
@@ -1299,7 +1299,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 51
+  waitlist_count: 53
   yes_rsvp_count: 3
 - created: 1467704208000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
@@ -1443,7 +1443,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1467700232000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
     \ <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
