@@ -1,4 +1,4 @@
-- activity: [0, 60, 23, 0, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 5, 0, 0,
+- activity: [2, 64, 17, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 3, 3, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -85,10 +85,10 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Java
   name: District Housing Application Assistant
-  open_issues: 83
+  open_issues: 85
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-04-11T01:45:08Z'
+  pushed_at: '2016-08-05T00:12:35Z'
   short_name: districthousing
   size: 21831
   updated_at: '2016-06-04T19:04:35Z'
@@ -331,10 +331,10 @@
     spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 24
+  open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-03T03:37:33Z'
+  pushed_at: '2016-08-05T00:10:55Z'
   short_name: codefordc.github.com
   size: 19125
   updated_at: '2016-06-13T04:28:33Z'
@@ -651,7 +651,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 230,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 231,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 124,
     link: 'https://github.com/romoy', name: romoy}
@@ -793,7 +793,7 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 167841]
+  - [JavaScript, 167244]
   - [CSS, 6613]
   - [HTML, 6580]
   - [Python, 4997]
@@ -804,7 +804,7 @@
   open_issues: 15
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-07-06T14:54:17Z'
+  pushed_at: '2016-08-05T00:12:21Z'
   short_name: dc-campaign-finance-watch
   size: 120614
   updated_at: '2016-08-02T15:29:06Z'
@@ -975,7 +975,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [2, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1331,7 +1331,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [0, 28, 8, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+- activity: [10, 22, 4, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
     0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1415,7 +1415,7 @@
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    1, 2, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    2, 1, 11, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1447,9 +1447,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 6, 0, 7, 2, 12, 3, 40,
-    7, 10, 24, 0, 28, 68, 50, 15, 46, 87, 23, 53, 44, 30, 23, 27, 50, 13, 19, 50,
-    80, 53, 49, 37, 85, 85, 80, 9, 40, 13]
+- activity: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40,
+    7, 10, 24, 0, 45, 51, 58, 10, 47, 87, 26, 48, 47, 25, 23, 38, 40, 12, 23, 53,
+    80, 87, 8, 37, 91, 98, 61, 9, 41, 18]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1533,7 +1533,7 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 38
+  forks: 39
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
@@ -1547,10 +1547,10 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 74
+  open_issues: 78
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-04T23:33:42Z'
+  pushed_at: '2016-08-05T01:08:16Z'
   short_name: dcaf_case_management
   size: 10489
   updated_at: '2016-08-02T10:43:37Z'
@@ -1892,7 +1892,7 @@
   license: null
   main_language: HTML
   name: Rent Stabilization
-  open_issues: 0
+  open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-07-19T15:39:23Z'
@@ -1926,7 +1926,7 @@
   created_at: '2016-06-24T00:52:18Z'
   default_branch: master
   description: DCFemTech Hack for Good 2016 - WABA Bike Map Project
-  forks: 6
+  forks: 8
   help_wanted: []
   homepage: null
   html_url: https://github.com/dcfemtech/hackforgood-waba-map
@@ -1938,10 +1938,10 @@
   license: null
   main_language: JavaScript
   name: WABA Regional Bike Map
-  open_issues: 26
+  open_issues: 29
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-08-04T14:05:59Z'
+  pushed_at: '2016-08-05T00:50:47Z'
   short_name: hackforgood-waba-map
   size: 12686
   updated_at: '2016-07-20T00:21:31Z'

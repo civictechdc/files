@@ -1,46 +1,6 @@
 calendar({
     "codefordc": [
         {
-            "announced": true, 
-            "created": 1468797949000, 
-            "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.\u00a0With a special guest! Barney Krucoff, DC's new Chief Data Officer will be on hand to talk about DC's draft data policy.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 7:30 Barney Krucoff!</p> <p>7:30 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/232690623/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "232690623", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1470349800000, 
-            "updated": 1470329797000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1325 G Street, NW, 3rd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24266346, 
-                "lat": 38.898567, 
-                "localized_country_name": "USA", 
-                "lon": -77.031006000000005, 
-                "name": "Social Tables", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 97
-        }, 
-        {
             "announced": false, 
             "created": 1467850168000, 
             "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
@@ -79,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 25
         }, 
         {
             "announced": true, 
@@ -160,7 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }
     ], 
     "other": [
@@ -200,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1460389774000, 
@@ -266,7 +226,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1466889019000, 
@@ -348,7 +308,7 @@ calendar({
         }, 
         {
             "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills.\u00a0 Most of us are beginners and each meet up is geared for this level. We also have some professional developers and data scientists who attend. The study group is intended for everyone who wishes to learn more the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0 We help load Python and then complete a mini-program.</p> <p>Other study group nights will cover basic intro into one of Python's topics and we'll then work on a mini-program line-by line.\u00a0 Targeted to the beginner group.\u00a0 The goal here is for you to do understand the Python lesson, do hands on coding with this knowledge and complete a mini-program each night.\u00a0</p> <p><br/>Please bring a laptop!</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227884041/", 
             "group": {
@@ -364,15 +324,15 @@ calendar({
             "headcount": 0, 
             "id": "qqscvlyvlbnb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
+            "name": "Python Lab - Variable, Expressions and Statements", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1470868200000, 
-            "updated": 1469575360000, 
+            "updated": 1470397611000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1468853724000, 
@@ -452,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1467374992000, 
@@ -574,7 +534,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1468853724000, 
@@ -812,7 +772,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1467838122000, 
@@ -1122,7 +1082,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
@@ -1266,7 +1226,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 43, 
+            "waitlist_count": 51, 
             "yes_rsvp_count": 3
         }, 
         {
@@ -1978,7 +1938,7 @@ calendar({
             "created": 1417881835000, 
             "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
             "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywhbfb/", 
+            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/233130270/", 
             "group": {
                 "created": 1384378071000, 
                 "group_lat": 38.909999847412109, 
