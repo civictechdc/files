@@ -160,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1460389774000, 
@@ -187,7 +187,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1470064784000, 
@@ -226,7 +226,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1466889019000, 
@@ -268,7 +268,7 @@ calendar({
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>We welcome women with all levels of coding experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>\n\nResources:</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232271894/", 
             "group": {
@@ -284,11 +284,11 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvlbmb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Open Lab Night", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1470781800000, 
-            "updated": 1468867127000, 
+            "updated": 1470426118000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1015 7th Street NW.", 
@@ -304,11 +304,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills.\u00a0 Most of us are beginners and each meet up is geared for this level. We also have some professional developers and data scientists who attend. The study group is intended for everyone who wishes to learn more the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0 We help load Python and then complete a mini-program.</p> <p>Other study group nights will cover basic intro into one of Python's topics and we'll then work on a mini-program line-by line.\u00a0 Targeted to the beginner group.\u00a0 The goal here is for you to do understand the Python lesson, do hands on coding with this knowledge and complete a mini-program each night.\u00a0</p> <p><br/>Please bring a laptop!</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills.\u00a0 Most of us are beginners and each meet up is geared for this level. We also have some professional developers and data scientists who attend. The study group is intended for everyone who wishes to learn more Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0 We help load Python and then complete a mini-program.</p> <p>Other study group nights will cover basic intro into one of Python's topics and we'll then work on a mini-program line-by line.\u00a0 Targeted to the beginner group.\u00a0 The goal here is for you to understand the Python lesson, practice hands-on coding applying this knowledge and complete a mini-program each night.\u00a0</p> <p><br/>Please bring a laptop!</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227884041/", 
             "group": {
@@ -328,7 +328,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1470868200000, 
-            "updated": 1470397611000, 
+            "updated": 1470426576000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -412,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1467374992000, 
@@ -479,7 +479,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1465845757000, 
@@ -881,7 +881,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1468853724000, 
@@ -1226,7 +1226,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 53, 
+            "waitlist_count": 55, 
             "yes_rsvp_count": 3
         }, 
         {
