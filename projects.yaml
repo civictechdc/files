@@ -4,7 +4,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 757,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1123795?v=3', contributions: 758,
     link: 'https://github.com/jrunningen', name: jrunningen}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4269640?v=3', contributions: 133,
     link: 'https://github.com/emanuelfeld', name: emanuelfeld}
@@ -20,7 +20,7 @@
     link: 'https://github.com/shiftyp', name: shiftyp}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3814190?v=3', contributions: 13,
     link: 'https://github.com/jasoncorum', name: jasoncorum}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 11,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/292463?v=3', contributions: 12,
     link: 'https://github.com/meiao', name: meiao}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1711330?v=3', contributions: 8,
     link: 'https://github.com/MikeyBurkman', name: MikeyBurkman}
@@ -74,24 +74,24 @@
   html_url: https://github.com/codefordc/districthousing
   id: 10896437
   languages:
-  - [Java, 1908503]
+  - [JavaScript, 1534799]
+  - [Java, 399844]
   - [Ruby, 199293]
-  - [HTML, 87982]
+  - [HTML, 87837]
   - [CSS, 49846]
-  - [JavaScript, 26140]
   - [CoffeeScript, 7895]
   - [Puppet, 5537]
   - [Shell, 118]
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
-  main_language: Java
+  main_language: JavaScript
   name: District Housing Application Assistant
-  open_issues: 85
+  open_issues: 83
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-05T00:12:35Z'
+  pushed_at: '2016-08-06T13:57:29Z'
   short_name: districthousing
-  size: 21831
-  updated_at: '2016-06-04T19:04:35Z'
+  size: 21879
+  updated_at: '2016-08-06T13:57:31Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0,
@@ -801,10 +801,10 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 15
+  open_issues: 16
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-05T00:12:21Z'
+  pushed_at: '2016-08-06T17:38:50Z'
   short_name: dc-campaign-finance-watch
   size: 120614
   updated_at: '2016-08-02T15:29:06Z'
@@ -1881,7 +1881,7 @@
   default_branch: master
   description: Evaluate how a change in rent stabilization policy would affect rental
     properties in the District.
-  forks: 1
+  forks: 2
   help_wanted: []
   homepage: null
   html_url: https://github.com/codefordc/rent-stabilization
