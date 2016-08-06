@@ -1,9 +1,9 @@
 projects([
     {
         "activity": [
-            2, 
-            64, 
-            17, 
+            3, 
+            65, 
+            15, 
             0, 
             2, 
             3, 
@@ -4105,8 +4105,8 @@ projects([
     }, 
     {
         "activity": [
-            10, 
-            22, 
+            17, 
+            15, 
             4, 
             0, 
             0, 
@@ -4126,8 +4126,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             2, 
@@ -4501,32 +4501,32 @@ projects([
             10, 
             24, 
             0, 
-            45, 
             51, 
+            45, 
             58, 
-            10, 
+            18, 
             47, 
-            87, 
+            79, 
             26, 
-            48, 
-            47, 
-            25, 
+            51, 
+            49, 
+            20, 
             23, 
-            38, 
             40, 
+            39, 
             12, 
-            23, 
+            22, 
             53, 
             80, 
-            87, 
-            8, 
-            37, 
-            91, 
-            98, 
-            61, 
+            90, 
+            21, 
+            21, 
+            94, 
+            96, 
+            60, 
             9, 
-            41, 
-            18
+            43, 
+            21
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4593,7 +4593,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 900, 
+                "contributions": 902, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4617,7 +4617,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10971884?v=3", 
-                "contributions": 26, 
+                "contributions": 27, 
                 "link": "https://github.com/drownedout", 
                 "name": "drownedout"
             }, 
@@ -4664,28 +4664,28 @@ projects([
                 "name": "rebeccaestes"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2466413?v=3", 
+                "contributions": 11, 
+                "link": "https://github.com/benjamincrane", 
+                "name": "benjamincrane"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12873557?v=3", 
                 "contributions": 9, 
                 "link": "https://github.com/clarissastark", 
                 "name": "clarissastark"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/2466413?v=3", 
-                "contributions": 7, 
-                "link": "https://github.com/benjamincrane", 
-                "name": "benjamincrane"
+                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/dfelsent", 
+                "name": "dfelsent"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6306695?v=3", 
                 "contributions": 5, 
                 "link": "https://github.com/MiroFurtado", 
                 "name": "MiroFurtado"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
-                "contributions": 5, 
-                "link": "https://github.com/dfelsent", 
-                "name": "dfelsent"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/11823445?v=3", 
@@ -4776,11 +4776,11 @@ projects([
             ], 
             [
                 "HTML", 
-                65399
+                65468
             ], 
             [
                 "CSS", 
-                27139
+                27177
             ], 
             [
                 "CoffeeScript", 
@@ -4800,16 +4800,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 78, 
+        "open_issues": 75, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-08-05T01:08:16Z", 
+        "pushed_at": "2016-08-06T05:00:51Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10489, 
+        "size": 10495, 
         "updated_at": "2016-08-02T10:43:37Z", 
         "watchers": 13
     }, 
@@ -6013,9 +6013,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-08-05T00:50:47Z", 
+        "pushed_at": "2016-08-06T04:55:58Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 12686, 
+        "size": 14264, 
         "updated_at": "2016-07-20T00:21:31Z", 
         "watchers": 3
     }
