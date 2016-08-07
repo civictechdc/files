@@ -1,5 +1,5 @@
 codefordc:
-- announced: false
+- announced: true
   created: 1467850168000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
     \ you know and love.</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_\
@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 31
 - announced: true
   created: 1468797968000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -74,7 +74,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -155,7 +155,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1470064784000
   description: <p>Interested in sharpening your problem solving skills and learning
     more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week
@@ -214,7 +214,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 61
 - created: 1459265642000
   description: '<p>We welcome women with all levels of coding experience (including
     none). ***Please bring your laptop to this event as computers will not be provided.***</p>
@@ -320,7 +320,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -342,7 +342,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 90
 - created: 1467374992000
   description: "<p><b>12 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
     >Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are\
@@ -400,7 +400,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 26
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -805,7 +805,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 40
 - created: 1467838122000
   description: "<p>This meetup is going to be a split level git and GitHub night:\
     \ one group will focus on intro to git and GitHub, and one group will focus on\
@@ -1314,7 +1314,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 57
+  waitlist_count: 58
   yes_rsvp_count: 3
 - created: 1467704208000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
