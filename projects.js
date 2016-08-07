@@ -4800,16 +4800,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 67, 
+        "open_issues": 68, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-08-06T23:36:19Z", 
+        "pushed_at": "2016-08-07T07:01:06Z", 
         "short_name": "dcaf_case_management", 
-        "size": 10511, 
+        "size": 10527, 
         "updated_at": "2016-08-02T10:43:37Z", 
         "watchers": 13
     }, 
