@@ -279,7 +279,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1468853724000
   description: "<p>Tonight's going to be an open lab time hosted by the Ruby on Rails\
     \ group. Feel free to come and bring your projects to work on no matter the language.</p>\
@@ -841,7 +841,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 75
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1119,7 +1119,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1314,7 +1314,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 55
+  waitlist_count: 56
   yes_rsvp_count: 3
 - created: 1467704208000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
