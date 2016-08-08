@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - announced: true
   created: 1468797968000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -320,7 +320,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 15
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -342,7 +342,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 91
 - created: 1467374992000
   description: "<p><b>12 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\"\
     >Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are\
@@ -443,7 +443,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1465845757000
   description: "<p>Women Who Code is partnering with Technical.ly this August for\
     \ Super Meetup. Join us at WeWork's Manhattan Laundry location (opening soon!)\
@@ -921,7 +921,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 81
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1314,7 +1314,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 58
+  waitlist_count: 60
   yes_rsvp_count: 3
 - created: 1467704208000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
