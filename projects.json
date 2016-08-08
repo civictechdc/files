@@ -2132,7 +2132,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 232, 
+                "contributions": 233, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2215,34 +2215,6 @@
         "description": "Displays data about DC Campaign Finance on a site", 
         "forks": 26, 
         "help_wanted": [
-            {
-                "assignee": null, 
-                "body": "Enhancement: Looking at the home page, it would be helpful to have some high-level information on each candidate. I recommend we start with the combined campaign score. For past campaigns, it would also be great to include what percentage of the vote each candidate received, or (if that's too messy), just an indication of who won the race. \r\n", 
-                "comments": 1, 
-                "created_at": "2016-07-20T00:25:38Z", 
-                "issue": "As a user, I'd like each candidate's campaign score to appear next to her name on the home screen", 
-                "issue_url": "https://github.com/codefordc/dc-campaign-finance-watch/issues/169", 
-                "labels": [
-                    {
-                        "color": "84b6eb", 
-                        "name": "enhancement", 
-                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/enhancement"
-                    }, 
-                    {
-                        "color": "159818", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/help%20wanted"
-                    }, 
-                    {
-                        "color": "b60205", 
-                        "name": "Priority: Critical", 
-                        "url": "https://api.github.com/repos/codefordc/dc-campaign-finance-watch/labels/Priority:%20Critical"
-                    }
-                ], 
-                "project": "Campaign Finance Watch", 
-                "project_url": "https://github.com/codefordc/dc-campaign-finance-watch", 
-                "updated_at": "2016-07-29T11:58:17Z"
-            }, 
             {
                 "assignee": null, 
                 "body": "[Open Corporate Database](https://opencorporates.com/)\r\n\r\n- [ ] update contributors with a link to the open corporate entry\r\n- [ ] update UI to show link", 
@@ -2398,7 +2370,7 @@
         "languages": [
             [
                 "JavaScript", 
-                171283
+                175177
             ], 
             [
                 "CSS", 
@@ -2420,16 +2392,16 @@
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 14, 
+        "open_issues": 13, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-08-07T20:45:15Z", 
+        "pushed_at": "2016-08-08T13:20:31Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 119794, 
+        "size": 119797, 
         "updated_at": "2016-08-02T15:29:06Z", 
         "watchers": 20
     }, 
@@ -3002,8 +2974,8 @@
     }, 
     {
         "activity": [
-            7, 
-            1, 
+            8, 
+            0, 
             0, 
             0, 
             0, 
@@ -4105,8 +4077,8 @@
     }, 
     {
         "activity": [
-            23, 
-            12, 
+            25, 
+            10, 
             1, 
             0, 
             0, 
@@ -4285,8 +4257,8 @@
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            2, 
+            4, 
             0, 
             0, 
             0, 
@@ -4489,44 +4461,44 @@
             10, 
             0, 
             13, 
-            9, 
-            6, 
+            15, 
+            0, 
             0, 
             9, 
             2, 
+            12, 
+            30, 
             11, 
-            2, 
-            40, 
-            7, 
-            10, 
-            24, 
-            0, 
-            51, 
-            63, 
-            40, 
-            35, 
-            74, 
-            35, 
-            48, 
-            35, 
-            45, 
-            24, 
-            32, 
-            25, 
-            41, 
-            23, 
-            23, 
-            53, 
-            84, 
-            76, 
+            16, 
+            8, 
+            17, 
+            9, 
+            62, 
+            56, 
+            27, 
+            52, 
+            70, 
+            38, 
+            44, 
+            49, 
+            27, 
+            21, 
+            29, 
             28, 
+            44, 
+            16, 
+            27, 
+            68, 
+            67, 
+            73, 
+            30, 
+            68, 
+            78, 
+            111, 
+            11, 
             33, 
-            84, 
-            112, 
-            39, 
-            24, 
             32, 
-            43
+            32
         ], 
         "ci": {
             "codeclimate": false, 
