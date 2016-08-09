@@ -396,7 +396,7 @@
   updated_at: '2016-04-18T19:16:38Z'
   watchers: 6
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -783,10 +783,10 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 13
+  open_issues: 14
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-08T13:20:31Z'
+  pushed_at: '2016-08-09T15:53:55Z'
   short_name: dc-campaign-finance-watch
   size: 119797
   updated_at: '2016-08-02T15:29:06Z'
@@ -1529,10 +1529,10 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 70
+  open_issues: 71
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-09T04:06:12Z'
+  pushed_at: '2016-08-09T14:22:52Z'
   short_name: dcaf_case_management
   size: 10553
   updated_at: '2016-08-02T10:43:37Z'
