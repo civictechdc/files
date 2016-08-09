@@ -153,7 +153,7 @@
         }, 
         {
             "created": 1470064784000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be going through data structures. The link to the topics and the walk through will be posted here shortly!</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Instructions on getting there from Blackstone, our hosts this evening:</p> <p>\n\nIf you park in the LAZ parking garage, be sure to take the elevators for 1110 N. Come up to the lobby level. We will have an escort there or call/text[masked] if you don't see someone.</p> <p>\n\nIf you are metro-ing there is a capital bike share station right in front of the building. We are the same building as SER and the Melting Pot.</p>", 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be going through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>.</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Instructions on getting there from Blackstone, our hosts this evening:</p> <p>\n\nIf you park in the LAZ parking garage, be sure to take the elevators for 1110 N. Come up to the lobby level. We will have an escort there or call/text[masked] if you don't see someone.</p> <p>\n\nIf you are metro-ing there is a capital bike share station right in front of the building. We are the same building as SER and the Melting Pot.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233036371/", 
             "group": {
@@ -173,7 +173,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1470695400000, 
-            "updated": 1470671465000, 
+            "updated": 1470693441000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 N Glebe Rd Ste 200", 
@@ -188,7 +188,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1466889019000, 
@@ -226,7 +226,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1459265642000, 
@@ -266,7 +266,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446220149000, 
@@ -294,7 +294,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1468853724000, 
@@ -338,7 +338,7 @@
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p><b>Nirmal\u00a0K. Singh has over 9 years of Software Development experience in various industries and has worked at \u00a0</b><b>BlueCross Blue Shield (claims),\u00a0</b><b>CenturyLink (abstract router for telephony),\u00a0</b><b>FedEx (air ops),\u00a0</b><b>C&amp;S (warehouse), </b><b>Wyndham WorldWide (RCI),\u00a0</b><b>Thomson Reuters (Legal),\u00a0</b><b>Capital One,\u00a0</b><b>AARP .</b></p> <p><b>He will be covering data cleansing / processing with Spark and Scala at the next meetup.\u00a0</b></p> <p><b>Topics covered at Meetup</b></p> <p>\u2022<b>Cleansing Data with Spark (analytics) (Scala and Java)</b></p> <p><b>\u2022Lazy and Lambdas, Singleton, Lineage</b></p> <p>\u2022<b>Spark OOP and Sql based</b></p> <p>\u2022\u00a0<b>DataBricks, AWS, notebook</b></p> <p>\u2022\u00a0<b>Streaming vs. Micro Batches</b></p> <p><b>\u2022\u00a0Codecs, Spark version 2.0</b></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934824/", 
             "group": {
@@ -354,10 +354,10 @@
             "headcount": 0, 
             "id": "hffzclyvlbfb", 
             "maybe_rsvp_count": 0, 
-            "name": "August Meetup - Topic TBC", 
+            "name": "August Meetup - Data Cleansing w/ Spark / Scala", 
             "status": "upcoming", 
             "time": 1470868200000, 
-            "updated": 1470147618000, 
+            "updated": 1470697339000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
@@ -374,11 +374,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1467374992000, 
-            "description": "<p><b>12 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>== AGENDA ==</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>== SESSIONS\u00a0&amp; SPEAKERS ==</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><b><i>SESSION 1: Users<br/></i></b>Identifying and understanding your website users including personas and user journeys.</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"TBA\"<br/></i>Dara Pressley, CustomInk\u00a0</p> <p><br/><i><b>SESSION 2:\u00a0Usability\u00a0<br/></b></i>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p><i>\"Measuring and Testing Website Usability\"<br/></i>Weimin Hou, Senior Usability Specialist, UserWorks</p> <p><i>\"Turning Data into User Insights\"<br/></i>Emily Patterson, Senior Manager, Web Analytics, PBS</p> <p><b><i>SESSION 3:\u00a0Planning &amp; Tuning<br/></i></b>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"TBA\"<br/></i>Faz Besharatian, Principal, GustoWorks</p> <p><i>\"Prioritizing Website Content and Features for Your Users\"</i><br/>Nazhin Beiramee, UX Consultant, Cirak Studios</p> <p>\n\n\n<b>== OUR SPONSOR ==</b></p> <p><a href=\"http://userworks.com/\"><b>UserWorks</b></a></p> <p>UserWorks, Inc. is a user experience research and design firm located in the Washington, DC metro area. We are a Maryland small business and offer a wide range of services, including user interface design support, usability evaluations, and accessibilty evaluation services for both hardware and software products. We help organizations design and test products, assist them in developing their own usability and accessibility capabilities, and provide both fixed and portable lab facilities on a rental basis.</p>", 
+            "description": "<p><b>9 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>== AGENDA ==</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>== SESSIONS\u00a0&amp; SPEAKERS ==</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><b><i>SESSION 1: Users<br/></i></b>Identifying and understanding your website users including personas and user journeys.</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"TBA\"<br/></i>Dara Pressley, CustomInk\u00a0</p> <p><br/><i><b>SESSION 2:\u00a0Usability\u00a0<br/></b></i>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p><i>\"Measuring and Testing Website Usability\"<br/></i>Weimin Hou, Senior Usability Specialist, UserWorks</p> <p><i>\"Turning Data into User Insights\"<br/></i>Emily Patterson, Senior Manager, Web Analytics, PBS</p> <p><b><i>SESSION 3:\u00a0Planning &amp; Tuning<br/></i></b>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"Effective Visuals and Prototypes\"<br/></i>Faz Besharatian, Principal, GustoWorks</p> <p><i>\"Prioritizing Website Content and Features for Your Users\"</i><br/>Nazhin Beiramee, UX Consultant, Cirak Studios</p> <p>\n\n\n<b>== OUR SPONSOR ==</b></p> <p><a href=\"http://userworks.com/\"><b>UserWorks</b></a></p> <p>UserWorks, Inc. is a user experience research and design firm located in the Washington, DC metro area. We are a Maryland small business and offer a wide range of services, including user interface design support, usability evaluations, and accessibilty evaluation services for both hardware and software products. We help organizations design and test products, assist them in developing their own usability and accessibility capabilities, and provide both fixed and portable lab facilities on a rental basis.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232301329/", 
             "group": {
                 "created": 1189804715000, 
@@ -396,7 +396,7 @@
             "name": "MavenMini: Web User Experience", 
             "status": "upcoming", 
             "time": 1470945600000, 
-            "updated": 1469121381000, 
+            "updated": 1470697995000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -441,7 +441,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1465845757000, 
@@ -468,7 +468,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1446220217000, 
@@ -496,7 +496,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1468853724000, 
@@ -538,6 +538,44 @@
             "yes_rsvp_count": 7
         }, 
         {
+            "created": 1470699270000, 
+            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a></p> <p>If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person, you should come!</p> <p><br/>If you're comfortable with people but never seem to close any deals or develop relationships out of events, we'll talk about that too.</p> <p>If you are considering a career change and need a refresher, all this information is relevant for you AND we have practice breaks that will help you get back into the habit.</p> <p><b>Agenda</b></p> <p>We'll start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "233220012", 
+            "maybe_rsvp_count": 0, 
+            "name": "Work The Room: Networking in the Wild Workshop", 
+            "status": "upcoming", 
+            "time": 1471473000000, 
+            "updated": 1470699713000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW ", 
+                "city": "3rd floor", 
+                "country": "us", 
+                "id": 24145676, 
+                "lat": 38.905971999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043205, 
+                "name": "Canvas Co/work ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1468865620000, 
             "description": "<p>Come join PyLadies for Happy Hour! It doesn't matter if you're a newbie or an expert - stop by for a drink and to meet other PyLadies and talk Python.</p> <p><br/>Be sure to bring any ideas or requests for what you'd like from PyLadies DC, too. We'd love to hear from you while you're there!</p> <p>Hope to see you soon!</p>", 
             "event_url": "http://www.meetup.com/dc-pyladies/events/232708177/", 
@@ -562,7 +600,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1468424212000, 
