@@ -1,6 +1,6 @@
-- activity: [40, 33, 10, 0, 2, 3, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 6, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 1]
+- activity: [41, 40, 2, 0, 2, 3, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2, 1, 5, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 1]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -210,7 +210,7 @@
   size: 1980
   updated_at: '2016-05-08T17:22:47Z'
   watchers: 12
-- activity: [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1313,7 +1313,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [27, 8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+- activity: [28, 8, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
     0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1396,8 +1396,8 @@
   size: 245
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    3, 3, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+    2, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1429,9 +1429,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4, 40, 7,
-    10, 20, 4, 21, 73, 51, 14, 48, 83, 27, 53, 38, 36, 23, 22, 46, 22, 19, 33, 94,
-    49, 56, 34, 74, 91, 91, 9, 43, 24, 28]
+- activity: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 6, 0, 7, 2, 12, 3, 40, 7,
+    10, 24, 0, 28, 68, 50, 15, 46, 87, 23, 53, 44, 30, 23, 27, 50, 13, 19, 50, 80,
+    53, 49, 37, 86, 89, 83, 10, 44, 22, 53]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1534,7 +1534,7 @@
   open_issues: 66
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-10T03:15:46Z'
+  pushed_at: '2016-08-10T23:09:07Z'
   short_name: dcaf_case_management
   size: 10584
   updated_at: '2016-08-02T10:43:37Z'

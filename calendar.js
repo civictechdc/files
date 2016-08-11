@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
         }, 
         {
             "announced": true, 
@@ -162,7 +162,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1468853724000, 
@@ -202,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1417881835000, 
@@ -281,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1457965726000, 
@@ -309,7 +309,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1465845757000, 
@@ -336,7 +336,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1446220217000, 
@@ -364,7 +364,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1468853724000, 
@@ -441,7 +441,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1468865620000, 
@@ -547,7 +547,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
@@ -576,6 +576,47 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1470860871000, 
+            "description": "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/08c/33d/0e719a8.jpg\" /></p> <p>Join your fellow data visualizers for David Aja\u2019s presentation of the EFS Dashboard \u2013 a dash boarding and analytics tool he\u00a0coded and designed himself in Shiny.\u00a0David designed EFS to help simplify the process of analyzing the results\u00a0of GAO\u2019s annual employee feedback survey. David says that goal of EFS is t to reduce the\u00a0amount of labor required to get to survey graphs- through building a cloud cloud-based way to\u00a0collect and analyze survey results.</p> <p>RStudio developed Shiny as a\u00a0web application framework for\u00a0R, designed to turn your analyses into interactive web applications. No HTML, CSS, or JavaScript knowledge required.</p> <p>Hiring? Job Seeking?\u00a0<a href=\"http://match.datacommunitydc.org/\">Explore our Candidate Network</a>. Datable.org</p> <p>Building your brand in tech?\u00a0<a href=\"http://www.datacommunitydc.org/sponsor-us/\">Sponsor DC2</a></p> <p><br/>Agenda:</p> <p>\u2022\u00a06:30 -7:00 Doors Open and Networking</p> <p>\u2022\u00a07ish - Announcements</p> <p>\u2022\u00a07:15 - 8 - David Presents EFS Dashboard</p> <p>\u2022 8 \u2013 8:20 \u2013 Questions and Answers</p> <p>\u2022\u00a0Wrap Up and Data Drinks (Big Hunt)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p> <p>E. David Aja is a Data Analyst at the U.S. Government Accountability Office, an organization\u00a0that conducts oversight of federal agencies for Congress. He has worked on a wide assortment of\u00a0projects there, such as analyses of federal contracting data and assessments of weapons system\u00a0acquisition at DoD. \u00a0He holds a Bachelor\u2019s degree in Philosophy from Cornell University, and\u00a0Master\u2019s degrees in Public Administration and Public Policy from Syracuse University and the\u00a0Hertie School of Governance in Berlin.</p> <p>David says he got into data visualization with R and Shiny because \u201cI was tired of fighting with\u00a0Stata and losing.\u201d His favorite beer is Coney Island Mermaid Pilsner.</p> <p><br/>Hiring? Job Seeking? <a href=\"http://match.datacommunitydc.org\">Explore our Candidate Network</a>. Datable.org</p> <p>Building your brand in tech? <a href=\"http://www.datacommunitydc.org/sponsor-us/\">Sponsor DC2</a></p>", 
+            "duration": 8100000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/233266041/", 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Sign in with the guard and come to the 2nd floor", 
+            "id": "233266041", 
+            "maybe_rsvp_count": 0, 
+            "name": "Happy Shiny Web Apps Everywhere", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1471991400000, 
+            "updated": 1470860871000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1468853724000, 
@@ -680,7 +721,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1459265642000, 
@@ -883,7 +924,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1446219481000, 
@@ -1054,7 +1095,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -1189,7 +1230,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1470324592000, 
@@ -1386,7 +1427,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1467700232000, 
@@ -1529,7 +1570,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1466889219000, 
