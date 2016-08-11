@@ -214,7 +214,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1465845757000
   description: "<p>Women Who Code is partnering with Technical.ly this August for\
     \ Super Meetup. Join us at WeWork's Manhattan Laundry location (opening soon!)\
@@ -247,7 +247,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -276,7 +276,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1468853724000
   description: "<p>Tonight we're going to do another instance of one of our most popular\
     \ recent events: building a surrealist Rails app.</p> <p>Inspired by a workshop\
@@ -417,23 +417,13 @@ other:
     \ platform.</p> <p><br/>\u2022\_<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\"\
     >Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\"\
     >Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p>\
-    \ <p>Contact\_<a href=\"http://www.meetup.com/Transportation-Techies/members/10550542\"\
-    >Michael</a>\_if you have a project you'd like to share.</p> <p>If you know any\_\
-    Transportation Techies in Oregon, be sure to tell them about our meetup there\
-    \ August 2: <a href=\"http://www.meetup.com/Transportation-Techies/events/232037344/\"\
-    >Portland Show &amp; Tell</a>.</p> <p>Coming up in September, we'll be back in\
-    \ DC with\_<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\"\
-    >Bike Hack Night VI</a>.</p> <p>If you use the \"export\" link above to add this\
-    \ event to your calendar, be aware Meetup might use the wrong time zone. They\
-    \ use the group's location instead of the event's location, and since the group\
-    \ is temporarily \"based\" in Portland, the default time will be off by three\
-    \ hours for our DC/Arlington events.</p> <p>Read about our previous <a href=\"\
-    http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with\
-    \ Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\"\
+    \ <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\"\
+    >Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\"\
     >Safer streets with better data</a>.\"</p> <p><br/>\_ \_ \_\U0001F697 \U0001F4A8\
     \_ \_ \_ \_ \_ \_ \_\U0001F69A \U0001F4A8\_ \_ \_ \_ \_ \_ \_\U0001F699 \U0001F4A8\
     \_ \_ \_ \_ \_ \_ \_\U0001F69B \U0001F4A8\_ \_ \_ \_ \_ \_ \_\U0001F695 \U0001F4A8\
-    </p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\"\
+    \_</p> <p><br/>Coming up in September, we'll be back in DC with\_<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\"\
+    >Bike Hack Night VI</a>.</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\"\
     >@techiesdc</a> for updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/232589028/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
@@ -446,7 +436,7 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1471568400000
-  updated: 1469669490000
+  updated: 1470936945000
   utc_offset: -25200000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
@@ -500,7 +490,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -581,7 +571,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 59
 - created: 1468853724000
   description: "<p><b>Say you're building a simple website with five pages linked\
     \ together, and a simple navigation bar at the top. You make some changes to the\
@@ -674,7 +664,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 41
 - created: 1467838122000
   description: "<p>This meetup is going to be a split level git and GitHub night:\
     \ one group will focus on intro to git and GitHub, and one group will focus on\
@@ -790,7 +780,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 84
+  yes_rsvp_count: 85
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -958,7 +948,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 112
+  yes_rsvp_count: 115
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -990,7 +980,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1336,22 +1326,28 @@ other:
     </p> <p>Plan to attend both days or either one of the days depending on your schedule!</p>\
     \ <p>More Updates on Sessions/Speakers coming at\_<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\"\
     >www.devfestdc.org</a>\_</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022\
-    \_<b>Katy Kasmal </b>(Google) - <i>Moonshot</i></p> <p>\u2022\_<b>Ray Tsang</b>\
-    \ (Google)\_</p> <p>\u2022\_<b>Bret McGowen</b> (Google) -\_<i>Tensor Flow / Machine\
-    \ Learning Workshop\_</i></p> <p>\u2022 <b>Jared Sheehan</b> (Capital One) -\_\
-    <i>Making Sense - Unleash the Power of Sensory Data to Understand User Context\_\
-    </i></p> <p>\u2022\_<b>Sam Edwards</b> (Capital One) -\_<i>Espresso: A Screenshot\
-    \ is Worth 1,000 Words</i></p> <p>\u2022\_<b>Noble Ackerson</b> (Byte an Atom\_\
-    Research) -\_<i>User-centered Product Validation</i></p> <p>\u2022\_<b>Marc Boorshtein</b>\
-    \ (Tremolo Security,\_Inc.) -\_<i>Open Source Identity Management with Kubernetes\
-    \ RBAC</i></p> <p>\u2022\_<b>Eric Fung</b> (Shopify) -\_<i>Set Course for Notifications\u2026\
-    \ Engage!</i></p> <p><i>\u2022 </i><b>Mark Murphy</b>\_(CommonsWare) -\_<i>Doing\
-    \ Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"https://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpg\"\
+    \_<b>Katy Kasmai\_</b>(Google) - <i>Moonshot</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/d/e/600_453019166.jpeg\"\
+    \ /></p> <p>\u2022\_<b>Ray Tsang</b> (Google) - <i>Kubernetes</i></p> <p><img\
+    \ src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\"\
+    \ /></p> <p>\u2022\_<b>Bret McGowen</b> (Google) -\_<i>Tensor Flow / Machine Learning\
+    \ Workshop\_</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\"\
+    \ /></p> <p>\u2022 <b>Jared Sheehan</b> (Capital One) -\_<i>Making Sense - Unleash\
+    \ the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"\
+    http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p>\
+    \ <p>\u2022\_<b>Sam Edwards</b> (Capital One) -\_<i>Espresso: A Screenshot is\
+    \ Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\"\
+    \ /></p> <p>\u2022\_<b>Noble Ackerson</b> (Byte an Atom\_Research) -\_<i>User-centered\
+    \ Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\"\
+    \ /></p> <p>\u2022\_<b>Marc Boorshtein</b> (Tremolo Security,\_Inc.) -\_<i>Open\
+    \ Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\"\
+    \ /></p> <p>\u2022\_<b>Eric Fung</b> (Shopify) -\_<i>Set Course for Notifications\u2026\
+    \ Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\"\
+    \ /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\_(CommonsWare) -\_<i>Doing Periodic\
+    \ Work: Another Android Headache</i></p> <p><br/><img src=\"https://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpg\"\
     \ /></p> <p>This event is only possible with the generous sponsorship from the\
     \ sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\"\
     >Eventbrite</a></p> <p>Great speakers, code labs (Machine Learning), workshops\
-    \ and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/H1ryzXbz6LCQLwMnxiP8l9wJ2QPiYZq4_EOls5-yTRw8DFxS677Z0K3o8oYSUb5f7TZZ8_kiWlyhneChzHwJebWdanne5ENpEiBB-GArqaZ5O84J7HZ1UZAcmPuXN9iWhUPAfmzfMOZHu1jpiH8ZzGlXmegppi4BeHq7mhc=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/65172e36-6b1c-4c20-af74-b66d966beb3d.jpghttps://ci5.googleusercontent.com/proxy/zORz_PCDH8e7eOY_leQA94Gop0MLsx7rfAsHPBvdLdM7OErS6hYfk8EMgkKrvOuehgPixSyU50BLNRGDcKhpIh9ZG3evXh7mG9FZkUbIX-qS6s-wQH1VFMLabdqFqRi0bv2VbaWPj9Z_gNr6EtjXQXnKVy5IPSBHgVBNNfM=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/8d86ddb9-6191-41eb-a342-c7ee3d8b0f31.jpghttps://ci5.googleusercontent.com/proxy/ontdFSVTqSdkb7TYFSi25GxfCh33TDaDta0OatTgW-uDqN2ndStYC8B3ZnPE9ZHY7H8-5WYtRDrr3NY-bCXlekjhebTVBbQe5XwehiD44xt3_1nffDtNTryO9O9uEXUDhH1eePVALD5dWL0pVCYKM7m3JN_M7ZQokKJt3tlH=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5f87ef71-2068-4a58-b745-c2ccb207b201.jpeghttps://ci3.googleusercontent.com/proxy/cRVLDZDhLgwlYuAVlD-vujAcQ6odtM-vn9yOZyjEDp0yozMQ5B7bXMFdhz2J-lutqwSeWSJMo1lPQtjhkFXXdWmCqZ9qEbWslljbPpXaslaqmnt4bjs1l0KJhDvI_vwh4MqB_wMvc8Hwc03iutwdo8FBNv2OK6Lf9MIbrP4=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/e1c52804-4fe8-4376-9aca-17112cee6cfb.jpg\"\
-    \ /><br/><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\"\
+    \ and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/H1ryzXbz6LCQLwMnxiP8l9wJ2QPiYZq4_EOls5-yTRw8DFxS677Z0K3o8oYSUb5f7TZZ8_kiWlyhneChzHwJebWdanne5ENpEiBB-GArqaZ5O84J7HZ1UZAcmPuXN9iWhUPAfmzfMOZHu1jpiH8ZzGlXmegppi4BeHq7mhc=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/65172e36-6b1c-4c20-af74-b66d966beb3d.jpghttps://ci5.googleusercontent.com/proxy/zORz_PCDH8e7eOY_leQA94Gop0MLsx7rfAsHPBvdLdM7OErS6hYfk8EMgkKrvOuehgPixSyU50BLNRGDcKhpIh9ZG3evXh7mG9FZkUbIX-qS6s-wQH1VFMLabdqFqRi0bv2VbaWPj9Z_gNr6EtjXQXnKVy5IPSBHgVBNNfM=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/8d86ddb9-6191-41eb-a342-c7ee3d8b0f31.jpghttps://ci5.googleusercontent.com/proxy/ontdFSVTqSdkb7TYFSi25GxfCh33TDaDta0OatTgW-uDqN2ndStYC8B3ZnPE9ZHY7H8-5WYtRDrr3NY-bCXlekjhebTVBbQe5XwehiD44xt3_1nffDtNTryO9O9uEXUDhH1eePVALD5dWL0pVCYKM7m3JN_M7ZQokKJt3tlH=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5f87ef71-2068-4a58-b745-c2ccb207b201.jpeghttps://ci3.googleusercontent.com/proxy/cRVLDZDhLgwlYuAVlD-vujAcQ6odtM-vn9yOZyjEDp0yozMQ5B7bXMFdhz2J-lutqwSeWSJMo1lPQtjhkFXXdWmCqZ9qEbWslljbPpXaslaqmnt4bjs1l0KJhDvI_vwh4MqB_wMvc8Hwc03iutwdo8FBNv2OK6Lf9MIbrP4=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/e1c52804-4fe8-4376-9aca-17112cee6cfb.jpghttps://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\"\
     \ /></p>"
   duration: 118800000
   event_url: http://www.meetup.com/gdg-dc/events/233117940/
@@ -1368,7 +1364,7 @@ other:
   rsvp_limit: 4
   status: upcoming
   time: 1474633800000
-  updated: 1470851004000
+  updated: 1470931821000
   utc_offset: -14400000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
