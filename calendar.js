@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 53
         }, 
         {
             "announced": true, 
@@ -124,126 +124,6 @@ calendar({
         }
     ], 
     "other": [
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills.\u00a0 Most of us are beginners and each meet up is geared for this level. We also have some professional developers and data scientists who attend. The study group is intended for everyone who wishes to learn more Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0 We help load Python and then complete a mini-program.</p> <p>Other study group nights will cover basic intro into one of Python's topics and we'll then work on a mini-program line-by line.\u00a0 Targeted to the beginner group.\u00a0 The goal here is for you to understand the Python lesson, practice hands-on coding applying this knowledge and complete a mini-program each night.\u00a0</p> <p><br/>Please bring a laptop!</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227884041/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "qqscvlyvlbnb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab - Variable, Expressions and Statements", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1470868200000, 
-            "updated": 1470778163000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Online", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24429929, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "Virtual Google Hangouts", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 35
-        }, 
-        {
-            "created": 1468853724000, 
-            "description": "<p>Tonight's going to be an open lab time hosted by the Ruby on Rails group. Feel free to come and bring your projects to work on no matter the language.</p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.\u00a0</p> <p><b>Want to be a Lead?\u00a0</b></p> <p>If you are passionate about learning how to code with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with one of our study groups!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/tree/master/learning-resources\" class=\"linkified\">https://github.com/womenwhocodedc/organization/tree/master/learning-resources</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232708764/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "xvsfwlyvlbnb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Open Lab Night", 
-            "status": "upcoming", 
-            "time": 1470868200000, 
-            "updated": 1470163914000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 18
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><b>Nirmal\u00a0K. Singh has over 9 years of Software Development experience in various industries and has worked at \u00a0</b><b>BlueCross Blue Shield (claims),\u00a0</b><b>CenturyLink (abstract router for telephony),\u00a0</b><b>FedEx (air ops),\u00a0</b><b>C&amp;S (warehouse), </b><b>Wyndham WorldWide (RCI),\u00a0</b><b>Thomson Reuters (Legal),\u00a0</b><b>Capital One,\u00a0</b><b>AARP .</b></p> <p><b>He will be covering data cleansing / processing with Spark and Scala at the next meetup.\u00a0</b></p> <p><b>Topics covered at Meetup</b></p> <p>\u2022\u00a0<b>Cleansing Data with Spark (analytics) (Scala and Java)</b></p> <p><b>\u2022 Lazy and Lambdas, Singleton, Lineage</b></p> <p>\u2022\u00a0<b>Spark OOP and Sql based</b></p> <p>\u2022\u00a0<b>DataBricks, AWS, notebook</b></p> <p>\u2022\u00a0<b>Streaming vs. Micro Batches</b></p> <p><b>\u2022\u00a0Codecs, Spark version 2.0</b></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934824/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvlbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "August Meetup - Data Cleansing w/ Spark / Scala", 
-            "status": "upcoming", 
-            "time": 1470868200000, 
-            "updated": 1470847629000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 131
-        }, 
         {
             "created": 1467374992000, 
             "description": "<p><b>9 spots left</b></p> <p>Register on <a href=\"https://www.eventbrite.com/e/mini-conference-web-user-experience-tickets-26372889021\">Eventbrite</a>.</p> <p><br/>The event is limited to 40 attendees. Tickets are released in tiers of 10.</p> <p><br/><b>== MavenMini :\u00a0</b><b>Web User Experience Mini-Conference ==</b></p> <p><b>Five hours of web user experience presentations, discussions and networking!</b></p> <p>Topics include identifying and understanding your website users, measuring and testing the usability of your website and incorporating\u00a0UX design into your website update and tuning process.</p> <p>The content side of UX will be more fully addressed in <a href=\"https://www.eventbrite.com/e/mini-conference-content-strategy-cms-tickets-26415816418\">Mini-Conference: Content Strategy and CMS</a>.</p> <p><b>== AGENDA ==</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Users<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2:\u00a0Usability<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Planning &amp; Tuning<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>== SESSIONS\u00a0&amp; SPEAKERS ==</b></p> <p>These are guiding topic descriptions. Each session will have 2-3 speakers.</p> <p>Our speakers have been asked to either share new information or techniques, to present new methods with actionable context, to discuss complex techniques in new or unexpected ways or to otherwise introduce you to an intriguing idea or approach. All of our presentations focus on websites, web apps and mobile web.</p> <p><br/><b><i>SESSION 1: Users<br/></i></b>Identifying and understanding your website users including personas and user journeys.</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"Persona Journeys\"<br/></i>Dara Pressley, CustomInk\u00a0</p> <p><br/><i><b>SESSION 2:\u00a0Usability\u00a0<br/></b></i>Measuring and testing the usability of your website.</p> <p><b>Speakers and Topics</b></p> <p><i>\"Measuring and Testing Website Usability\"<br/></i>Weimin Hou, Senior Usability Specialist, UserWorks</p> <p><i>\"Turning Data into User Insights\"<br/></i>Emily Patterson, Senior Manager, Web Analytics, PBS</p> <p><b><i>SESSION 3:\u00a0Planning &amp; Tuning<br/></i></b>Incorporating UX into your website update/tuning process. Concepts &amp; tools such as agile UX and wireframes/mockups/prototypes</p> <p><br/><b>Speakers and Topics</b></p> <p><i>\"Effective Visuals and Prototypes\"<br/></i>Faz Besharatian, Principal, GustoWorks</p> <p><i>\"Prioritizing Website Content and Features for Your Users\"</i><br/>Nazhin Beiramee, UX Consultant, Cirak Studios</p> <p>\n\n\n<b>== OUR SPONSOR ==</b></p> <p><a href=\"http://userworks.com/\"><b>UserWorks</b></a></p> <p>UserWorks, Inc. is a user experience research and design firm located in the Washington, DC metro area. We are a Maryland small business and offer a wide range of services, including user interface design support, usability evaluations, and accessibilty evaluation services for both hardware and software products. We help organizations design and test products, assist them in developing their own usability and accessibility capabilities, and provide both fixed and portable lab facilities on a rental basis.</p>", 
@@ -336,7 +216,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1446220217000, 
@@ -364,7 +244,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1468853724000, 
@@ -616,7 +496,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1468853724000, 
@@ -721,7 +601,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1459265642000, 
@@ -1030,7 +910,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1460389774000, 
@@ -1230,7 +1110,63 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1457965726000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 612000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233046970/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rzpmrlyvmbzb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1474324200000, 
+            "updated": 1457965726000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvmbbc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvmbbc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1474410600000, 
+            "updated": 1459265764000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1470324592000, 
@@ -1504,7 +1440,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
