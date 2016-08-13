@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 57
         }, 
         {
             "announced": true, 
@@ -177,7 +177,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1446220217000, 
@@ -205,7 +205,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1468853724000, 
@@ -562,7 +562,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1459265642000, 
@@ -765,7 +765,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1446219481000, 
@@ -1074,6 +1074,45 @@
             "yes_rsvp_count": 9
         }, 
         {
+            "created": 1467700232000, 
+            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in tiers. Save $10-35 by registering early, which also helps with planning the speaker list.\u00a0</p> <p><b>== MavenMini: Content Strategy &amp; Content Management Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Content Organization<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Content Display\u00a0<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We are looking for presentations on these topics that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form.</p> <p><i>Session\u00a01:\u00a0Content Organization<br/></i>Taxonomy, Information Architecture, Navigation</p> <p><i>Session 2:\u00a0Content Display<br/></i>Responsive content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3: Planning &amp; Tuning<br/></i>Content Management and Content Management Systems. Governance.</p> <p>Note: If possible, we'll add a section on content creation, including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p> <p>Talks should meet one of these criteria:\u00a0<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques\u00a0<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)\u00a0<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are welcome to suggest alternate topics.\u00a0</p> <p>- Taxonomy, tagging<br/>-\u00a0Navigation &amp; IA<br/>-\u00a0Responsive content<br/>-\u00a0Mobile content<br/>-\u00a0Integrated &amp; multi-channel content approaches<br/>- Web\u00a0CMS - selecting, working with, integrating<br/>-\u00a0Content management, content governance - techniques</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "232382584", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: Content Strategy & Content Management", 
+            "status": "upcoming", 
+            "time": 1474142400000, 
+            "updated": 1471032265000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1401 I Street, NW, Suite 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 2316151, 
+                "lat": 38.901665000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.032416999999995, 
+                "name": "The Creative Group", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20533"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 6
+        }, 
+        {
             "created": 1457965726000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 612000000, 
@@ -1169,45 +1208,6 @@
             "visibility": "public", 
             "waitlist_count": 81, 
             "yes_rsvp_count": 4
-        }, 
-        {
-            "created": 1467704208000, 
-            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p><br/>Note: This event is limited to 45 attendees.\u00a0</p> <p><b>== MavenMini: Association Web Mini-Conference ==</b></p> <p><b>Five hours of presentations, discussions and networking focused on association websites and digital properties.</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Websites<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Digital Marketing<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Tools &amp; Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p><i>Call for Speakers: </i>We are looking for presentations that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form - and are not complete lists.</p> <p><i>Session\u00a01:\u00a0Websites </i><br/>Redesigns, website tuning, responsive design</p> <p><i>Session 2:\u00a0Digital Marketing<br/></i>Newsletters, email marketing, integrated communications, advocacy, calls-to-action.</p> <p><i>Session 3: Tools &amp; Site Management </i><br/>Integrating external tools with web properties (AMS, eLearning, etc), website management and governance</p> <p><b>Call for Speakers</b></p> <p>Note: We are particularly interested in association staff presenters.\u00a0</p> <p>Talks should meet one of these criteria:\u00a0</p> <p><br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><b><i>Topic Areas</i></b></p> <p>Coming soon. Feel free to suggest something.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/232383194/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "232383194", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Association Web", 
-            "status": "upcoming", 
-            "time": 1475179200000, 
-            "updated": 1467918881000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1401 I Street, NW, Suite 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 2316151, 
-                "lat": 38.901665000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.032416999999995, 
-                "name": "The Creative Group", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20533"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 2
         }, 
         {
             "created": 1326383071000, 
@@ -1327,9 +1327,9 @@
             "yes_rsvp_count": 45
         }, 
         {
-            "created": 1467700232000, 
-            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in tiers. Save $10-35 by registering early, which also helps with planning the speaker list.\u00a0</p> <p><b>== MavenMini: Content Strategy &amp; Content Management Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Content Organization<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Content Display\u00a0<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We are looking for presentations on these topics that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form.</p> <p><i>Session\u00a01:\u00a0Content Organization<br/></i>Taxonomy, Information Architecture, Navigation</p> <p><i>Session 2:\u00a0Content Display<br/></i>Responsive content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3: Planning &amp; Tuning<br/></i>Content Management and Content Management Systems. Governance.</p> <p>Note: If possible, we'll add a section on content creation, including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p> <p>Talks should meet one of these criteria:\u00a0<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques\u00a0<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)\u00a0<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are welcome to suggest alternate topics.\u00a0</p> <p>- Taxonomy, tagging<br/>-\u00a0Navigation &amp; IA<br/>-\u00a0Responsive content<br/>-\u00a0Mobile content<br/>-\u00a0Integrated &amp; multi-channel content approaches<br/>- Web\u00a0CMS - selecting, working with, integrating<br/>-\u00a0Content management, content governance - techniques</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
+            "created": 1467704208000, 
+            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p><br/>Note: This event is limited to 45 attendees.\u00a0</p> <p><b>== MavenMini: Association Web Mini-Conference ==</b></p> <p><b>Five hours of presentations, discussions and networking focused on association websites and digital properties.</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Websites<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Digital Marketing<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Tools &amp; Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p><i>Call for Speakers: </i>We are looking for presentations that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form - and are not complete lists.</p> <p><i>Session\u00a01:\u00a0Websites </i><br/>Redesigns, website tuning, responsive design</p> <p><i>Session 2:\u00a0Digital Marketing<br/></i>Newsletters, email marketing, integrated communications, advocacy, calls-to-action.</p> <p><i>Session 3: Tools &amp; Site Management </i><br/>Integrating external tools with web properties (AMS, eLearning, etc), website management and governance</p> <p><b>Call for Speakers</b></p> <p>Note: We are particularly interested in association staff presenters.\u00a0</p> <p>Talks should meet one of these criteria:\u00a0</p> <p><br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><b><i>Topic Areas</i></b></p> <p>Coming soon. Feel free to suggest something.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/232383194/", 
             "group": {
                 "created": 1189804715000, 
                 "group_lat": 38.919998168945312, 
@@ -1341,12 +1341,12 @@
                 "who": "People interested in CMS"
             }, 
             "headcount": 0, 
-            "id": "232382584", 
+            "id": "232383194", 
             "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Content Strategy & Content Management", 
+            "name": "MavenMini: Association Web", 
             "status": "upcoming", 
-            "time": 1476388800000, 
-            "updated": 1467707620000, 
+            "time": 1476993600000, 
+            "updated": 1471032224000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -1363,7 +1363,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1467833256000, 
