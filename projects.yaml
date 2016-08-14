@@ -1429,9 +1429,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40, 7,
-    10, 24, 0, 51, 45, 58, 18, 47, 79, 26, 51, 49, 20, 23, 40, 39, 12, 22, 53, 80,
-    90, 21, 21, 95, 100, 63, 10, 50, 33, 36]
+- activity: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 2, 11, 2, 40, 7,
+    10, 24, 0, 51, 63, 40, 35, 74, 35, 48, 35, 45, 24, 32, 25, 41, 23, 23, 53, 84,
+    76, 28, 33, 85, 116, 39, 27, 33, 68, 43]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1455,7 +1455,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 980,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 991,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 78,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1523,7 +1523,7 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 146673]
+  - [Ruby, 146777]
   - [HTML, 66668]
   - [CSS, 27639]
   - [CoffeeScript, 3982]
@@ -1531,13 +1531,13 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 64
+  open_issues: 61
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-13T18:07:42Z'
+  pushed_at: '2016-08-14T06:49:03Z'
   short_name: dcaf_case_management
-  size: 10536
-  updated_at: '2016-08-02T10:43:37Z'
+  size: 11073
+  updated_at: '2016-08-14T04:57:51Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
