@@ -94,7 +94,7 @@
   updated_at: '2016-08-06T13:57:31Z'
   watchers: 31
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0,
+    0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -258,8 +258,8 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 1, 6, 4, 0, 1, 1,
-    0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 0, 5, 1, 0, 13, 0, 0, 3, 0, 0, 2,
+- activity: [0, 0, 0, 0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 3, 4, 4, 0, 1, 1,
+    0, 3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 3, 2, 1, 8, 5, 0, 0, 3, 0, 0, 2,
     0, 2, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -645,9 +645,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [2, 3, 0, 7, 2, 3, 5, 4, 6, 0, 0, 0, 2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0,
-    2, 0, 0, 4, 22, 24, 56, 10, 6, 74, 2, 20, 14, 2, 14, 37, 2, 12, 2, 4, 3, 8, 2,
-    0, 0, 0, 0, 3, 10]
+- activity: [2, 3, 0, 7, 2, 7, 1, 8, 2, 0, 0, 0, 2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0,
+    2, 0, 0, 4, 32, 56, 14, 12, 6, 74, 12, 8, 14, 2, 30, 21, 2, 14, 0, 5, 8, 2, 2,
+    0, 0, 0, 0, 7, 6]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1531,7 +1531,7 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 61
+  open_issues: 63
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-08-14T06:49:03Z'
