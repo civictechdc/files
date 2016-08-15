@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "announced": true, 
@@ -150,7 +150,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1465845757000, 
@@ -177,7 +177,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1446220217000, 
@@ -313,7 +313,7 @@
         }, 
         {
             "created": 1468424212000, 
-            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsors\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"https://rideamigos.com/\">RideAmigos</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022\u00a0Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.</p> <p><br/>\u2022\u00a0Numaan Akram from <a href=\"http://rallybus.net/\">Rally</a>\u00a0will show how their technology connects riders to vans &amp; buses for trips that vary as widely as your daily commute to the Super Bowl.</p> <p><br/>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p>\u2022\u00a0David Miller will share what he learned after launching <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller and packaged mobility platform.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8\u00a0</p> <p><br/>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
+            "description": "<p>Coders and commuting: how do apps change the way we drive? This month we'll hear from tech companies with apps that help people share the road. We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsors\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"https://rideamigos.com/\">RideAmigos</a>. Presentations start at 6:30.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\u00a0will present how <a href=\"http://split.us/\">Split</a> is building a scalable and efficient shared ride system.\u00a0</p> <p>\u2022\u00a0Andriy Klymchuk will show how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile app for communities of commuters.\u00a0</p> <p>\u2022\u00a0Prachi Vakharia will show how\u00a0<a href=\"https://rideamigos.com/\">RideAmigos</a>\u00a0integrates transportation network companies into city planning.</p> <p>\u2022\u00a0Jay Subramaniam will talk about <a href=\"https://www.getaround.com/\">Getaround</a>'s\u00a0software and hardware technologies.</p> <p>\u2022\u00a0David Miller will share what he learned after launching <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller and packaged mobility platform.</p> <p><br/>\u2022\u00a0<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\">Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\">Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p> <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\">Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\">Safer streets with better data</a>.\"</p> <p><br/>\u00a0 \u00a0 \u00a0\ud83d\ude97 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9a \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude99 \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude9b \ud83d\udca8\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\ud83d\ude95 \ud83d\udca8\u00a0</p> <p><br/>Coming up in September, we'll be back in DC with\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\">Bike Hack Night VI</a>.</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/232589028/", 
             "group": {
                 "created": 1384372275000, 
@@ -332,7 +332,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1471568400000, 
-            "updated": 1470936945000, 
+            "updated": 1471282420000, 
             "utc_offset": -25200000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -348,7 +348,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1457212385000, 
@@ -388,7 +388,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
@@ -457,7 +457,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1468853724000, 
@@ -522,7 +522,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1467838122000, 
@@ -631,7 +631,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1468853724000, 
@@ -765,7 +765,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 123
         }, 
         {
             "created": 1446219481000, 
@@ -871,7 +871,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1460389774000, 
@@ -1067,11 +1067,38 @@
             "name": "September Meetup", 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1459227123000, 
+            "updated": 1471282271000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
+        }, 
+        {
+            "created": 1471280199000, 
+            "description": "<p>Eve Freeman will talk about graph database use cases and give a brief intro to Neo4j and Cypher, the Neo4j query language.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233373437/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "233373437", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tech Talk: Graph Databases with Neo4j", 
+            "status": "upcoming", 
+            "time": 1473978600000, 
+            "updated": 1471281171000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1467700232000, 
@@ -1141,36 +1168,8 @@
             "yes_rsvp_count": 5
         }, 
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvmbbc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvmbbc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1474410600000, 
-            "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
             "created": 1470324592000, 
-            "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022\u00a0<b>Katy Kasmai\u00a0</b>(Google) - <i>Moonshot</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/d/e/600_453019166.jpeg\" /></p> <p>\u2022\u00a0<b>Ray Tsang</b> (Google) - <i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b> (Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p>\u2022 <b>Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022\u00a0<b>Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022\u00a0<b>Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"https://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpg\" /></p> <p>This event is only possible with the generous sponsorship from the sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a></p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p>", 
+            "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022 <b>Chris Nguyen</b> (Washington Post) -\u00a0<i>The Hitchhiker's Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\" /></p> <p><b>\u2022\u00a0Katy Kasmai\u00a0</b>(Google) - <i>Moonshot</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/d/e/600_453019166.jpeg\" /></p> <p>\u2022\u00a0<b>Ray Tsang</b> (Google) - <i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b> (Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p>\u2022 <b>Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Huyen Tue Dao</b> (Trello) -\u00a0<i>Measure, Layout, Draw, Repeat: Custom Views and ViewGroups</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/4/e/600_453162062.jpeg\" /></p> <p><b>\u2022\u00a0Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022 Elizabeth Mezias (<b>Mezcode</b>) -\u00a0Wallpapers, Widgets &amp; Wear</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\" /></p> <p>\u2022\u00a0John Niedzwieck (<b>ThreatTrack Security Inc.</b>) -\u00a0\u00a0D3 + AngularJS = Visual Awesomesauce</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\" /></p> <p><b>\u2022\u00a0Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022 <b>Nitya\u00a0Narasimha</b> (Digital HV)\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p> <p><b>\u2022\u00a0Martin Omander</b> (Google) -\u00a0<i>Game Development with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\" /></p> <p><b>\u2022\u00a0Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"https://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpg\" /></p> <p>This event is only possible with the generous sponsorship from the sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a></p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p>", 
             "duration": 118800000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/233117940/", 
             "group": {
@@ -1191,7 +1190,7 @@
             "rsvp_limit": 4, 
             "status": "upcoming", 
             "time": 1474633800000, 
-            "updated": 1470939972000, 
+            "updated": 1471282919000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -1306,8 +1305,8 @@
             "maybe_rsvp_count": 0, 
             "name": "October Meetup - The Business Value of Data Wrangling", 
             "status": "upcoming", 
-            "time": 1476311400000, 
-            "updated": 1470147602000, 
+            "time": 1476225000000, 
+            "updated": 1471280510000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2201 G St. NW", 
