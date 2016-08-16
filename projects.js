@@ -4565,13 +4565,13 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 991, 
+                "contributions": 996, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/14868930?v=3", 
-                "contributions": 78, 
+                "contributions": 79, 
                 "link": "https://github.com/ajohnson052", 
                 "name": "ajohnson052"
             }, 
@@ -4750,7 +4750,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                148080
+                148072
             ], 
             [
                 "HTML", 
@@ -4785,9 +4785,9 @@ projects([
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-08-15T23:11:12Z", 
+        "pushed_at": "2016-08-16T01:12:30Z", 
         "short_name": "dcaf_case_management", 
-        "size": 11073, 
+        "size": 11082, 
         "updated_at": "2016-08-14T04:57:51Z", 
         "watchers": 13
     }, 
@@ -5984,14 +5984,14 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "WABA Regional Bike Map", 
-        "open_issues": 30, 
+        "open_issues": 31, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/7329613?v=3", 
             "name": "dcfemtech", 
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-08-15T21:10:27Z", 
+        "pushed_at": "2016-08-16T11:50:47Z", 
         "short_name": "hackforgood-waba-map", 
         "size": 14708, 
         "updated_at": "2016-07-20T00:21:31Z", 

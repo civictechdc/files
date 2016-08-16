@@ -1455,9 +1455,9 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 991,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 996,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 78,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 79,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/4694248?v=3', contributions: 73,
     link: 'https://github.com/ewiggins', name: ewiggins}
@@ -1523,7 +1523,7 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 148080]
+  - [Ruby, 148072]
   - [HTML, 66668]
   - [CSS, 27639]
   - [CoffeeScript, 3982]
@@ -1534,9 +1534,9 @@
   open_issues: 62
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-15T23:11:12Z'
+  pushed_at: '2016-08-16T01:12:30Z'
   short_name: dcaf_case_management
-  size: 11073
+  size: 11082
   updated_at: '2016-08-14T04:57:51Z'
   watchers: 13
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0,
@@ -1922,10 +1922,10 @@
   license: null
   main_language: JavaScript
   name: WABA Regional Bike Map
-  open_issues: 30
+  open_issues: 31
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-08-15T21:10:27Z'
+  pushed_at: '2016-08-16T11:50:47Z'
   short_name: hackforgood-waba-map
   size: 14708
   updated_at: '2016-07-20T00:21:31Z'
