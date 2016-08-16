@@ -150,7 +150,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1465845757000, 
@@ -205,7 +205,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1468853724000, 
@@ -282,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1468865620000, 
@@ -309,7 +309,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1468424212000, 
@@ -347,8 +347,8 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "waitlist_count": 3, 
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1457212385000, 
@@ -457,7 +457,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1468853724000, 
@@ -631,7 +631,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1468853724000, 
@@ -765,7 +765,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 123
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1446219481000, 
@@ -805,7 +805,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1452612310000, 
@@ -936,7 +936,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459265642000, 
@@ -1074,6 +1074,45 @@ calendar({
             "yes_rsvp_count": 11
         }, 
         {
+            "created": 1471287239000, 
+            "description": "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers of 10. \u00a0Save $10-35 by registering early.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:00 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:30 -\u00a0Registration &amp; Networking</p> <p>3:45 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>4:45 -\u00a0Networking &amp; Snacks</p> <p>5:00 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:00 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>6:30 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>7:30 -\u00a0Networking &amp; Dessert</p> <p>8:00 -\u00a0Adjourn\u00a0</p> <p><b>Call for Speakers</b></p> <p><br/>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "233376476", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: SEO and Search-Friendly Content", 
+            "status": "upcoming", 
+            "time": 1473966000000, 
+            "updated": 1471288870000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1401 I Street, NW, Suite 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 2316151, 
+                "lat": 38.901665000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.032416999999995, 
+                "name": "The Creative Group", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20533"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 2
+        }, 
+        {
             "created": 1471280199000, 
             "description": "<p>Eve Freeman will talk about graph database use cases and give a brief intro to Neo4j and Cypher, the Neo4j query language.</p>", 
             "duration": 10800000, 
@@ -1137,7 +1176,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457965726000, 
