@@ -289,7 +289,7 @@
         }, 
         "main_language": "JavaScript", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 83, 
+        "open_issues": 84, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -844,23 +844,23 @@
             2, 
             0, 
             0, 
-            3, 
-            6, 
+            4, 
+            5, 
             2, 
             0, 
-            1, 
-            4, 
-            1, 
-            4, 
-            11, 
-            4, 
-            3, 
+            2, 
             4, 
             0, 
+            6, 
+            9, 
+            7, 
+            0, 
+            4, 
             1, 
             1, 
             0, 
             3, 
+            0, 
             0, 
             0, 
             1, 
@@ -4778,16 +4778,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 62, 
+        "open_issues": 64, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-08-16T01:12:30Z", 
+        "pushed_at": "2016-08-16T23:47:18Z", 
         "short_name": "dcaf_case_management", 
-        "size": 11082, 
+        "size": 11087, 
         "updated_at": "2016-08-14T04:57:51Z", 
         "watchers": 13
     }, 
@@ -5776,7 +5776,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
-                "contributions": 8, 
+                "contributions": 10, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
@@ -5815,7 +5815,7 @@
         "created_at": "2016-05-27T00:06:05Z", 
         "default_branch": "master", 
         "description": "Evaluate how a change in rent stabilization policy would affect rental properties in the District.", 
-        "forks": 2, 
+        "forks": 4, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/rent-stabilization", 
@@ -5827,7 +5827,7 @@
             ], 
             [
                 "R", 
-                6443
+                9963
             ]
         ], 
         "license": null, 
@@ -5840,9 +5840,9 @@
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-07-19T15:39:23Z", 
+        "pushed_at": "2016-08-16T19:33:07Z", 
         "short_name": "rent-stabilization", 
-        "size": 460, 
+        "size": 465, 
         "updated_at": "2016-07-07T03:25:00Z", 
         "watchers": 0
     }, 
@@ -5911,7 +5911,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10409657?v=3", 
-                "contributions": 57, 
+                "contributions": 59, 
                 "link": "https://github.com/alulsh", 
                 "name": "alulsh"
             }, 
@@ -5922,16 +5922,22 @@
                 "name": "khiggins115"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8509058?v=3", 
+                "contributions": 6, 
+                "link": "https://github.com/sara4844", 
+                "name": "sara4844"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3990087?v=3", 
                 "contributions": 6, 
                 "link": "https://github.com/alexwweston", 
                 "name": "alexwweston"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/8509058?v=3", 
-                "contributions": 6, 
-                "link": "https://github.com/sara4844", 
-                "name": "sara4844"
+                "avatar_url": "https://avatars.githubusercontent.com/u/10157094?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/tomBeach", 
+                "name": "tomBeach"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/8990853?v=3", 
@@ -5958,11 +5964,11 @@
                 "name": "kimcabb"
             }
         ], 
-        "contributors_count": 8, 
+        "contributors_count": 9, 
         "created_at": "2016-06-24T00:52:18Z", 
         "default_branch": "master", 
         "description": "DCFemTech Hack for Good 2016 - WABA Bike Map Project", 
-        "forks": 8, 
+        "forks": 7, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/dcfemtech/hackforgood-waba-map", 
@@ -5970,30 +5976,30 @@
         "languages": [
             [
                 "JavaScript", 
-                4223
+                25103
             ], 
             [
                 "HTML", 
-                954
+                4326
             ], 
             [
                 "CSS", 
-                164
+                3129
             ]
         ], 
         "license": null, 
         "main_language": "JavaScript", 
         "name": "WABA Regional Bike Map", 
-        "open_issues": 28, 
+        "open_issues": 27, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/7329613?v=3", 
             "name": "dcfemtech", 
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-08-16T17:34:07Z", 
+        "pushed_at": "2016-08-16T23:54:43Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 14716, 
+        "size": 14719, 
         "updated_at": "2016-07-20T00:21:31Z", 
         "watchers": 3
     }
