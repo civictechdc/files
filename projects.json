@@ -289,14 +289,14 @@
         }, 
         "main_language": "JavaScript", 
         "name": "District Housing Application Assistant", 
-        "open_issues": 84, 
+        "open_issues": 85, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-08-06T13:57:29Z", 
+        "pushed_at": "2016-08-17T00:04:44Z", 
         "short_name": "districthousing", 
         "size": 21879, 
         "updated_at": "2016-08-06T13:57:31Z", 
@@ -2069,58 +2069,58 @@
     }, 
     {
         "activity": [
-            0, 
-            3, 
+            2, 
+            1, 
             2, 
             5, 
-            2, 
-            7, 
+            5, 
+            4, 
             3, 
             6, 
             2, 
             0, 
             0, 
-            1, 
-            1, 
-            4, 
-            1, 
-            4, 
-            10, 
-            8, 
             2, 
             0, 
+            4, 
+            1, 
+            14, 
+            2, 
+            6, 
+            2, 
             2, 
             20, 
+            0, 
             2, 
             0, 
             0, 
             0, 
+            18, 
+            24, 
+            64, 
             6, 
-            36, 
-            64, 
-            2, 
-            12, 
-            14, 
-            64, 
-            16, 
-            8, 
             10, 
-            2, 
-            30, 
+            54, 
             22, 
-            4, 
-            11, 
+            20, 
+            12, 
+            2, 
+            10, 
+            22, 
+            23, 
+            8, 
+            6, 
             0, 
             5, 
             10, 
-            0, 
             2, 
             0, 
             0, 
             0, 
             0, 
-            10, 
-            3
+            0, 
+            12, 
+            1
         ], 
         "ci": {
             "codeclimate": false, 
@@ -2392,18 +2392,18 @@
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 12, 
+        "open_issues": 13, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-08-10T12:33:48Z", 
+        "pushed_at": "2016-08-17T00:52:52Z", 
         "short_name": "dc-campaign-finance-watch", 
         "size": 119804, 
-        "updated_at": "2016-08-11T19:24:59Z", 
-        "watchers": 21
+        "updated_at": "2016-08-17T02:49:05Z", 
+        "watchers": 22
     }, 
     {
         "activity": [
@@ -4565,7 +4565,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 996, 
+                "contributions": 997, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4672,16 +4672,16 @@
                 "name": "dfelsent"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1463253?v=3", 
-                "contributions": 5, 
-                "link": "https://github.com/mccabe615", 
-                "name": "mccabe615"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6306695?v=3", 
                 "contributions": 5, 
                 "link": "https://github.com/MiroFurtado", 
                 "name": "MiroFurtado"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1463253?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/mccabe615", 
+                "name": "mccabe615"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5253461?v=3", 
@@ -4708,10 +4708,10 @@
                 "name": "edwardpark"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/17989540?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
                 "contributions": 1, 
-                "link": "https://github.com/eheintzelman", 
-                "name": "eheintzelman"
+                "link": "https://github.com/kndllbrwn", 
+                "name": "kndllbrwn"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5439589?v=3", 
@@ -4720,10 +4720,16 @@
                 "name": "valeriecodes"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/17989540?v=3", 
                 "contributions": 1, 
-                "link": "https://github.com/kndllbrwn", 
-                "name": "kndllbrwn"
+                "link": "https://github.com/eheintzelman", 
+                "name": "eheintzelman"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8164295?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/jayzmiles", 
+                "name": "jayzmiles"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/16469242?v=3", 
@@ -4738,7 +4744,7 @@
                 "name": "trycrmr"
             }
         ], 
-        "contributors_count": 29, 
+        "contributors_count": 30, 
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
@@ -4778,16 +4784,16 @@
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 64, 
+        "open_issues": 72, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-08-16T23:47:18Z", 
+        "pushed_at": "2016-08-17T03:27:58Z", 
         "short_name": "dcaf_case_management", 
-        "size": 11087, 
+        "size": 11104, 
         "updated_at": "2016-08-14T04:57:51Z", 
         "watchers": 13
     }, 
@@ -5911,7 +5917,7 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10409657?v=3", 
-                "contributions": 59, 
+                "contributions": 62, 
                 "link": "https://github.com/alulsh", 
                 "name": "alulsh"
             }, 
@@ -5935,7 +5941,7 @@
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10157094?v=3", 
-                "contributions": 3, 
+                "contributions": 5, 
                 "link": "https://github.com/tomBeach", 
                 "name": "tomBeach"
             }, 
@@ -5958,48 +5964,114 @@
                 "name": "NealHumphrey"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5506190?v=3", 
+                "contributions": 2, 
+                "link": "https://github.com/seongju", 
+                "name": "seongju"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/16272373?v=3", 
                 "contributions": 2, 
                 "link": "https://github.com/kimcabb", 
                 "name": "kimcabb"
             }
         ], 
-        "contributors_count": 9, 
+        "contributors_count": 10, 
         "created_at": "2016-06-24T00:52:18Z", 
         "default_branch": "master", 
         "description": "DCFemTech Hack for Good 2016 - WABA Bike Map Project", 
         "forks": 7, 
-        "help_wanted": [], 
+        "help_wanted": [
+            {
+                "assignee": null, 
+                "body": "https://github.com/dcfemtech/hackforgood-waba-map/pull/78 added awesome UI functionality but introduced 903 additional lines of code.\r\n\r\nI think there's even more opportunities to refactor this file to slim down the main JavaScript codebase. Anybody want to tackle this?", 
+                "comments": 0, 
+                "created_at": "2016-08-17T04:05:41Z", 
+                "issue": "Refactor site.js", 
+                "issue_url": "https://github.com/dcfemtech/hackforgood-waba-map/issues/88", 
+                "labels": [
+                    {
+                        "color": "128A0C", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/dcfemtech/hackforgood-waba-map/labels/help%20wanted"
+                    }
+                ], 
+                "project": "WABA Regional Bike Map", 
+                "project_url": "https://github.com/dcfemtech/hackforgood-waba-map", 
+                "updated_at": "2016-08-17T04:05:50Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "There are numerous `console.log` error messages for network (AJAX call) failures introduced in https://github.com/dcfemtech/hackforgood-waba-map/pull/78. There are also error messages for when data fails to load.\r\n\r\nThese errors currently use `console.log` statements instead of producing an error message in the UI. This is great for developers, but not so great for our target audience (who are *not* developers). We should instead use relatively unobtrusive modal dialogs (not annoying alert boxes) to display friendly error messages when data fails to load or other errors occur).\r\n\r\nSee my line note in https://github.com/dcfemtech/hackforgood-waba-map/pull/78#discussion_r74947183 for an example. ", 
+                "comments": 0, 
+                "created_at": "2016-08-17T04:03:18Z", 
+                "issue": "User-friendly errors in the UI instead of console.log errors", 
+                "issue_url": "https://github.com/dcfemtech/hackforgood-waba-map/issues/87", 
+                "labels": [
+                    {
+                        "color": "128A0C", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/dcfemtech/hackforgood-waba-map/labels/help%20wanted"
+                    }
+                ], 
+                "project": "WABA Regional Bike Map", 
+                "project_url": "https://github.com/dcfemtech/hackforgood-waba-map", 
+                "updated_at": "2016-08-17T04:06:19Z"
+            }, 
+            {
+                "assignee": null, 
+                "body": "As we create more issues and write more code to this project it will take more time and it will be tougher to manually test our code in the browser for common actions such as selecting buffers and bikelanes.\r\n\r\nTesting client-side JavaScript is notoriously unpleasant compared to testing server-side code, but I'm open to someone writing client-side tests with [mocha-phantomjs](https://github.com/nathanboktae/mocha-phantomjs) so that they can be run from the command line using `npm test` and automated with Travis CI. \r\n\r\nThis isn't something we need to do, but if someone loves writing client-side JavaScript tests (or wants to learn) this is a great opportunity to write some!\r\n\r\nFor reference, I wrote some simple [Jasmine-based tests](https://github.com/alulsh/Pig-Latin-Translator/blob/master/tests/spec/pigLatinTests.js) in my [Pig Latin Translator side project](https://github.com/alulsh/Pig-Latin-Translator) (cringing at the amount of whitespace in those tests right now \ud83d\ude31 ). Mapbox.js also uses mocha-phantomjs and has a comprehensive set of [specs](https://github.com/mapbox/mapbox.js/tree/mb-pages/test/spec) to look at.", 
+                "comments": 0, 
+                "created_at": "2016-08-17T03:40:25Z", 
+                "issue": "Client-side JavaScript unit tests?", 
+                "issue_url": "https://github.com/dcfemtech/hackforgood-waba-map/issues/86", 
+                "labels": [
+                    {
+                        "color": "128A0C", 
+                        "name": "help wanted", 
+                        "url": "https://api.github.com/repos/dcfemtech/hackforgood-waba-map/labels/help%20wanted"
+                    }, 
+                    {
+                        "color": "cc317c", 
+                        "name": "question", 
+                        "url": "https://api.github.com/repos/dcfemtech/hackforgood-waba-map/labels/question"
+                    }
+                ], 
+                "project": "WABA Regional Bike Map", 
+                "project_url": "https://github.com/dcfemtech/hackforgood-waba-map", 
+                "updated_at": "2016-08-17T03:41:26Z"
+            }
+        ], 
         "homepage": null, 
         "html_url": "https://github.com/dcfemtech/hackforgood-waba-map", 
         "id": 61846251, 
         "languages": [
             [
                 "JavaScript", 
-                25103
+                25183
             ], 
             [
                 "HTML", 
-                4326
+                4339
             ], 
             [
                 "CSS", 
-                3129
+                3122
             ]
         ], 
         "license": null, 
         "main_language": "JavaScript", 
         "name": "WABA Regional Bike Map", 
-        "open_issues": 27, 
+        "open_issues": 29, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/7329613?v=3", 
             "name": "dcfemtech", 
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-08-16T23:54:43Z", 
+        "pushed_at": "2016-08-17T04:50:45Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 14719, 
+        "size": 14977, 
         "updated_at": "2016-07-20T00:21:31Z", 
         "watchers": 3
     }
