@@ -120,45 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
-        }, 
-        {
-            "created": 1470699270000, 
-            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "233220012", 
-            "maybe_rsvp_count": 0, 
-            "name": "Work The Room: Networking in the Wild", 
-            "status": "upcoming", 
-            "time": 1471473000000, 
-            "updated": 1470703022000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1203 19th St NW ", 
-                "city": "3rd floor", 
-                "country": "us", 
-                "id": 24145676, 
-                "lat": 38.905971999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.043205, 
-                "name": "Canvas Co/work ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1468424212000, 
@@ -196,8 +158,8 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
-            "yes_rsvp_count": 130
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 128
         }, 
         {
             "created": 1468865620000, 
@@ -264,7 +226,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1459265642000, 
@@ -333,7 +295,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1468853724000, 
@@ -398,7 +360,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1467838122000, 
@@ -437,7 +399,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -534,7 +496,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1457035701000, 
@@ -708,7 +670,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
@@ -747,7 +709,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1460389774000, 
@@ -900,10 +862,10 @@ calendar({
             "headcount": 0, 
             "id": "xvsfwlyvmbsb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Open Lab Night (with Ruby on Rails Team)", 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1468867259000, 
+            "updated": 1471452658000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -1179,7 +1141,7 @@ calendar({
         }, 
         {
             "created": 1470324592000, 
-            "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022 <b>Chris Nguyen</b> (Washington Post) -\u00a0<i>The Hitchhiker's Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\" /></p> <p><b>\u2022\u00a0Katy Kasmai\u00a0</b>(Google) - <i>Moonshot</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/d/e/600_453019166.jpeg\" /></p> <p>\u2022\u00a0<b>Ray Tsang</b> (Google) - <i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b> (Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p>\u2022 <b>Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Huyen Tue Dao</b> (Trello) -\u00a0<i>Measure, Layout, Draw, Repeat: Custom Views and ViewGroups</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/4/e/600_453162062.jpeg\" /></p> <p><b>\u2022\u00a0Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022 Elizabeth Mezias (<b>Mezcode</b>) -\u00a0Wallpapers, Widgets &amp; Wear</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\" /></p> <p>\u2022\u00a0John Niedzwieck (<b>ThreatTrack Security Inc.</b>) -\u00a0\u00a0D3 + AngularJS = Visual Awesomesauce</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\" /></p> <p><b>\u2022\u00a0Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022 <b>Nitya\u00a0Narasimha</b> (Digital HV)\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p> <p><b>\u2022\u00a0Martin Omander</b> (Google) -\u00a0<i>Game Development with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\" /></p> <p><b>\u2022\u00a0Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"https://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpg\" /></p> <p>This event is only possible with the generous sponsorship from the sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a></p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p> <p>\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\" /></p>", 
+            "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022 <b>Jay Gordon</b> (Google)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/2/1/600_453213057.jpeg\" /></p> <p><b>\u2022\u00a0Chris Nguyen</b> (Washington Post) -\u00a0<i>The Hitchhiker's Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\" /></p> <p><b>\u2022\u00a0Katy Kasmai\u00a0</b>(Google) - <i>Moonshot</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/a/d/e/600_453019166.jpeg\" /></p> <p>\u2022\u00a0<b>Ray Tsang</b> (Google) - <i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b> (Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p>\u2022 <b>Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Huyen Tue Dao</b> (Trello) -\u00a0<i>Measure, Layout, Draw, Repeat: Custom Views and ViewGroups</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/4/e/600_453162062.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022 <b>Dave Erickson</b> (Elastic)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/8/1/a/d/600_453213197.jpeg\" /></p> <p><b>\u2022\u00a0Michael Evans</b> (Living Social)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/9/3/600_453213171.jpeg\" /></p> <p>\u2022\u00a0\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022 <b>Azat Mardan</b> (Capital One)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/7/a/600_453213146.jpeg\" /></p> <p><b>\u2022\u00a0Elizabeth Mezias</b> (Mezcode) -\u00a0Wallpapers, Widgets &amp; Wear</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\" /></p> <p>\u2022 <b>Josh Gordon</b> (MongoDB)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/4/3/600_453213091.jpeg\" /></p> <p>\u2022\u00a0J<b>ohn Niedzwieck</b>\u00a0(ThreatTrack Security, Inc.)\u00a0-\u00a0\u00a0D3 + AngularJS = Visual Awesomesauce</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022 <b>Nitya\u00a0Narasimha</b> (Digital HV)\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Martin Omander</b> (Google) -\u00a0<i>Game Development with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"https://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpg\" /></p> <p>This event is only possible with the generous sponsorship from the sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a></p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p> <p>\n\n\n<img src=\"http://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/1/d/7/600_453213239.jpeg\" /></p>", 
             "duration": 118800000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/233117940/", 
             "group": {
@@ -1200,7 +1162,7 @@ calendar({
             "rsvp_limit": 4, 
             "status": "upcoming", 
             "time": 1474633800000, 
-            "updated": 1471362014000, 
+            "updated": 1471449970000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -1333,7 +1295,45 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
+        }, 
+        {
+            "created": 1470699270000, 
+            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "233220012", 
+            "maybe_rsvp_count": 0, 
+            "name": "Work The Room: Networking in the Wild", 
+            "status": "upcoming", 
+            "time": 1476482400000, 
+            "updated": 1471450571000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW ", 
+                "city": "3rd floor", 
+                "country": "us", 
+                "id": 24145676, 
+                "lat": 38.905971999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043205, 
+                "name": "Canvas Co/work ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1467704208000, 
