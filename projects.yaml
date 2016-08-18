@@ -258,9 +258,9 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [0, 0, 0, 0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0, 4, 1, 1, 0,
-    3, 0, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 4, 2, 0, 12, 1, 0, 0, 3, 0, 0, 2,
-    0, 2, 0]
+- activity: [0, 0, 0, 0, 2, 0, 0, 0, 5, 6, 0, 0, 5, 1, 2, 8, 5, 7, 0, 4, 1, 1, 0,
+    3, 0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 0, 4, 0, 0, 5, 1, 0, 13, 0, 0, 0, 3, 0, 2, 0,
+    2, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
   contributors:
@@ -1101,9 +1101,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [0, 6, 0, 70, 10, 0, 2, 6, 3, 2, 8, 0, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0,
-    0, 1, 1, 0, 0, 108, 28, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0]
+- activity: [2, 4, 0, 78, 2, 0, 2, 6, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0,
+    1, 1, 0, 11, 111, 16, 0, 3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1284,7 +1284,7 @@
   size: 21200
   updated_at: '2016-02-01T04:27:57Z'
   watchers: 3
-- activity: [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1313,7 +1313,7 @@
   size: 106
   updated_at: '2015-09-24T12:48:10Z'
   watchers: 2
-- activity: [8, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+- activity: [8, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
     2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1364,7 +1364,7 @@
   size: 216
   updated_at: '2016-05-08T17:22:55Z'
   watchers: 4
-- activity: [2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0,
+- activity: [5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1396,8 +1396,8 @@
   size: 245
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
-    2, 10, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2,
+    8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1541,8 +1541,8 @@
   size: 11104
   updated_at: '2016-08-14T04:57:51Z'
   watchers: 13
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1570,8 +1570,8 @@
   size: 31
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 28, 23,
-    14, 27, 23, 43, 15, 27, 11, 9, 18, 30, 26, 16, 15, 5, 9, 0, 6, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 4, 0, 2, 8, 12, 28, 24,
+    17, 23, 27, 48, 9, 24, 11, 10, 23, 34, 20, 18, 12, 2, 9, 0, 6, 0, 0, 0, 0, 0,
     0, 0, 1, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1634,7 +1634,7 @@
   size: 18371
   updated_at: '2016-05-13T12:52:54Z'
   watchers: 6
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0,
     2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1770,7 +1770,7 @@
   updated_at: '2016-05-08T17:22:58Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -1814,7 +1814,7 @@
   updated_at: '2016-02-09T01:18:54Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 7, 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1845,12 +1845,12 @@
   updated_at: '2016-04-06T23:48:18Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 6, 0, 0, 0, 16, 1, 1,
-    0, 0, 0]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 6, 0, 0, 0, 16, 2, 0,
+    0, 0, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 10,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 12,
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16766406?v=3', contributions: 8,
     link: 'https://github.com/nbanion', name: nbanion}
@@ -1874,21 +1874,22 @@
   id: 59790985
   languages:
   - [HTML, 1060597]
-  - [R, 9963]
+  - [R, 4046]
+  - [Python, 2182]
   license: null
   main_language: HTML
   name: Rent Stabilization
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-16T19:33:07Z'
+  pushed_at: '2016-08-17T19:55:49Z'
   short_name: rent-stabilization
-  size: 465
+  size: 467
   updated_at: '2016-07-07T03:25:00Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 5, 0, 0, 6,
-    0, 0, 10]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 68, 4, 0, 5, 1,
+    0, 0, 24]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1942,7 +1943,7 @@
       \ dialogs (not annoying alert boxes) to display friendly error messages when\
       \ data fails to load or other errors occur).\r\n\r\nSee my line note in https://github.com/dcfemtech/hackforgood-waba-map/pull/78#discussion_r74947183\
       \ for an example. "
-    comments: 0
+    comments: 2
     created_at: '2016-08-17T04:03:18Z'
     issue: User-friendly errors in the UI instead of console.log errors
     issue_url: https://github.com/dcfemtech/hackforgood-waba-map/issues/87
@@ -1950,7 +1951,7 @@
     - {color: 128A0C, name: help wanted, url: 'https://api.github.com/repos/dcfemtech/hackforgood-waba-map/labels/help%20wanted'}
     project: WABA Regional Bike Map
     project_url: https://github.com/dcfemtech/hackforgood-waba-map
-    updated_at: '2016-08-17T04:06:19Z'
+    updated_at: '2016-08-17T23:52:31Z'
   - assignee: null
     body: "As we create more issues and write more code to this project it will take\
       \ more time and it will be tougher to manually test our code in the browser\
