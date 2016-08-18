@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 other:
 - created: 1468424212000
   description: "<p>Coders and commuting: how do apps change the way we drive? This\
@@ -101,9 +101,8 @@ other:
     >Safer streets with better data</a>.\"</p> <p><br/>\_ \_ \_\U0001F697 \U0001F4A8\
     \_ \_ \_ \_ \_ \_ \_\U0001F69A \U0001F4A8\_ \_ \_ \_ \_ \_ \_\U0001F699 \U0001F4A8\
     \_ \_ \_ \_ \_ \_ \_\U0001F69B \U0001F4A8\_ \_ \_ \_ \_ \_ \_\U0001F695 \U0001F4A8\
-    \_</p> <p><br/>Coming up in September, we'll be back in DC with\_<a href=\"http://www.meetup.com/Transportation-Techies/events/231755172/\"\
-    >Bike Hack Night VI</a>.</p> <p><br/>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a> for updates.</p>"
+    \_</p> <p>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\
+    \ for updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/232589028/
   group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -111,11 +110,11 @@ other:
   headcount: 0
   id: '232589028'
   maybe_rsvp_count: 0
-  name: Playing with Traffic ][
+  name: Playing with Traffic II
   rsvp_limit: 130
   status: upcoming
   time: 1471557600000
-  updated: 1471357135000
+  updated: 1471536823000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
@@ -143,7 +142,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 25
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -271,7 +270,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 127
 - created: 1468853724000
   description: "<p><b>Say you're building a simple website with five pages linked\
     \ together, and a simple navigation bar at the top. You make some changes to the\
@@ -399,7 +398,7 @@ other:
     id: 19813392, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 90
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -566,7 +565,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -680,7 +679,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -721,7 +720,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -743,7 +742,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -939,7 +938,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1471287239000
   description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
@@ -1417,7 +1416,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
