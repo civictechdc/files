@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 41
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -76,73 +76,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 18
 other:
-- created: 1468424212000
-  description: "<p>Coders and commuting: how do apps change the way we drive? This\
-    \ month we'll hear from tech companies with apps that help people share the road.\
-    \ We'll meet on the 12th floor of\_<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
-    >WeWork's new Crystal City location</a>. Doors open at 6:00 with pizza courtesy\
-    \ of our sponsors\_<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_and <a\
-    \ href=\"https://rideamigos.com/\">RideAmigos</a>. Presentations start at 6:30.\_\
-    </p> <p>\u2022\_<a href=\"https://twitter.com/1littlevictory\">Anna Petrone</a>\_\
-    will present how <a href=\"http://split.us/\">Split</a> is building a scalable\
-    \ and efficient shared ride system.\_</p> <p>\u2022\_Andriy Klymchuk will show\
-    \ how <a href=\"https://www.sameride.com/\">Sameride</a> was created, a mobile\
-    \ app for communities of commuters.\_</p> <p>\u2022\_Prachi Vakharia will show\
-    \ how\_<a href=\"https://rideamigos.com/\">RideAmigos</a>\_integrates transportation\
-    \ network companies into city planning.</p> <p>\u2022\_Jay Subramaniam will talk\
-    \ about <a href=\"https://www.getaround.com/\">Getaround</a>'s\_software and hardware\
-    \ technologies.</p> <p>\u2022\_David Miller will share what he learned after launching\
-    \ <a href=\"http://rideleads.com/\">Ride Leads</a>, the nation\u2019s first connected-traveller\
-    \ and packaged mobility platform.</p> <p><br/>\u2022\_<a href=\"https://www.mapbox.com/about/team/#antonio-zugaldia\"\
-    >Antonio Zugaldia</a> will present <a href=\"https://www.mapbox.com/blog/drive/\"\
-    >Mapbox Drive</a> and show how to use it to build your own ridesharing app.</p>\
-    \ <p>Read about our previous <a href=\"http://www.meetup.com/Transportation-Techies/events/226241616/\"\
-    >Playing with Traffic</a> event: \"<a href=\"http://mobilitylab.org/2015/12/07/safer-streets-with-better-data/\"\
-    >Safer streets with better data</a>.\"</p> <p><br/>\_ \_ \_\U0001F697 \U0001F4A8\
-    \_ \_ \_ \_ \_ \_ \_\U0001F69A \U0001F4A8\_ \_ \_ \_ \_ \_ \_\U0001F699 \U0001F4A8\
-    \_ \_ \_ \_ \_ \_ \_\U0001F69B \U0001F4A8\_ \_ \_ \_ \_ \_ \_\U0001F695 \U0001F4A8\
-    \_</p> <p>As always, stay tuned to <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\
-    \ for updates.</p>"
-  event_url: http://www.meetup.com/Transportation-Techies/events/232589028/
-  group: {created: 1384372275000, group_lat: 38.889999389648438, group_lon: -77.069999694824219,
-    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
-    who: Techies}
-  headcount: 0
-  id: '232589028'
-  maybe_rsvp_count: 0
-  name: Playing with Traffic II
-  rsvp_limit: 130
-  status: upcoming
-  time: 1471557600000
-  updated: 1471536823000
-  utc_offset: -14400000
-  venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
-    lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
-    name: WeWork Crystal City, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 125
-- created: 1468865620000
-  description: <p>Come join PyLadies for Happy Hour! It doesn't matter if you're a
-    newbie or an expert - stop by for a drink and to meet other PyLadies and talk
-    Python.</p> <p><br/>Be sure to bring any ideas or requests for what you'd like
-    from PyLadies DC, too. We'd love to hear from you while you're there!</p> <p>Hope
-    to see you soon!</p>
-  event_url: http://www.meetup.com/dc-pyladies/events/232708177/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
-    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
-  headcount: 0
-  id: '232708177'
-  maybe_rsvp_count: 0
-  name: PyLadies Happy Hour
-  rsvp_limit: 100
-  status: upcoming
-  time: 1471559400000
-  updated: 1468865620000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 24
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -189,7 +122,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -270,7 +203,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 134
+  yes_rsvp_count: 136
 - created: 1468853724000
   description: "<p><b>Say you're building a simple website with five pages linked\
     \ together, and a simple navigation bar at the top. You make some changes to the\
@@ -326,7 +259,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 15
 - created: 1467072890000
   description: "<p>Please note the date change.</p> <p><b><i>Reminder: </i></b>You\
     \ MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\"\
@@ -479,7 +412,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -647,7 +580,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 130
+  yes_rsvp_count: 131
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -815,7 +748,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1054,7 +987,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
