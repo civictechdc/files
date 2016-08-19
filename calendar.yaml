@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -122,7 +122,32 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
+- created: 1471614042000
+  description: "<p>Have lots of code that you want to share? Need a place to host\
+    \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
+    \ is the place for you! Come join us on\_Tuesday, August 23rd for an introduction\
+    \ to GitHub. We'll talk about GitHub and all the lingo as well as the language\
+    \ \"git\", how to use the desktop interface, and what you can do to get started.</p>\
+    \ <p>Prerequisites:\_If you don't already have a GitHub account, please create\
+    \ one prior to Maptime at\_<a href=\"https://github.com/\"><a href=\"https://github.com\"\
+    \ class=\"linkified\">https://github.com</a></a>.\_You can also download the desktop\
+    \ interface if you choose, but it's not required.</p>"
+  event_url: http://www.meetup.com/Maptime-DC/events/233469610/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  id: '233469610'
+  maybe_rsvp_count: 0
+  name: Git and Github 101
+  status: upcoming
+  time: 1471989600000
+  updated: 1471614541000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 14
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -203,7 +228,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 136
+  yes_rsvp_count: 138
 - created: 1468853724000
   description: "<p><b>Say you're building a simple website with five pages linked\
     \ together, and a simple navigation bar at the top. You make some changes to the\
@@ -331,7 +356,7 @@ other:
     id: 19813392, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 10
   yes_rsvp_count: 90
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -653,7 +678,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -933,7 +958,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1467700232000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
     \ <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
@@ -1130,8 +1155,7 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1470324592000
-  description: "<p>Visualizing data in Elasticsearch: Search, Timeseries, and Graph\
-    \ Analysis in the Cloud</p> <p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
+  description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
     \ as a two day event.\_</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\"\
     >Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean\
@@ -1144,16 +1168,13 @@ other:
     </p> <p>Plan to attend both days or either one of the days depending on your schedule!</p>\
     \ <p>More Updates on Sessions/Speakers coming at\_<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\"\
     >www.devfestdc.org</a>\_</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022\
-    \ <b>Jay Gordon</b> (Google) - <i>Google Machine Learning Session</i></p> <p><img\
-    \ src=\"http://photos4.meetupstatic.com/photos/event/8/1/2/1/600_453213057.jpeg\"\
+    \ <b>Raj\_Echambadi</b> (University of Illinois)\_</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/e/7/b/600_453260091.jpeg\"\
+    \ /></p> <p><b>\u2022\_Josh Gordon</b> (Google) - <i>Google Machine Learning Session</i></p>\
+    \ <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/2/1/600_453213057.jpeg\"\
     \ /></p> <p><b>\u2022\_Chris Nguyen</b> (Washington Post) -\_<i>The Hitchhiker's\
     \ Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\"\
     \ /></p> <p><b>\u2022\_Katy Kasmai\_</b>(Google) - <i>Moonshot</i></p> <p><img\
     \ src=\"http://photos3.meetupstatic.com/photos/event/4/a/d/e/600_453019166.jpeg\"\
-    \ /></p> <p>\u2022\_<b>Ray Tsang</b> (Google) - <i>Kubernetes</i></p> <p><img\
-    \ src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\"\
-    \ /></p> <p>\u2022\_<b>Bret McGowen</b> (Google) -\_<i>Tensor Flow / Machine Learning\
-    \ Workshop\_</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\"\
     \ /></p> <p>\u2022 <b>Jared Sheehan</b> (Capital One) -\_<i>Making Sense - Unleash\
     \ the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"\
     http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p>\
@@ -1171,26 +1192,45 @@ other:
     \ Server with Node and Express</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/7/a/600_453213146.jpeg\"\
     \ /></p> <p><b>\u2022\_Elizabeth Mezias</b> (Mezcode) -\_<i>Wallpapers, Widgets\
     \ &amp; Wear</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\"\
-    \ /></p> <p>\u2022 <b>Josh Gordon</b> (MongoDB) - Jumpstart MongoDB: What You\
-    \ Need to Know</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/4/3/600_453213091.jpeg\"\
+    \ /></p> <p>\u2022 <b>Jay Gordon</b> (MongoDB) - <i>Jumpstart MongoDB: What You\
+    \ Need to Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/4/3/600_453213091.jpeg\"\
     \ /></p> <p>\u2022\_J<b>ohn Niedzwieck</b>\_(ThreatTrack Security, Inc.)\_-\_\_\
-    D3 + AngularJS = Visual Awesomesauce</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\"\
+    <i>D3 + AngularJS = Visual Awesomesauce </i></p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\"\
     \ /></p> <p><b>\u2022\_</b><b>Marc Boorshtein</b> (Tremolo Security,\_Inc.) -\_\
     <i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"\
     http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p>\
-    \ <p>\u2022 <b>Nitya\_Narasimha</b> (Digital HV)\_</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\"\
-    \ /></p> <p><b>\u2022\_</b><b>Martin Omander</b> (Google) -\_<i>Game Development\
-    \ with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\"\
+    \ <p>\u2022 <b>Naveen Singhal</b> (Mobile Posse)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/1/0/600_453259984.jpeg\"\
+    \ /></p> <p><b>\u2022\_Nitya\_Narasimha</b> (Digital HV)\_</p> <p><img src=\"\
+    http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p>\
+    \ <p><b>\u2022\_</b><b>Martin Omander</b> (Google) -\_<i>Game Development with\
+    \ Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\"\
     \ /></p> <p><b>\u2022\_</b><b>Eric Fung</b> (Shopify) -\_<i>Set Course for Notifications\u2026\
     \ Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\"\
     \ /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\_(CommonsWare) -\_<i>Doing Periodic\
     \ Work: Another Android Headache</i></p> <p><br/><img src=\"https://ci6.googleusercontent.com/proxy/N2BSQ9pa9svRKimY1Zf2WtAyeamk2MHAIvqos-YS6X7x34qbnxb9fL1c31I3FdygxBakiTWOafePIiz7v5qOnQMiOqrliSRQ0SbCssGVX5grxvE1mmgaUXD5PpPgiJThfZ5wOFsGBTLEhdJ1x3qElyS8jNkbVObzWipsr8Y=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/f5a700cd-4ea1-4f5c-b832-a60e88135d5e.jpg\"\
     \ /></p> <p>\u2022 \_<b>Annyce Davis</b> (Off Grid Electric) - <i>Say It With\
     \ Video!</i></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\"\
-    \ /></p> <p>This event is only possible with the generous sponsorship from the\
-    \ sponsors and community</p> <p>Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\"\
-    >Eventbrite</a></p> <p>Great speakers, code labs (Machine Learning), workshops\
-    \ and panels planned.</p> <p><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\"\
+    \ /></p> <p>\u2022 Andrew Mitry (Walmart)\_</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/a/0/600_453259872.jpeg\"\
+    \ /></p> <p><b>\u2022\_\_Mark Brown (Department of Commerce)</b></p> <p><img src=\"\
+    http://photos4.meetupstatic.com/photos/event/4/d/8/1/600_453259841.jpeg\" /></p>\
+    \ <p><b>\u2022\_Michael Brown (comScore)\_</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/d/5/2/600_453259794.jpeg\"\
+    \ /></p> <p><b>\u2022\_Jessica Bell (Deloitte Digital)\_</b></p> <p><img src=\"\
+    http://photos1.meetupstatic.com/photos/event/4/d/4/6/600_453259782.jpeg\" /></p>\
+    \ <p><b>\u2022\_Antonio Zugaldia</b> (MapBox)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/2/f/600_453259759.jpeg\"\
+    \ /></p> <p><b>\u2022\_Yufeng Gao</b> (Google)</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/4/c/b/2/600_453259634.jpeg\"\
+    \ /></p> <p>\u2022 Lougenia Bailey (Excella Consulting)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/d/a/600_453259930.jpeg\"\
+    \ /></p> <p>\u2022 Dave Erickson (Elastic)</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/f/b/600_453259963.jpeg\"\
+    \ /></p> <p>\u2022\_Eric Newman (Mobile Posse)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/c/3/600_453259907.jpeg\"\
+    \ /></p> <p><b>Code Labs:</b></p> <p>\u2022\_<b>Ray Tsang</b>\_(Google) -\_<i>Kubernetes</i></p>\
+    \ <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\"\
+    \ /></p> <p>\u2022\_<b>Kashif Qureshi </b>(AOL) - <i>Kotlin Code Lab</i></p> <p><img\
+    \ src=\"http://photos1.meetupstatic.com/photos/event/4/e/c/1/600_453260161.jpeg\"\
+    \ /></p> <p>\u2022\_<b>Bret McGowen</b>\_(Google) -\_<i>Tensor Flow / Machine\
+    \ Learning Workshop\_</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\"\
+    \ /></p> <p><br/>*Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\"\
+    >Eventbrite</a>!</p> <p>Great speakers, code labs (Machine Learning), workshops\
+    \ and panels planned.</p> <p>This event is only possible with the generous sponsorship\
+    \ from these sponsors and community!</p> <p><br/><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\"\
     \ /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/f/9/600_453241785.jpeg\"\
     \ /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/1/d/7/600_453213239.jpeghttp://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\"\
     \ /></p>"
@@ -1209,13 +1249,13 @@ other:
   rsvp_limit: 4
   status: upcoming
   time: 1474633800000
-  updated: 1471551370000
+  updated: 1471616206000
   utc_offset: -14400000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 86
+  waitlist_count: 87
   yes_rsvp_count: 4
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -1263,7 +1303,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

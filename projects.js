@@ -2392,7 +2392,7 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 13, 
+        "open_issues": 18, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
@@ -4748,7 +4748,7 @@ projects([
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
-        "forks": 41, 
+        "forks": 42, 
         "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/colinxfleming/dcaf_case_management", 
@@ -4784,14 +4784,14 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 72, 
+        "open_issues": 73, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-08-19T00:31:15Z", 
+        "pushed_at": "2016-08-19T15:01:31Z", 
         "short_name": "dcaf_case_management", 
         "size": 11104, 
         "updated_at": "2016-08-18T02:18:33Z", 
@@ -5821,7 +5821,7 @@ projects([
         "created_at": "2016-05-27T00:06:05Z", 
         "default_branch": "master", 
         "description": "Evaluate how a change in rent stabilization policy would affect rental properties in the District.", 
-        "forks": 4, 
+        "forks": 5, 
         "help_wanted": [], 
         "homepage": null, 
         "html_url": "https://github.com/codefordc/rent-stabilization", 
@@ -5921,7 +5921,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10409657?v=3", 
-                "contributions": 62, 
+                "contributions": 63, 
                 "link": "https://github.com/alulsh", 
                 "name": "alulsh"
             }, 
@@ -5932,16 +5932,16 @@ projects([
                 "name": "khiggins115"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/8509058?v=3", 
-                "contributions": 6, 
-                "link": "https://github.com/sara4844", 
-                "name": "sara4844"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3990087?v=3", 
                 "contributions": 6, 
                 "link": "https://github.com/alexwweston", 
                 "name": "alexwweston"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8509058?v=3", 
+                "contributions": 6, 
+                "link": "https://github.com/sara4844", 
+                "name": "sara4844"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10157094?v=3", 
@@ -5954,6 +5954,12 @@ projects([
                 "contributions": 3, 
                 "link": "https://github.com/BuffyShepard", 
                 "name": "BuffyShepard"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/13531063?v=3", 
+                "contributions": 3, 
+                "link": "https://github.com/alongthepike", 
+                "name": "alongthepike"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/17552911?v=3", 
@@ -5980,7 +5986,7 @@ projects([
                 "name": "kimcabb"
             }
         ], 
-        "contributors_count": 10, 
+        "contributors_count": 11, 
         "created_at": "2016-06-24T00:52:18Z", 
         "default_branch": "master", 
         "description": "DCFemTech Hack for Good 2016 - WABA Bike Map Project", 
@@ -6052,7 +6058,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                25183
+                38281
             ], 
             [
                 "HTML", 
@@ -6073,7 +6079,7 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-08-19T02:03:35Z", 
+        "pushed_at": "2016-08-19T16:42:02Z", 
         "short_name": "hackforgood-waba-map", 
         "size": 15604, 
         "updated_at": "2016-07-20T00:21:31Z", 

@@ -783,7 +783,7 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 13
+  open_issues: 18
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-08-17T00:52:52Z'
@@ -1519,7 +1519,7 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 41
+  forks: 42
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
@@ -1533,10 +1533,10 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 72
+  open_issues: 73
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-19T00:31:15Z'
+  pushed_at: '2016-08-19T15:01:31Z'
   short_name: dcaf_case_management
   size: 11104
   updated_at: '2016-08-18T02:18:33Z'
@@ -1867,7 +1867,7 @@
   default_branch: master
   description: Evaluate how a change in rent stabilization policy would affect rental
     properties in the District.
-  forks: 4
+  forks: 5
   help_wanted: []
   homepage: null
   html_url: https://github.com/codefordc/rent-stabilization
@@ -1893,18 +1893,20 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 62,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 63,
     link: 'https://github.com/alulsh', name: alulsh}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7659813?v=3', contributions: 8,
     link: 'https://github.com/khiggins115', name: khiggins115}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/8509058?v=3', contributions: 6,
-    link: 'https://github.com/sara4844', name: sara4844}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3990087?v=3', contributions: 6,
     link: 'https://github.com/alexwweston', name: alexwweston}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/8509058?v=3', contributions: 6,
+    link: 'https://github.com/sara4844', name: sara4844}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 5,
     link: 'https://github.com/tomBeach', name: tomBeach}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8990853?v=3', contributions: 3,
     link: 'https://github.com/BuffyShepard', name: BuffyShepard}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/13531063?v=3', contributions: 3,
+    link: 'https://github.com/alongthepike', name: alongthepike}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/17552911?v=3', contributions: 2,
     link: 'https://github.com/hareno44', name: hareno44}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/5642566?v=3', contributions: 2,
@@ -1913,7 +1915,7 @@
     link: 'https://github.com/seongju', name: seongju}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16272373?v=3', contributions: 2,
     link: 'https://github.com/kimcabb', name: kimcabb}
-  contributors_count: 10
+  contributors_count: 11
   created_at: '2016-06-24T00:52:18Z'
   default_branch: master
   description: DCFemTech Hack for Good 2016 - WABA Bike Map Project
@@ -1981,7 +1983,7 @@
   html_url: https://github.com/dcfemtech/hackforgood-waba-map
   id: 61846251
   languages:
-  - [JavaScript, 25183]
+  - [JavaScript, 38281]
   - [HTML, 4339]
   - [CSS, 3122]
   license: null
@@ -1990,7 +1992,7 @@
   open_issues: 31
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-08-19T02:03:35Z'
+  pushed_at: '2016-08-19T16:42:02Z'
   short_name: hackforgood-waba-map
   size: 15604
   updated_at: '2016-07-20T00:21:31Z'
