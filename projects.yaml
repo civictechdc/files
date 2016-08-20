@@ -783,10 +783,10 @@
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 18
+  open_issues: 19
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-17T00:52:52Z'
+  pushed_at: '2016-08-20T01:29:33Z'
   short_name: dc-campaign-finance-watch
   size: 119804
   updated_at: '2016-08-17T02:49:05Z'
@@ -1455,7 +1455,7 @@
     thumbnail: ''
     type: Web App
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 997,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/3866868?v=3', contributions: 1055,
     link: 'https://github.com/colinxfleming', name: colinxfleming}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/14868930?v=3', contributions: 79,
     link: 'https://github.com/ajohnson052', name: ajohnson052}
@@ -1463,14 +1463,14 @@
     link: 'https://github.com/ewiggins', name: ewiggins}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/30691?v=3', contributions: 45,
     link: 'https://github.com/mchelen', name: mchelen}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/7366046?v=3', contributions: 27,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7366046?v=3', contributions: 35,
     link: 'https://github.com/ashlynnpai', name: ashlynnpai}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 28,
+    link: 'https://github.com/charleshuang80', name: charleshuang80}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10971884?v=3', contributions: 27,
     link: 'https://github.com/drownedout', name: drownedout}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/13918431?v=3', contributions: 24,
     link: 'https://github.com/CamLatimer', name: CamLatimer}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1174907?v=3', contributions: 24,
-    link: 'https://github.com/charleshuang80', name: charleshuang80}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/1946584?v=3', contributions: 23,
     link: 'https://github.com/Kevin-Wei', name: Kevin-Wei}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/6223901?v=3', contributions: 21,
@@ -1525,20 +1525,20 @@
   html_url: https://github.com/colinxfleming/dcaf_case_management
   id: 43036761
   languages:
-  - [Ruby, 148072]
-  - [HTML, 66668]
+  - [Ruby, 149266]
+  - [HTML, 68314]
   - [CSS, 27639]
-  - [CoffeeScript, 3982]
+  - [CoffeeScript, 3980]
   - [JavaScript, 2000]
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 74
+  open_issues: 68
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-08-19T19:50:47Z'
+  pushed_at: '2016-08-20T09:34:42Z'
   short_name: dcaf_case_management
-  size: 11104
+  size: 11167
   updated_at: '2016-08-18T02:18:33Z'
   watchers: 14
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0,
@@ -1992,8 +1992,8 @@
   open_issues: 28
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-08-19T20:34:11Z'
+  pushed_at: '2016-08-20T01:21:42Z'
   short_name: hackforgood-waba-map
-  size: 17742
+  size: 17736
   updated_at: '2016-07-20T00:21:31Z'
   watchers: 3

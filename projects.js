@@ -2392,14 +2392,14 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 18, 
+        "open_issues": 19, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-08-17T00:52:52Z", 
+        "pushed_at": "2016-08-20T01:29:33Z", 
         "short_name": "dc-campaign-finance-watch", 
         "size": 119804, 
         "updated_at": "2016-08-17T02:49:05Z", 
@@ -4565,7 +4565,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 997, 
+                "contributions": 1055, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4589,9 +4589,15 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7366046?v=3", 
-                "contributions": 27, 
+                "contributions": 35, 
                 "link": "https://github.com/ashlynnpai", 
                 "name": "ashlynnpai"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
+                "contributions": 28, 
+                "link": "https://github.com/charleshuang80", 
+                "name": "charleshuang80"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10971884?v=3", 
@@ -4604,12 +4610,6 @@ projects([
                 "contributions": 24, 
                 "link": "https://github.com/CamLatimer", 
                 "name": "CamLatimer"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1174907?v=3", 
-                "contributions": 24, 
-                "link": "https://github.com/charleshuang80", 
-                "name": "charleshuang80"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1946584?v=3", 
@@ -4756,11 +4756,11 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                148072
+                149266
             ], 
             [
                 "HTML", 
-                66668
+                68314
             ], 
             [
                 "CSS", 
@@ -4768,7 +4768,7 @@ projects([
             ], 
             [
                 "CoffeeScript", 
-                3982
+                3980
             ], 
             [
                 "JavaScript", 
@@ -4784,16 +4784,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 74, 
+        "open_issues": 68, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-08-19T19:50:47Z", 
+        "pushed_at": "2016-08-20T09:34:42Z", 
         "short_name": "dcaf_case_management", 
-        "size": 11104, 
+        "size": 11167, 
         "updated_at": "2016-08-18T02:18:33Z", 
         "watchers": 14
     }, 
@@ -6079,9 +6079,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-08-19T20:34:11Z", 
+        "pushed_at": "2016-08-20T01:21:42Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 17742, 
+        "size": 17736, 
         "updated_at": "2016-07-20T00:21:31Z", 
         "watchers": 3
     }
