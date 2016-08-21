@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1471614042000, 
@@ -147,7 +147,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459265642000, 
@@ -171,8 +171,20 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1471991400000, 
-            "updated": 1459265764000, 
+            "updated": 1471788393000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1301 K St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24735883, 
+                "lat": 38.902926999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.030540000000002, 
+                "name": "The Washington Post", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
@@ -216,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 147
         }, 
         {
             "created": 1471705323000, 
@@ -244,7 +256,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1468853724000, 
@@ -348,7 +360,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -552,7 +564,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1446219481000, 
@@ -1128,6 +1140,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 87, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1471093735000, 
+            "description": "<p>IBM's Watson became a household name when it defeated two human champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>. Now individual data scientists can develop analytics to harness the power of Watson. Please join us in September to learn about Watson Analytics and how they can be applied to social media.</p> <p>If you would like more information on Watson and Watson Analytics, please <a href=\"https://www-01.ibm.com/events/wwe/grp/grp004.nsf/v17_enrollall?openform&amp;seminar=482P77ES&amp;locale=en_US\">register at IBM</a>.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Watson Analytics for Social Media -\u00a0</i>Alex Hoomis</p> <p>9:00 PM -- Post event drinks</p> <p><b>Talks</b></p> <p><b><i>Watson Analytics for Social Media</i><br/></b></p> <p>As we usher in a new era of work flow, everyday business\u00a0users are leveraging Watson Analytics to become \u2018citizen\u00a0analysts\u2019. We will show how Watson Analytics can explore\u00a0your data, predict drivers and build interactive dashboards\u00a0leveraging cognitive and IBMs best of breed business\u00a0intelligence solutions all in one, easy to use interface. Not\u00a0only is important to make the best business decisions with\u00a0the data inside your org, what is going outside of your\u00a0walls? Watson Analytics for Social Media aggregates and\u00a0matches data from the over 30,000 sources like the\u00a0world\u2019s most popular blogs, forums, twitter and Facebook\u00a0to provide users a look far beyond day to day reports. With\u00a0Watson Analytics for Social Media users can leverage\u00a0self-service analytics with our data partnerships to allow\u00a0users to not only see what is being said but then run\u00a0dynamic analytics on it.</p> <p><br/><b>Bring your laptop and get hands on experience by\u00a0starting a Free Trial of IBM Watson Analytics today!</b></p> <p><br/><b>Speakers</b></p> <p><b><a href=\"http://linkedin.com/alexhoomisIBM\">Alex Hoomis</a>, Sales Manager Watson Analytics</b></p> <p>I began my career selling Business Intelligence at IBM that included the full business analytics portfolio. I spent a long time in reporting, predictive and financial planning solutions before moving to Watson Analytics when it went live almost two years ago. I spent the first 18 months as a seller and have now moved to the leadership team. A large part of what I do is working with our sellers and clients in the new age of cognitive cloud computing. I work with clients of all sizes who are looking to leverage SaaS self-service data discovery solutions into their analytics portfolio. Alex can be reached via <a href=\"mailto:[masked]\">email</a>.</p> <p><b>Location</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p>", 
+            "duration": 8100000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/233328767/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "233328767", 
+            "maybe_rsvp_count": 0, 
+            "name": "Watson Analytics for Social Media", 
+            "rsvp_limit": 175, 
+            "status": "upcoming", 
+            "time": 1474929000000, 
+            "updated": 1471789476000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "3700 O'Donnell Street ", 
+                "city": "Baltimore", 
+                "country": "us", 
+                "id": 23668500, 
+                "lat": 39.280602000000002, 
+                "localized_country_name": "USA", 
+                "lon": -76.565917999999996, 
+                "name": "AOL / Advertising.com", 
+                "repinned": false, 
+                "state": "MD"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1326383071000, 
