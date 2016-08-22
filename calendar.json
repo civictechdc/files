@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }, 
         {
             "announced": false, 
@@ -121,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1471614042000, 
@@ -147,7 +147,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -212,7 +212,7 @@
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1471991400000, 
-            "updated": 1470860871000, 
+            "updated": 1471880656000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -228,7 +228,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 151
+            "yes_rsvp_count": 155
         }, 
         {
             "created": 1471705323000, 
@@ -256,7 +256,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1468853724000, 
@@ -321,7 +321,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1467838122000, 
@@ -360,7 +360,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 90
         }, 
         {
@@ -389,7 +389,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1469674471000, 
@@ -457,7 +457,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1457035701000, 
@@ -497,7 +497,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459265642000, 
@@ -564,7 +564,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1446219481000, 
@@ -670,7 +670,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1460389774000, 
@@ -913,8 +913,8 @@
         }, 
         {
             "created": 1471280199000, 
-            "description": "<p>Eve Freeman will talk about graph database use cases and give a brief intro to Neo4j and Cypher, the Neo4j query language.</p>", 
-            "duration": 10800000, 
+            "description": "<p>Eve Freeman will talk about graph database use cases and give a brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\u00a0<a href=\"https://wirelessregistry.com\">The Wireless Registry</a>\u00a0for sponsoring our event!</p>", 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233373437/", 
             "group": {
                 "created": 1395616294000, 
@@ -932,11 +932,23 @@
             "name": "Tech Talk: Graph Databases with Neo4j", 
             "status": "upcoming", 
             "time": 1473978600000, 
-            "updated": 1471281171000, 
+            "updated": 1471884311000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1200 18th Street NW Suite #700", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24738213, 
+                "lat": 38.905937000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.042052999999996, 
+                "name": "The Wireless Registry @ MakeOffices", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1467700232000, 
@@ -1138,7 +1150,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 87, 
+            "waitlist_count": 88, 
             "yes_rsvp_count": 4
         }, 
         {
@@ -1179,7 +1191,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1326383071000, 
