@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }
     ], 
     "other": [
@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1470860871000, 
@@ -162,7 +162,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 192
+            "yes_rsvp_count": 193
         }, 
         {
             "created": 1471705323000, 
@@ -186,15 +186,27 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1472077800000, 
-            "updated": 1471705323000, 
+            "updated": 1471989068000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "All RSVP'ers will be invited and sent the Google Hangout link.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 14858682, 
+                "lat": 38.907229999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.036461000000003, 
+                "name": "Google Hangout", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Say you're building a simple website with five pages linked together, and a simple navigation bar at the top. You make some changes to the code and want to know if everything still works. So you open your local version of the webpage and click through each button on the navigation bar to make sure they each still lead to the right destination. Not hard, and it doesn't take long.</b></p> <p>But now imagine you make some changes to a more complex app--one with 20 pages, a login system, various forms, and content that should look different depending on which type of user you're logged in as. You could come up with a checklist of all the buttons you'd have to manually click on\u2014and forms you\u2019d have to test-submit in various ways\u2014while logged in as various different users, checking to make sure your changes didn\u2019t accidentally blow up an obscure but necessary function of your website. Repeating a long list of tests every time you make a small update to your app would get repetitive and tedious.\u00a0</p> <p>Thankfully, computers love doing repetitive and tedious tasks for us! Automated testing\u2014when we write code to perform tests on other code\u2014helps us as developers to save time, expose poorly written code, confidently expand or update our apps, sleep better at night knowing that bugs are permanently addressed, and even think more critically when we sit down to write an app from scratch.\u00a0</p> <p>In this meetup we'll examine one of the most popular testing frameworks for Rails applications, called RSpec.\u00a0</p> <p>***</p> <p><br/>Meetup Agenda<br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- RSpec presentation</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p><b>Google Hangout link:</b></p> <p><b><a href=\"https://hangouts.google.com/hangouts/_/hygtzyr4xvyjpqljjkrdvkq2aia\" class=\"linkified\">https://hangouts.google.com/hangouts/_/hygtzyr4xvyjpqljjkrdvkq2aia</a></b></p> <p><br/><b>Say you're building a simple website with five pages linked together, and a simple navigation bar at the top. You make some changes to the code and want to know if everything still works. So you open your local version of the webpage and click through each button on the navigation bar to make sure they each still lead to the right destination. Not hard, and it doesn't take long.</b></p> <p>But now imagine you make some changes to a more complex app--one with 20 pages, a login system, various forms, and content that should look different depending on which type of user you're logged in as. You could come up with a checklist of all the buttons you'd have to manually click on\u2014and forms you\u2019d have to test-submit in various ways\u2014while logged in as various different users, checking to make sure your changes didn\u2019t accidentally blow up an obscure but necessary function of your website. Repeating a long list of tests every time you make a small update to your app would get repetitive and tedious.\u00a0</p> <p>Thankfully, computers love doing repetitive and tedious tasks for us! Automated testing\u2014when we write code to perform tests on other code\u2014helps us as developers to save time, expose poorly written code, confidently expand or update our apps, sleep better at night knowing that bugs are permanently addressed, and even think more critically when we sit down to write an app from scratch.\u00a0</p> <p>In this meetup we'll examine one of the most popular testing frameworks for Rails applications, called RSpec.\u00a0</p> <p>***</p> <p><br/>Meetup Agenda</p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- RSpec presentation</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232840418/", 
             "group": {
@@ -213,11 +225,11 @@ calendar({
             "name": "Ruby on Rails: Intro to Testing with RSpec", 
             "status": "upcoming", 
             "time": 1472077800000, 
-            "updated": 1470164323000, 
+            "updated": 1471994764000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1467072890000, 
@@ -255,7 +267,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1467838122000, 
@@ -294,8 +306,48 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 90
+        }, 
+        {
+            "created": 1471977910000, 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be continue to go through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>. Last week we did Arrays and Linked-Lists. We will continue with Linked Lists and Hash Tables for next week.\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233565834/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "233565834", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1472509800000, 
+            "updated": 1471977957000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1341 G St NW Washington, DC 20005", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24728607, 
+                "lat": 38.898578999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.031531999999999, 
+                "name": "The Iron Yard", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
@@ -323,7 +375,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1471614042000, 
@@ -349,7 +401,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1469674471000, 
@@ -484,7 +536,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 140
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1446219481000, 
@@ -551,7 +603,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1326383071000, 
@@ -590,7 +642,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1460389774000, 
@@ -617,7 +669,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1466889132000, 
@@ -655,7 +707,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -1151,35 +1203,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232213365/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvmbkc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1475015400000, 
-            "updated": 1459265764000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1326383071000, 

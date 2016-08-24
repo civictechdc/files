@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 other:
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -108,7 +108,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 6
 - created: 1470860871000
   description: "<p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/08c/33d/0e719a8.jpg\"\
     \ /></p> <p>Join your fellow data visualizers for David Aja\u2019s presentation\
@@ -159,7 +159,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 192
+  yes_rsvp_count: 193
 - created: 1471705323000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills.\_ Most of us are beginners and each meet up is geared for\
@@ -187,19 +187,24 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1472077800000
-  updated: 1471705323000
+  updated: 1471989068000
   utc_offset: -14400000
+  venue: {address_1: All RSVP'ers will be invited and sent the Google Hangout link.,
+    city: Washington, country: us, id: 14858682, lat: 38.907229999999998, localized_country_name: USA,
+    lon: -77.036461000000003, name: Google Hangout, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1468853724000
-  description: "<p><b>Say you're building a simple website with five pages linked\
-    \ together, and a simple navigation bar at the top. You make some changes to the\
-    \ code and want to know if everything still works. So you open your local version\
-    \ of the webpage and click through each button on the navigation bar to make sure\
-    \ they each still lead to the right destination. Not hard, and it doesn't take\
-    \ long.</b></p> <p>But now imagine you make some changes to a more complex app--one\
-    \ with 20 pages, a login system, various forms, and content that should look different\
+  description: "<p><b>Google Hangout link:</b></p> <p><b><a href=\"https://hangouts.google.com/hangouts/_/hygtzyr4xvyjpqljjkrdvkq2aia\"\
+    \ class=\"linkified\">https://hangouts.google.com/hangouts/_/hygtzyr4xvyjpqljjkrdvkq2aia</a></b></p>\
+    \ <p><br/><b>Say you're building a simple website with five pages linked together,\
+    \ and a simple navigation bar at the top. You make some changes to the code and\
+    \ want to know if everything still works. So you open your local version of the\
+    \ webpage and click through each button on the navigation bar to make sure they\
+    \ each still lead to the right destination. Not hard, and it doesn't take long.</b></p>\
+    \ <p>But now imagine you make some changes to a more complex app--one with 20\
+    \ pages, a login system, various forms, and content that should look different\
     \ depending on which type of user you're logged in as. You could come up with\
     \ a checklist of all the buttons you'd have to manually click on\u2014and forms\
     \ you\u2019d have to test-submit in various ways\u2014while logged in as various\
@@ -213,8 +218,8 @@ other:
     \ are permanently addressed, and even think more critically when we sit down to\
     \ write an app from scratch.\_</p> <p>In this meetup we'll examine one of the\
     \ most popular testing frameworks for Rails applications, called RSpec.\_</p>\
-    \ <p>***</p> <p><br/>Meetup Agenda<br/>\u2022\_<b>6:30pm</b> - Setup and start\
-    \ working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022\
+    \ <p>***</p> <p><br/>Meetup Agenda</p> <p><br/>\u2022\_<b>6:30pm</b> - Setup and\
+    \ start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022\
     \ <b>7:15pm - 8:30 pm</b>\_- RSpec presentation</p> <p><b>Contact policy at buildings\
     \ that need access</b></p> <p>Certain building managements requires meetup hosts\
     \ to let people in and do not encourage them being contacted. Please respect the\
@@ -243,11 +248,11 @@ other:
   name: 'Ruby on Rails: Intro to Testing with RSpec'
   status: upcoming
   time: 1472077800000
-  updated: 1470164323000
+  updated: 1471994764000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 17
 - created: 1467072890000
   description: "<p><b><i>Reminder: </i></b>You MUST register on <a href=\"https://www.eventbrite.com/e/content-marketing-a-tool-for-engagement-tickets-26292735279\"\
     >Eventbrite</a> to attend.</p> <p><br/>Content marketing is a method of creating\
@@ -288,7 +293,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 55
 - created: 1467838122000
   description: "<p>This meetup is going to be a split level git and GitHub night:\
     \ one group will focus on intro to git and GitHub, and one group will focus on\
@@ -323,8 +328,38 @@ other:
     id: 19813392, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 23
+  waitlist_count: 22
   yes_rsvp_count: 90
+- created: 1471977910000
+  description: "<p>Interested in sharpening your problem solving skills and learning\
+    \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
+    \ week we will be continue to go through data structures. The link to the topics\
+    \ and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\"\
+    >here</a>. Last week we did Arrays and Linked-Lists. We will continue with Linked\
+    \ Lists and Hash Tables for next week.\_</p> <p>Find material from past algorithm\
+    \ meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\"\
+    >here</a>.</p> <p>This event is intended to be exclusively open for women; we\
+    \ are trans* friendly.\_</p> <p><br/>See you there!</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233565834/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '233565834'
+  maybe_rsvp_count: 0
+  name: Algorithms Meetup
+  rsvp_limit: 50
+  status: upcoming
+  time: 1472509800000
+  updated: 1471977957000
+  utc_offset: -14400000
+  venue: {address_1: '1341 G St NW Washington, DC 20005', city: Washington, country: us,
+    id: 24728607, lat: 38.898578999999998, localized_country_name: USA, lon: -77.031531999999999,
+    name: The Iron Yard, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 11
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -354,7 +389,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1471614042000
   description: "<p>Have lots of code that you want to share? Need a place to host\
     \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
@@ -379,7 +414,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1469674471000
   description: "<p>Interested in building big data solutions? If so, please join us\
     \ this August to learn about the cloud services provided by Microsoft's Azure\
@@ -551,7 +586,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 140
+  yes_rsvp_count: 141
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -624,7 +659,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -646,7 +681,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -688,7 +723,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 27
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -719,7 +754,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1320,37 +1355,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232213365/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvmbkc
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1475015400000
-  updated: 1459265764000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 65
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
