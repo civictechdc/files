@@ -331,12 +331,12 @@
     spdx_id: GPL-2.0, url: 'https://api.github.com/licenses/gpl-2.0'}
   main_language: HTML
   name: Code for DC Website
-  open_issues: 25
+  open_issues: 26
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-05T00:10:55Z'
+  pushed_at: '2016-08-24T02:12:01Z'
   short_name: codefordc.github.com
-  size: 19125
+  size: 19128
   updated_at: '2016-06-13T04:28:33Z'
   watchers: 25
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
@@ -790,7 +790,7 @@
     type: Organization, url: 'https://github.com/codefordc'}
   pushed_at: '2016-08-23T23:20:59Z'
   short_name: dc-campaign-finance-watch
-  size: 119804
+  size: 119943
   updated_at: '2016-08-17T02:49:05Z'
   watchers: 22
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1431,9 +1431,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 15, 0, 0, 9, 6, 8, 39, 2, 17, 9,
-    15, 10, 71, 48, 26, 51, 73, 38, 42, 48, 28, 27, 30, 28, 39, 16, 28, 95, 56, 56,
-    32, 71, 98, 95, 8, 39, 37, 73, 35, 128]
+- activity: [0, 0, 0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4, 40, 7, 10, 20,
+    4, 21, 73, 51, 14, 48, 83, 27, 53, 38, 39, 23, 22, 46, 22, 19, 33, 94, 49, 56,
+    34, 75, 91, 96, 9, 47, 40, 67, 37, 119]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1535,7 +1535,7 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 60
+  open_issues: 62
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-08-22T09:49:51Z'
@@ -1990,11 +1990,11 @@
   license: null
   main_language: JavaScript
   name: WABA Regional Bike Map
-  open_issues: 27
+  open_issues: 28
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-08-22T20:34:55Z'
+  pushed_at: '2016-08-24T03:21:33Z'
   short_name: hackforgood-waba-map
-  size: 17746
+  size: 20311
   updated_at: '2016-07-20T00:21:31Z'
   watchers: 3
