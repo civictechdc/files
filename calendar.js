@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 58
         }, 
         {
             "announced": false, 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }
     ], 
     "other": [
@@ -121,11 +121,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Google Hangout link:</b></p> <p><b><a href=\"https://hangouts.google.com/hangouts/_/hygtzyr4xvyjpqljjkrdvkq2aia\" class=\"linkified\">https://hangouts.google.com/hangouts/_/hygtzyr4xvyjpqljjkrdvkq2aia</a></b></p> <p><br/><b>Say you're building a simple website with five pages linked together, and a simple navigation bar at the top. You make some changes to the code and want to know if everything still works. So you open your local version of the webpage and click through each button on the navigation bar to make sure they each still lead to the right destination. Not hard, and it doesn't take long.</b></p> <p>But now imagine you make some changes to a more complex app--one with 20 pages, a login system, various forms, and content that should look different depending on which type of user you're logged in as. You could come up with a checklist of all the buttons you'd have to manually click on\u2014and forms you\u2019d have to test-submit in various ways\u2014while logged in as various different users, checking to make sure your changes didn\u2019t accidentally blow up an obscure but necessary function of your website. Repeating a long list of tests every time you make a small update to your app would get repetitive and tedious.\u00a0</p> <p>Thankfully, computers love doing repetitive and tedious tasks for us! Automated testing\u2014when we write code to perform tests on other code\u2014helps us as developers to save time, expose poorly written code, confidently expand or update our apps, sleep better at night knowing that bugs are permanently addressed, and even think more critically when we sit down to write an app from scratch.\u00a0</p> <p>In this meetup we'll examine one of the most popular testing frameworks for Rails applications, called RSpec.\u00a0</p> <p>***</p> <p><br/>Meetup Agenda</p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- RSpec presentation</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p><b>Google Hangout link -- NEW LINK AS OF AUG 24:</b></p> <p><a href=\"https://hangouts.google.com/call/glrxqqvm6rdmva3m4v2jhxskeee\" class=\"linkified\">https://hangouts.google.com/call/glrxqqvm6rdmva3m4v2jhxskeee</a></p> <p>\n\n\n\n<b>Say you're building a simple website with five pages linked together, and a simple navigation bar at the top. You make some changes to the code and want to know if everything still works. So you open your local version of the webpage and click through each button on the navigation bar to make sure they each still lead to the right destination. Not hard, and it doesn't take long.</b></p> <p>But now imagine you make some changes to a more complex app--one with 20 pages, a login system, various forms, and content that should look different depending on which type of user you're logged in as. You could come up with a checklist of all the buttons you'd have to manually click on\u2014and forms you\u2019d have to test-submit in various ways\u2014while logged in as various different users, checking to make sure your changes didn\u2019t accidentally blow up an obscure but necessary function of your website. Repeating a long list of tests every time you make a small update to your app would get repetitive and tedious.\u00a0</p> <p>Thankfully, computers love doing repetitive and tedious tasks for us! Automated testing\u2014when we write code to perform tests on other code\u2014helps us as developers to save time, expose poorly written code, confidently expand or update our apps, sleep better at night knowing that bugs are permanently addressed, and even think more critically when we sit down to write an app from scratch.\u00a0</p> <p>In this meetup we'll examine one of the most popular testing frameworks for Rails applications, called RSpec.\u00a0</p> <p>***</p> <p><br/>Meetup Agenda</p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- RSpec presentation</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232840418/", 
             "group": {
@@ -144,11 +144,11 @@ calendar({
             "name": "Ruby on Rails: Intro to Testing with RSpec", 
             "status": "upcoming", 
             "time": 1472077800000, 
-            "updated": 1471994764000, 
+            "updated": 1472078233000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1467072890000, 
@@ -266,7 +266,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1459265642000, 
@@ -320,7 +320,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1469674471000, 
@@ -424,8 +424,8 @@ calendar({
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
-                "group_lat": 38.889999389648438, 
-                "group_lon": -77.069999694824219, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -76.989997863769531, 
                 "id": 11092702, 
                 "join_mode": "open", 
                 "name": "Transportation Techies", 
@@ -455,7 +455,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 141
+            "yes_rsvp_count": 142
         }, 
         {
             "created": 1446219481000, 
@@ -522,7 +522,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
@@ -561,7 +561,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1460389774000, 
