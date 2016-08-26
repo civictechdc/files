@@ -456,8 +456,8 @@
   size: 2743
   updated_at: '2016-04-14T12:30:23Z'
   watchers: 5
-- activity: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json:
@@ -518,8 +518,8 @@
   size: 32306
   updated_at: '2016-07-18T12:16:20Z'
   watchers: 37
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
-    1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -645,9 +645,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [0, 7, 2, 3, 5, 2, 8, 0, 0, 0, 2, 1, 3, 1, 14, 4, 6, 0, 2, 20, 0, 2, 0,
-    0, 4, 14, 24, 64, 6, 10, 74, 2, 20, 14, 0, 16, 29, 10, 11, 3, 0, 5, 10, 2, 0,
-    0, 0, 0, 0, 13, 0, 1]
+- activity: [0, 7, 2, 3, 5, 4, 6, 0, 0, 0, 2, 1, 3, 1, 14, 4, 6, 0, 2, 20, 0, 2, 0,
+    0, 4, 22, 16, 64, 10, 6, 74, 2, 20, 14, 2, 14, 32, 7, 12, 2, 4, 2, 9, 2, 0, 0,
+    0, 0, 1, 12, 0, 1]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1103,8 +1103,8 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [4, 0, 78, 2, 0, 2, 6, 3, 2, 8, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1,
-    1, 0, 11, 111, 16, 0, 3, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1,
+    1, 0, 14, 120, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1315,7 +1315,7 @@
   size: 4
   updated_at: '2016-08-20T13:24:14Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2,
+- activity: [0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1398,8 +1398,8 @@
   size: 245
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 8,
-    8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 11,
+    5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1535,7 +1535,7 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 62
+  open_issues: 60
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-08-22T09:49:51Z'
@@ -1726,7 +1726,7 @@
   size: 1176
   updated_at: '2016-05-08T17:23:10Z'
   watchers: 3
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1746,7 +1746,7 @@
       \ suggestions for inclusion in a DC orientation guide. This is primarily focused\
       \ on essentials\u2014how to get around, how to set up services\u2014but should\
       \ also include some fun, as well."
-    comments: 0
+    comments: 2
     created_at: '2015-12-17T15:11:46Z'
     issue: Resources for people who are new to DC
     issue_url: https://github.com/codefordc/welcomewagon/issues/1
@@ -1754,7 +1754,7 @@
     - {color: '159818', name: help wanted, url: 'https://api.github.com/repos/codefordc/welcomewagon/labels/help%20wanted'}
     project: Welcome Wagon
     project_url: https://github.com/codefordc/welcomewagon
-    updated_at: '2016-03-28T17:09:39Z'
+    updated_at: '2016-08-25T18:17:38Z'
   homepage: null
   html_url: https://github.com/codefordc/welcomewagon
   id: 48180819
@@ -1816,7 +1816,7 @@
   updated_at: '2016-02-09T01:18:54Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 7, 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 7, 1, 3, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1848,7 +1848,7 @@
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 6, 0, 0, 0, 16, 2, 0, 0,
-    0, 2, 6]
+    0, 6, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1889,8 +1889,8 @@
   updated_at: '2016-08-21T23:39:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 5, 0, 0, 6, 0,
-    0, 20, 28]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 2, 0, 6, 0, 0,
+    0, 30, 18]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
