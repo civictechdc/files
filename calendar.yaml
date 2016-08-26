@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 60
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -76,42 +76,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 21
 other:
-- created: 1467838122000
-  description: "<p>This meetup is going to be a split level git and GitHub night:\
-    \ one group will focus on intro to git and GitHub, and one group will focus on\
-    \ leveling up your git.</p> <p>You might be a good fit for the intro group if:\_\
-    </p> <p>\u2022\_you've never heard of git or GitHub</p> <p>\u2022\_you've heard\
-    \ of git and/or GitHub but you've never used it before</p> <p>\u2022\_you've tried\
-    \ to use it on personal projects but have had trouble or just want a refresher\
-    \ course</p> <p>You might be a good fit for the leveling up group if:</p> <p><br/>\u2022\
-    \_you're comfortable using git personally but want to learn how to use it in teams/for\
-    \ collaboration</p> <p>\u2022\_you want to lean more about best practices like\
-    \ keeping sensitive information out of version control</p> <p>\u2022\_you want\
-    \ to learn more about commands like \"git rebase\" and \"git squash\"</p> <p>More\
-    \ event details to be added soon!</p> <p>This event is intended to be exclusively\
-    \ open for people who identify as women - we are transgender friendly.</p> <p>Request\
-    \ to join our Slack group for communication:<br/><a href=\"http://bit.ly/wwcdcslack\"\
-    \ class=\"linkified\">http://bit.ly/wwcdcslack</a></p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232426180/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '232426180'
-  maybe_rsvp_count: 0
-  name: 'Git and GitHub Night: Split Level'
-  rsvp_limit: 90
-  status: upcoming
-  time: 1472164200000
-  updated: 1472147117000
-  utc_offset: -14400000
-  venue: {address_1: '1133 15th St NW, 12th Floor', city: Washington, country: us,
-    id: 24433681, lat: 38.904865000000001, localized_country_name: USA, lon: -77.033996999999999,
-    name: General Assembly @1776, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 87
 - created: 1472128189000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -158,7 +122,7 @@ other:
     lon: -77.070335, name: Deloitte Digital - Rosslyn, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 17
 - created: 1471977910000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -188,7 +152,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -218,7 +182,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 7
 - created: 1471614042000
   description: "<p>Have lots of code that you want to share? Need a place to host\
     \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
@@ -293,7 +257,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 138
+  yes_rsvp_count: 140
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -415,7 +379,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 145
+  yes_rsvp_count: 146
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -447,7 +411,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 30
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -555,7 +519,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -752,7 +716,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1471280199000
   description: "<p>Eve Freeman will talk about graph database use cases and give a\
     \ brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\_\
@@ -1080,7 +1044,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -1187,7 +1151,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 75
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1260,6 +1224,56 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1457392514000
+  description: "<p>Learning to code for the first time with us! We will be going over\
+    \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
+    >First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's\
+    \ <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
+    >HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
+    >JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group\
+    \ where women can come together and help each other learn and understand web development.\
+    \ We welcome devs of all levels and encourage those with more experience to help\
+    \ out those that are just starting. There's always at least one mentor or leader\
+    \ present to help you with best practices or to guide you through if you are stuck\
+    \ with a nasty problem!\_</p> <p><b>Laptop Policy</b></p> <p>In order to maximize\
+    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
+    \ be available at the event. Even if you have never coded before, you will be\
+    \ coding at FEHN!</p> <p><b>Agenda\_</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022\
+    \ 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into\
+    \ HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm\
+    \ - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit\
+    \ <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github\
+    \ repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
+    >First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\"\
+    >First Timer's JavaScript Guide</a></p> <p><br/>\u2022\_<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\"\
+    >HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\"\
+    >CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\"\
+    >JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building\
+    \ management companies require Meetup hosts to let people in and do not encourage\
+    \ them being contacted. Please respect the policy. In case the location requires\
+    \ access to the building, contact the group lead if information is provided or\
+    \ drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\_\
+    </p> <p>This event is intended to be exclusively open for women; we are trans*\
+    \ friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232450293/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: qtfhrlyvnbfb
+  maybe_rsvp_count: 0
+  name: Front End Lab - First Timer's Night
+  status: upcoming
+  time: 1475533800000
+  updated: 1457392514000
+  utc_offset: -14400000
+  venue: {address_1: 641 S St NW, city: Washington, country: us, id: 9483992, lat: 38.914549999999998,
+    localized_country_name: USA, lon: -77.021095000000003, name: iStrategyLabs, repinned: false,
+    state: DC, zip: '20001'}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 9
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1353,7 +1367,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\

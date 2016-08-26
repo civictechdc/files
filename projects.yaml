@@ -1431,9 +1431,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 1, 0, 0, 0, 10, 0, 13, 9, 6, 0, 7, 2, 12, 3, 40, 7, 10, 24,
-    0, 28, 68, 50, 15, 46, 87, 23, 53, 44, 33, 23, 27, 50, 13, 19, 50, 80, 53, 49,
-    37, 86, 89, 84, 10, 48, 38, 78, 33, 112]
+- activity: [0, 0, 0, 1, 0, 0, 0, 0, 10, 0, 13, 9, 6, 0, 9, 0, 13, 2, 40, 7, 10, 24,
+    0, 45, 51, 58, 10, 47, 87, 26, 48, 47, 28, 23, 38, 40, 12, 23, 53, 80, 87, 8,
+    37, 92, 102, 65, 10, 49, 52, 64, 34, 110]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1990,11 +1990,11 @@
   license: null
   main_language: JavaScript
   name: WABA Regional Bike Map
-  open_issues: 28
+  open_issues: 29
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-08-24T03:21:33Z'
+  pushed_at: '2016-08-26T04:37:29Z'
   short_name: hackforgood-waba-map
-  size: 20311
+  size: 21791
   updated_at: '2016-07-20T00:21:31Z'
   watchers: 3
