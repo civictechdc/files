@@ -105,7 +105,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1472509800000, 
-            "updated": 1472136511000, 
+            "updated": 1472237235000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1919 N. Lynn Street. Arlington, VA 22209", 
@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1471977910000, 
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1459265642000, 
@@ -185,7 +185,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1472596200000, 
-            "updated": 1459265764000, 
+            "updated": 1472237272000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -228,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1469674471000, 
@@ -269,7 +269,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 141
+            "yes_rsvp_count": 142
         }, 
         {
             "created": 1468853724000, 
@@ -292,7 +292,7 @@ calendar({
             "name": "Open Lab Night (with Ruby on Rails Team)", 
             "status": "upcoming", 
             "time": 1472682600000, 
-            "updated": 1471963043000, 
+            "updated": 1472237304000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -320,7 +320,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1473201000000, 
-            "updated": 1459265764000, 
+            "updated": 1472237272000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -387,7 +387,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1473287400000, 
-            "updated": 1468867203000, 
+            "updated": 1472237363000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1 Thomas Circle", 
@@ -403,7 +403,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1452612310000, 
@@ -426,7 +426,7 @@ calendar({
             "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1473287400000, 
-            "updated": 1472145591000, 
+            "updated": 1472237344000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1341 G St NW Washington, DC 20005", 
@@ -481,7 +481,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1460389774000, 
@@ -504,7 +504,7 @@ calendar({
             "name": "Front End Lab: First Timer's Night", 
             "status": "upcoming", 
             "time": 1473719400000, 
-            "updated": 1471963990000, 
+            "updated": 1472237384000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -570,7 +570,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1473805800000, 
-            "updated": 1468867233000, 
+            "updated": 1472237272000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1015 7th Street NW.", 
@@ -610,7 +610,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1470426679000, 
+            "updated": 1472237401000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -637,7 +637,7 @@ calendar({
             "name": "Open Lab Night (with Ruby on Rails Team)", 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1471452658000, 
+            "updated": 1472237304000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -681,7 +681,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1471287239000, 
@@ -743,7 +743,7 @@ calendar({
             "name": "Tech Talk: Graph Databases with Neo4j", 
             "status": "upcoming", 
             "time": 1473978600000, 
-            "updated": 1471884311000, 
+            "updated": 1472237415000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1200 18th Street NW Suite #700", 
@@ -759,7 +759,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1467700232000, 
@@ -822,7 +822,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1474324200000, 
-            "updated": 1457965726000, 
+            "updated": 1472237438000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -850,7 +850,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1474410600000, 
-            "updated": 1459265764000, 
+            "updated": 1472237272000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -878,7 +878,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1474497000000, 
-            "updated": 1446220217000, 
+            "updated": 1472237459000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -905,7 +905,7 @@ calendar({
             "name": "Ruby on Rails Tutorial: Build a Photo-of-the-Day app with an API from NASA", 
             "status": "upcoming", 
             "time": 1474497000000, 
-            "updated": 1470065236000, 
+            "updated": 1472237304000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "806 7th St NW #201", 
@@ -943,9 +943,10 @@ calendar({
             "id": "233117940", 
             "maybe_rsvp_count": 0, 
             "name": "DevFestDC - 2016 - Sep 23/24 @ CapitalOne", 
+            "rsvp_limit": 97, 
             "status": "upcoming", 
             "time": 1474633800000, 
-            "updated": 1472216486000, 
+            "updated": 1472240601000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -961,7 +962,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1457212385000, 
@@ -985,7 +986,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1474929000000, 
-            "updated": 1466782502000, 
+            "updated": 1472237508000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Connecticut Ave NW, Suite 715", 
@@ -1041,7 +1042,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1459265642000, 
@@ -1065,7 +1066,7 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1475015400000, 
-            "updated": 1459265764000, 
+            "updated": 1472237272000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1092,7 +1093,7 @@ calendar({
             "name": "Ruby on Rails: Build a ToDo List App", 
             "status": "upcoming", 
             "time": 1475101800000, 
-            "updated": 1471452476000, 
+            "updated": 1472237304000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1114,12 +1115,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "qtfhrlyvnbfb", 
+            "id": "wskkxlyvnbfb", 
             "maybe_rsvp_count": 0, 
             "name": "Front End Lab - First Timer's Night", 
             "status": "upcoming", 
             "time": 1475533800000, 
-            "updated": 1457392514000, 
+            "updated": 1472237526000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "641 S St NW", 
@@ -1253,7 +1254,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1470699270000, 
