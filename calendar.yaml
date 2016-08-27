@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 64
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -122,7 +122,7 @@ other:
     lon: -77.070335, name: Deloitte Digital - Rosslyn, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1471977910000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -182,7 +182,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1471614042000
   description: "<p>Have lots of code that you want to share? Need a place to host\
     \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
@@ -261,7 +261,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 142
+  yes_rsvp_count: 141
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1056,7 +1056,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 1
   yes_rsvp_count: 97
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -1164,7 +1164,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
