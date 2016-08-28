@@ -211,7 +211,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1469674471000
   description: "<p>Interested in building big data solutions? If so, please join us\
     \ this August to learn about the cloud services provided by Microsoft's Azure\
@@ -261,7 +261,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 142
+  yes_rsvp_count: 144
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -338,16 +338,17 @@ other:
     https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\"\
     >REI Community Space at Wunder Garten</a>\_as part of the #<a href=\"http://unitedoutside.com/\"\
     >unitedoutside</a>\_celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\"\
-    >Mobility Lab</a> for making this event possible.\_Doors open at 6:00; REI will\
-    \ be providing s'mores, and beer will be available for purchase. Speakers will\
-    \ begin at 6:30.</p> <p>Our speakers are:</p> <p>\u2022\_Ryan Abrahamsen will\
-    \ show how\_<a href=\"http://terrain360.com/\">Terrain360</a>\_maps bike trails\
-    \ to panoramic images.</p> <p><br/>\u2022\_Justin Molineaux of <a href=\"http://baasbikes.com/\"\
-    >Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare\
-    \ systems.</p> <p><br/>\u2022 <a href=\"https://twitter.com/tjl\">Tom Lee</a>\
-    \ will show how he\_collected bike safety data using ultrasonic sensors, ESP8266\
-    \ wifi microcontrollers and smartphones.</p> <p><br/>\u2022\_<a href=\"http://ebrelsford.github.io/\"\
-    >Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"\
+    >Mobility Lab</a> for making this event possible. REI will be providing s'mores,\
+    \ and beer will be available for purchase. And thanks to Google for our speaker\
+    \ swag.</p> <p>Doors open at 6:00. Speakers begin at 6:30. We have seven presentations:</p>\
+    \ <p>\u2022\_Ryan Abrahamsen will show how\_<a href=\"http://terrain360.com/\"\
+    >Terrain360</a>\_maps bike trails to panoramic images.</p> <p><br/>\u2022\_Justin\
+    \ Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how\
+    \ smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022\
+    \ <a href=\"https://twitter.com/tjl\">Tom Lee</a> will show how he\_collected\
+    \ bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and\
+    \ smartphones.</p> <p><br/>\u2022\_<a href=\"http://ebrelsford.github.io/\">Eric\
+    \ Brelsford</a> will show you how to get your city's bike lanes into <a href=\"\
     https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would\
     \ want to.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"\
     http://ddot.dc.gov/\">DDOT</a>'s\_new GIS street data, and bicycling Level of\
@@ -376,7 +377,7 @@ other:
   rsvp_limit: 300
   status: upcoming
   time: 1473285600000
-  updated: 1470764424000
+  updated: 1472333942000
   utc_offset: -14400000
   venue: {address_1: corner of 1st & L NE, city: Washington, country: us, id: 24599103,
     lat: 38.903556999999999, localized_country_name: USA, lon: -77.005660000000006,
@@ -1056,7 +1057,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 1
+  waitlist_count: 2
   yes_rsvp_count: 97
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
