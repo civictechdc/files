@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 79
         }, 
         {
             "announced": false, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }
     ], 
     "other": [
@@ -101,11 +101,11 @@
             "headcount": 0, 
             "id": "233611527", 
             "maybe_rsvp_count": 0, 
-            "name": "Front End Hack Night", 
+            "name": "Front End Lab", 
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1472509800000, 
-            "updated": 1472237235000, 
+            "updated": 1472481306000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1919 N. Lynn Street. Arlington, VA 22209", 
@@ -121,11 +121,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1471977910000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be continue to go through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>. Last week we did Arrays and Linked-Lists. We will continue with Linked Lists and Hash Tables for next week.\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be continue to go through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>. Last week we did Arrays and Linked-Lists. We will continue with Linked Lists and Hash Tables for next week.\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>After 6 PM, the space will be access only, so please call[masked] if you come after that and no-one is there to let you in. Also, please sign in with the front desk. The front desk has a list of attendee who have RSVP'd to the meetup!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233565834/", 
             "group": {
@@ -145,7 +145,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1472509800000, 
-            "updated": 1471977957000, 
+            "updated": 1472490607000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1341 G St NW Washington, DC 20005", 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1471614042000, 
@@ -240,7 +240,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1469674471000, 
@@ -281,7 +281,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 146
+            "yes_rsvp_count": 145
         }, 
         {
             "created": 1468853724000, 
@@ -308,7 +308,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459265642000, 
@@ -340,7 +340,7 @@
         }, 
         {
             "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. And thanks to Google for our speaker swag.</p> <p>Doors open at 6:00. Speakers begin at 6:30. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.</p> <p><br/>\u2022\u00a0Justin Molineaux of <a href=\"http://baasbikes.com/\">Baas Bikes</a> will show how smartphones can create low-cost, data-rich bikeshare systems.</p> <p><br/>\u2022 <a href=\"https://twitter.com/tjl\">Tom Lee</a> will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.</p> <p><br/>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p>(And don't forget\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/232589028/\">Playing with Traffic II</a> is Thursday, August 18.)</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. And thanks to Google for our speaker swag.</p> <p>Doors open at 6:00. Speakers begin at 6:30. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p>(And don't forget\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/232589028/\">Playing with Traffic II</a> is Thursday, August 18.)</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
@@ -359,7 +359,7 @@
             "rsvp_limit": 300, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1472333942000, 
+            "updated": 1472485999000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
@@ -375,7 +375,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 148
+            "yes_rsvp_count": 149
         }, 
         {
             "created": 1446219481000, 
@@ -415,7 +415,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1452612310000, 
@@ -493,7 +493,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1460389774000, 
@@ -520,7 +520,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1466889132000, 
@@ -626,7 +626,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1468853724000, 
@@ -732,7 +732,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1471280199000, 
@@ -973,7 +973,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 97
         }, 
         {
