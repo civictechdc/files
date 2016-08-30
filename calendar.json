@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 87
         }, 
         {
             "announced": false, 
@@ -160,7 +160,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1469674471000, 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 147
+            "yes_rsvp_count": 152
         }, 
         {
             "created": 1468853724000, 
@@ -228,7 +228,45 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 11
+        }, 
+        {
+            "created": 1472568161000, 
+            "description": "<p>Good weather is beginning to arrive and with it, <b>perfect</b> API meetup conditions!!!</p> <p>Nothing beats hanging on a patio with good folks, cold drinks, and talking about web services on a cool fall evening. \u00a0:) \u00a0So, go ahead and mark your calendars for the September API meetup (next week, on the first Tuesday of the month, as usual). \u00a0We've got some good presenters and it'll be great to check in with you all. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Paul Danckaert<br/>* Jon Bender - Contactually<br/>* Alex Cohen - Census Bureau</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/233737624/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "233737624", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - September Edition", 
+            "status": "upcoming", 
+            "time": 1473199200000, 
+            "updated": 1472568161000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1459265642000, 
@@ -335,7 +373,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1452612310000, 
@@ -374,7 +412,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1326383071000, 
@@ -440,7 +478,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1466889132000, 
@@ -478,7 +516,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459265642000, 
@@ -518,7 +556,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1446220149000, 
@@ -613,7 +651,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1471287239000, 
@@ -818,7 +856,7 @@
         }, 
         {
             "created": 1467700232000, 
-            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in tiers. Save $10-35 by registering early, which also helps with planning the speaker list.\u00a0</p> <p><b>== MavenMini: Content Strategy &amp; Content Management Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Content Organization<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Content Display\u00a0<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We are looking for presentations on these topics that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form.</p> <p><i>Session\u00a01:\u00a0Content Organization<br/></i>Taxonomy, Information Architecture, Navigation</p> <p><i>Session 2:\u00a0Content Display<br/></i>Responsive content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3: Planning &amp; Tuning<br/></i>Content Management and Content Management Systems. Governance.</p> <p>Note: If possible, we'll add a section on content creation, including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p> <p>Talks should meet one of these criteria:\u00a0<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques\u00a0<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)\u00a0<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are welcome to suggest alternate topics.\u00a0</p> <p>- Taxonomy, tagging<br/>-\u00a0Navigation &amp; IA<br/>-\u00a0Responsive content<br/>-\u00a0Mobile content<br/>-\u00a0Integrated &amp; multi-channel content approaches<br/>- Web\u00a0CMS - selecting, working with, integrating<br/>-\u00a0Content management, content governance - techniques</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "description": "<p>A 5-hour mini-conference focused on how content strategy drives user experiences.\u00a0</p> <p><b>*</b> Hear about content strategy and management from 6 speakers, all through the lens of the user's experience.\u00a0</p> <p><b>*</b> Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p>4:00 -\u00a0Registration &amp; Networking</p> <p>Enjoy light munchies and drinks while you meet our speakers and attendees.</p> <p>4:30 - SESSION 1: Content Organization</p> <p>Speakers will discuss the content organization techniques such as audits, taxonomy, information architecture, navigation, etc and how those can impact user experience.</p> <p>5:30 -\u00a0Networking Over a Light Dinner</p> <p>Networking, drinks and a light dinner.\u00a0</p> <p>6:00 - SESSION 2: Content Creation &amp; Display</p> <p>Topics such as responsive content, integrated content, content mapping, writing content, voice &amp; style - and how these impact the users understanding of the content. 7:00 -\u00a0Networking Over Drinks\u00a0</p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning, Tuning and User Testing</p> <p>Topics around planning your content strategy, refining your process and testing with users.</p> <p>8:30 -\u00a0Networking Over Dessert</p> <p>Dessert and wrap-up.</p> <p>9:00 -\u00a0Adjourn\u00a0</p> <p><b>SPEAKERS</b></p> <p>Speakers will be posted beginning in early September.</p> <p><br/><b>Call for Speakers</b></p> <p>We are seeking speakers for topic areas above.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><b>Topic Areas</b></p> <p>All talks should focus on the user experience - how a given subject can impact that experience.</p> <p>- Taxonomy, tagging<br/>-\u00a0Navigation &amp; IA<br/>-\u00a0Responsive content<br/>-\u00a0Mobile content<br/>-\u00a0Integrated &amp; multi-channel content approaches<br/>- Web\u00a0CMS - selecting, working with, integrating<br/>-\u00a0Content management, content governance techniques<br/>- Writing content with a focus on user experience</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
             "group": {
                 "created": 1189804715000, 
@@ -833,10 +871,10 @@
             "headcount": 0, 
             "id": "232382584", 
             "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Content Strategy & Content Management", 
+            "name": "MavenMini: Content-Driven User Experiences", 
             "status": "upcoming", 
             "time": 1474574400000, 
-            "updated": 1472503886000, 
+            "updated": 1472569919000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1111 19th St NW, Washington, DC 20036", 
@@ -1068,7 +1106,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
@@ -1280,7 +1318,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1470699270000, 

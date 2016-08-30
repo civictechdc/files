@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 87
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -137,7 +137,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 53
 - created: 1469674471000
   description: "<p>Interested in building big data solutions? If so, please join us\
     \ this August to learn about the cloud services provided by Microsoft's Azure\
@@ -187,7 +187,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 147
+  yes_rsvp_count: 152
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -227,7 +227,37 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 11
+- created: 1472568161000
+  description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
+    \ API meetup conditions!!!</p> <p>Nothing beats hanging on a patio with good folks,\
+    \ cold drinks, and talking about web services on a cool fall evening. \_:) \_\
+    So, go ahead and mark your calendars for the September API meetup (next week,\
+    \ on the first Tuesday of the month, as usual). \_We've got some good presenters\
+    \ and it'll be great to check in with you all. \_</p> <p>6:00pm - 6:45pm Food,\
+    \ drinks and networking\_<br/>6:45pm - 6:55pm Introductions and Announcements\_\
+    <br/>6:55pm - 8:00pm Presentations</p> <p>* Paul Danckaert<br/>* Jon Bender -\
+    \ Contactually<br/>* Alex Cohen - Census Bureau</p> <p>7:55pm - 8:00pm Refill\
+    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
+    \ Networking</p>"
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/233737624/
+  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
+    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
+    who: API enthusiasts}
+  headcount: 0
+  id: '233737624'
+  maybe_rsvp_count: 0
+  name: DC API User Group - September Edition
+  status: upcoming
+  time: 1473199200000
+  updated: 1472568161000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
+    name: CHIEF, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 24
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -341,7 +371,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 41
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -385,7 +415,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -457,7 +487,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -488,7 +518,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -521,7 +551,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills.\_ Most of us are beginners and each meet up is geared for\
@@ -611,7 +641,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - created: 1471287239000
   description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
@@ -821,41 +851,38 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1467700232000
-  description: "<p>(We are in the planning stages so information is preliminary)</p>\
-    \ <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
-    >Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in\
-    \ tiers. Save $10-35 by registering early, which also helps with planning the\
-    \ speaker list.\_</p> <p><b>== MavenMini: Content Strategy &amp; Content Management\
-    \ Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management\
-    \ and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini\
-    \ is August 11th on\_<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\"\
-    >Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and\
-    \ Networking\_<br/>4:30 - Session\_1:\_Content Organization<br/>5:30 - Networking\
-    \ and Light Dinner\_<br/>6:00 - Session 2: Content Display\_<br/>7:00 - Networking\
-    \ Over Cocktails\_<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking\
-    \ Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We\
-    \ are looking for presentations on these topics that present new information,\
-    \ a unique approach, a detailed overview of a complex element, etc. See below\
-    \ for more information.</p> <p>These are guiding topic descriptions -\_in draft\
-    \ form.</p> <p><i>Session\_1:\_Content Organization<br/></i>Taxonomy, Information\
-    \ Architecture, Navigation</p> <p><i>Session 2:\_Content Display<br/></i>Responsive\
-    \ content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3:\
-    \ Planning &amp; Tuning<br/></i>Content Management and Content Management Systems.\
-    \ Governance.</p> <p>Note: If possible, we'll add a section on content creation,\
-    \ including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list\
-    \ will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p>\
-    \ <p>Talks should meet one of these criteria:\_<br/>\_ - Gives new information\
-    \ or shows an innovative approach to established techniques\_<br/>\_ - Presents\
-    \ a thought provoking or intriguing idea in an actionable context (i.e. inclusive\
-    \ design as a theory and how to put it in practice)\_<br/>\_ - Applies complex\
-    \ technique to a range applications</p> <p>Talks should also speak to our core\
-    \ audiences: web managers, front-end devs, designers, usability &amp; content\
-    \ strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are\
-    \ welcome to suggest alternate topics.\_</p> <p>- Taxonomy, tagging<br/>-\_Navigation\
+  description: "<p>A 5-hour mini-conference focused on how content strategy drives\
+    \ user experiences.\_</p> <p><b>*</b> Hear about content strategy and management\
+    \ from 6 speakers, all through the lens of the user's experience.\_</p> <p><b>*</b>\
+    \ Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p>\
+    \ <p>4:00 -\_Registration &amp; Networking</p> <p>Enjoy light munchies and drinks\
+    \ while you meet our speakers and attendees.</p> <p>4:30 - SESSION 1: Content\
+    \ Organization</p> <p>Speakers will discuss the content organization techniques\
+    \ such as audits, taxonomy, information architecture, navigation, etc and how\
+    \ those can impact user experience.</p> <p>5:30 -\_Networking Over a Light Dinner</p>\
+    \ <p>Networking, drinks and a light dinner.\_</p> <p>6:00 - SESSION 2: Content\
+    \ Creation &amp; Display</p> <p>Topics such as responsive content, integrated\
+    \ content, content mapping, writing content, voice &amp; style - and how these\
+    \ impact the users understanding of the content. 7:00 -\_Networking Over Drinks\_\
+    </p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning, Tuning and\
+    \ User Testing</p> <p>Topics around planning your content strategy, refining your\
+    \ process and testing with users.</p> <p>8:30 -\_Networking Over Dessert</p> <p>Dessert\
+    \ and wrap-up.</p> <p>9:00 -\_Adjourn\_</p> <p><b>SPEAKERS</b></p> <p>Speakers\
+    \ will be posted beginning in early September.</p> <p><br/><b>Call for Speakers</b></p>\
+    \ <p>We are seeking speakers for topic areas above.\_</p> <p>Talks should meet\
+    \ one of these criteria:<br/>\_ - Gives new information or shows an innovative\
+    \ approach to established techniques<br/>\_ - Presents a thought provoking or\
+    \ intriguing idea in an actionable context (i.e. inclusive design as a theory\
+    \ and how to put it in practice)<br/>\_ - Applies complex technique to a range\
+    \ applications</p> <p>Talks should also speak to our core audiences: web managers,\
+    \ front-end devs, designers, usability &amp; content strategists, etc.</p> <p><b>Topic\
+    \ Areas</b></p> <p>All talks should focus on the user experience - how a given\
+    \ subject can impact that experience.</p> <p>- Taxonomy, tagging<br/>-\_Navigation\
     \ &amp; IA<br/>-\_Responsive content<br/>-\_Mobile content<br/>-\_Integrated &amp;\
     \ multi-channel content approaches<br/>- Web\_CMS - selecting, working with, integrating<br/>-\_\
-    Content management, content governance - techniques</p> <p>For more information,\
-    \ email [masked]. Please include your topic idea/ideas and background.</p>"
+    Content management, content governance techniques<br/>- Writing content with a\
+    \ focus on user experience</p> <p>For more information, email [masked]. Please\
+    \ include your topic idea/ideas and background.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/232382584/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -863,10 +890,10 @@ other:
   headcount: 0
   id: '232382584'
   maybe_rsvp_count: 0
-  name: 'MavenMini: Content Strategy & Content Management'
+  name: 'MavenMini: Content-Driven User Experiences'
   status: upcoming
   time: 1474574400000
-  updated: 1472503886000
+  updated: 1472569919000
   utc_offset: -14400000
   venue: {address_1: '1111 19th St NW, Washington, DC 20036', city: Washington, country: us,
     id: 24373558, lat: 38.904395999999998, localized_country_name: USA, lon: -77.042952999999997,
@@ -1212,7 +1239,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1398,7 +1425,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
