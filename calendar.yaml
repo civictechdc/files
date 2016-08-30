@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 other:
 - created: 1472128189000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -122,7 +122,7 @@ other:
     lon: -77.070335, name: Deloitte Digital - Rosslyn, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 19
 - created: 1471977910000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -131,11 +131,13 @@ other:
     >here</a>. Last week we did Arrays and Linked-Lists. We will continue with Linked\
     \ Lists and Hash Tables for next week.\_</p> <p>Find material from past algorithm\
     \ meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\"\
-    >here</a>.</p> <p>After 6 PM, the space will be access only, so please call[masked]\
-    \ if you come after that and no-one is there to let you in. Also, please sign\
-    \ in with the front desk. The front desk has a list of attendee who have RSVP'd\
-    \ to the meetup!</p> <p>This event is intended to be exclusively open for women;\
-    \ we are trans* friendly.\_</p> <p><br/>See you there!</p>"
+    >here</a>.</p> <p>Please arrange to get your own food before the meetup today\
+    \ as there won't be any food provided for today.</p> <p>After 6 PM, the space\
+    \ will be access only, so please call[masked] if you come after that and no-one\
+    \ is there to let you in. Also, please sign in with the front desk. The front\
+    \ desk has a list of attendee who have RSVP'd to the meetup!</p> <p>This event\
+    \ is intended to be exclusively open for women; we are trans* friendly.\_</p>\
+    \ <p><br/>See you there!</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/233565834/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -148,14 +150,14 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1472509800000
-  updated: 1472490607000
+  updated: 1472504622000
   utc_offset: -14400000
   venue: {address_1: '1341 G St NW Washington, DC 20005', city: Washington, country: us,
     id: 24728607, lat: 38.898578999999998, localized_country_name: USA, lon: -77.031531999999999,
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -192,13 +194,13 @@ other:
 - created: 1471614042000
   description: "<p>Have lots of code that you want to share? Need a place to host\
     \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
-    \ is the place for you! Come join us on\_Tuesday, August 30th (hopefully!) for\
-    \ an introduction to GitHub. We'll talk about GitHub and all the lingo as well\
-    \ as the language \"git\", how to use the desktop interface, and what you can\
-    \ do to get started.</p> <p>Prerequisites:\_If you don't already have a GitHub\
-    \ account, please create one prior to Maptime at\_<a href=\"https://github.com/\"\
-    ><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.\_\
-    You can also download the desktop interface if you choose, but it's not required.</p>"
+    \ is the place for you! Come join us on\_Tuesday, August 30th for an introduction\
+    \ to GitHub. We'll talk about GitHub and all the lingo as well as the language\
+    \ \"git\", how to use the desktop interface, and what you can do to get started.</p>\
+    \ <p>Prerequisites:\_If you don't already have a GitHub account, please create\
+    \ one prior to Maptime at\_<a href=\"https://github.com/\"><a href=\"https://github.com\"\
+    \ class=\"linkified\">https://github.com</a></a>.\_You can also download the desktop\
+    \ interface if you choose, but it's not required.</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Maptime-DC/events/233469610/
   group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
@@ -210,14 +212,14 @@ other:
   name: Git and Github 101
   status: upcoming
   time: 1472596200000
-  updated: 1472224517000
+  updated: 1472508319000
   utc_offset: -14400000
   venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
     localized_country_name: USA, lon: 0, name: MLK Library Dream Lab, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 50
 - created: 1469674471000
   description: "<p>Interested in building big data solutions? If so, please join us\
     \ this August to learn about the cloud services provided by Microsoft's Azure\
@@ -267,7 +269,7 @@ other:
       Room E100', repinned: false, state: MD, zip: '20723'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 145
+  yes_rsvp_count: 146
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -337,7 +339,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -370,8 +372,7 @@ other:
     >Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\_<a\
     \ href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\_\
     Follow\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_for \"Transportation\
-    \ Techies\" updates.</p> <p>(And don't forget\_<a href=\"http://www.meetup.com/Transportation-Techies/events/232589028/\"\
-    >Playing with Traffic II</a> is Thursday, August 18.)</p>"
+    \ Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231755172/
   group: {created: 1384372275000, group_lat: 38.909999847412109, group_lon: -76.989997863769531,
     id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
@@ -383,14 +384,14 @@ other:
   rsvp_limit: 300
   status: upcoming
   time: 1473285600000
-  updated: 1472485999000
+  updated: 1472497380000
   utc_offset: -14400000
   venue: {address_1: corner of 1st & L NE, city: Washington, country: us, id: 24599103,
     lat: 38.903556999999999, localized_country_name: USA, lon: -77.005660000000006,
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 149
+  yes_rsvp_count: 155
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -634,7 +635,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -735,7 +736,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1471280199000
   description: "<p>Eve Freeman will talk about graph database use cases and give a\
     \ brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\_\
@@ -760,60 +761,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 26
-- created: 1467700232000
-  description: "<p>(We are in the planning stages so information is preliminary)</p>\
-    \ <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
-    >Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in\
-    \ tiers. Save $10-35 by registering early, which also helps with planning the\
-    \ speaker list.\_</p> <p><b>== MavenMini: Content Strategy &amp; Content Management\
-    \ Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management\
-    \ and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini\
-    \ is August 11th on\_<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\"\
-    >Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and\
-    \ Networking\_<br/>4:30 - Session\_1:\_Content Organization<br/>5:30 - Networking\
-    \ and Light Dinner\_<br/>6:00 - Session 2: Content Display\_<br/>7:00 - Networking\
-    \ Over Cocktails\_<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking\
-    \ Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We\
-    \ are looking for presentations on these topics that present new information,\
-    \ a unique approach, a detailed overview of a complex element, etc. See below\
-    \ for more information.</p> <p>These are guiding topic descriptions -\_in draft\
-    \ form.</p> <p><i>Session\_1:\_Content Organization<br/></i>Taxonomy, Information\
-    \ Architecture, Navigation</p> <p><i>Session 2:\_Content Display<br/></i>Responsive\
-    \ content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3:\
-    \ Planning &amp; Tuning<br/></i>Content Management and Content Management Systems.\
-    \ Governance.</p> <p>Note: If possible, we'll add a section on content creation,\
-    \ including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list\
-    \ will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p>\
-    \ <p>Talks should meet one of these criteria:\_<br/>\_ - Gives new information\
-    \ or shows an innovative approach to established techniques\_<br/>\_ - Presents\
-    \ a thought provoking or intriguing idea in an actionable context (i.e. inclusive\
-    \ design as a theory and how to put it in practice)\_<br/>\_ - Applies complex\
-    \ technique to a range applications</p> <p>Talks should also speak to our core\
-    \ audiences: web managers, front-end devs, designers, usability &amp; content\
-    \ strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are\
-    \ welcome to suggest alternate topics.\_</p> <p>- Taxonomy, tagging<br/>-\_Navigation\
-    \ &amp; IA<br/>-\_Responsive content<br/>-\_Mobile content<br/>-\_Integrated &amp;\
-    \ multi-channel content approaches<br/>- Web\_CMS - selecting, working with, integrating<br/>-\_\
-    Content management, content governance - techniques</p> <p>For more information,\
-    \ email [masked]. Please include your topic idea/ideas and background.</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/232382584/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '232382584'
-  maybe_rsvp_count: 0
-  name: 'MavenMini: Content Strategy & Content Management'
-  status: upcoming
-  time: 1474142400000
-  updated: 1471032265000
-  utc_offset: -14400000
-  venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
-    id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
-    name: The Creative Group, repinned: false, state: DC, zip: '20533'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 8
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -955,6 +902,60 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1467700232000
+  description: "<p>(We are in the planning stages so information is preliminary)</p>\
+    \ <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
+    >Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in\
+    \ tiers. Save $10-35 by registering early, which also helps with planning the\
+    \ speaker list.\_</p> <p><b>== MavenMini: Content Strategy &amp; Content Management\
+    \ Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management\
+    \ and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini\
+    \ is August 11th on\_<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\"\
+    >Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and\
+    \ Networking\_<br/>4:30 - Session\_1:\_Content Organization<br/>5:30 - Networking\
+    \ and Light Dinner\_<br/>6:00 - Session 2: Content Display\_<br/>7:00 - Networking\
+    \ Over Cocktails\_<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking\
+    \ Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We\
+    \ are looking for presentations on these topics that present new information,\
+    \ a unique approach, a detailed overview of a complex element, etc. See below\
+    \ for more information.</p> <p>These are guiding topic descriptions -\_in draft\
+    \ form.</p> <p><i>Session\_1:\_Content Organization<br/></i>Taxonomy, Information\
+    \ Architecture, Navigation</p> <p><i>Session 2:\_Content Display<br/></i>Responsive\
+    \ content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3:\
+    \ Planning &amp; Tuning<br/></i>Content Management and Content Management Systems.\
+    \ Governance.</p> <p>Note: If possible, we'll add a section on content creation,\
+    \ including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list\
+    \ will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p>\
+    \ <p>Talks should meet one of these criteria:\_<br/>\_ - Gives new information\
+    \ or shows an innovative approach to established techniques\_<br/>\_ - Presents\
+    \ a thought provoking or intriguing idea in an actionable context (i.e. inclusive\
+    \ design as a theory and how to put it in practice)\_<br/>\_ - Applies complex\
+    \ technique to a range applications</p> <p>Talks should also speak to our core\
+    \ audiences: web managers, front-end devs, designers, usability &amp; content\
+    \ strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are\
+    \ welcome to suggest alternate topics.\_</p> <p>- Taxonomy, tagging<br/>-\_Navigation\
+    \ &amp; IA<br/>-\_Responsive content<br/>-\_Mobile content<br/>-\_Integrated &amp;\
+    \ multi-channel content approaches<br/>- Web\_CMS - selecting, working with, integrating<br/>-\_\
+    Content management, content governance - techniques</p> <p>For more information,\
+    \ email [masked]. Please include your topic idea/ideas and background.</p>"
+  event_url: http://www.meetup.com/webcontentmavens/events/232382584/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '232382584'
+  maybe_rsvp_count: 0
+  name: 'MavenMini: Content Strategy & Content Management'
+  status: upcoming
+  time: 1474574400000
+  updated: 1472503886000
+  utc_offset: -14400000
+  venue: {address_1: '1111 19th St NW, Washington, DC 20036', city: Washington, country: us,
+    id: 24373558, lat: 38.904395999999998, localized_country_name: USA, lon: -77.042952999999997,
+    name: Blackboard Inc, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 8
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
@@ -1171,7 +1172,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 80
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1388,6 +1389,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 57
+- created: 1472497385000
+  description: "<p>How do computer programmers get involved in urban planning? Let's\
+    \ look at cool tools coders have built that revolve around urban planning. No\
+    \ venue yet!</p> <p>Our speakers thus far are:</p> <p>\u2022\_Jason Wright will\_\
+    demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\_and dive into\_\
+    how the game operates, and discuss future improvements.</p> <p>\u2022\_Metro Planning\
+    \ staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\"\
+    >SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office\
+    \ of Planning</a> to forecast ridership from new transit-oriented development\
+    \ near rail stations.\_</p> <p>\u2022\_Drew Morrison will share his \"map.it\"\
+    \ (Metropolitan Area Planning Integration Technology)\_project, winner of the\
+    \ 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\_\
+    </p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"\
+    Transportation Techies\" updates.</p>"
+  event_url: http://www.meetup.com/Transportation-Techies/events/233717422/
+  group: {created: 1384372275000, group_lat: 38.909999847412109, group_lon: -76.989997863769531,
+    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
+    who: Techies}
+  headcount: 0
+  id: '233717422'
+  maybe_rsvp_count: 0
+  name: Transportation + Urban Planning
+  status: upcoming
+  time: 1476482400000
+  updated: 1472501710000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\

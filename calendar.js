@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }
     ], 
     "other": [
@@ -121,11 +121,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1471977910000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be continue to go through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>. Last week we did Arrays and Linked-Lists. We will continue with Linked Lists and Hash Tables for next week.\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>After 6 PM, the space will be access only, so please call[masked] if you come after that and no-one is there to let you in. Also, please sign in with the front desk. The front desk has a list of attendee who have RSVP'd to the meetup!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be continue to go through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>. Last week we did Arrays and Linked-Lists. We will continue with Linked Lists and Hash Tables for next week.\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>Please arrange to get your own food before the meetup today as there won't be any food provided for today.</p> <p>After 6 PM, the space will be access only, so please call[masked] if you come after that and no-one is there to let you in. Also, please sign in with the front desk. The front desk has a list of attendee who have RSVP'd to the meetup!</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233565834/", 
             "group": {
@@ -145,7 +145,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1472509800000, 
-            "updated": 1472490607000, 
+            "updated": 1472504622000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1341 G St NW Washington, DC 20005", 
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1459265642000, 
@@ -205,7 +205,7 @@ calendar({
         }, 
         {
             "created": 1471614042000, 
-            "description": "<p>Have lots of code that you want to share? Need a place to host your website? Looking to work collaboratively on a coding project? If so, GitHub is the place for you! Come join us on\u00a0Tuesday, August 30th (hopefully!) for an introduction to GitHub. We'll talk about GitHub and all the lingo as well as the language \"git\", how to use the desktop interface, and what you can do to get started.</p> <p>Prerequisites:\u00a0If you don't already have a GitHub account, please create one prior to Maptime at\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.\u00a0You can also download the desktop interface if you choose, but it's not required.</p>", 
+            "description": "<p>Have lots of code that you want to share? Need a place to host your website? Looking to work collaboratively on a coding project? If so, GitHub is the place for you! Come join us on\u00a0Tuesday, August 30th for an introduction to GitHub. We'll talk about GitHub and all the lingo as well as the language \"git\", how to use the desktop interface, and what you can do to get started.</p> <p>Prerequisites:\u00a0If you don't already have a GitHub account, please create one prior to Maptime at\u00a0<a href=\"https://github.com/\"><a href=\"https://github.com\" class=\"linkified\">https://github.com</a></a>.\u00a0You can also download the desktop interface if you choose, but it's not required.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Maptime-DC/events/233469610/", 
             "group": {
@@ -224,7 +224,7 @@ calendar({
             "name": "Git and Github 101", 
             "status": "upcoming", 
             "time": 1472596200000, 
-            "updated": 1472224517000, 
+            "updated": 1472508319000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "900 G St NW", 
@@ -240,7 +240,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1469674471000, 
@@ -281,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 145
+            "yes_rsvp_count": 146
         }, 
         {
             "created": 1468853724000, 
@@ -336,11 +336,11 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. And thanks to Google for our speaker swag.</p> <p>Doors open at 6:00. Speakers begin at 6:30. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p> <p>(And don't forget\u00a0<a href=\"http://www.meetup.com/Transportation-Techies/events/232589028/\">Playing with Traffic II</a> is Thursday, August 18.)</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. And thanks to Google for our speaker swag.</p> <p>Doors open at 6:00. Speakers begin at 6:30. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
@@ -359,7 +359,7 @@ calendar({
             "rsvp_limit": 300, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1472485999000, 
+            "updated": 1472497380000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
@@ -375,7 +375,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 149
+            "yes_rsvp_count": 155
         }, 
         {
             "created": 1446219481000, 
@@ -626,7 +626,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1468853724000, 
@@ -732,7 +732,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1471280199000, 
@@ -772,45 +772,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 26
-        }, 
-        {
-            "created": 1467700232000, 
-            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in tiers. Save $10-35 by registering early, which also helps with planning the speaker list.\u00a0</p> <p><b>== MavenMini: Content Strategy &amp; Content Management Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Content Organization<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Content Display\u00a0<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We are looking for presentations on these topics that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form.</p> <p><i>Session\u00a01:\u00a0Content Organization<br/></i>Taxonomy, Information Architecture, Navigation</p> <p><i>Session 2:\u00a0Content Display<br/></i>Responsive content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3: Planning &amp; Tuning<br/></i>Content Management and Content Management Systems. Governance.</p> <p>Note: If possible, we'll add a section on content creation, including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p> <p>Talks should meet one of these criteria:\u00a0<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques\u00a0<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)\u00a0<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are welcome to suggest alternate topics.\u00a0</p> <p>- Taxonomy, tagging<br/>-\u00a0Navigation &amp; IA<br/>-\u00a0Responsive content<br/>-\u00a0Mobile content<br/>-\u00a0Integrated &amp; multi-channel content approaches<br/>- Web\u00a0CMS - selecting, working with, integrating<br/>-\u00a0Content management, content governance - techniques</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "232382584", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Content Strategy & Content Management", 
-            "status": "upcoming", 
-            "time": 1474142400000, 
-            "updated": 1471032265000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1401 I Street, NW, Suite 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 2316151, 
-                "lat": 38.901665000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.032416999999995, 
-                "name": "The Creative Group", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20533"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 8
         }, 
         {
             "created": 1457965726000, 
@@ -936,6 +897,44 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1467700232000, 
+            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through <a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p>Note: Limited to 40 attendees. Tickets are released in tiers. Save $10-35 by registering early, which also helps with planning the speaker list.\u00a0</p> <p><b>== MavenMini: Content Strategy &amp; Content Management Mini-Conference ==</b></p> <p><b>Five hours of content strategy, content management and CMS presentations, discussions and networking!</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Content Organization<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Content Display\u00a0<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Content Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We are looking for presentations on these topics that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form.</p> <p><i>Session\u00a01:\u00a0Content Organization<br/></i>Taxonomy, Information Architecture, Navigation</p> <p><i>Session 2:\u00a0Content Display<br/></i>Responsive content. Mobile content. Integrated content. Channels.</p> <p><i>Session 3: Planning &amp; Tuning<br/></i>Content Management and Content Management Systems. Governance.</p> <p>Note: If possible, we'll add a section on content creation, including voice &amp; style.</p> <p><b>Speakers</b></p> <p>The speaker list will be posted in late August.</p> <p><i>Call for Speakers: Criteria</i></p> <p>Talks should meet one of these criteria:\u00a0<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques\u00a0<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)\u00a0<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><i>Call for Speakers: Topic Areas</i></p> <p>You are welcome to suggest alternate topics.\u00a0</p> <p>- Taxonomy, tagging<br/>-\u00a0Navigation &amp; IA<br/>-\u00a0Responsive content<br/>-\u00a0Mobile content<br/>-\u00a0Integrated &amp; multi-channel content approaches<br/>- Web\u00a0CMS - selecting, working with, integrating<br/>-\u00a0Content management, content governance - techniques</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "232382584", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: Content Strategy & Content Management", 
+            "status": "upcoming", 
+            "time": 1474574400000, 
+            "updated": 1472503886000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1111 19th St NW, Washington, DC 20036", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24373558, 
+                "lat": 38.904395999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.042952999999997, 
+                "name": "Blackboard Inc", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
+        }, 
+        {
             "created": 1470324592000, 
             "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022 <b>Raj\u00a0Echambadi</b> (University of Illinois)\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/e/7/b/600_453260091.jpeg\" /></p> <p><b>\u2022\u00a0Josh Gordon</b> (Google) - <i>Google Machine Learning Session</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/2/1/600_453213057.jpeg\" /></p> <p><b>\u2022\u00a0Chris Nguyen</b> (Washington Post) -\u00a0<i>The Hitchhiker's Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\" /></p> <p><b>\u2022\u00a0Katy Kasmai\u00a0</b>(Google) - <i>Moonshot</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/d/a/e/600_453487598.jpeg\" /></p> <p>\u2022 <b>Frank van Puffelen</b> (Google) - <i>Firebase</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/b/8/9/600_453395721.jpeg\" /></p> <p><b>\u2022\u00a0Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Huyen Tue Dao</b> (Trello) -\u00a0<i>Measure, Layout, Draw, Repeat: Custom Views and ViewGroups</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/4/e/600_453162062.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022 <b>Jonathan Bodner</b> (Capital One)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/b/d/d/600_453472189.jpeg\" /></p> <p><b>\u2022\u00a0Dave Erickson</b> (Elastic) -\u00a0<i>Visualizing data in Elasticsearch: Search, Timeseries, and Graph Analysis in the Cloud</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/8/1/a/d/600_453213197.jpeg\" /></p> <p><b>\u2022\u00a0Michael Evans</b> (Living Social) -\u00a0<i>Jumpstart MongoDB: What You Need To Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/9/3/600_453213171.jpeg\" /></p> <p>\u2022\u00a0\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022 <b>Azat Mardan</b> (Capital One) -\u00a0<i>Implementing HTTP/2 Server with Node and Express</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/7/a/600_453213146.jpeg\" /></p> <p><b>\u2022\u00a0Elizabeth Mezias</b> (Mezcode) -\u00a0<i>Wallpapers, Widgets &amp; Wear</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\" /></p> <p>\u2022 <b>Jay Gordon</b> (MongoDB) - <i>Jumpstart MongoDB: What You Need to Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/4/3/600_453213091.jpeg\" /></p> <p>\u2022\u00a0J<b>ohn Niedzwieck</b>\u00a0(ThreatTrack Security, Inc.)\u00a0-\u00a0\u00a0<i>D3 + AngularJS = Visual Awesomesauce </i></p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022 <b>Naveen Singhal</b> (Mobile Posse)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/1/0/600_453259984.jpeg\" /></p> <p><b>\u2022\u00a0Nitya\u00a0Narasimha</b> (Digital HV)\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Martin Omander</b> (Google) -\u00a0<i>Game Development with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/3/5/600_453419445.jpeg\" /></p> <p>\u2022 \u00a0<b>Annyce Davis</b> (Off Grid Electric) - <i>Say It With Video!</i></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\" /></p> <p>\u2022 Andrew Mitry (Walmart)\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/a/0/600_453259872.jpeg\" /></p> <p><b>\u2022\u00a0\u00a0Mark Brown (Department of Commerce)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/8/1/600_453259841.jpeg\" /></p> <p><b>\u2022\u00a0Michael Brown (comScore)\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/d/5/2/600_453259794.jpeg\" /></p> <p><b>\u2022\u00a0Jessica Bell (Deloitte Digital)\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/4/6/600_453259782.jpeg\" /></p> <p><b>\u2022 Cameron Mace (Mapbox)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/d/6/7/600_453396199.jpeg\" /></p> <p>\u2022\u00a0<b>Antonio Zugaldia</b> (Mapbox)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/2/f/600_453259759.jpeg\" /></p> <p><b>\u2022\u00a0Yufeng Gao</b> (Google)</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/4/c/b/2/600_453259634.jpeg\" /></p> <p>\u2022 <b>Lougenia Bailey</b> (Excella Consulting)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/d/a/600_453259930.jpeg\" /></p> <p>\u2022 <b>Dave Erickson</b> (Elastic)</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/f/b/600_453259963.jpeg\" /></p> <p>\u2022\u00a0<b>Eric Newman</b> (Mobile Posse)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/c/3/600_453259907.jpeg\" /></p> <p>\u2022 <b>Anastasia Lopez</b> (Songkick)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/e/8/2/9/600_453419433.jpeg\" /></p> <p>\u2022\u00a0<b>Romain Piel</b> (Songkick)</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/e/8/2/4/600_453419428.jpeg\" /></p> <p><b>Code Labs:</b></p> <p>\u2022\u00a0<b>Ray Tsang</b>\u00a0(Google) -\u00a0<i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Kashif Qureshi </b>(AOL) - <i>Kotlin Code Lab</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/c/1/600_453260161.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b>\u00a0(Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p><br/>*Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a>!</p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p>This event is only possible with the generous sponsorship from these sponsors and community!</p> <p><br/><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/f/9/600_453241785.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/1/d/7/600_453213239.jpeghttp://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\" /></p>", 
             "duration": 118800000, 
@@ -1054,7 +1053,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1459265642000, 
@@ -1267,6 +1266,32 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 57
+        }, 
+        {
+            "created": 1472497385000, 
+            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around urban planning. No venue yet!</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
+            "event_url": "http://www.meetup.com/Transportation-Techies/events/233717422/", 
+            "group": {
+                "created": 1384372275000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -76.989997863769531, 
+                "id": 11092702, 
+                "join_mode": "open", 
+                "name": "Transportation Techies", 
+                "urlname": "Transportation-Techies", 
+                "who": "Techies"
+            }, 
+            "headcount": 0, 
+            "id": "233717422", 
+            "maybe_rsvp_count": 0, 
+            "name": "Transportation + Urban Planning", 
+            "status": "upcoming", 
+            "time": 1476482400000, 
+            "updated": 1472501710000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1470699270000, 
