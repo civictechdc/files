@@ -36,7 +36,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 96
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 other:
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
@@ -115,7 +115,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1472568161000
   description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
     \ API meetup conditions!!!</p> <p>Nothing beats hanging on a patio with good folks,\
@@ -145,7 +145,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -333,7 +333,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -740,24 +740,24 @@ other:
   yes_rsvp_count: 4
 - created: 1467700232000
   description: "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\"\
-    >Eventbrite</a> to attend. The event will fill up so register early.</p> <p>Join\
-    \ the Web Content Mavens for a 5-hour mini-conference focused on how content strategy\
-    \ impacts user experiences.\_</p> <p><b>*</b> Hear about content strategy and\
-    \ management from 6 speakers, all through the lens of the user's experience.\_\
-    </p> <p><b>*</b> Network and share ideas over snacks, dinner, drinks and dessert.</p>\
-    \ <p><b>AGENDA</b></p> <p>4:00 -\_Registration &amp; Networking</p> <p>Enjoy light\
-    \ munchies and drinks while you meet our speakers and attendees.</p> <p>4:30 -\
-    \ SESSION 1: Content Organization</p> <p>Speakers will discuss the content organization\
-    \ techniques such as audits, taxonomy, information architecture, navigation, etc\
-    \ and how those can impact user experience.</p> <p>5:30 -\_Networking Over a Light\
-    \ Dinner</p> <p>Networking, drinks and a light dinner.\_</p> <p>6:00 - SESSION\
-    \ 2: Content Creation &amp; Display</p> <p>Topics such as responsive content,\
-    \ integrated content, content mapping, writing content, voice &amp; style - and\
-    \ how these impact the users understanding of the content.</p> <p>7:00 -\_Networking\
-    \ Over Drinks\_</p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning,\
-    \ Tuning and User Testing</p> <p>Topics around planning your content strategy,\
-    \ refining your process and testing with users.</p> <p>8:30 -\_Networking Over\
-    \ Dessert</p> <p>Dessert and wrap-up.</p> <p>9:00 -\_Adjourn\_</p> <p><b>SPEAKERS</b></p>\
+    >Eventbrite</a> to attend. Register early - the event will fill up.</p> <p>Join\
+    \ us for a 5-hour mini-conference focused on how content strategy impacts user\
+    \ experiences.\_</p> <p><b>*</b> Hear about content strategy and management from\
+    \ 6 speakers, all through the lens of the user's experience.\_</p> <p><b>*</b>\
+    \ Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p>\
+    \ <p>4:00 -\_Registration &amp; Networking</p> <p>Enjoy light munchies and drinks\
+    \ while you meet our speakers and attendees.</p> <p>4:30 - SESSION 1: Content\
+    \ Organization</p> <p>Speakers will discuss the content organization techniques\
+    \ such as audits, taxonomy, information architecture, navigation, etc and how\
+    \ those can impact user experience.</p> <p>5:30 -\_Networking Over a Light Dinner</p>\
+    \ <p>Networking, drinks and a light dinner.\_</p> <p>6:00 - SESSION 2: Content\
+    \ Creation &amp; Display</p> <p>Topics such as responsive content, integrated\
+    \ content, content mapping, writing content, voice &amp; style - and how these\
+    \ impact the users understanding of the content.</p> <p>7:00 -\_Networking Over\
+    \ Drinks\_</p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning, Tuning\
+    \ and User Testing</p> <p>Topics around planning your content strategy, refining\
+    \ your process and testing with users.</p> <p>8:30 -\_Networking Over Dessert</p>\
+    \ <p>Dessert and wrap-up.</p> <p>9:00 -\_Adjourn\_</p> <p><b>SPEAKERS</b></p>\
     \ <p>Speakers will be posted beginning in early September.</p> <p><br/><b>Call\
     \ for Speakers</b></p> <p>We are seeking speakers for topic areas above.\_</p>\
     \ <p>Talks should meet one of these criteria:<br/>\_ - Gives new information or\
@@ -783,14 +783,14 @@ other:
   name: 'MavenMini: Content-Driven User Experiences'
   status: upcoming
   time: 1474574400000
-  updated: 1472609658000
+  updated: 1472647666000
   utc_offset: -14400000
   venue: {address_1: '1111 19th St NW, Washington, DC 20036', city: Washington, country: us,
     id: 24373558, lat: 38.904395999999998, localized_country_name: USA, lon: -77.042952999999997,
     name: Blackboard Inc, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 22
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
@@ -899,7 +899,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 5
   yes_rsvp_count: 97
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -1007,7 +1007,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 90
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1326,7 +1326,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 58
+  yes_rsvp_count: 59
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around urban planning. No\

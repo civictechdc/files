@@ -2905,8 +2905,8 @@ projects([
         "pushed_at": "2016-02-01T04:42:08Z", 
         "short_name": "open-election-map", 
         "size": 1004, 
-        "updated_at": "2016-04-18T19:19:57Z", 
-        "watchers": 17
+        "updated_at": "2016-08-31T15:54:25Z", 
+        "watchers": 18
     }, 
     {
         "activity": [
