@@ -76,118 +76,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 26
 other:
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232977662/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvlbnc
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1472596200000
-  updated: 1472431714000
-  utc_offset: -14400000
-  venue: {address_1: '1428 U St NW Suite #300 ', city: Washington, country: us, id: 24752339,
-    lat: 38.916710000000002, localized_country_name: USA, lon: -77.033157000000003,
-    name: NAVA, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 8
-- created: 1471614042000
-  description: "<p>Have lots of code that you want to share? Need a place to host\
-    \ your website? Looking to work collaboratively on a coding project? If so, GitHub\
-    \ is the place for you! Come join us on\_Tuesday, August 30th for an introduction\
-    \ to GitHub. We'll talk about GitHub and all the lingo as well as the language\
-    \ \"git\", how to use the desktop interface, and what you can do to get started.</p>\
-    \ <p>Prerequisites:\_If you don't already have a GitHub account, please create\
-    \ one prior to Maptime at\_<a href=\"https://github.com/\"><a href=\"https://github.com\"\
-    \ class=\"linkified\">https://github.com</a></a>.\_You can also download the desktop\
-    \ interface if you choose, but it's not required.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Maptime-DC/events/233469610/
-  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
-      hackers}
-  headcount: 0
-  id: '233469610'
-  maybe_rsvp_count: 0
-  name: Git and Github 101
-  status: upcoming
-  time: 1472596200000
-  updated: 1472508319000
-  utc_offset: -14400000
-  venue: {address_1: 900 G St NW, city: Washington, country: us, id: 21261802, lat: 0,
-    localized_country_name: USA, lon: 0, name: MLK Library Dream Lab, repinned: false,
-    state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 54
-- created: 1469674471000
-  description: "<p>Interested in building big data solutions? If so, please join us\
-    \ this August to learn about the cloud services provided by Microsoft's Azure\
-    \ Platform.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\_</p>\
-    \ <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- Building Big Data Solutions\
-    \ in Azure Data Platform<i>\_- Mostafa Elzoghbi</i></p> <p>9:00 PM -- Post event\
-    \ drinks</p> <p><b>Directions</b></p> <p>There is ample parking surrounding the\
-    \ JHU APL building. Make sure you go to the south campus and not the main area\
-    \ in the north.</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/a/600_196201882.jpeg\"\
-    \ /></p> <p>\n\n\n<b>Talks</b></p> <p><b>Building Big Data Solutions in Azure\
-    \ Data Platform<br/></b></p> <p>The session covers how to get started to build\
-    \ big data solutions in Azure. Azure provides various Hadoop cluster types for\
-    \ Hadoop ecosystem. The session covers the basic understanding of HDInsight clusters\
-    \ including: Apache Hadoop, HBase, Storm and Spark. The session covers how to\
-    \ integrate with HDInsight in .NET using different Hadoop integration frameworks\
-    \ and libraries. The session convers Data platform services in Azure to build\
-    \ end-to-end big data solutions including IoT, batch, streaming and analytics\
-    \ products in cloud based data solutions. The session is a demo driven and covers\
-    \ how to work with HDInsight clusters to build efficient and scalable solutions.</p>\
-    \ <p><br/><b>Speakers</b></p> <p>Mostafa Elzoghbi is a Microsoft Sr. Technical\
-    \ Evangelist based in DC. Mostafa is specialized in Azure architecture and development,\
-    \ Office 365 development and administration, .NET development, and enterprise\
-    \ product development. I am an experienced architect in building cloud based solutions\
-    \ and a data nerd. Prior to joining Microsoft, Mostafa was awarded a Microsoft\
-    \ Most Valuable Professional (MVP) award for five consecutive years. Mostafa holds\
-    \ a M.Sc. of Computer Science and holds several Microsoft certifications. Mostafa\
-    \ can be reached on Twitter\_<a href=\"https://twitter.com/MostafaElzoghbi\">@MostafaElzoghbi</a>\_\
-    and at\_<a href=\"http://www.mostafaelzoghbi.com/\"><a href=\"http://www.mostafaelzoghbi.com/\"\
-    \ class=\"linkified\">http://www.mostafaelzoghbi.com/</a></a></p>"
-  duration: 8100000
-  event_url: http://www.meetup.com/Data-Science-MD/events/232936519/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '232936519'
-  maybe_rsvp_count: 0
-  name: Building Big Data Solutions in Azure Data Platform
-  rsvp_limit: 200
-  status: upcoming
-  time: 1472596200000
-  updated: 1469674615000
-  utc_offset: -14400000
-  venue: {address_1: 11100 Johns Hopkins Road, city: Laurel, country: us, id: 11286692,
-    lat: 39.164036000000003, localized_country_name: USA, lon: -76.896636999999998,
-    name: ' Johns Hopkins University Applied Physics Laboratory (APL) - Building 200
-      Room E100', repinned: false, state: MD, zip: '20723'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 151
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -257,7 +145,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -339,7 +227,7 @@ other:
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 156
+  yes_rsvp_count: 157
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -371,7 +259,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -641,7 +529,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 21
 - created: 1471287239000
   description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
@@ -708,7 +596,7 @@ other:
     name: The Wireless Registry @ MakeOffices, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -851,38 +739,40 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1467700232000
-  description: "<p>A 5-hour mini-conference focused on how content strategy drives\
-    \ user experiences.\_</p> <p><b>*</b> Hear about content strategy and management\
-    \ from 6 speakers, all through the lens of the user's experience.\_</p> <p><b>*</b>\
-    \ Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p>\
-    \ <p>4:00 -\_Registration &amp; Networking</p> <p>Enjoy light munchies and drinks\
-    \ while you meet our speakers and attendees.</p> <p>4:30 - SESSION 1: Content\
-    \ Organization</p> <p>Speakers will discuss the content organization techniques\
-    \ such as audits, taxonomy, information architecture, navigation, etc and how\
-    \ those can impact user experience.</p> <p>5:30 -\_Networking Over a Light Dinner</p>\
-    \ <p>Networking, drinks and a light dinner.\_</p> <p>6:00 - SESSION 2: Content\
-    \ Creation &amp; Display</p> <p>Topics such as responsive content, integrated\
-    \ content, content mapping, writing content, voice &amp; style - and how these\
-    \ impact the users understanding of the content. 7:00 -\_Networking Over Drinks\_\
-    </p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning, Tuning and\
-    \ User Testing</p> <p>Topics around planning your content strategy, refining your\
-    \ process and testing with users.</p> <p>8:30 -\_Networking Over Dessert</p> <p>Dessert\
-    \ and wrap-up.</p> <p>9:00 -\_Adjourn\_</p> <p><b>SPEAKERS</b></p> <p>Speakers\
-    \ will be posted beginning in early September.</p> <p><br/><b>Call for Speakers</b></p>\
-    \ <p>We are seeking speakers for topic areas above.\_</p> <p>Talks should meet\
-    \ one of these criteria:<br/>\_ - Gives new information or shows an innovative\
-    \ approach to established techniques<br/>\_ - Presents a thought provoking or\
-    \ intriguing idea in an actionable context (i.e. inclusive design as a theory\
-    \ and how to put it in practice)<br/>\_ - Applies complex technique to a range\
-    \ applications</p> <p>Talks should also speak to our core audiences: web managers,\
-    \ front-end devs, designers, usability &amp; content strategists, etc.</p> <p><b>Topic\
-    \ Areas</b></p> <p>All talks should focus on the user experience - how a given\
-    \ subject can impact that experience.</p> <p>- Taxonomy, tagging<br/>-\_Navigation\
-    \ &amp; IA<br/>-\_Responsive content<br/>-\_Mobile content<br/>-\_Integrated &amp;\
-    \ multi-channel content approaches<br/>- Web\_CMS - selecting, working with, integrating<br/>-\_\
-    Content management, content governance techniques<br/>- Writing content with a\
-    \ focus on user experience</p> <p>For more information, email [masked]. Please\
-    \ include your topic idea/ideas and background.</p>"
+  description: "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\"\
+    >Eventbrite</a> to attend. The event will fill up so register early.</p> <p>Join\
+    \ the Web Content Mavens for a 5-hour mini-conference focused on how content strategy\
+    \ impacts user experiences.\_</p> <p><b>*</b> Hear about content strategy and\
+    \ management from 6 speakers, all through the lens of the user's experience.\_\
+    </p> <p><b>*</b> Network and share ideas over snacks, dinner, drinks and dessert.</p>\
+    \ <p><b>AGENDA</b></p> <p>4:00 -\_Registration &amp; Networking</p> <p>Enjoy light\
+    \ munchies and drinks while you meet our speakers and attendees.</p> <p>4:30 -\
+    \ SESSION 1: Content Organization</p> <p>Speakers will discuss the content organization\
+    \ techniques such as audits, taxonomy, information architecture, navigation, etc\
+    \ and how those can impact user experience.</p> <p>5:30 -\_Networking Over a Light\
+    \ Dinner</p> <p>Networking, drinks and a light dinner.\_</p> <p>6:00 - SESSION\
+    \ 2: Content Creation &amp; Display</p> <p>Topics such as responsive content,\
+    \ integrated content, content mapping, writing content, voice &amp; style - and\
+    \ how these impact the users understanding of the content.</p> <p>7:00 -\_Networking\
+    \ Over Drinks\_</p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning,\
+    \ Tuning and User Testing</p> <p>Topics around planning your content strategy,\
+    \ refining your process and testing with users.</p> <p>8:30 -\_Networking Over\
+    \ Dessert</p> <p>Dessert and wrap-up.</p> <p>9:00 -\_Adjourn\_</p> <p><b>SPEAKERS</b></p>\
+    \ <p>Speakers will be posted beginning in early September.</p> <p><br/><b>Call\
+    \ for Speakers</b></p> <p>We are seeking speakers for topic areas above.\_</p>\
+    \ <p>Talks should meet one of these criteria:<br/>\_ - Gives new information or\
+    \ shows an innovative approach to established techniques<br/>\_ - Presents a thought\
+    \ provoking or intriguing idea in an actionable context (i.e. inclusive design\
+    \ as a theory and how to put it in practice)<br/>\_ - Applies complex technique\
+    \ to a range applications</p> <p>Talks should also speak to our core audiences:\
+    \ web managers, front-end devs, designers, usability &amp; content strategists,\
+    \ etc.</p> <p><b>Topic Areas</b></p> <p>All talks should focus on the user experience\
+    \ - how a given subject can impact that experience.</p> <p>- Taxonomy, tagging<br/>-\_\
+    Navigation &amp; IA<br/>-\_Responsive content<br/>-\_Mobile content<br/>-\_Integrated\
+    \ &amp; multi-channel content approaches<br/>- Web\_CMS - selecting, working with,\
+    \ integrating<br/>-\_Content management, content governance techniques<br/>- Writing\
+    \ content with a focus on user experience</p> <p>For more information, email [masked].\
+    \ Please include your topic idea/ideas and background.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/232382584/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -893,7 +783,7 @@ other:
   name: 'MavenMini: Content-Driven User Experiences'
   status: upcoming
   time: 1474574400000
-  updated: 1472569919000
+  updated: 1472609658000
   utc_offset: -14400000
   venue: {address_1: '1111 19th St NW, Washington, DC 20036', city: Washington, country: us,
     id: 24373558, lat: 38.904395999999998, localized_country_name: USA, lon: -77.042952999999997,
@@ -1117,7 +1007,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 88
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1302,6 +1192,47 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 8
+- created: 1452612310000
+  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
+    \ women? Looking to build your first web app, learn more about coding, or build\
+    \ on existing skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR)\
+    \ Study Group. This event is intended for those new to programming and/or ROR\
+    \ (but we welcome people of all levels to attend and help out)! The agenda will\
+    \ include a lecture that covers Ruby and Rails and an installfest to help you\
+    \ set up Rails on your own computer.</p> <p>This event is intended to be exclusively\
+    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
+    \ bring a laptop to the event so you can participate in\_the installfest!</p>\
+    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
+    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
+    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p>\
+    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
+    \ <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\_</p> <p>\u2022\
+    \ 7:10 - 8:10pm - Install necessary software following the\_<a href=\"http://installrails.com/\"\
+    >InstallRails</a>\_guide.\_</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p>\
+    \ <p>These are the resources that members have been following along, feel free\
+    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
+    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
+    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
+    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
+    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228457105/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: cjdtnlyvnbhb
+  maybe_rsvp_count: 0
+  name: 'Ruby on Rails: Beginners Night!'
+  status: upcoming
+  time: 1475706600000
+  updated: 1472237344000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
