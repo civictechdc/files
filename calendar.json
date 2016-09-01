@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 97
         }, 
         {
             "announced": false, 
@@ -119,7 +119,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1459265642000, 
@@ -151,7 +151,7 @@
         }, 
         {
             "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. And thanks to Google for our speaker swag.</p> <p>Doors open at 6:00. Speakers begin at 6:30. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 Darren Buck and James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. And thanks to Google for our speaker swag.</p> <p>Doors open at 6:00. Speakers begin at 6:30. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
@@ -170,7 +170,7 @@
             "rsvp_limit": 300, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1472497380000, 
+            "updated": 1472744733000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
@@ -186,7 +186,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 158
+            "yes_rsvp_count": 161
         }, 
         {
             "created": 1446219481000, 
@@ -226,7 +226,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1452612310000, 
@@ -304,7 +304,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1460389774000, 
@@ -331,7 +331,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1466889132000, 
@@ -437,7 +437,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1468853724000, 
@@ -610,7 +610,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
@@ -666,7 +666,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1468853724000, 
@@ -747,7 +747,7 @@
         }, 
         {
             "created": 1470324592000, 
-            "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022 <b>Raj\u00a0Echambadi</b> (University of Illinois)\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/e/7/b/600_453260091.jpeg\" /></p> <p><b>\u2022\u00a0Josh Gordon</b> (Google) - <i>Google Machine Learning Session</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/2/1/600_453213057.jpeg\" /></p> <p><b>\u2022\u00a0Chris Nguyen</b> (Washington Post) -\u00a0<i>The Hitchhiker's Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\" /></p> <p><b>\u2022\u00a0Katy Kasmai\u00a0</b>(Google) - <i>Moonshot</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/d/a/e/600_453487598.jpeg\" /></p> <p>\u2022 <b>Frank van Puffelen</b> (Google) - <i>Firebase</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/b/8/9/600_453395721.jpeg\" /></p> <p><b>\u2022\u00a0Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Huyen Tue Dao</b> (Trello) -\u00a0<i>Measure, Layout, Draw, Repeat: Custom Views and ViewGroups</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/4/e/600_453162062.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022 <b>Jonathan Bodner</b> (Capital One)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/b/d/d/600_453472189.jpeg\" /></p> <p><b>\u2022\u00a0Dave Erickson</b> (Elastic) -\u00a0<i>Visualizing data in Elasticsearch: Search, Timeseries, and Graph Analysis in the Cloud</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/8/1/a/d/600_453213197.jpeg\" /></p> <p><b>\u2022\u00a0Michael Evans</b> (Living Social) -\u00a0<i>Jumpstart MongoDB: What You Need To Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/9/3/600_453213171.jpeg\" /></p> <p>\u2022\u00a0\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022 <b>Azat Mardan</b> (Capital One) -\u00a0<i>Implementing HTTP/2 Server with Node and Express</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/7/a/600_453213146.jpeg\" /></p> <p><b>\u2022\u00a0Elizabeth Mezias</b> (Mezcode) -\u00a0<i>Wallpapers, Widgets &amp; Wear</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\" /></p> <p>\u2022 <b>Jay Gordon</b> (MongoDB) - <i>Jumpstart MongoDB: What You Need to Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/4/3/600_453213091.jpeg\" /></p> <p>\u2022\u00a0J<b>ohn Niedzwieck</b>\u00a0(ThreatTrack Security, Inc.)\u00a0-\u00a0\u00a0<i>D3 + AngularJS = Visual Awesomesauce </i></p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022 <b>Naveen Singhal</b> (Mobile Posse)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/1/0/600_453259984.jpeg\" /></p> <p><b>\u2022\u00a0Nitya\u00a0Narasimha</b> (Digital HV)\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Martin Omander</b> (Google) -\u00a0<i>Game Development with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/3/5/600_453419445.jpeg\" /></p> <p>\u2022 \u00a0<b>Annyce Davis</b> (Off Grid Electric) - <i>Say It With Video!</i></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\" /></p> <p>\u2022 Andrew Mitry (Walmart)\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/a/0/600_453259872.jpeg\" /></p> <p><b>\u2022\u00a0\u00a0Mark Brown (Department of Commerce)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/8/1/600_453259841.jpeg\" /></p> <p><b>\u2022\u00a0Michael Brown (comScore)\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/d/5/2/600_453259794.jpeg\" /></p> <p><b>\u2022\u00a0Jessica Bell (Deloitte Digital)\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/4/6/600_453259782.jpeg\" /></p> <p><b>\u2022 Cameron Mace (Mapbox)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/d/6/7/600_453396199.jpeg\" /></p> <p>\u2022\u00a0<b>Antonio Zugaldia</b> (Mapbox)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/2/f/600_453259759.jpeg\" /></p> <p><b>\u2022\u00a0Yufeng Gao</b> (Google)</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/4/c/b/2/600_453259634.jpeg\" /></p> <p>\u2022 <b>Lougenia Bailey</b> (Excella Consulting)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/d/a/600_453259930.jpeg\" /></p> <p>\u2022 <b>Dave Erickson</b> (Elastic)</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/f/b/600_453259963.jpeg\" /></p> <p>\u2022\u00a0<b>Eric Newman</b> (Mobile Posse)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/c/3/600_453259907.jpeg\" /></p> <p>\u2022 <b>Anastasia Lopez</b> (Songkick)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/e/8/2/9/600_453419433.jpeg\" /></p> <p>\u2022\u00a0<b>Romain Piel</b> (Songkick)</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/e/8/2/4/600_453419428.jpeg\" /></p> <p><b>Code Labs:</b></p> <p>\u2022\u00a0<b>Ray Tsang</b>\u00a0(Google) -\u00a0<i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Kashif Qureshi </b>(AOL) - <i>Kotlin Code Lab</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/c/1/600_453260161.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b>\u00a0(Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p><br/>*Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a>!</p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p>This event is only possible with the generous sponsorship from these sponsors and community!</p> <p><br/><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/f/9/600_453241785.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/1/d/7/600_453213239.jpeghttp://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\" /></p>", 
+            "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022 <b>Raj\u00a0Echambadi</b> (University of Illinois)\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/e/7/b/600_453260091.jpeg\" /></p> <p><b>\u2022\u00a0Josh Gordon</b> (Google) - <i>Google Machine Learning Session</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/2/1/600_453213057.jpeg\" /></p> <p><b>\u2022\u00a0Chris Nguyen</b> (Washington Post) -\u00a0<i>The Hitchhiker's Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\" /></p> <p><b>\u2022\u00a0Katy Kasmai\u00a0</b>(Team Exponent) - <i>Building 10x Solutions</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/d/a/e/600_453487598.jpeg\" /></p> <p>\u2022 <b>Frank van Puffelen</b> (Google) - <i>Firebase</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/b/8/9/600_453395721.jpeg\" /></p> <p><b>\u2022\u00a0Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Huyen Tue Dao</b> (Trello) -\u00a0<i>Measure, Layout, Draw, Repeat: Custom Views and ViewGroups</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/4/e/600_453162062.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022 <b>Jonathan Bodner</b> (Capital One)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/b/d/d/600_453472189.jpeg\" /></p> <p><b>\u2022\u00a0Dave Erickson</b> (Elastic) -\u00a0<i>Visualizing data in Elasticsearch: Search, Timeseries, and Graph Analysis in the Cloud</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/8/1/a/d/600_453213197.jpeg\" /></p> <p><b>\u2022\u00a0Michael Evans</b> (Living Social) -\u00a0<i>Jumpstart MongoDB: What You Need To Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/9/3/600_453213171.jpeg\" /></p> <p>\u2022\u00a0\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022 <b>Azat Mardan</b> (Capital One) -\u00a0<i>Implementing HTTP/2 Server with Node and Express</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/7/a/600_453213146.jpeg\" /></p> <p><b>\u2022\u00a0Elizabeth Mezias</b> (Mezcode) -\u00a0<i>Wallpapers, Widgets &amp; Wear</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\" /></p> <p>\u2022 <b>Jay Gordon</b> (MongoDB) - <i>Jumpstart MongoDB: What You Need to Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/4/3/600_453213091.jpeg\" /></p> <p>\u2022\u00a0J<b>ohn Niedzwieck</b>\u00a0(ThreatTrack Security, Inc.)\u00a0-\u00a0\u00a0<i>D3 + AngularJS = Visual Awesomesauce </i></p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022 <b>Naveen Singhal</b> (Mobile Posse)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/1/0/600_453259984.jpeg\" /></p> <p><b>\u2022\u00a0Nitya\u00a0Narasimha</b> (Digital HV)\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Martin Omander</b> (Google) -\u00a0<i>Game Development with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/3/5/600_453419445.jpeg\" /></p> <p>\u2022 \u00a0<b>Annyce Davis</b> (Off Grid Electric) - <i>Say It With Video!</i></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\" /></p> <p>\u2022 Andrew Mitry (Walmart)\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/a/0/600_453259872.jpeg\" /></p> <p><b>\u2022\u00a0\u00a0Mark Brown (Department of Commerce)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/8/1/600_453259841.jpeg\" /></p> <p><b>\u2022\u00a0Michael Brown (comScore)\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/d/5/2/600_453259794.jpeg\" /></p> <p><b>\u2022\u00a0Jessica Bell (Deloitte Digital)\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/4/6/600_453259782.jpeg\" /></p> <p><b>\u2022 Cameron Mace (Mapbox)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/d/6/7/600_453396199.jpeg\" /></p> <p>\u2022\u00a0<b>Antonio Zugaldia</b> (Mapbox)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/2/f/600_453259759.jpeg\" /></p> <p><b>\u2022\u00a0Yufeng Gao</b> (Google)</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/4/c/b/2/600_453259634.jpeg\" /></p> <p>\u2022 <b>Lougenia Bailey</b> (Excella Consulting)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/d/a/600_453259930.jpeg\" /></p> <p>\u2022 <b>Dave Erickson</b> (Elastic)</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/f/b/600_453259963.jpeg\" /></p> <p>\u2022\u00a0<b>Eric Newman</b> (Mobile Posse)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/c/3/600_453259907.jpeg\" /></p> <p>\u2022 <b>Anastasia Lopez</b> (Songkick)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/e/8/2/9/600_453419433.jpeg\" /></p> <p>\u2022\u00a0<b>Romain Piel</b> (Songkick)</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/e/8/2/4/600_453419428.jpeg\" /></p> <p><b>Code Labs:</b></p> <p>\u2022\u00a0<b>Ray Tsang</b>\u00a0(Google) -\u00a0<i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Kashif Qureshi </b>(AOL) - <i>Kotlin Code Lab</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/c/1/600_453260161.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b>\u00a0(Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p><br/>*Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a>!</p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p>This event is only possible with the generous sponsorship from these sponsors and community!</p> <p><br/><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/f/9/600_453241785.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/1/d/7/600_453213239.jpeghttp://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\" /></p>", 
             "duration": 118800000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/233117940/", 
             "group": {
@@ -768,7 +768,7 @@
             "rsvp_limit": 97, 
             "status": "upcoming", 
             "time": 1474633800000, 
-            "updated": 1472240601000, 
+            "updated": 1472735849000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1680 Capital One Drive", 
@@ -783,7 +783,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
+            "waitlist_count": 6, 
             "yes_rsvp_count": 97
         }, 
         {
@@ -864,7 +864,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1459265642000, 
@@ -1225,7 +1225,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1470699270000, 

@@ -6126,7 +6126,7 @@ projects([
         }, 
         "pushed_at": "2016-09-01T11:25:09Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 21791, 
+        "size": 21209, 
         "updated_at": "2016-08-30T18:28:39Z", 
         "watchers": 4
     }
