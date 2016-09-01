@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 98
         }, 
         {
             "announced": false, 
@@ -101,10 +101,10 @@ calendar({
             "headcount": 0, 
             "id": "xvsfwlyvlbpc", 
             "maybe_rsvp_count": 0, 
-            "name": "Open Lab Night (with Ruby on Rails Team)", 
+            "name": "Open Lab Night (with Ruby on Rails Team) REMOTE", 
             "status": "upcoming", 
             "time": 1472682600000, 
-            "updated": 1472237304000, 
+            "updated": 1472680028000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -146,7 +146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1459265642000, 
@@ -213,7 +213,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 157
+            "yes_rsvp_count": 158
         }, 
         {
             "created": 1446219481000, 
@@ -253,7 +253,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1452612310000, 
@@ -358,7 +358,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1466889132000, 
@@ -504,7 +504,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1417881835000, 
