@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1459265642000, 
@@ -127,10 +127,10 @@ calendar({
             "id": "231755172", 
             "maybe_rsvp_count": 0, 
             "name": "Bike Hack Night VI", 
-            "rsvp_limit": 300, 
+            "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1472785568000, 
+            "updated": 1472830740000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
@@ -146,7 +146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 172
+            "yes_rsvp_count": 174
         }, 
         {
             "created": 1446219481000, 
@@ -264,7 +264,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1460389774000, 
@@ -437,7 +437,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1417881835000, 
@@ -503,11 +503,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1471280199000, 
-            "description": "<p>Eve Freeman will talk about graph database use cases and give a brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\u00a0<a href=\"https://wirelessregistry.com\">The Wireless Registry</a>\u00a0for sponsoring our event!</p>", 
+            "description": "<p>Eve Freeman will talk about graph database use cases and give a brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\u00a0<a href=\"https://wirelessregistry.com\">Wireless Registry</a>\u00a0for sponsoring our event!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233373437/", 
             "group": {
@@ -526,7 +526,7 @@ calendar({
             "name": "Tech Talk: Graph Databases with Neo4j", 
             "status": "upcoming", 
             "time": 1473978600000, 
-            "updated": 1472237415000, 
+            "updated": 1472825556000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1200 18th Street NW Suite #700", 
@@ -542,7 +542,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1457965726000, 
@@ -703,7 +703,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1470324592000, 
@@ -879,7 +879,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457392514000, 
