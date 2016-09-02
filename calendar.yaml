@@ -1,44 +1,4 @@
 codefordc:
-- announced: true
-  created: 1468797968000
-  description: "<p>Join us at Social Tables for more of that great civic hacking that\
-    \ you know and love.</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_\
-    </p> <p><br/>7:00 - 7:15\_Group introductions and announcements from participants\
-    \ and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work.\
-    \ \_If you are new, join the new member orientation.</p> <p>~7:30\_Food delivered.\_\
-    </p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made\
-    \ over the last two hours. Show and tell if time/resources allow it. Thank you\
-    \ and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\_</p> <p>\u2022\
-    \_Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code\
-    \ for DC:\_</p> <p>\u2022\_Bring a laptop if you can (it\u2019s ok if you can\u2019\
-    t).</p> <p>\u2022 Take a look at\_<a href=\"http://codefordc.org/projects\">our\
-    \ projects</a>.</p> <p>\u2022\_Review the\_<a href=\"http://codefordc.org/resources/codeofconduct.html\"\
-    >Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\_<a href=\"http://codefordc.org/contact.html\"\
-    >contact us</a>\_with any questions, concerns, etc.</p> <p>\u2022\_If you had\
-    \ a good time, join\_<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\"\
-    >Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\_and\
-    \ this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\_\
-    <a href=\"https://hackpad.com/Code-for-DC-Hacknight-901-dr2BRr2Aluw\" class=\"\
-    linkified\">https://hackpad.com/Code-for-DC-Hacknight-901-dr2BRr2Aluw</a></p>"
-  duration: 9900000
-  event_url: http://www.meetup.com/Code-for-DC/events/232690630/
-  group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
-      Hackers}
-  headcount: 0
-  id: '232690630'
-  maybe_rsvp_count: 0
-  name: Civic Hacknight
-  status: upcoming
-  time: 1472769000000
-  updated: 1472752981000
-  utc_offset: -14400000
-  venue: {address_1: '1325 G Street, NW, 3rd Floor', city: Washington, country: us,
-    id: 24266346, lat: 38.898567, localized_country_name: USA, lon: -77.031006000000005,
-    name: Social Tables, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 98
 - announced: false
   created: 1467850198000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -76,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 33
 other:
 - created: 1472568161000
   description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
@@ -107,7 +67,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -149,16 +109,16 @@ other:
     \ a food truck on premises, but you are welcome to bring your own food.</p> <p>Doors\
     \ open at 6:00. Speakers begin at 6:30. Because we're expecting a large crowd,\
     \ consider bringing a laptop or tablet to follow along with the presentations.\
-    \ We'll link to them from <a href=\"http://mvjantzen.com/meetup/bikehacknight6.html\"\
-    >our home page</a>. We have seven presentations:</p> <p>\u2022\_Ryan Abrahamsen\
-    \ will show how\_<a href=\"http://terrain360.com/\">Terrain360</a>\_maps bike\
-    \ trails to panoramic images.\_</p> <p>\u2022\_<a href=\"http://ebrelsford.github.io/\"\
-    >Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"\
-    https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would\
-    \ want to.</p> <p><br/>\u2022 James Graham will present <a href=\"http://ddot.dc.gov/\"\
-    >DDOT</a>'s\_new GIS street data, and bicycling Level of Traffic Stress analysis.</p>\
-    \ <p><br/>\u2022\_<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\_\
-    will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\"\
+    \ We'll link to them from <a href=\"http://bit.ly/bike6\">bit.ly/bike6</a>. We\
+    \ have seven presentations:</p> <p>\u2022\_Ryan Abrahamsen will show how\_<a href=\"\
+    http://terrain360.com/\">Terrain360</a>\_maps bike trails to panoramic images.\_\
+    </p> <p>\u2022\_<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will\
+    \ show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\"\
+    >OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 James\
+    \ Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\_new GIS street\
+    \ data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\_<a\
+    \ href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\_will dig into <a\
+    \ href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\"\
     >Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\_<a href=\"http://www.alexandraulsh.com/\"\
     >Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a>\
     \ built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a>\
@@ -187,14 +147,14 @@ other:
   rsvp_limit: 300
   status: upcoming
   time: 1473285600000
-  updated: 1472774146000
+  updated: 1472785568000
   utc_offset: -14400000
   venue: {address_1: corner of 1st & L NE, city: Washington, country: us, id: 24599103,
     lat: 38.903556999999999, localized_country_name: USA, lon: -77.005660000000006,
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 165
+  yes_rsvp_count: 172
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -225,7 +185,7 @@ other:
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 2
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -270,7 +230,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -300,7 +260,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 44
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -342,7 +302,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -606,7 +566,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -974,7 +934,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 92
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
