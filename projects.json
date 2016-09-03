@@ -5966,13 +5966,13 @@
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10409657?v=3", 
-                "contributions": 95, 
+                "contributions": 97, 
                 "link": "https://github.com/alulsh", 
                 "name": "alulsh"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/117248?v=3", 
-                "contributions": 11, 
+                "contributions": 12, 
                 "link": "https://github.com/mdelcambre", 
                 "name": "mdelcambre"
             }, 
@@ -6111,16 +6111,16 @@
         "license": null, 
         "main_language": "JavaScript", 
         "name": "WABA Regional Bike Map", 
-        "open_issues": 30, 
+        "open_issues": 27, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/7329613?v=3", 
             "name": "dcfemtech", 
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-09-02T17:36:46Z", 
+        "pushed_at": "2016-09-02T21:10:10Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 21254, 
+        "size": 21720, 
         "updated_at": "2016-09-02T02:51:58Z", 
         "watchers": 6
     }
