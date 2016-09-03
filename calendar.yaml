@@ -155,7 +155,7 @@ other:
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 2
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -272,7 +272,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
