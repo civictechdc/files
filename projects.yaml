@@ -279,8 +279,8 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [0, 0, 2, 0, 0, 3, 2, 6, 0, 0, 5, 1, 3, 11, 1, 7, 2, 2, 1, 1, 0, 3, 0,
-    0, 1, 0, 0, 5, 0, 0, 0, 0, 0, 4, 0, 0, 5, 1, 0, 13, 0, 0, 3, 0, 0, 2, 0, 2, 0,
+- activity: [0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 1, 6, 4, 0, 1, 1, 0, 3, 0,
+    0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 0, 5, 1, 0, 13, 0, 0, 3, 0, 0, 2, 0, 2, 0,
     0, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -666,9 +666,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [7, 2, 3, 5, 4, 6, 0, 0, 0, 2, 1, 3, 1, 14, 4, 6, 0, 2, 20, 0, 2, 0, 0,
-    4, 22, 16, 64, 10, 6, 74, 2, 20, 14, 2, 14, 32, 7, 12, 2, 4, 2, 9, 2, 0, 0, 0,
-    0, 1, 12, 0, 1, 0]
+- activity: [7, 2, 3, 5, 4, 6, 0, 0, 0, 2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0, 2, 0, 0,
+    4, 22, 24, 56, 10, 6, 74, 2, 20, 14, 2, 14, 37, 2, 12, 2, 4, 3, 8, 2, 0, 0, 0,
+    0, 3, 10, 0, 1, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1033,7 +1033,7 @@
   size: 273
   updated_at: '2016-06-13T12:08:30Z'
   watchers: 11
-- activity: [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
+- activity: [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1125,7 +1125,7 @@
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
 - activity: [9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1,
-    0, 14, 120, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 14, 122, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1556,10 +1556,10 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 66
+  open_issues: 67
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-09-02T02:47:02Z'
+  pushed_at: '2016-09-03T03:48:53Z'
   short_name: dcaf_case_management
   size: 11684
   updated_at: '2016-09-02T01:08:36Z'
@@ -1593,9 +1593,9 @@
   size: 31
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 6, 25, 15, 24, 18, 16,
-    41, 35, 15, 25, 9, 7, 31, 27, 24, 13, 9, 2, 9, 0, 6, 0, 0, 0, 0, 0, 0, 1, 0, 0,
-    0, 0, 0, 0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 9, 28, 9, 27, 22, 9,
+    49, 30, 18, 19, 9, 12, 26, 27, 27, 10, 11, 3, 6, 3, 3, 0, 0, 0, 0, 0, 0, 1, 0,
+    0, 0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
@@ -1868,7 +1868,7 @@
   updated_at: '2016-04-06T23:48:18Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 6, 0, 0, 14, 3, 1, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 0, 0, 0, 16, 1, 1, 0, 0, 0,
     6, 2, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1913,24 +1913,42 @@
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 2, 0, 6, 0, 0, 0,
     30, 25, 4]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
-  civic_json: null
+  civic_json:
+    contact: {email: alexandra.ulsh@gmail.com, name: Alex Ulsh}
+    data:
+    - {name: buffers, url: 'https://github.com/dcfemtech/hackforgood-waba-map/tree/master/buffers'}
+    - {name: bikelanes, url: 'https://github.com/dcfemtech/hackforgood-waba-map/tree/master/bikelanes'}
+    description: Creating a bike map advocacy tool for Washington Area Bicyclist Association
+    geography: ['Washington, D.C.', 'Montgomery County, MD', "Prince George\u2019\
+        s County, MD", 'Arlington County, VA', 'Fairfax County, VA', 'Alexandria,
+        VA']
+    homepage: https://dcfemtech.github.io/hackforgood-waba-map/
+    id: https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json
+    name: WABA Bike Infrastructure Map Project
+    partners:
+    - {name: Code for DC, url: 'http://codefordc.org'}
+    - {name: Washington Area Bicyclist Association, url: 'http://www.waba.org/'}
+    repository: https://github.com/dcfemtech/hackforgood-waba-map
+    status: Beta
+    tags: [Data visualization, mapping, biking, bike lanes, DC, WABA]
+    type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 97,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 102,
     link: 'https://github.com/alulsh', name: alulsh}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/117248?v=3', contributions: 12,
     link: 'https://github.com/mdelcambre', name: mdelcambre}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/13531063?v=3', contributions: 9,
     link: 'https://github.com/alongthepike', name: alongthepike}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 9,
+    link: 'https://github.com/tomBeach', name: tomBeach}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7659813?v=3', contributions: 8,
     link: 'https://github.com/khiggins115', name: khiggins115}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/3990087?v=3', contributions: 6,
     link: 'https://github.com/alexwweston', name: alexwweston}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/9753760?v=3', contributions: 6,
-    link: 'https://github.com/hrecht', name: hrecht}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 6,
-    link: 'https://github.com/tomBeach', name: tomBeach}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8509058?v=3', contributions: 6,
     link: 'https://github.com/sara4844', name: sara4844}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/9753760?v=3', contributions: 6,
+    link: 'https://github.com/hrecht', name: hrecht}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/8990853?v=3', contributions: 3,
     link: 'https://github.com/BuffyShepard', name: BuffyShepard}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/17552911?v=3', contributions: 3,
@@ -1995,17 +2013,17 @@
   html_url: https://github.com/dcfemtech/hackforgood-waba-map
   id: 61846251
   languages:
-  - [JavaScript, 30712]
+  - [JavaScript, 32095]
   - [HTML, 4855]
   - [CSS, 3801]
   license: null
   main_language: JavaScript
   name: WABA Regional Bike Map
-  open_issues: 27
+  open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-09-02T21:10:10Z'
+  pushed_at: '2016-09-03T04:13:31Z'
   short_name: hackforgood-waba-map
-  size: 21720
+  size: 21726
   updated_at: '2016-09-02T02:51:58Z'
   watchers: 6
