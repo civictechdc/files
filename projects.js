@@ -368,17 +368,7 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            2, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            1, 
-            0, 
+            3, 
             0, 
             0, 
             0, 
@@ -388,7 +378,17 @@ projects([
             0, 
             0, 
             1, 
-            2, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -4079,8 +4079,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0
         ], 
         "ci": {
@@ -4131,8 +4131,8 @@ projects([
             0, 
             0, 
             0, 
-            1, 
-            4, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -4510,8 +4510,8 @@ projects([
             6, 
             0, 
             9, 
-            0, 
-            13, 
+            2, 
+            11, 
             2, 
             40, 
             7, 
@@ -4519,35 +4519,35 @@ projects([
             24, 
             0, 
             51, 
-            45, 
-            58, 
-            18, 
-            47, 
-            79, 
-            26, 
-            51, 
-            49, 
-            23, 
-            23, 
+            63, 
             40, 
-            39, 
-            12, 
-            22, 
+            35, 
+            74, 
+            35, 
+            48, 
+            35, 
+            46, 
+            26, 
+            32, 
+            25, 
+            41, 
+            23, 
+            23, 
             53, 
-            80, 
-            90, 
-            21, 
-            21, 
-            95, 
-            100, 
-            64, 
-            10, 
-            54, 
-            55, 
-            56, 
-            43, 
-            101, 
-            18
+            84, 
+            76, 
+            28, 
+            33, 
+            85, 
+            116, 
+            40, 
+            27, 
+            33, 
+            69, 
+            45, 
+            107, 
+            41, 
+            20
         ], 
         "ci": {
             "codeclimate": false, 
@@ -4614,7 +4614,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 1112, 
+                "contributions": 1114, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4709,10 +4709,10 @@ projects([
                 "name": "KatSDC"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1463253?v=3", 
                 "contributions": 5, 
-                "link": "https://github.com/cmgiven", 
-                "name": "cmgiven"
+                "link": "https://github.com/mccabe615", 
+                "name": "mccabe615"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
@@ -4721,16 +4721,22 @@ projects([
                 "name": "dfelsent"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/15862551?v=3", 
+                "contributions": 5, 
+                "link": "https://github.com/jasonallenphotography", 
+                "name": "jasonallenphotography"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6306695?v=3", 
                 "contributions": 5, 
                 "link": "https://github.com/MiroFurtado", 
                 "name": "MiroFurtado"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1463253?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
                 "contributions": 5, 
-                "link": "https://github.com/mccabe615", 
-                "name": "mccabe615"
+                "link": "https://github.com/cmgiven", 
+                "name": "cmgiven"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5253461?v=3", 
@@ -4757,16 +4763,16 @@ projects([
                 "name": "edwardpark"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/772616?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/danfowler", 
-                "name": "danfowler"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/kndllbrwn", 
                 "name": "kndllbrwn"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/772616?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/danfowler", 
+                "name": "danfowler"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5439589?v=3", 
@@ -4785,12 +4791,6 @@ projects([
                 "contributions": 1, 
                 "link": "https://github.com/jayzmiles", 
                 "name": "jayzmiles"
-            }, 
-            {
-                "avatar_url": "https://avatars.githubusercontent.com/u/16469242?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/RAGarza8", 
-                "name": "RAGarza8"
             }
         ], 
         "contributors_count": 30, 
@@ -4805,7 +4805,7 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                153580
+                153599
             ], 
             [
                 "HTML", 
@@ -4833,16 +4833,16 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 63, 
+        "open_issues": 62, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-09-03T22:59:00Z", 
+        "pushed_at": "2016-09-04T16:50:24Z", 
         "short_name": "dcaf_case_management", 
-        "size": 11213, 
+        "size": 11208, 
         "updated_at": "2016-09-02T01:08:36Z", 
         "watchers": 15
     }, 
@@ -5944,17 +5944,17 @@ projects([
             0, 
             0, 
             0, 
-            3, 
-            67, 
-            2, 
+            17, 
+            55, 
+            0, 
             0, 
             6, 
             0, 
             0, 
             0, 
-            45, 
-            17, 
-            44
+            52, 
+            10, 
+            49
         ], 
         "ci": {
             "codeclimate": false, 
@@ -6159,16 +6159,16 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "WABA Regional Bike Map", 
-        "open_issues": 25, 
+        "open_issues": 27, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/7329613?v=3", 
             "name": "dcfemtech", 
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-09-04T04:20:53Z", 
+        "pushed_at": "2016-09-04T15:43:24Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 21731, 
+        "size": 26412, 
         "updated_at": "2016-09-02T02:51:58Z", 
         "watchers": 6
     }
