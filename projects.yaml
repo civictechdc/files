@@ -1,5 +1,5 @@
-- activity: [2, 3, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0, 3, 3, 0, 0, 0, 0, 1, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+- activity: [2, 3, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0, 4, 2, 0, 0, 0, 0, 1, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
     1, 0, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -279,8 +279,8 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 1, 6, 4, 0, 1, 1, 0, 3, 0,
-    0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 0, 5, 1, 0, 13, 0, 0, 3, 0, 0, 2, 0, 2, 0,
+- activity: [0, 0, 2, 0, 0, 3, 6, 2, 0, 0, 5, 1, 4, 11, 3, 4, 4, 0, 1, 1, 0, 3, 0,
+    0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 3, 2, 1, 8, 5, 0, 0, 3, 0, 0, 2, 0, 2, 0,
     0, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
   civic_json: null
@@ -666,9 +666,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [7, 2, 3, 5, 4, 6, 0, 0, 0, 2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0, 2, 0, 0,
-    4, 22, 24, 56, 10, 6, 74, 2, 20, 14, 2, 14, 37, 2, 12, 2, 4, 3, 8, 2, 0, 0, 0,
-    0, 3, 10, 0, 1, 0]
+- activity: [7, 2, 7, 1, 4, 6, 0, 0, 0, 2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0, 2, 0, 0,
+    4, 22, 38, 42, 10, 8, 72, 2, 20, 14, 2, 20, 31, 2, 13, 1, 4, 5, 6, 2, 0, 0, 0,
+    0, 4, 9, 0, 1, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1124,9 +1124,9 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [9, 71, 0, 0, 3, 8, 0, 7, 3, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1,
-    0, 14, 122, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0]
+- activity: [14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1,
+    1, 0, 32, 104, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: Brianecknight@gmail.com, name: Briane, url: 'https://twitter.com/bchanellek'}
@@ -1387,7 +1387,7 @@
   size: 216
   updated_at: '2016-05-08T17:22:55Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1593,9 +1593,9 @@
   size: 31
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 9, 28, 9, 27, 22, 9,
-    49, 30, 18, 19, 9, 12, 26, 27, 27, 10, 11, 3, 6, 3, 3, 0, 0, 0, 0, 0, 0, 1, 0,
-    0, 0, 0, 0, 0, 0, 0]
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 10, 27, 17, 23, 21,
+    13, 53, 20, 21, 18, 6, 13, 36, 17, 26, 10, 11, 3, 6, 3, 3, 0, 0, 0, 0, 0, 0, 1,
+    0, 0, 0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: nskelsey@gmail.com, name: Nick Skelsey}
@@ -1868,7 +1868,7 @@
   updated_at: '2016-04-06T23:48:18Z'
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 0, 0, 0, 16, 1, 1, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 6, 0, 0, 0, 16, 1, 1, 0, 0, 0,
     6, 2, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -2022,8 +2022,8 @@
   open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-09-03T04:13:31Z'
+  pushed_at: '2016-09-04T04:20:53Z'
   short_name: hackforgood-waba-map
-  size: 21726
+  size: 21731
   updated_at: '2016-09-02T02:51:58Z'
   watchers: 6
