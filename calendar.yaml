@@ -155,7 +155,7 @@ other:
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 4
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -230,7 +230,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 55
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -272,7 +272,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -1129,7 +1129,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1295,7 +1295,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around urban planning. No\
