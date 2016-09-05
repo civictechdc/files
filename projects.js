@@ -2175,7 +2175,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1225895?v=3", 
-                "contributions": 234, 
+                "contributions": 235, 
                 "link": "https://github.com/mkalish", 
                 "name": "mkalish"
             }, 
@@ -2193,7 +2193,7 @@ projects([
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7322903?v=3", 
-                "contributions": 10, 
+                "contributions": 11, 
                 "link": "https://github.com/bcell", 
                 "name": "bcell"
             }, 
@@ -2419,7 +2419,7 @@ projects([
         "languages": [
             [
                 "JavaScript", 
-                175483
+                177349
             ], 
             [
                 "CSS", 
@@ -2431,7 +2431,7 @@ projects([
             ], 
             [
                 "Python", 
-                4997
+                6321
             ], 
             [
                 "Shell", 
@@ -2441,16 +2441,16 @@ projects([
         "license": null, 
         "main_language": "JavaScript", 
         "name": "Campaign Finance Watch", 
-        "open_issues": 18, 
+        "open_issues": 16, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/2768897?v=3", 
             "name": "codefordc", 
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-08-23T23:20:59Z", 
+        "pushed_at": "2016-09-05T15:44:29Z", 
         "short_name": "dc-campaign-finance-watch", 
-        "size": 119943, 
+        "size": 119948, 
         "updated_at": "2016-08-17T02:49:05Z", 
         "watchers": 22
     }, 
@@ -3465,8 +3465,8 @@ projects([
     }, 
     {
         "activity": [
-            14, 
-            66, 
+            42, 
+            38, 
             0, 
             0, 
             8, 
@@ -3489,8 +3489,8 @@ projects([
             1, 
             1, 
             0, 
-            32, 
-            104, 
+            33, 
+            103, 
             2, 
             3, 
             0, 
@@ -4302,8 +4302,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            2, 
+            4, 
             0, 
             0, 
             0, 
@@ -4960,21 +4960,21 @@ projects([
             4, 
             0, 
             10, 
-            10, 
-            27, 
-            17, 
-            23, 
-            21, 
-            13, 
-            53, 
-            20, 
-            21, 
+            12, 
+            25, 
+            22, 
             18, 
-            6, 
-            13, 
-            36, 
+            21, 
             17, 
-            26, 
+            53, 
+            16, 
+            24, 
+            15, 
+            6, 
+            18, 
+            31, 
+            23, 
+            20, 
             10, 
             11, 
             3, 
@@ -5817,8 +5817,8 @@ projects([
             0, 
             0, 
             0, 
-            6, 
-            2, 
+            8, 
+            0, 
             3
         ], 
         "ci": {

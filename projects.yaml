@@ -672,13 +672,13 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 234,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/1225895?v=3', contributions: 235,
     link: 'https://github.com/mkalish', name: mkalish}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7241408?v=3', contributions: 124,
     link: 'https://github.com/romoy', name: romoy}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12779671?v=3', contributions: 19,
     link: 'https://github.com/jkoul', name: jkoul}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/7322903?v=3', contributions: 10,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/7322903?v=3', contributions: 11,
     link: 'https://github.com/bcell', name: bcell}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16108167?v=3', contributions: 8,
     link: 'https://github.com/FunmiOjo', name: FunmiOjo}
@@ -798,20 +798,20 @@
   html_url: https://github.com/codefordc/dc-campaign-finance-watch
   id: 21773181
   languages:
-  - [JavaScript, 175483]
+  - [JavaScript, 177349]
   - [CSS, 6613]
   - [HTML, 6580]
-  - [Python, 4997]
+  - [Python, 6321]
   - [Shell, 829]
   license: null
   main_language: JavaScript
   name: Campaign Finance Watch
-  open_issues: 18
+  open_issues: 16
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-23T23:20:59Z'
+  pushed_at: '2016-09-05T15:44:29Z'
   short_name: dc-campaign-finance-watch
-  size: 119943
+  size: 119948
   updated_at: '2016-08-17T02:49:05Z'
   watchers: 22
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1124,8 +1124,8 @@
   size: 1259
   updated_at: '2016-05-08T17:22:44Z'
   watchers: 3
-- activity: [14, 66, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1,
-    1, 0, 32, 104, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+- activity: [42, 38, 0, 0, 8, 3, 0, 9, 1, 13, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1,
+    1, 0, 33, 103, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1388,7 +1388,7 @@
   updated_at: '2016-05-08T17:22:55Z'
   watchers: 4
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1593,8 +1593,8 @@
   size: 31
   updated_at: '2016-01-12T17:25:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 10, 27, 17, 23, 21,
-    13, 53, 20, 21, 18, 6, 13, 36, 17, 26, 10, 11, 3, 6, 3, 3, 0, 0, 0, 0, 0, 0, 1,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 10, 12, 25, 22, 18, 21,
+    17, 53, 16, 24, 15, 6, 18, 31, 23, 20, 10, 11, 3, 6, 3, 3, 0, 0, 0, 0, 0, 0, 1,
     0, 0, 0, 0, 0, 0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -1869,7 +1869,7 @@
   watchers: 1
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 6, 0, 0, 0, 16, 1, 1, 0, 0, 0,
-    6, 2, 3]
+    8, 0, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:

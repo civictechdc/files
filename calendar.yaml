@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 other:
 - created: 1472568161000
   description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
@@ -67,7 +67,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 56
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -155,7 +155,7 @@ other:
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 6
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -200,7 +200,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -230,7 +230,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 60
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -272,7 +272,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 54
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -426,7 +426,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1471287239000
   description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
@@ -634,7 +634,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1467700232000
   description: "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\"\
     >Eventbrite</a> to attend. Register early - the event will fill up.</p> <p>Join\
@@ -904,7 +904,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 93
+  yes_rsvp_count: 94
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
