@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 other:
 - created: 1472568161000
   description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
@@ -67,7 +67,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 75
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -155,7 +155,7 @@ other:
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 15
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -193,14 +193,14 @@ other:
   name: 'Ruby on Rails: Beginners Night!'
   status: upcoming
   time: 1473287400000
-  updated: 1473117271000
+  updated: 1473182615000
   utc_offset: -14400000
   venue: {address_1: '1341 G St NW Washington, DC 20005', city: Washington, country: us,
     id: 24728607, lat: 38.898578999999998, localized_country_name: USA, lon: -77.031531999999999,
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 40
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -230,7 +230,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 72
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -272,7 +272,39 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 60
+- created: 1473173760000
+  description: "<p>Interested in sharpening your problem solving skills and learning\
+    \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
+    \ week we will be continue to go through data structures. The link to the topics\
+    \ and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\"\
+    >here</a>. In previous weeks we've covered Arrays, Linked-Lists, and Hash Tables.\
+    \ We will review and start on Trees this time.\_</p> <p>Find material from past\
+    \ algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\"\
+    >here</a>.</p> <p>Please arrange to get your own food before the meetup today\
+    \ as there won't be any food provided for today.</p> <p><br/>This event is intended\
+    \ to be exclusively open for women; we are trans* friendly.\_</p> <p><br/>See\
+    \ you there!</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233912953/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '233912953'
+  maybe_rsvp_count: 0
+  name: Algorithms Meetup
+  rsvp_limit: 50
+  status: upcoming
+  time: 1473719400000
+  updated: 1473173760000
+  utc_offset: -14400000
+  venue: {address_1: '1005 7th St NW, Suite 100', city: Washington, country: us, id: 24427130,
+    lat: 38.903229000000003, localized_country_name: USA, lon: -77.021629000000004,
+    name: Contactually, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 17
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -336,7 +368,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills.\_ Most of us are beginners and each meet up is geared for\
@@ -368,7 +400,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 15
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -408,6 +440,46 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 7
+- created: 1473035394000
+  description: "<p>Our workflows are, with few exceptions, entirely digital. This\
+    \ is fantastic for productivity, accuracy, and a million other reasons- but by\
+    \ building in the same tools we risk uniformity in output. There are endless ways\
+    \ to make something look custom, but one of the best is to simply incorporate\
+    \ illustrative elements- whether they be a hand drawn pattern, icon marker, or\
+    \ classic marginalia.</p> <p>Sometimes it's nice to take a break from the digital\
+    \ screens of our lives and bust out the pen and paper. Join us for an evening\
+    \ of drawing and tracing beautiful maps at this special Maptime.</p> <p>Dylan\
+    \ will go over when illustrative embellishments are appropriate, and some techniques\
+    \ he's found useful for bringing handy work to the digital world. If you have\
+    \ hesitations based on self perceived art skills, please don't let that discourage\
+    \ you! There is still a lot you can do, we promise.</p> <p>Inspiration and some\
+    \ preview activities can be <a href=\"https://github.com/ddai/hand-drawn-maps.\"\
+    >found here</a>.\_We\u2019ll provide some art supplies including colored pencils,\
+    \ markers, and paper, but feel free to bring your own if you want to work with\
+    \ a different medium. All tools and folks welcome :)</p>"
+  event_url: http://www.meetup.com/Maptime-DC/events/233877167/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  how_to_find_us: The entrance for Development Seed is located on the second floor
+    and in back of the building. To find it, walk down Blagden Alley and enter the
+    doorway next to The Dabney that has the Development Seed sign. Then head up the
+    stairway to the left.
+  id: '233877167'
+  maybe_rsvp_count: 0
+  name: Hand Drawn Maps!
+  rsvp_limit: 40
+  status: upcoming
+  time: 1473892200000
+  updated: 1473184618000
+  utc_offset: -14400000
+  venue: {address_1: '1226 9th Street NW Second Floor Washington, DC 20001', city: Washington,
+    country: us, id: 24224999, lat: 38.912067, localized_country_name: USA, lon: -77.019019999999998,
+    name: 'Development Seed ', repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 2
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -426,7 +498,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1471287239000
   description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
@@ -536,7 +608,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -687,7 +759,37 @@ other:
     name: Blackboard Inc, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
+- created: 1470792075000
+  description: "<p>Either if you know Python already or you haven't written a line\
+    \ before, if you are a journalist who needs to explore data looking for a story\
+    \ to tell, or just someone who likes investigating and playing around with data\
+    \ out of pure curiosity...</p> <p>Come &amp; join us for an evening learning how\
+    \ to wrangle and explore data, creating\_simple but effective graphs that will\
+    \ help you explore what's hidden in your data using Python and the Pandas library.</p>\
+    \ <p>Bring your laptop, meet other Python enthusiast women, and learn with us!\
+    \ Reserve your seat now!</p> <p>This workshop is based on an idea from <a href=\"\
+    http://www.meetup.com/pyladies-bcn/\">PyLadies BCN</a> at Barcelona, thanks for\
+    \ your support!!</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/dc-pyladies/events/233246249/
+  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
+    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
+  headcount: 0
+  id: '233246249'
+  maybe_rsvp_count: 0
+  name: Python for journalists and data nerds!!
+  rsvp_limit: 30
+  status: upcoming
+  time: 1474583400000
+  updated: 1473167207000
+  utc_offset: -14400000
+  venue: {address_1: '641 S St NW, Floor 1', city: Washington, country: us, id: 23642317,
+    lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
+    name: iStrategyLabs HQ, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 16
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
@@ -904,7 +1006,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 96
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1225,36 +1327,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvnbpb
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1476225000000
-  updated: 1472237272000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 4
 - created: 1417881835000
   description: "<p>Topic Overview:\_The Business Value of Data Wrangling</p> <p>Data\
     \ Wrangling and Data Preparation have emerged as key topics in the world of Information\
