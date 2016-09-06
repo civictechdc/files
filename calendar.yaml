@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 40
 other:
 - created: 1472568161000
   description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
@@ -67,7 +67,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 68
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -155,7 +155,7 @@ other:
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 8
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -200,7 +200,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 39
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -230,7 +230,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -272,7 +272,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -336,7 +336,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills.\_ Most of us are beginners and each meet up is geared for\
@@ -426,7 +426,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1471287239000
   description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
@@ -469,7 +469,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1471280199000
   description: "<p>Eve Freeman will talk about graph database use cases and give a\
     \ brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\_\
@@ -493,7 +493,7 @@ other:
     name: The Wireless Registry @ MakeOffices, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -595,7 +595,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1295,7 +1295,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around urban planning. No\
@@ -1944,6 +1944,47 @@ other:
   name: Monthly Meetup
   status: upcoming
   time: 1501714800000
+  updated: 1446214010000
+  utc_offset: -14400000
+  venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
+    localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
+    state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1417881835000
+  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
+    /></p>
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywmbjb/
+  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
+    who: Data Wranglers}
+  headcount: 0
+  id: hffzclywmbjb
+  maybe_rsvp_count: 0
+  name: January Meetup
+  status: upcoming
+  time: 1504737000000
+  updated: 1417881835000
+  utc_offset: -14400000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
+- created: 1326383071000
+  description: <p>On the first Wednesday of the month, we'll gather to socialize,
+    network, and hear about the work people are doing with maps, GIS, geodata, and
+    more.</p>
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywmbjb/
+  group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
+    id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
+  headcount: 0
+  how_to_find_us: Upstairs bar
+  id: dlcllcywmbjb
+  maybe_rsvp_count: 0
+  name: Monthly Meetup
+  status: upcoming
+  time: 1504738800000
   updated: 1446214010000
   utc_offset: -14400000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,

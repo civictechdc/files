@@ -1,5 +1,5 @@
-- activity: [2, 3, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0, 6, 0, 0, 0, 0, 0, 1, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+- activity: [2, 3, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0, 6, 0, 0, 0, 0, 1, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
     1, 0, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
@@ -279,7 +279,7 @@
   size: 40005
   updated_at: '2016-05-08T17:23:04Z'
   watchers: 19
-- activity: [0, 0, 2, 0, 0, 3, 6, 2, 0, 1, 4, 1, 4, 11, 4, 3, 4, 0, 1, 1, 0, 3, 0,
+- activity: [0, 0, 2, 0, 0, 4, 5, 2, 0, 2, 4, 0, 6, 9, 7, 0, 4, 1, 1, 0, 3, 0, 0,
     0, 1, 0, 0, 5, 0, 0, 0, 0, 2, 2, 0, 4, 2, 0, 12, 1, 0, 0, 3, 0, 0, 2, 0, 2, 0,
     0, 0, 0]
   ci: {codeclimate: true, continua11y: true, coverage: true, travis: true}
@@ -360,7 +360,7 @@
   size: 19128
   updated_at: '2016-06-13T04:28:33Z'
   watchers: 25
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -416,7 +416,7 @@
   size: 945
   updated_at: '2016-04-18T19:16:38Z'
   watchers: 6
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -666,9 +666,9 @@
   size: 576
   updated_at: '2016-05-08T17:23:07Z'
   watchers: 1
-- activity: [7, 2, 7, 1, 8, 2, 0, 0, 0, 2, 4, 1, 0, 14, 4, 6, 0, 2, 20, 0, 2, 0, 0,
-    4, 32, 56, 14, 12, 6, 74, 12, 8, 14, 2, 30, 21, 2, 14, 0, 5, 8, 2, 2, 0, 0, 0,
-    0, 7, 6, 0, 1, 0]
+- activity: [5, 2, 7, 3, 6, 2, 0, 0, 1, 1, 4, 1, 4, 10, 8, 2, 0, 2, 20, 2, 0, 0, 0,
+    6, 36, 64, 2, 12, 14, 64, 16, 8, 10, 2, 30, 22, 4, 11, 0, 5, 10, 0, 2, 0, 0, 0,
+    0, 10, 3, 0, 1, 2]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
@@ -1556,10 +1556,10 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 61
+  open_issues: 63
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
-  pushed_at: '2016-09-04T16:50:24Z'
+  pushed_at: '2016-09-06T01:25:29Z'
   short_name: dcaf_case_management
   size: 11208
   updated_at: '2016-09-02T01:08:36Z'
