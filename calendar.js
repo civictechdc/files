@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }
     ], 
     "other": [
@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 180
+            "yes_rsvp_count": 178
         }, 
         {
             "created": 1446219481000, 
@@ -119,7 +119,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 16, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -163,7 +163,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>This month, we are exploring the world of remote sensing across the industry. Our speakers come from diverse corners of the field and will be discussing how satellite imagery solves a variety of problems.</p> <p>OUR SPEAKERS:</p> <p><b>Max Grossman: </b></p> <p><br/><i>Max Grossman is an undergraduate at George Washington studying Geography and International Affairs.\u00a0</i></p> <p><i>He spent his summer in\u00a0Huntsville, Alabama working for the NASA DEVELOP National\u00a0Program. He will present the landslide susceptibly modeling he and his team at DEVELOP did for Malawi.</i></p> <p><i>Follow this <a href=\"http://earthzine.org/2016/08/11/cloudy-with-a-chance-of-landslides/\">link</a>\u00a0for a preview.</i></p> <p><b>Kevin Dobbs:</b></p> <p><i>Kevin Dobbs will give a brief overview of The International Charter \"Space and Major Disasters.\" \u00a0The Charter is a worldwide collaboration among space agencies through which satellite remote sensing data, and derivative information and products, are made available to support disaster response efforts. The Charter has been operational since November 2000 and currently, the following space agencies worldwide participate in the mechanism: ESA, CNES, CSA, NOAA, CONAE, ISRO, JAXA, USGS, UKSA &amp; DMCii, CNSA, DLR, KARI, INPE, EUMETSAT, and ROSCOSMOS.</i></p>", 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>This month, we are exploring the world of remote sensing across the industry. Our speakers come from diverse corners of the field and will be discussing how satellite imagery solves a variety of problems.</p> <p>OUR SPEAKERS:</p> <p><b>Max Grossman: </b></p> <p><br/><i>Max Grossman is an undergraduate at George Washington studying Geography and International Affairs.\u00a0</i></p> <p><i>He spent his summer in\u00a0Huntsville, Alabama working for the NASA DEVELOP National\u00a0Program. He will present the landslide susceptibly modeling he and his team at DEVELOP did for Malawi.</i></p> <p><i>Follow this <a href=\"http://earthzine.org/2016/08/11/cloudy-with-a-chance-of-landslides/\">link</a>\u00a0for a preview.'</i></p> <p><b>Yoshi Arakawa:</b></p> <p><i>Solution Architect and Program Manager at DigitalGlobe with 13+ years of Commercial Satellite Remote Sensing experience.\u00a0 He will be showcasing satellite imagery of flooding in Louisiana. </i></p> <p><br/><b>Kevin Dobbs:</b></p> <p><i>Kevin Dobbs will give a brief overview of The International Charter \"Space and Major Disasters.\" \u00a0The Charter is a worldwide collaboration among space agencies through which satellite remote sensing data, and derivative information and products, are made available to support disaster response efforts. The Charter has been operational since November 2000 and currently, the following space agencies worldwide participate in the mechanism: ESA, CNES, CSA, NOAA, CONAE, ISRO, JAXA, USGS, UKSA &amp; DMCii, CNSA, DLR, KARI, INPE, EUMETSAT, and ROSCOSMOS.</i></p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/231584529/", 
             "group": {
                 "created": 1307975249000, 
@@ -182,7 +182,7 @@ calendar({
             "name": "September Meetup: Remote Sensing", 
             "status": "upcoming", 
             "time": 1473289200000, 
-            "updated": 1473205480000, 
+            "updated": 1473265878000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -225,7 +225,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1473173760000, 
@@ -265,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1466889132000, 
@@ -303,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -343,35 +343,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
-        }, 
-        {
-            "created": 1446220149000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills.\u00a0 Most of us are beginners and each meet up is geared for this level. We also have some professional developers and data scientists who attend. The study group is intended for everyone who wishes to learn more Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.\u00a0 We help load Python and then complete a mini-program.</p> <p>Other study group nights will cover basic intro into one of Python's topics and we'll then work on a mini-program line-by line.\u00a0 Targeted to the beginner group.\u00a0 The goal here is for you to understand the Python lesson, practice hands-on coding applying this knowledge and complete a mini-program each night.\u00a0</p> <p><br/>Please bring a laptop!</p> <p><b>Note:</b>\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227884039/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "psfvwlyvmbsb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Lab", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1473892200000, 
-            "updated": 1472237401000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1468853724000, 
@@ -411,11 +383,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1473035394000, 
-            "description": "<p>Our workflows are, with few exceptions, entirely digital. This is fantastic for productivity, accuracy, and a million other reasons- but by building in the same tools we risk uniformity in output. There are endless ways to make something look custom, but one of the best is to simply incorporate illustrative elements- whether they be a hand drawn pattern, icon marker, or classic marginalia.</p> <p>Sometimes it's nice to take a break from the digital screens of our lives and bust out the pen and paper. Join us for an evening of drawing and tracing beautiful maps at this special Maptime.</p> <p>Dylan will go over when illustrative embellishments are appropriate, and some techniques he's found useful for bringing handy work to the digital world. If you have hesitations based on self perceived art skills, please don't let that discourage you! There is still a lot you can do, we promise.</p> <p>Inspiration and some preview activities can be <a href=\"https://github.com/ddai/hand-drawn-maps.\">found here</a>.\u00a0We\u2019ll provide some art supplies including colored pencils, markers, and paper, but feel free to bring your own if you want to work with a different medium. All tools and folks welcome :)</p>", 
+            "description": "<p>Our workflows are, with few exceptions, entirely digital. This is fantastic for productivity, accuracy, and a million other reasons- but by building in the same tools we risk uniformity in output. There are endless ways to make something look custom, but one of the best is to simply incorporate illustrative elements- whether they be a hand drawn pattern, icon marker, or classic marginalia.</p> <p>Sometimes it's nice to take a break from the digital screens of our lives and bust out the pen and paper. Join us for an evening of drawing and tracing beautiful maps at this special Maptime.</p> <p>Dylan will go over when illustrative embellishments are appropriate, and some techniques he's found useful for bringing handy work to the digital world. If you have hesitations based on self perceived art skills, please don't let that discourage you! There is still a lot you can do, we promise.</p> <p>Inspiration and some preview activities can be <a href=\"https://github.com/ddai/hand-drawn-maps.\">found here</a>.\u00a0Some art supplies will be available including colored pencils, markers, and paper, but please bring your own if you have some or if you'd like to work with a different medium. All tools and folks welcome :)</p>", 
             "event_url": "http://www.meetup.com/Maptime-DC/events/233877167/", 
             "group": {
                 "created": 1399208438000, 
@@ -435,7 +407,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1473184618000, 
+            "updated": 1473263447000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1226 9th Street NW Second Floor Washington, DC 20001", 
@@ -450,8 +422,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "waitlist_count": 8, 
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1417881835000, 
@@ -471,14 +443,26 @@ calendar({
             "headcount": 0, 
             "id": "hffzclyvmbkb", 
             "maybe_rsvp_count": 0, 
-            "name": "September Meetup", 
+            "name": "September Meetup - Spark and Accumulo", 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1471282271000, 
+            "updated": 1473268597000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2231 Crystal Drive, suite 401, 22202", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24772536, 
+                "lat": 38.853779000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.048766999999998, 
+                "name": "ByteCubed", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1471287239000, 
@@ -556,7 +540,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1457965726000, 
@@ -756,8 +740,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "waitlist_count": 7, 
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1470324592000, 
@@ -878,7 +862,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1459265642000, 
@@ -947,7 +931,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1468853724000, 
@@ -974,7 +958,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1457392514000, 
@@ -1014,7 +998,49 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
+        }, 
+        {
+            "created": 1473268749000, 
+            "description": "<p>Over 6 billion emojis are sent each day, and within the past year, emojis have begun finding their way into criminal cases as vital evidence because of their semantic value. Emojis present difficulties for attorneys because they can't be identified via keyword searches, and producing the rendered images is both technically challenging with existing software but also highly subjective due to the device-specific emojis used. This talk will explore some of the challenges and highlight several of the key cases from the past year. The talk will also discuss strategies attorneys are using to tackle these challenges, as well as where we see this issue heading over the next several years.</p> <p><br/>Speakers include:</p> <p>* Robinson Meyer, The Atlantic, is a technology/climate journalist who covers the emoji beat. \ud83d\udcdd</p> <p>* Gabriella Ziccarelli, Blank Rome, has written on emoji-related\u00a0legal issues. \u2696</p> <p>* Joe Sremack, Boxer Analytics and\u00a0Unicode Consortium member, spends way too much time analyzing emoji modifiers and surrogate pairs. \ud83c\udf9b\u00a0</p> <p>* more TBD!</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/233944133/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "233944133", 
+            "maybe_rsvp_count": 0, 
+            "name": "#LegalHack Emojis \ud83d\udcbb\u2696\ud83e\udd14\u2728", 
+            "rsvp_limit": 85, 
+            "status": "upcoming", 
+            "time": 1475620200000, 
+            "updated": 1473270381000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15th St NW", 
+                "address_2": "12th Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24421680, 
+                "lat": 38.904865000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.034000000000006, 
+                "name": "1776", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1459265642000, 
@@ -1082,7 +1108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1452612310000, 
@@ -1105,8 +1131,20 @@ calendar({
             "name": "Ruby on Rails: Beginners Night!", 
             "status": "upcoming", 
             "time": 1475706600000, 
-            "updated": 1472237344000, 
+            "updated": 1473265851000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1341 G St NW Washington, DC 20005", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24728607, 
+                "lat": 38.898578999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.031531999999999, 
+                "name": "The Iron Yard", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
@@ -1148,7 +1186,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1473191008000, 
@@ -1188,7 +1226,34 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 60
+        }, 
+        {
+            "created": 1460389774000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233224765/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "srrkslyvnbnb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab", 
+            "status": "upcoming", 
+            "time": 1476138600000, 
+            "updated": 1472237383000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1466889163000, 
@@ -1293,7 +1358,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1470699270000, 
