@@ -44,46 +44,8 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1472568161000, 
-            "description": "<p>Good weather is beginning to arrive and with it, <b>perfect</b> API meetup conditions!!!</p> <p>Nothing beats hanging on a patio with good folks, cold drinks, and talking about web services on a cool fall evening. \u00a0:) \u00a0So, go ahead and mark your calendars for the September API meetup (next week, on the first Tuesday of the month, as usual). \u00a0We've got some good presenters and it'll be great to check in with you all. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* Paul Danckaert<br/>* Jon Bender - Contactually<br/>* Alex Cohen - Census Bureau</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/233737624/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "233737624", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - September Edition", 
-            "status": "upcoming", 
-            "time": 1473199200000, 
-            "updated": 1472568161000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 78
-        }, 
-        {
             "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. At this point we are not expecting a food truck on premises, but you are welcome to bring your own food.</p> <p>Doors open at 6:00. Speakers begin at 6:30. Because we're expecting a large crowd, consider bringing a laptop or tablet to follow along with the presentations. We'll link to them from <a href=\"http://bit.ly/bike6\">bit.ly/bike6</a>. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p>Thanks to\u00a0<a href=\"http://wundergartendc.com/\">Wunder Garten</a>\u00a0and\u00a0Google for our speaker swag.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. At this point we are not expecting a food truck on premises, but you are welcome to bring your own food.</p> <p>Doors open at 6:00. Speakers begin at 6:30. Because we're expecting a large crowd, consider bringing a laptop or tablet to follow along with the presentations. We'll link to them from <a href=\"http://bit.ly/bike6\">bit.ly/bike6</a>. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a>, Nelle Pierson, and <a href=\"http://alongthepike.com/\">Chris Slatt</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> and <a href=\"http://codefordc.org/\">Code for DC</a>\u00a0built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p>Thanks to\u00a0<a href=\"http://wundergartendc.com/\">Wunder Garten</a>\u00a0and\u00a0Google for our speaker swag.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
             "group": {
                 "created": 1384372275000, 
@@ -91,7 +53,7 @@ calendar({
                 "group_lon": -76.989997863769531, 
                 "id": 11092702, 
                 "join_mode": "open", 
-                "name": "Transportation Techies", 
+                "name": "Transportation Techies \ud83d\udeb2", 
                 "urlname": "Transportation-Techies", 
                 "who": "Techies"
             }, 
@@ -102,7 +64,7 @@ calendar({
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1473285600000, 
-            "updated": 1472830740000, 
+            "updated": 1473216040000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "corner of 1st & L NE", 
@@ -118,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 176
+            "yes_rsvp_count": 180
         }, 
         {
             "created": 1446219481000, 
@@ -157,7 +119,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -197,7 +159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1326383071000, 
@@ -236,7 +198,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1460389774000, 
@@ -263,7 +225,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1473173760000, 
@@ -303,7 +265,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1466889132000, 
@@ -341,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1459265642000, 
@@ -381,7 +343,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1446220149000, 
@@ -489,7 +451,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1417881835000, 
@@ -599,7 +561,7 @@ calendar({
         {
             "created": 1457965726000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 612000000, 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233046970/", 
             "group": {
                 "created": 1395616294000, 
@@ -618,7 +580,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1474324200000, 
-            "updated": 1472237438000, 
+            "updated": 1473219347000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -717,7 +679,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1467700232000, 
@@ -795,7 +757,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1470324592000, 
@@ -835,7 +797,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 97
         }, 
         {
@@ -876,7 +838,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1471093735000, 
@@ -985,7 +947,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1468853724000, 
@@ -1226,7 +1188,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1466889163000, 
@@ -1308,7 +1270,7 @@ calendar({
         }, 
         {
             "created": 1472497385000, 
-            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around urban planning. No venue yet!</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around urban planning. No venue yet!</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/233717422/", 
             "group": {
                 "created": 1384372275000, 
@@ -1316,7 +1278,7 @@ calendar({
                 "group_lon": -76.989997863769531, 
                 "id": 11092702, 
                 "join_mode": "open", 
-                "name": "Transportation Techies", 
+                "name": "Transportation Techies \ud83d\udeb2", 
                 "urlname": "Transportation-Techies", 
                 "who": "Techies"
             }, 
@@ -1327,7 +1289,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1472516895000, 
+            "updated": 1473219606000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 

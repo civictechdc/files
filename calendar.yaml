@@ -38,36 +38,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 43
 other:
-- created: 1472568161000
-  description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
-    \ API meetup conditions!!!</p> <p>Nothing beats hanging on a patio with good folks,\
-    \ cold drinks, and talking about web services on a cool fall evening. \_:) \_\
-    So, go ahead and mark your calendars for the September API meetup (next week,\
-    \ on the first Tuesday of the month, as usual). \_We've got some good presenters\
-    \ and it'll be great to check in with you all. \_</p> <p>6:00pm - 6:45pm Food,\
-    \ drinks and networking\_<br/>6:45pm - 6:55pm Introductions and Announcements\_\
-    <br/>6:55pm - 8:00pm Presentations</p> <p>* Paul Danckaert<br/>* Jon Bender -\
-    \ Contactually<br/>* Alex Cohen - Census Bureau</p> <p>7:55pm - 8:00pm Refill\
-    \ your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm - 9:00pm\
-    \ Networking</p>"
-  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/233737624/
-  group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
-    id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
-    who: API enthusiasts}
-  headcount: 0
-  id: '233737624'
-  maybe_rsvp_count: 0
-  name: DC API User Group - September Edition
-  status: upcoming
-  time: 1473199200000
-  updated: 1472568161000
-  utc_offset: -14400000
-  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
-    id: 23841139, lat: 38.908771999999999, localized_country_name: USA, lon: -77.042266999999995,
-    name: CHIEF, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 78
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -90,14 +60,15 @@ other:
     \ href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\_will dig into <a\
     \ href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\"\
     >Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\_<a href=\"http://www.alexandraulsh.com/\"\
-    >Alexandra Ulsh</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a>\
-    \ built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a>\
-    \ for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\_bike infrastructure.</p>\
-    \ <p>\u2022\_Justin Molineaux of\_<a href=\"http://baasbikes.com/\">Baas Bikes</a>\_\
-    will show how smartphones can create low-cost, data-rich bikeshare systems.\_\
-    </p> <p>\u2022\_<a href=\"https://twitter.com/tjl\">Tom Lee</a>\_will show how\
-    \ he\_collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers\
-    \ and smartphones.\_</p> <p>Thanks to\_<a href=\"http://wundergartendc.com/\"\
+    >Alexandra Ulsh</a>, Nelle Pierson, and <a href=\"http://alongthepike.com/\">Chris\
+    \ Slatt</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a>\
+    \ and <a href=\"http://codefordc.org/\">Code for DC</a>\_built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\"\
+    >map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\_\
+    bike infrastructure.</p> <p>\u2022\_Justin Molineaux of\_<a href=\"http://baasbikes.com/\"\
+    >Baas Bikes</a>\_will show how smartphones can create low-cost, data-rich bikeshare\
+    \ systems.\_</p> <p>\u2022\_<a href=\"https://twitter.com/tjl\">Tom Lee</a>\_\
+    will show how he\_collected bike safety data using ultrasonic sensors, ESP8266\
+    \ wifi microcontrollers and smartphones.\_</p> <p>Thanks to\_<a href=\"http://wundergartendc.com/\"\
     >Wunder Garten</a>\_and\_Google for our speaker swag.</p> <p><br/><img src=\"\
     http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p>\
     \ <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\"\
@@ -108,7 +79,7 @@ other:
     \ Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/231755172/
   group: {created: 1384372275000, group_lat: 38.909999847412109, group_lon: -76.989997863769531,
-    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
+    id: 11092702, join_mode: open, name: "Transportation Techies \U0001F6B2", urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
   id: '231755172'
@@ -117,14 +88,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1473285600000
-  updated: 1472830740000
+  updated: 1473216040000
   utc_offset: -14400000
   venue: {address_1: corner of 1st & L NE, city: Washington, country: us, id: 24599103,
     lat: 38.903556999999999, localized_country_name: USA, lon: -77.005660000000006,
     name: REI Community Space at Wunder Garten, repinned: true, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 176
+  yes_rsvp_count: 180
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -155,7 +126,7 @@ other:
     lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 16
   yes_rsvp_count: 50
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
@@ -200,7 +171,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1326383071000
   description: "<p>On the first Wednesday of the month, we'll gather to socialize,\
     \ network, and hear about the work people are doing with maps, GIS, geodata, and\
@@ -237,7 +208,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 80
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -279,7 +250,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1473173760000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -311,7 +282,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -342,7 +313,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -375,7 +346,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills.\_ Most of us are beginners and each meet up is geared for\
@@ -486,7 +457,7 @@ other:
     name: 'Development Seed ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 39
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -599,7 +570,7 @@ other:
     \ information is provided or drop a comment on the Meetup page. We'll come and\
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
-  duration: 612000000
+  duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/233046970/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
@@ -611,7 +582,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1474324200000
-  updated: 1472237438000
+  updated: 1473219347000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
@@ -713,7 +684,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1467700232000
   description: "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\"\
     >Eventbrite</a> to attend. Register early - the event will fill up.</p> <p>Join\
@@ -796,7 +767,7 @@ other:
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 26
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
@@ -905,7 +876,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 9
+  waitlist_count: 10
   yes_rsvp_count: 97
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -953,7 +924,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1471093735000
   description: "<p>IBM's Watson became a household name when it defeated two human\
     \ champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>.\
@@ -1136,7 +1107,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 61
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -1382,7 +1353,7 @@ other:
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 50
 - created: 1466889163000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -1464,14 +1435,16 @@ other:
     \ staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\"\
     >SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office\
     \ of Planning</a> to forecast ridership from new transit-oriented development\
-    \ near rail stations.\_</p> <p>\u2022\_Drew Morrison will share his \"map.it\"\
-    \ (Metropolitan Area Planning Integration Technology)\_project, winner of the\
-    \ 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\_\
-    </p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"\
-    Transportation Techies\" updates.</p>"
+    \ near rail stations.\_</p> <p>\u2022\_Matt Conway\_will demo <a href=\"http://conveyal.com/\"\
+    >Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes\
+    \ to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\
+    \_Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration\
+    \ Technology)\_project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\"\
+    >Hays Out of the Box</a> competition.\_</p> <p>Follow <a href=\"https://twitter.com/techiesdc\"\
+    >@techiesdc</a> for \"Transportation Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/233717422/
   group: {created: 1384372275000, group_lat: 38.909999847412109, group_lon: -76.989997863769531,
-    id: 11092702, join_mode: open, name: Transportation Techies, urlname: Transportation-Techies,
+    id: 11092702, join_mode: open, name: "Transportation Techies \U0001F6B2", urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
   id: '233717422'
@@ -1480,7 +1453,7 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1476482400000
-  updated: 1472516895000
+  updated: 1473219606000
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
