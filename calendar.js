@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }
     ], 
     "other": [
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1465422954000, 
@@ -201,7 +201,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>This month, we are exploring the world of remote sensing across the industry. Our speakers come from diverse corners of the field and will be discussing how satellite imagery solves a variety of problems.</p> <p>OUR SPEAKERS:</p> <p>Max Grossman:</p> <p>\n\n\n\n<i>Max Grossman is an undergraduate at George Washington studying Geography and International Affairs.\u00a0</i></p> <p><i>He spent his summer in\u00a0Huntsville, Alabama working for the NASA DEVELOP National\u00a0Program. He will present the landslide susceptibly modeling he and his team at DEVELOP did for Malawi.</i></p> <p><i>Follow this <a href=\"http://earthzine.org/2016/08/11/cloudy-with-a-chance-of-landslides/\">link</a>\u00a0for a preview.</i></p>", 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>This month, we are exploring the world of remote sensing across the industry. Our speakers come from diverse corners of the field and will be discussing how satellite imagery solves a variety of problems.</p> <p>OUR SPEAKERS:</p> <p><b>Max Grossman: </b></p> <p><br/><i>Max Grossman is an undergraduate at George Washington studying Geography and International Affairs.\u00a0</i></p> <p><i>He spent his summer in\u00a0Huntsville, Alabama working for the NASA DEVELOP National\u00a0Program. He will present the landslide susceptibly modeling he and his team at DEVELOP did for Malawi.</i></p> <p><i>Follow this <a href=\"http://earthzine.org/2016/08/11/cloudy-with-a-chance-of-landslides/\">link</a>\u00a0for a preview.</i></p> <p><b>Kevin Dobbs:</b></p> <p><i>Kevin Dobbs will give a brief overview of The International Charter \"Space and Major Disasters.\" \u00a0The Charter is a worldwide collaboration among space agencies through which satellite remote sensing data, and derivative information and products, are made available to support disaster response efforts. The Charter has been operational since November 2000 and currently, the following space agencies worldwide participate in the mechanism: ESA, CNES, CSA, NOAA, CONAE, ISRO, JAXA, USGS, UKSA &amp; DMCii, CNSA, DLR, KARI, INPE, EUMETSAT, and ROSCOSMOS.</i></p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/231584529/", 
             "group": {
                 "created": 1307975249000, 
@@ -220,7 +220,7 @@ calendar({
             "name": "September Meetup: Remote Sensing", 
             "status": "upcoming", 
             "time": 1473289200000, 
-            "updated": 1472233869000, 
+            "updated": 1473205480000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1460389774000, 
@@ -263,7 +263,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1473173760000, 
@@ -303,7 +303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1466889132000, 
@@ -381,7 +381,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1446220149000, 
@@ -409,7 +409,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1468853724000, 
@@ -489,7 +489,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1417881835000, 
@@ -594,7 +594,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1457965726000, 
@@ -622,7 +622,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -717,7 +717,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1467700232000, 
@@ -795,7 +795,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1470324592000, 
@@ -876,7 +876,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1471093735000, 
@@ -947,6 +947,47 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1473195621000, 
+            "description": "<p>Join your fellow data visualizers on Tuesday September 27th at Chief (1800 Massachusetts Ave NW) for How to Succeed in Data Driven Journalism without Going Crazy. Our guest speaker for September will be trans-Atlantic data journalism rock star, Mark McDonald. Mark\u2019s presentation will focus on the data process in journalism, and how the information age has transformed our abilities in storytelling and reporting. I will also appeal to journalists to utilize the big data tools in their work as much as possible, leading to a better informed public. \u00a0</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0b5/17a/1264a57.jpg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Mark McDonald \u00a0</p> <p>8:20 - 8:40 \u2013 Q &amp; A for Mark McDonald</p> <p>8:40 - Data Drinks</p> <p><br/><b>More about Mark McDonald </b></p> <p>A 30 year veteran of the news industry, Mark has defined his career as a news producer by working at the highest levels of international news, starting at the BBC TV News production in the 80s, Mark served the BBC as a World Duty Editor, and in the field in both Western and Eastern Europe, and extensively throughout North and South America. While working for the BBC his work included coverage, both short and long-form, of international politics, five U.S. Presidential elections, battlefield conflict, diplomacy, the United Nations and its agencies, as well as natural and human tragedies.</p> <p>In the 90s Mark made the intrepid voyage across the Atlantic via jet airplane to hold senior management positions with the BBC\u2019s New York Bureau before transferring to US Public Radio, serving senior positions at WNYC in New York, where he built a stellar reporting team that won the Edward R. Murrow Award and the DuPont Columbia Award for investigative reporting. \u00a0After Mark left New York he became Programming Director WAMU in Washington, DC, in this position he brought podcasting, internet streaming, and digital content management to WAMU, expanding the station\u2019s range and increasing the listing base dramatically.</p> <p>Mark is the founder and CEO of Birkdale Media, a boutique media and public relations firm; Birkdale specializes in media coaching, interview preparation, public relations for individuals and for corporations.</p> <p>Above all else, Mark is a champion for data and data visualization in the newsroom and on the air. \u00a0We conducted an interview with him and were really impressed by the passion he displayed for Data Viz \u2013 full text of the interview below:</p> <p><br/>1) What got you into data visualization and how do you think data visualization has enhanced your profession?\u00a0</p> <p><b>Mark: </b>TV and Video Graphics have become so much more sophisticated in the digital age that they can be designed much more quickly, easily, and contain much more useful information for viewers, helping producers to explain complex stories and issues, and put them into better context than ever before. The internet means blogs, news-sites, etc. can contain way more vital information\u00a0and background than they did before - and many organizations are utilizing data to enhance their story-telling, provide background, history, and further detail.\u00a0</p> <p>\n\n\n2) You worked for the BBC, how do you think that working for an international news agency affected your views on data?\u00a0</p> <p><b>Mark:\u00a0</b>In my day (80's and 90's) a sophisticated graphic could take days, even weeks to assemble to be inserted into a news report. New technology speeds this process meaning producers can make much better use of graphics on video and on the web.\u00a0</p> <p>\n\n\n3) How do you see data visualization shaping the future of news media or vice versa how do you see news media shaping the path of data visualization?\u00a0</p> <p><b>Mark:\u00a0</b>It opens up vast new possibilities for journalism. Better analysis, better explanations and details in investigative work (being able to collate and display complex documents, and show how they relate to each other, for instance). The news media in turn can drive the quest for big data using the Freedom of Information legislation on complex stories and issues and making it public utilizing graphics and big data.\u00a0</p> <p>\n\n\n4) How do we make the news - print, media, digital, etc.- Great Again?\u00a0</p> <p><b>Mark:\u00a0</b>By using our imagination about how to tell stories and raise important issues in a more captivating and compelling way, rather than feeding the public cheap consumer-driven news which is often second or third hand.\u00a0</p> <p>\n\n\n5) What international news story from the past decade could have had a different outcome if data visualization was better used in covering it?\u00a0</p> <p><b>Mark:\u00a0</b>Resolution from any conflict zone you care to mention - by using big data to report it more accurately (Iraq, for example) thus raising public awareness.\u00a0</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/233922115/", 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "2nd Floor. Ask the guard to let you up.", 
+            "id": "233922115", 
+            "maybe_rsvp_count": 0, 
+            "name": "Success & Sanity in Data Journalism", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1475015400000, 
+            "updated": 1473195621000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 50
+        }, 
+        {
             "created": 1468853724000, 
             "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop to the event so you can participate in the workshop!</p> <p>Looking for something else to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
@@ -971,7 +1012,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457392514000, 
@@ -1011,7 +1052,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459265642000, 
@@ -1079,7 +1120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1452612310000, 
@@ -1145,13 +1186,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
-            "created": 1460389774000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "created": 1473191008000, 
+            "description": "<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE documentary exposes the dearth of American female and minority software engineers and explores the reasons for this gender gap. What would society gain from having more women and minorities code?</p> <p>Join Dev Bootcamp and Women Who Code DC at the WeWork in Shaw for a screening of the film and conversation with local community members working to increase diversity and gender equity in technology.</p> <p><br/>Snacks Provided. Watch the CODE documentary trailer:</p> <p><a href=\"https://vimeo.com/123004482\" class=\"embedded\">https://vimeo.com/123004482</a></p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233224765/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233920205/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1163,16 +1204,29 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "srrkslyvnbnb", 
+            "id": "233920205", 
             "maybe_rsvp_count": 0, 
-            "name": "Front End Lab", 
+            "name": "CODE Film Screening ", 
+            "rsvp_limit": 80, 
             "status": "upcoming", 
-            "time": 1476138600000, 
-            "updated": 1472237383000, 
+            "time": 1475791200000, 
+            "updated": 1473191008000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "Wonder Bread Factory, 641 S Street NW (shaw metro)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 18875152, 
+                "lat": 38.914546999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.021927000000005, 
+                "name": "WeWork", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1466889163000, 
@@ -1277,7 +1331,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1470699270000, 

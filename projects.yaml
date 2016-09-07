@@ -112,9 +112,9 @@
   pushed_at: '2016-08-31T05:43:07Z'
   short_name: districthousing
   size: 21881
-  updated_at: '2016-08-06T13:57:31Z'
-  watchers: 31
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0,
+  updated_at: '2016-09-06T21:58:44Z'
+  watchers: 32
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0,
     0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -980,7 +980,7 @@
   size: 732
   updated_at: '2015-07-09T21:26:46Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1251,7 +1251,7 @@
   size: 3924
   updated_at: '2016-05-08T17:22:49Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1336,7 +1336,7 @@
   size: 4
   updated_at: '2016-08-20T13:24:14Z'
   watchers: 2
-- activity: [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0,
+- activity: [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
@@ -1419,7 +1419,7 @@
   size: 245
   updated_at: '2016-03-14T14:58:38Z'
   watchers: 0
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 11, 5,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 13, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1452,9 +1452,9 @@
   size: 1700
   updated_at: '2016-05-08T17:22:36Z'
   watchers: 2
-- activity: [0, 0, 1, 0, 0, 0, 6, 4, 6, 7, 15, 0, 0, 9, 6, 8, 39, 2, 17, 9, 15, 10,
-    71, 48, 26, 51, 73, 38, 42, 48, 28, 27, 30, 28, 39, 16, 28, 95, 56, 56, 32, 71,
-    98, 95, 8, 39, 37, 73, 35, 128, 10, 20]
+- activity: [0, 0, 1, 0, 0, 0, 6, 4, 13, 9, 6, 0, 7, 2, 11, 4, 40, 7, 10, 20, 4, 21,
+    73, 51, 14, 48, 83, 27, 53, 38, 39, 23, 22, 46, 22, 19, 33, 94, 49, 56, 34, 75,
+    91, 96, 9, 47, 40, 67, 37, 119, 18, 12]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: c3flemin@gmail.com, name: Colin Fleming, url: 'http://twitter.com/ridethecatbus'}
@@ -1565,7 +1565,7 @@
   updated_at: '2016-09-02T01:08:36Z'
   watchers: 15
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
   civic_json: null
@@ -1792,7 +1792,7 @@
   size: 3
   updated_at: '2016-05-08T17:22:58Z'
   watchers: 4
-- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+- activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1837,7 +1837,7 @@
   updated_at: '2016-02-09T01:18:54Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 7, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 5, 2, 4, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
@@ -1890,7 +1890,7 @@
   default_branch: master
   description: Evaluate how a change in rent stabilization policy would affect rental
     properties in the District.
-  forks: 5
+  forks: 4
   help_wanted: []
   homepage: null
   html_url: https://github.com/codefordc/rent-stabilization
@@ -1910,8 +1910,8 @@
   updated_at: '2016-08-21T23:39:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 5, 0, 0, 6, 0, 0, 13,
-    44, 5, 49]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 5, 0, 0, 6, 0, 0, 20,
+    37, 5, 57]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: alexandra.ulsh@gmail.com, name: Alex Ulsh}
@@ -1933,11 +1933,11 @@
     tags: [Data visualization, mapping, biking, bike lanes, DC, WABA]
     type: Website
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 102,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/10409657?v=3', contributions: 105,
     link: 'https://github.com/alulsh', name: alulsh}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/117248?v=3', contributions: 12,
     link: 'https://github.com/mdelcambre', name: mdelcambre}
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/13531063?v=3', contributions: 9,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/13531063?v=3', contributions: 11,
     link: 'https://github.com/alongthepike', name: alongthepike}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/10157094?v=3', contributions: 9,
     link: 'https://github.com/tomBeach', name: tomBeach}
@@ -2013,17 +2013,17 @@
   html_url: https://github.com/dcfemtech/hackforgood-waba-map
   id: 61846251
   languages:
-  - [JavaScript, 32095]
+  - [JavaScript, 32519]
   - [HTML, 4855]
   - [CSS, 3801]
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: JavaScript
   name: WABA Regional Bike Map
-  open_issues: 26
+  open_issues: 25
   owner: {avatar: 'https://avatars.githubusercontent.com/u/7329613?v=3', name: dcfemtech,
     type: Organization, url: 'https://github.com/dcfemtech'}
-  pushed_at: '2016-09-06T17:49:51Z'
+  pushed_at: '2016-09-06T21:54:05Z'
   short_name: hackforgood-waba-map
-  size: 26412
+  size: 26421
   updated_at: '2016-09-02T02:51:58Z'
   watchers: 6

@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 other:
 - created: 1472568161000
   description: "<p>Good weather is beginning to arrive and with it, <b>perfect</b>\
@@ -67,7 +67,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 78
 - created: 1465422954000
   description: "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data\
     \ visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"\
@@ -207,12 +207,19 @@ other:
     \ more.</p> <p>This month, we are exploring the world of remote sensing across\
     \ the industry. Our speakers come from diverse corners of the field and will be\
     \ discussing how satellite imagery solves a variety of problems.</p> <p>OUR SPEAKERS:</p>\
-    \ <p>Max Grossman:</p> <p>\n\n\n\n<i>Max Grossman is an undergraduate at George\
-    \ Washington studying Geography and International Affairs.\_</i></p> <p><i>He\
+    \ <p><b>Max Grossman: </b></p> <p><br/><i>Max Grossman is an undergraduate at\
+    \ George Washington studying Geography and International Affairs.\_</i></p> <p><i>He\
     \ spent his summer in\_Huntsville, Alabama working for the NASA DEVELOP National\_\
     Program. He will present the landslide susceptibly modeling he and his team at\
     \ DEVELOP did for Malawi.</i></p> <p><i>Follow this <a href=\"http://earthzine.org/2016/08/11/cloudy-with-a-chance-of-landslides/\"\
-    >link</a>\_for a preview.</i></p>"
+    >link</a>\_for a preview.</i></p> <p><b>Kevin Dobbs:</b></p> <p><i>Kevin Dobbs\
+    \ will give a brief overview of The International Charter \"Space and Major Disasters.\"\
+    \ \_The Charter is a worldwide collaboration among space agencies through which\
+    \ satellite remote sensing data, and derivative information and products, are\
+    \ made available to support disaster response efforts. The Charter has been operational\
+    \ since November 2000 and currently, the following space agencies worldwide participate\
+    \ in the mechanism: ESA, CNES, CSA, NOAA, CONAE, ISRO, JAXA, USGS, UKSA &amp;\
+    \ DMCii, CNSA, DLR, KARI, INPE, EUMETSAT, and ROSCOSMOS.</i></p>"
   event_url: http://www.meetup.com/Geo-DC/events/231584529/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -223,14 +230,14 @@ other:
   name: 'September Meetup: Remote Sensing'
   status: upcoming
   time: 1473289200000
-  updated: 1472233869000
+  updated: 1473205480000
   utc_offset: -14400000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 76
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -272,7 +279,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 63
 - created: 1473173760000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -304,7 +311,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -368,7 +375,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 11
 - created: 1446220149000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills.\_ Most of us are beginners and each meet up is geared for\
@@ -400,7 +407,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -479,7 +486,7 @@ other:
     name: 'Development Seed ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 2
+  yes_rsvp_count: 36
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -565,7 +572,7 @@ other:
     name: The Wireless Registry @ MakeOffices, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -608,7 +615,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -706,7 +713,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1467700232000
   description: "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\"\
     >Eventbrite</a> to attend. Register early - the event will fill up.</p> <p>Join\
@@ -789,7 +796,7 @@ other:
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
@@ -946,7 +953,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1471093735000
   description: "<p>IBM's Watson became a household name when it defeated two human\
     \ champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>.\
@@ -1037,6 +1044,99 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1473195621000
+  description: "<p>Join your fellow data visualizers on Tuesday September 27th at\
+    \ Chief (1800 Massachusetts Ave NW) for How to Succeed in Data Driven Journalism\
+    \ without Going Crazy. Our guest speaker for September will be trans-Atlantic\
+    \ data journalism rock star, Mark McDonald. Mark\u2019s presentation will focus\
+    \ on the data process in journalism, and how the information age has transformed\
+    \ our abilities in storytelling and reporting. I will also appeal to journalists\
+    \ to utilize the big data tools in their work as much as possible, leading to\
+    \ a better informed public. \_</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0b5/17a/1264a57.jpg\"\
+    \ /></p> <p><b>Check out our\_<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\"\
+    >Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\"\
+    >Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\"\
+    >We can help</a>.</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\"\
+    \ /></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20\
+    \ \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Mark McDonald\
+    \ \_</p> <p>8:20 - 8:40 \u2013 Q &amp; A for Mark McDonald</p> <p>8:40 - Data\
+    \ Drinks</p> <p><br/><b>More about Mark McDonald </b></p> <p>A 30 year veteran\
+    \ of the news industry, Mark has defined his career as a news producer by working\
+    \ at the highest levels of international news, starting at the BBC TV News production\
+    \ in the 80s, Mark served the BBC as a World Duty Editor, and in the field in\
+    \ both Western and Eastern Europe, and extensively throughout North and South\
+    \ America. While working for the BBC his work included coverage, both short and\
+    \ long-form, of international politics, five U.S. Presidential elections, battlefield\
+    \ conflict, diplomacy, the United Nations and its agencies, as well as natural\
+    \ and human tragedies.</p> <p>In the 90s Mark made the intrepid voyage across\
+    \ the Atlantic via jet airplane to hold senior management positions with the BBC\u2019\
+    s New York Bureau before transferring to US Public Radio, serving senior positions\
+    \ at WNYC in New York, where he built a stellar reporting team that won the Edward\
+    \ R. Murrow Award and the DuPont Columbia Award for investigative reporting. \_\
+    After Mark left New York he became Programming Director WAMU in Washington, DC,\
+    \ in this position he brought podcasting, internet streaming, and digital content\
+    \ management to WAMU, expanding the station\u2019s range and increasing the listing\
+    \ base dramatically.</p> <p>Mark is the founder and CEO of Birkdale Media, a boutique\
+    \ media and public relations firm; Birkdale specializes in media coaching, interview\
+    \ preparation, public relations for individuals and for corporations.</p> <p>Above\
+    \ all else, Mark is a champion for data and data visualization in the newsroom\
+    \ and on the air. \_We conducted an interview with him and were really impressed\
+    \ by the passion he displayed for Data Viz \u2013 full text of the interview below:</p>\
+    \ <p><br/>1) What got you into data visualization and how do you think data visualization\
+    \ has enhanced your profession?\_</p> <p><b>Mark: </b>TV and Video Graphics have\
+    \ become so much more sophisticated in the digital age that they can be designed\
+    \ much more quickly, easily, and contain much more useful information for viewers,\
+    \ helping producers to explain complex stories and issues, and put them into better\
+    \ context than ever before. The internet means blogs, news-sites, etc. can contain\
+    \ way more vital information\_and background than they did before - and many organizations\
+    \ are utilizing data to enhance their story-telling, provide background, history,\
+    \ and further detail.\_</p> <p>\n\n\n2) You worked for the BBC, how do you think\
+    \ that working for an international news agency affected your views on data?\_\
+    </p> <p><b>Mark:\_</b>In my day (80's and 90's) a sophisticated graphic could\
+    \ take days, even weeks to assemble to be inserted into a news report. New technology\
+    \ speeds this process meaning producers can make much better use of graphics on\
+    \ video and on the web.\_</p> <p>\n\n\n3) How do you see data visualization shaping\
+    \ the future of news media or vice versa how do you see news media shaping the\
+    \ path of data visualization?\_</p> <p><b>Mark:\_</b>It opens up vast new possibilities\
+    \ for journalism. Better analysis, better explanations and details in investigative\
+    \ work (being able to collate and display complex documents, and show how they\
+    \ relate to each other, for instance). The news media in turn can drive the quest\
+    \ for big data using the Freedom of Information legislation on complex stories\
+    \ and issues and making it public utilizing graphics and big data.\_</p> <p>\n\
+    \n\n4) How do we make the news - print, media, digital, etc.- Great Again?\_</p>\
+    \ <p><b>Mark:\_</b>By using our imagination about how to tell stories and raise\
+    \ important issues in a more captivating and compelling way, rather than feeding\
+    \ the public cheap consumer-driven news which is often second or third hand.\_\
+    </p> <p>\n\n\n5) What international news story from the past decade could have\
+    \ had a different outcome if data visualization was better used in covering it?\_\
+    </p> <p><b>Mark:\_</b>Resolution from any conflict zone you care to mention -\
+    \ by using big data to report it more accurately (Iraq, for example) thus raising\
+    \ public awareness.\_</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"\
+    http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p>\
+    \ <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\"\
+    \ /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\"\
+    \ /></p>"
+  duration: 9000000
+  event_url: http://www.meetup.com/Data-Visualization-DC/events/233922115/
+  group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 6957082, join_mode: open, name: Data Visualization DC, urlname: Data-Visualization-DC,
+    who: Data Visualizers}
+  headcount: 0
+  how_to_find_us: 2nd Floor. Ask the guard to let you up.
+  id: '233922115'
+  maybe_rsvp_count: 0
+  name: Success & Sanity in Data Journalism
+  rsvp_limit: 200
+  status: upcoming
+  time: 1475015400000
+  updated: 1473195621000
+  utc_offset: -14400000
+  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
+    id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
+    name: CHIEF, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 50
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -1078,7 +1178,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1128,7 +1228,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1190,7 +1290,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1253,49 +1353,36 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
-- created: 1460389774000
-  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
-    \ together and help each other learn and understand web development. We welcome\
-    \ devs of all levels and encourage those with more experience to help out those\
-    \ that are just starting. There's always at least one mentor or leader present\
-    \ to help you with best practices or to guide you through if you are stuck with\
-    \ a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN,\
-    \ please bring your laptop. Extra computers will not be available at the event.\
-    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
-    \ Agenda Every study group will have the following format:<br/>\u2022 6:30pm -\
-    \ Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 -\
-    \ 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To\
-    \ learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
-    \ Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\"\
-    \ class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\_\u2022 HTML Study\
-    \ Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\"\
-    \ class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\_\u2022 JavaScript\
-    \ Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\"\
-    \ class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\_Building Access</p>\
-    \ <p>Certain building management companies require Meetup hosts to let people\
-    \ in and do not encourage them being contacted. Please respect the policy. In\
-    \ case the location requires access to the building, contact the group lead if\
-    \ information is provided or drop a comment on the Meetup page. We'll come and\
-    \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
+  yes_rsvp_count: 4
+- created: 1473191008000
+  description: '<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE
+    documentary exposes the dearth of American female and minority software engineers
+    and explores the reasons for this gender gap. What would society gain from having
+    more women and minorities code?</p> <p>Join Dev Bootcamp and Women Who Code DC
+    at the WeWork in Shaw for a screening of the film and conversation with local
+    community members working to increase diversity and gender equity in technology.</p>
+    <p><br/>Snacks Provided. Watch the CODE documentary trailer:</p> <p><a href="https://vimeo.com/123004482"
+    class="embedded">https://vimeo.com/123004482</a></p>'
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233224765/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233920205/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
-  id: srrkslyvnbnb
+  id: '233920205'
   maybe_rsvp_count: 0
-  name: Front End Lab
+  name: 'CODE Film Screening '
+  rsvp_limit: 80
   status: upcoming
-  time: 1476138600000
-  updated: 1472237383000
+  time: 1475791200000
+  updated: 1473191008000
   utc_offset: -14400000
+  venue: {address_1: 'Wonder Bread Factory, 641 S Street NW (shaw metro)', city: Washington,
+    country: us, id: 18875152, lat: 38.914546999999999, localized_country_name: USA,
+    lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 40
 - created: 1466889163000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -1397,7 +1484,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
