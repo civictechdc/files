@@ -1,7 +1,7 @@
 calendar({
     "codefordc": [
         {
-            "announced": false, 
+            "announced": true, 
             "created": 1467850198000, 
             "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 178
+            "yes_rsvp_count": 157
         }, 
         {
             "created": 1446219481000, 
@@ -104,7 +104,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1473287400000, 
-            "updated": 1472237363000, 
+            "updated": 1473287396000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1 Thomas Circle", 
@@ -119,8 +119,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
-            "yes_rsvp_count": 50
+            "waitlist_count": 11, 
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1452612310000, 
@@ -159,7 +159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
@@ -198,7 +198,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1460389774000, 
@@ -387,7 +387,7 @@ calendar({
         }, 
         {
             "created": 1473035394000, 
-            "description": "<p>Our workflows are, with few exceptions, entirely digital. This is fantastic for productivity, accuracy, and a million other reasons- but by building in the same tools we risk uniformity in output. There are endless ways to make something look custom, but one of the best is to simply incorporate illustrative elements- whether they be a hand drawn pattern, icon marker, or classic marginalia.</p> <p>Sometimes it's nice to take a break from the digital screens of our lives and bust out the pen and paper. Join us for an evening of drawing and tracing beautiful maps at this special Maptime.</p> <p>Dylan will go over when illustrative embellishments are appropriate, and some techniques he's found useful for bringing handy work to the digital world. If you have hesitations based on self perceived art skills, please don't let that discourage you! There is still a lot you can do, we promise.</p> <p>Inspiration and some preview activities can be <a href=\"https://github.com/ddai/hand-drawn-maps.\">found here</a>.\u00a0Some art supplies will be available including colored pencils, markers, and paper, but please bring your own if you have some or if you'd like to work with a different medium. All tools and folks welcome :)</p>", 
+            "description": "<p>Our workflows are, with few exceptions, entirely digital. This is fantastic for productivity, accuracy, and a million other reasons- but by building in the same tools we risk uniformity in output. There are endless ways to make something look custom, but one of the best is to simply incorporate illustrative elements- whether they be a hand drawn pattern, icon marker, or classic marginalia.</p> <p>Sometimes it's nice to take a break from the digital screens of our lives and bust out the pen and paper. Join us for an evening of drawing and tracing beautiful maps at this special Maptime.</p> <p>Dylan will go over when illustrative embellishments are appropriate, and some techniques he's found useful for bringing handy work to the digital world. If you have hesitations based on self perceived art skills, please don't let that discourage you! There is still a lot you can do, we promise.</p> <p>Inspiration and some preview activities can be <a href=\"https://github.com/ddai/hand-drawn-maps\">found here</a>.\u00a0Some art supplies will be available including colored pencils, markers, and paper, but please bring your own if you have some or if you'd like to work with a different medium. All tools and folks welcome :)</p>", 
             "event_url": "http://www.meetup.com/Maptime-DC/events/233877167/", 
             "group": {
                 "created": 1399208438000, 
@@ -407,7 +407,7 @@ calendar({
             "rsvp_limit": 40, 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1473263447000, 
+            "updated": 1473282246000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1226 9th Street NW Second Floor Washington, DC 20001", 
@@ -422,7 +422,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 9, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -462,7 +462,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1471287239000, 
@@ -740,7 +740,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -862,7 +862,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1459265642000, 
@@ -931,7 +931,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1468853724000, 
@@ -1040,7 +1040,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1459265642000, 
@@ -1108,7 +1108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1452612310000, 
@@ -1226,7 +1226,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1460389774000, 
@@ -1331,7 +1331,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1472497385000, 
@@ -1358,7 +1358,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1470699270000, 
@@ -1396,7 +1396,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1467704208000, 

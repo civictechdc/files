@@ -6014,7 +6014,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/10409657?v=3", 
-                "contributions": 105, 
+                "contributions": 108, 
                 "link": "https://github.com/alulsh", 
                 "name": "alulsh"
             }, 
@@ -6099,24 +6099,6 @@ projects([
         "help_wanted": [
             {
                 "assignee": null, 
-                "body": "There are numerous `console.log` error messages for network (AJAX call) failures introduced in https://github.com/dcfemtech/hackforgood-waba-map/pull/78. There are also error messages for when data fails to load.\r\n\r\nThese errors currently use `console.log` statements instead of producing an error message in the UI. This is great for developers, but not so great for our target audience (who are *not* developers). We should instead use relatively unobtrusive modal dialogs (not annoying alert boxes) to display friendly error messages when data fails to load or other errors occur).\r\n\r\nSee my line note in https://github.com/dcfemtech/hackforgood-waba-map/pull/78#discussion_r74947183 for an example. ", 
-                "comments": 4, 
-                "created_at": "2016-08-17T04:03:18Z", 
-                "issue": "User-friendly errors in the UI instead of console.log errors", 
-                "issue_url": "https://github.com/dcfemtech/hackforgood-waba-map/issues/87", 
-                "labels": [
-                    {
-                        "color": "128A0C", 
-                        "name": "help wanted", 
-                        "url": "https://api.github.com/repos/dcfemtech/hackforgood-waba-map/labels/help%20wanted"
-                    }
-                ], 
-                "project": "WABA Regional Bike Map", 
-                "project_url": "https://github.com/dcfemtech/hackforgood-waba-map", 
-                "updated_at": "2016-08-18T01:27:36Z"
-            }, 
-            {
-                "assignee": null, 
                 "body": "As we create more issues and write more code to this project it will take more time and it will be tougher to manually test our code in the browser for common actions such as selecting buffers and bikelanes.\r\n\r\nTesting client-side JavaScript is notoriously unpleasant compared to testing server-side code, but I'm open to someone writing client-side tests with [mocha-phantomjs](https://github.com/nathanboktae/mocha-phantomjs) so that they can be run from the command line using `npm test` and automated with Travis CI. \r\n\r\nThis isn't something we need to do, but if someone loves writing client-side JavaScript tests (or wants to learn) this is a great opportunity to write some!\r\n\r\nFor reference, I wrote some simple [Jasmine-based tests](https://github.com/alulsh/Pig-Latin-Translator/blob/master/tests/spec/pigLatinTests.js) in my [Pig Latin Translator side project](https://github.com/alulsh/Pig-Latin-Translator) (cringing at the amount of whitespace in those tests right now \ud83d\ude31 ). Mapbox.js also uses mocha-phantomjs and has a comprehensive set of [specs](https://github.com/mapbox/mapbox.js/tree/mb-pages/test/spec) to look at.", 
                 "comments": 0, 
                 "created_at": "2016-08-17T03:40:25Z", 
@@ -6165,16 +6147,16 @@ projects([
         }, 
         "main_language": "JavaScript", 
         "name": "WABA Regional Bike Map", 
-        "open_issues": 25, 
+        "open_issues": 22, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/7329613?v=3", 
             "name": "dcfemtech", 
             "type": "Organization", 
             "url": "https://github.com/dcfemtech"
         }, 
-        "pushed_at": "2016-09-07T03:50:25Z", 
+        "pushed_at": "2016-09-07T19:34:58Z", 
         "short_name": "hackforgood-waba-map", 
-        "size": 26459, 
+        "size": 28364, 
         "updated_at": "2016-09-02T02:51:58Z", 
         "watchers": 6
     }
