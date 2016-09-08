@@ -39,167 +39,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 48
         }
     ], 
     "other": [
-        {
-            "created": 1465422954000, 
-            "description": "<p>Bike Hack Night is a show &amp; tell of bicycle-related apps, data visualizations, and gadgets. We are thrilled to be co-sponsored by <a href=\"https://www.rei.com/\">REI</a>, which has invited us to the <a href=\"http://wundergartendc.com/rei/\">REI Community Space at Wunder Garten</a>\u00a0as part of the #<a href=\"http://unitedoutside.com/\">unitedoutside</a>\u00a0celebration. And thanks to co-sponsor <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for making this event possible. REI will be providing s'mores, and beer will be available for purchase. At this point we are not expecting a food truck on premises, but you are welcome to bring your own food.</p> <p>Doors open at 6:00. Speakers begin at 6:30. Because we're expecting a large crowd, consider bringing a laptop or tablet to follow along with the presentations. We'll link to them from <a href=\"http://bit.ly/bike6\">bit.ly/bike6</a>. We have seven presentations:</p> <p>\u2022\u00a0Ryan Abrahamsen will show how\u00a0<a href=\"http://terrain360.com/\">Terrain360</a>\u00a0maps bike trails to panoramic images.\u00a0</p> <p>\u2022\u00a0<a href=\"http://ebrelsford.github.io/\">Eric Brelsford</a> will show you how to get your city's bike lanes into <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> and talk about why you would want to.</p> <p><br/>\u2022 James Graham will present <a href=\"http://ddot.dc.gov/\">DDOT</a>'s\u00a0new GIS street data, and bicycling Level of Traffic Stress analysis.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/DataLensDC\">Kate Rabinowitz</a>\u00a0will dig into <a href=\"https://www.washingtonian.com/2016/05/24/bike-to-work-day-2016-by-the-numbers/\">Bike to Work Day 2016, By the Numbers</a>.</p> <p><br/>\u2022\u00a0<a href=\"http://www.alexandraulsh.com/\">Alexandra Ulsh</a>, Nelle Pierson, and <a href=\"http://alongthepike.com/\">Chris Slatt</a> will show how <a href=\"https://dcfemtech.github.io/\">DCFemTech</a> and <a href=\"http://codefordc.org/\">Code for DC</a>\u00a0built a <a href=\"https://dcfemtech.github.io/hackforgood-waba-map/\">map</a> for <a href=\"http://www.waba.org/\">WABA</a> showing proximity to\u00a0bike infrastructure.</p> <p>\u2022\u00a0Justin Molineaux of\u00a0<a href=\"http://baasbikes.com/\">Baas Bikes</a>\u00a0will show how smartphones can create low-cost, data-rich bikeshare systems.\u00a0</p> <p>\u2022\u00a0<a href=\"https://twitter.com/tjl\">Tom Lee</a>\u00a0will show how he\u00a0collected bike safety data using ultrasonic sensors, ESP8266 wifi microcontrollers and smartphones.\u00a0</p> <p>Thanks to\u00a0<a href=\"http://wundergartendc.com/\">Wunder Garten</a>\u00a0and\u00a0Google for our speaker swag.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/3/7/d/7/600_451334295.jpeg\" /></p> <p>See what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/228155655/\">Bike Hack Night V</a>: \u00a0<a href=\"http://mobilitylab.org/2016/03/11/techies-piecing-together-bike-data/\">Piecing together data to improve biking in DC</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23bikehacknight\">#bikehacknight</a>.\u00a0Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates.</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/231755172/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -76.989997863769531, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies \ud83d\udeb2", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "231755172", 
-            "maybe_rsvp_count": 0, 
-            "name": "Bike Hack Night VI", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1473285600000, 
-            "updated": 1473216040000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "corner of 1st & L NE", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24599103, 
-                "lat": 38.903556999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.005660000000006, 
-                "name": "REI Community Space at Wunder Garten", 
-                "repinned": true, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 157
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387928/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pdkzrlyvmbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Beginners Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1473287400000, 
-            "updated": 1473287396000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1 Thomas Circle", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24416213, 
-                "lat": 38.905323000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.032700000000006, 
-                "name": "Fiscal Note", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 11, 
-            "yes_rsvp_count": 51
-        }, 
-        {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228457104/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "cjdtnlyvmbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Beginners Night!", 
-            "status": "upcoming", 
-            "time": 1473287400000, 
-            "updated": 1473182615000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1341 G St NW Washington, DC 20005", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24728607, 
-                "lat": 38.898578999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.031531999999999, 
-                "name": "The Iron Yard", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 35
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>This month, we are exploring the world of remote sensing across the industry. Our speakers come from diverse corners of the field and will be discussing how satellite imagery solves a variety of problems.</p> <p>OUR SPEAKERS:</p> <p><b>Max Grossman: </b></p> <p><br/><i>Max Grossman is an undergraduate at George Washington studying Geography and International Affairs.\u00a0</i></p> <p><i>He spent his summer in\u00a0Huntsville, Alabama working for the NASA DEVELOP National\u00a0Program. He will present the landslide susceptibly modeling he and his team at DEVELOP did for Malawi.</i></p> <p><i>Follow this <a href=\"http://earthzine.org/2016/08/11/cloudy-with-a-chance-of-landslides/\">link</a>\u00a0for a preview.'</i></p> <p><b>Yoshi Arakawa:</b></p> <p><i>Solution Architect and Program Manager at DigitalGlobe with 13+ years of Commercial Satellite Remote Sensing experience.\u00a0 He will be showcasing satellite imagery of flooding in Louisiana. </i></p> <p><br/><b>Kevin Dobbs:</b></p> <p><i>Kevin Dobbs will give a brief overview of The International Charter \"Space and Major Disasters.\" \u00a0The Charter is a worldwide collaboration among space agencies through which satellite remote sensing data, and derivative information and products, are made available to support disaster response efforts. The Charter has been operational since November 2000 and currently, the following space agencies worldwide participate in the mechanism: ESA, CNES, CSA, NOAA, CONAE, ISRO, JAXA, USGS, UKSA &amp; DMCii, CNSA, DLR, KARI, INPE, EUMETSAT, and ROSCOSMOS.</i></p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/231584529/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcyvmbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "September Meetup: Remote Sensing", 
-            "status": "upcoming", 
-            "time": 1473289200000, 
-            "updated": 1473265878000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1602 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24181227, 
-                "lat": 38.916733000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.037186000000005, 
-                "name": "Local 16", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 77
-        }, 
         {
             "created": 1460389774000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
@@ -225,7 +68,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1473173760000, 
@@ -265,7 +108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1466889132000, 
@@ -303,7 +146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1459265642000, 
@@ -343,7 +186,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1468853724000, 
@@ -422,7 +265,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -462,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1471287239000, 
@@ -624,7 +467,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1468853724000, 
@@ -862,7 +705,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1459265642000, 
@@ -931,7 +774,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1468853724000, 
@@ -1040,7 +883,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1459265642000, 
@@ -1072,7 +915,7 @@ calendar({
         }, 
         {
             "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226817465/", 
             "group": {
@@ -1086,13 +929,12 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "pdkzrlyvnbhb", 
+            "id": "gqfsxlyvnbhb", 
             "maybe_rsvp_count": 0, 
             "name": "Python Beginners Night", 
-            "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1475706600000, 
-            "updated": 1472237363000, 
+            "updated": 1473301049000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1 Thomas Circle", 
@@ -1226,7 +1068,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1460389774000, 
@@ -1291,7 +1133,35 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvnbpb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1476225000000, 
+            "updated": 1472237272000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1417881835000, 
@@ -1331,7 +1201,34 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
+        }, 
+        {
+            "created": 1468853724000, 
+            "description": "<p><b>Come work on that coding project you've been neglecting, or those coding challenges you've been working through--or just bring your questions!</b></p> <p><b>This night is open to all coding languages, but the leads will have a focus on Rails.\u00a0They can also answer questions on Angular JS and front-end languages.</b></p> <p><b><br/></b></p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233734789/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "xvsfwlyvnbqb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Open Lab Night (with Ruby on Rails Team)", 
+            "status": "upcoming", 
+            "time": 1476311400000, 
+            "updated": 1472237304000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1472497385000, 
@@ -1358,7 +1255,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1470699270000, 
