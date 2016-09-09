@@ -79,7 +79,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1473173760000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -111,7 +111,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 29
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -175,7 +175,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -214,7 +214,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1473035394000
   description: "<p>Our workflows are, with few exceptions, entirely digital. This\
     \ is fantastic for productivity, accuracy, and a million other reasons- but by\
@@ -253,7 +253,7 @@ other:
     country: us, id: 24224999, lat: 38.912067, localized_country_name: USA, lon: -77.019019999999998,
     name: 'Development Seed ', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 17
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>Matthew Purdy is a technology minded business person.\_ As CEO\
@@ -298,7 +298,7 @@ other:
     name: ByteCubed, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 89
 - created: 1471287239000
   description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
@@ -470,7 +470,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -591,7 +591,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 14
+  waitlist_count: 15
   yes_rsvp_count: 30
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -652,7 +652,6 @@ other:
     \ Work: Another Android Headache</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/3/5/600_453419445.jpeg\"\
     \ /></p> <p>\u2022 \_<b>Annyce Davis</b> (Off Grid Electric) - <i>Say It With\
     \ Video!</i></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\"\
-    \ /></p> <p>\u2022 Andrew Mitry (Walmart)\_</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/a/0/600_453259872.jpeg\"\
     \ /></p> <p><b>\u2022\_\_Mark Brown (Department of Commerce)</b></p> <p><img src=\"\
     http://photos4.meetupstatic.com/photos/event/4/d/8/1/600_453259841.jpeg\" /></p>\
     \ <p><b>\u2022\_Michael Brown (comScore)\_</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/d/5/2/600_453259794.jpeg\"\
@@ -695,7 +694,7 @@ other:
   rsvp_limit: 97
   status: upcoming
   time: 1474633800000
-  updated: 1472735849000
+  updated: 1473389280000
   utc_offset: -14400000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
@@ -809,7 +808,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 106
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -932,7 +931,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 92
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -1359,7 +1358,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 70
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1431,7 +1430,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
