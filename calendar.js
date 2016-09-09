@@ -68,7 +68,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1473173760000, 
@@ -108,7 +108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1466889132000, 
@@ -146,7 +146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1459265642000, 
@@ -270,7 +270,7 @@ calendar({
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
+            "description": "<p>Matthew Purdy is a technology minded business person.\u00a0 As CEO of a local software engineering services company with a focus on big data, his role is to grow his business through relationships.\u00a0 As a software engineer, his every day job requires handling very large data with interesting restraints and complexity.</p> <p>Matt has close to 20 years experience with many different language, software platforms, and distributed systems.\u00a0 His current focus has been big data using Hadoop, Accumulo, and Spark; however, he is alway interested in learning new technologies and listening to others to find better ideas to handle complex problems.</p> <p><b>Spark and Accumulo: handling really big data</b></p> <p>The primary focus of data science is the understanding of data. As data gets large and complex, more work needs to be done to do the bookkeeping.\u00a0 Apache Accumulo is an implementation of Google\u2019s big table with the focus on large scale and security.\u00a0 Apache Spark is the next generation compute platform. Both Accumulo and Spark can be used on Hadoop file system (HDFS). Both technologies together become a great way to do ETL first, and follow up with analytics using Sparks MLlib or GraphX.</p> <p>The goal of this presentation is to add new tools to the the data scientist toolbox. We will go through the benefits of using Accumulo and Spark as a custom data analytic platform and provide with some simple examples to ease processing.\u00a0 Once you know the basics, you can leverage any of your data analytic skills to build on top of a solid platform.</p> <p>\n\n\nMeetup Agenda</p> <p>\n\n\n\n6:30 - 7:00 \u00a0Food, drinks and meeting new people\u00a0</p> <p><br/>7:00 - 7:15 \u00a0Introduction and announcements\u00a0</p> <p><br/>7:15 - 8:30 \u00a0Presentation and Q&amp;A</p> <p>\n\n\n8:30 \u00a0After-Meetup gathering at <a href=\"http://highlinerxr.com/\">Highline</a>\u00a0Crystal City</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934861/", 
             "group": {
@@ -289,7 +289,7 @@ calendar({
             "name": "September Meetup - Machine Learning and Graph Processing on Accumulo w/ Spark", 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1473348345000, 
+            "updated": 1473372831000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Drive, suite 401, 22202", 
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1471287239000, 
@@ -463,11 +463,23 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1474497000000, 
-            "updated": 1473340021000, 
+            "updated": 1473360890000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2100 M St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24775651, 
+                "lat": 38.904888, 
+                "localized_country_name": "USA", 
+                "lon": -77.047081000000006, 
+                "name": "Urban Institute", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1468853724000, 
@@ -583,7 +595,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -705,7 +717,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1459265642000, 
@@ -774,7 +786,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1468853724000, 
@@ -883,7 +895,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
@@ -950,7 +962,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1452612310000, 
@@ -1068,7 +1080,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1460389774000, 
@@ -1201,7 +1213,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1468853724000, 
@@ -1255,7 +1267,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1470699270000, 
