@@ -68,7 +68,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1473173760000, 
@@ -265,7 +265,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -305,11 +305,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 104
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1471287239000, 
-            "description": "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers of 10. \u00a0Save $10-35 by registering early.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:00 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:30 -\u00a0Registration &amp; Networking</p> <p>3:45 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>4:45 -\u00a0Networking &amp; Snacks</p> <p>5:00 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:00 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>6:30 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>7:30 -\u00a0Networking &amp; Dessert</p> <p>8:00 -\u00a0Adjourn\u00a0</p> <p><b>Call for Speakers</b></p> <p><br/>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "description": "<p>NOTE: This event will be rescheduled to October. Check back Monday afternoon 9/12 for details.</p> <p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers of 10. \u00a0Save $10-35 by registering early.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:00 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:30 -\u00a0Registration &amp; Networking</p> <p>3:45 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>4:45 -\u00a0Networking &amp; Snacks</p> <p>5:00 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:00 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>6:30 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>7:30 -\u00a0Networking &amp; Dessert</p> <p>8:00 -\u00a0Adjourn\u00a0</p> <p><b>Call for Speakers</b></p> <p><br/>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
             "group": {
                 "created": 1189804715000, 
@@ -327,7 +327,7 @@ calendar({
             "name": "MavenMini: SEO and Search-Friendly Content", 
             "status": "upcoming", 
             "time": 1473966000000, 
-            "updated": 1471288870000, 
+            "updated": 1473628631000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -595,7 +595,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -681,7 +681,7 @@ calendar({
         }, 
         {
             "created": 1471093735000, 
-            "description": "<p>IBM's Watson became a household name when it defeated two human champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>. Now individual data scientists can develop analytics to harness the power of Watson. Please join us in September to learn about Watson Analytics and how they can be applied to social media.</p> <p>If you would like more information on Watson and Watson Analytics, please <a href=\"https://www-01.ibm.com/events/wwe/grp/grp004.nsf/v17_enrollall?openform&amp;seminar=482P77ES&amp;locale=en_US\">register at IBM</a>.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Watson Analytics for Social Media -\u00a0</i>Alex Hoomis</p> <p>9:00 PM -- Post event drinks</p> <p><b>Talks</b></p> <p><b><i>Watson Analytics for Social Media</i><br/></b></p> <p>As we usher in a new era of work flow, everyday business\u00a0users are leveraging Watson Analytics to become \u2018citizen\u00a0analysts\u2019. We will show how Watson Analytics can explore\u00a0your data, predict drivers and build interactive dashboards\u00a0leveraging cognitive and IBMs best of breed business\u00a0intelligence solutions all in one, easy to use interface. Not\u00a0only is important to make the best business decisions with\u00a0the data inside your org, what is going outside of your\u00a0walls? Watson Analytics for Social Media aggregates and\u00a0matches data from the over 30,000 sources like the\u00a0world\u2019s most popular blogs, forums, twitter and Facebook\u00a0to provide users a look far beyond day to day reports. With\u00a0Watson Analytics for Social Media users can leverage\u00a0self-service analytics with our data partnerships to allow\u00a0users to not only see what is being said but then run\u00a0dynamic analytics on it.</p> <p><br/><b>Bring your laptop and get hands on experience by\u00a0starting a Free Trial of IBM Watson Analytics today!</b></p> <p><br/><b>Speakers</b></p> <p><b><a href=\"http://linkedin.com/alexhoomisIBM\">Alex Hoomis</a>, Sales Manager Watson Analytics</b></p> <p>I began my career selling Business Intelligence at IBM that included the full business analytics portfolio. I spent a long time in reporting, predictive and financial planning solutions before moving to Watson Analytics when it went live almost two years ago. I spent the first 18 months as a seller and have now moved to the leadership team. A large part of what I do is working with our sellers and clients in the new age of cognitive cloud computing. I work with clients of all sizes who are looking to leverage SaaS self-service data discovery solutions into their analytics portfolio. Alex can be reached via <a href=\"mailto:[masked]\">email</a>.</p> <p><b>Location</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p>", 
+            "description": "<p>IBM's Watson became a household name when it defeated two human champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>. Now individual data scientists can develop analytics to harness the power of Watson. Please join us in September to learn about Watson Analytics and how they can be applied to social media.</p> <p>If you would like more information on Watson and Watson Analytics, please <a href=\"https://www-01.ibm.com/events/wwe/grp/grp004.nsf/v17_enrollall?openform&amp;seminar=482P77ES&amp;locale=en_US\">register at IBM</a>.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Watson Analytics for Social Media -\u00a0</i>Alex Hoomis</p> <p>9:00 PM -- Post event drinks</p> <p><b>Talks</b></p> <p><b><i>Watson Analytics for Social Media</i><br/></b></p> <p>As we usher in a new era of work flow, everyday business\u00a0users are leveraging Watson Analytics to become \u2018citizen\u00a0analysts\u2019. We will show how Watson Analytics can explore\u00a0your data, predict drivers and build interactive dashboards\u00a0leveraging cognitive and IBMs best of breed business\u00a0intelligence solutions all in one, easy to use interface. Not\u00a0only is important to make the best business decisions with\u00a0the data inside your org, what is going outside of your\u00a0walls? Watson Analytics for Social Media aggregates and\u00a0matches data from the over 30,000 sources like the\u00a0world\u2019s most popular blogs, forums, twitter and Facebook\u00a0to provide users a look far beyond day to day reports. With\u00a0Watson Analytics for Social Media users can leverage\u00a0self-service analytics with our data partnerships to allow\u00a0users to not only see what is being said but then run\u00a0dynamic analytics on it.</p> <p><br/><b>Bring your laptop and get hands on experience by\u00a0starting a Free Trial of IBM Watson Analytics today!</b></p> <p><br/><b>Speakers</b></p> <p><b><a href=\"https://www.linkedin.com/in/alexhoomisibm\">Alex Hoomis</a>, Sales Manager Watson Analytics</b></p> <p>I began my career selling Business Intelligence at IBM that included the full business analytics portfolio. I spent a long time in reporting, predictive and financial planning solutions before moving to Watson Analytics when it went live almost two years ago. I spent the first 18 months as a seller and have now moved to the leadership team. A large part of what I do is working with our sellers and clients in the new age of cognitive cloud computing. I work with clients of all sizes who are looking to leverage SaaS self-service data discovery solutions into their analytics portfolio. Alex can be reached via <a href=\"mailto:[masked]\">email</a>.</p> <p><b>Location</b></p> <p>Park in any open street spots as well as the triangle lot that is outlined in purple. Do not park in spots marked handicap, no parking, or for a specific companies. The X marks the spot of the meetup. We are directly behind the Natty Boh tower on the campus (the building with the big white roof).\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\" /></p>", 
             "duration": 8100000, 
             "event_url": "http://www.meetup.com/Data-Science-MD/events/233328767/", 
             "group": {
@@ -701,7 +701,7 @@ calendar({
             "rsvp_limit": 175, 
             "status": "upcoming", 
             "time": 1474929000000, 
-            "updated": 1471789476000, 
+            "updated": 1473618802000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "3700 O'Donnell Street ", 
@@ -786,7 +786,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 102
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1468853724000, 

@@ -79,7 +79,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 76
 - created: 1473173760000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -254,7 +254,7 @@ other:
     country: us, id: 24224999, lat: 38.912067, localized_country_name: USA, lon: -77.019019999999998,
     name: 'Development Seed ', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 21
+  waitlist_count: 20
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>Matthew Purdy is a technology minded business person.\_ As CEO\
@@ -299,9 +299,10 @@ other:
     name: ByteCubed, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 105
 - created: 1471287239000
-  description: "<p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
+  description: "<p>NOTE: This event will be rescheduled to October. Check back Monday\
+    \ afternoon 9/12 for details.</p> <p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers\
     \ of 10. \_Save $10-35 by registering early.\_</p> <p>A mini-conference focused\
     \ on search, SEO, Google tips &amp; tricks, and how to structure your content\
@@ -335,7 +336,7 @@ other:
   name: 'MavenMini: SEO and Search-Friendly Content'
   status: upcoming
   time: 1473966000000
-  updated: 1471288870000
+  updated: 1473628631000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -595,7 +596,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 19
+  waitlist_count: 22
   yes_rsvp_count: 30
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -777,7 +778,7 @@ other:
     \ data partnerships to allow\_users to not only see what is being said but then\
     \ run\_dynamic analytics on it.</p> <p><br/><b>Bring your laptop and get hands\
     \ on experience by\_starting a Free Trial of IBM Watson Analytics today!</b></p>\
-    \ <p><br/><b>Speakers</b></p> <p><b><a href=\"http://linkedin.com/alexhoomisIBM\"\
+    \ <p><br/><b>Speakers</b></p> <p><b><a href=\"https://www.linkedin.com/in/alexhoomisibm\"\
     >Alex Hoomis</a>, Sales Manager Watson Analytics</b></p> <p>I began my career\
     \ selling Business Intelligence at IBM that included the full business analytics\
     \ portfolio. I spent a long time in reporting, predictive and financial planning\
@@ -805,7 +806,7 @@ other:
   rsvp_limit: 175
   status: upcoming
   time: 1474929000000
-  updated: 1471789476000
+  updated: 1473618802000
   utc_offset: -14400000
   venue: {address_1: '3700 O''Donnell Street ', city: Baltimore, country: us, id: 23668500,
     lat: 39.280602000000002, localized_country_name: USA, lon: -76.565917999999996,
@@ -935,7 +936,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 102
+  yes_rsvp_count: 103
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
