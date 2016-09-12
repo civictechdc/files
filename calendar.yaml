@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 66
 other:
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -79,7 +79,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 69
 - created: 1473173760000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -111,7 +111,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -142,7 +142,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 38
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -176,21 +176,25 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 14
 - created: 1468853724000
-  description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
-    \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
-    \ <p>\u2022 <b>7:15pm - 8:30 pm</b>\_- Open Lab, tech talk, or project</p> <p><b>Contact\
-    \ policy at buildings that need access</b></p> <p>Certain building managements\
-    \ requires meetup hosts to let people in and do not encourage them being contacted.\
-    \ Please respect the policy, in case the location requires access to the building\
-    \ contact the group lead if information is provided, or drop a comment on the\
-    \ meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you\
-    \ are passionate about learning ROR with fellow awesome women and want to help\
-    \ us, come on out! Drop us a message or email us and let us know that you are\
-    \ interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+  description: "<p><b>Come work on that coding project you've been neglecting, or\
+    \ those coding challenges you've been working through--or just bring your questions!This\
+    \ night is open to all coding languages, but the leads will have a focus on Rails.\
+    \ They also know Angular JS and front-end languages.</b></p> <p><br/><b>Meetup\
+    \ Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup and start working</p> <p>\u2022\
+    <b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\_\
+    - Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need\
+    \ access</b></p> <p>Certain building managements requires meetup hosts to let\
+    \ people in and do not encourage them being contacted. Please respect the policy,\
+    \ in case the location requires access to the building contact the group lead\
+    \ if information is provided, or drop a comment on the meetup page. We'll come\
+    \ and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning\
+    \ ROR with fellow awesome women and want to help us, come on out! Drop us a message\
+    \ or email us and let us know that you are interested in helping us with the Rails\
+    \ study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members\
+    \ have been following along, feel free to suggest if you have more to add!</p>\
+    \ <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
     ><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"\
     \ class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p>\
     \ <p>This event is intended to be exclusively open for people who identify as\
@@ -208,7 +212,7 @@ other:
   name: Open Lab Night (with Ruby on Rails Team)
   status: upcoming
   time: 1473892200000
-  updated: 1473117245000
+  updated: 1473693391000
   utc_offset: -14400000
   venue: {address_1: '1445 New York Ave NW,', city: Washington, country: us, id: 6154072,
     lat: 38.899357000000002, localized_country_name: USA, lon: -77.033066000000005,
@@ -254,7 +258,7 @@ other:
     country: us, id: 24224999, lat: 38.912067, localized_country_name: USA, lon: -77.019019999999998,
     name: 'Development Seed ', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 21
+  waitlist_count: 20
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>Matthew Purdy is a technology minded business person.\_ As CEO\
@@ -299,7 +303,7 @@ other:
     name: ByteCubed, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 117
 - created: 1471287239000
   description: "<p>NOTE: This event will be rescheduled to October. Check back Monday\
     \ afternoon 9/12 for details.</p> <p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
@@ -370,7 +374,7 @@ other:
   yes_rsvp_count: 41
 - created: 1473629404000
   description: "<p>For our September Data Science DC Meetup, we are excited to have\
-    \ <b>Majid Aldosari</b>, MS graduate of GMU Computational Science, with a background\
+    \ <b>Majid Al-Dosari</b>, MS graduate of GMU Computational Science, with a background\
     \ in mechanical engineering, join us to speak about unsupervised anomaly detection\
     \ in sequences using long short-term memory recurrent artificial\_neural networks.</p>\
     \ <p>----------------------------\_</p> <p><br/>Sponsored by <b>Statistics.com</b>\_\
@@ -381,9 +385,8 @@ other:
     \ <p>\u2022\_6:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\_\
     7:00pm -- Introduction, Announcements</p> <p>\u2022\_7:15pm -- Presentation and\
     \ Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (Tonic ,\_2036 G St NW)</p>\
-    \ <p><b>Abstract:</b></p> <p><b>Predicting and Understanding Law with Machine\
-    \ Learning</b></p> <p><b>Unsupervised Anomaly Detection in Sequences using Long\
-    \ Short-Term Memory Recurrent Artificial Neural Networks<br/></b></p> <p>Long\
+    \ <p><b>Abstract:</b></p> <p><b>Unsupervised Anomaly Detection in Sequences using\
+    \ Long Short-Term Memory Recurrent Artificial Neural Networks<br/></b></p> <p>Long\
     \ Short Term Memory (LSTM) recurrent neural networks (RNNs) are evaluated for\
     \ their potential to generically detect anomalies in sequences. First, anomaly\
     \ detection techniques are surveyed at a high level so that their shortcomings\
@@ -407,7 +410,7 @@ other:
     \ Such flexibility and automation allows the researcher to be more confident of\
     \ results and more productive, especially when dealing with multiple machines.\_\
     </p> <p><b>Bio:</b></p> <p><br/><b><a href=\"https://about.me/majidaldosari\"\
-    >Majid Aldosari</a></b></p> <p><br/>Majid recently completed his (second) Master's\
+    >Majid Al-Dosari</a></b></p> <p><br/>Majid recently completed his (second) Master's\
     \ degree in Computational Science from George Mason University. Although formally\
     \ trained as a mechanical engineer, his interest in computation began at Vanderbilt\
     \ University where he conducted computationally-expensive simulations of materials\
@@ -434,14 +437,14 @@ other:
   rsvp_limit: 500
   status: upcoming
   time: 1474324200000
-  updated: 1473649204000
+  updated: 1473682821000
   utc_offset: -14400000
-  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 24394445, lat: 38.898685,
-    localized_country_name: USA, lon: -77.049187000000003, name: 'GWU, Funger Hall,
-      Room 415', repinned: false, state: DC}
+  venue: {address_1: 805 21st St. NW, city: Washington, country: us, id: 19222872,
+    lat: 38.899914000000003, localized_country_name: USA, lon: -77.046204000000003,
+    name: GWU Media & Public Affairs Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 60
+  yes_rsvp_count: 111
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -517,7 +520,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -549,7 +552,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -670,7 +673,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 23
+  waitlist_count: 24
   yes_rsvp_count: 30
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -1010,7 +1013,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 109
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -1198,7 +1201,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 25
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1242,7 +1245,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1264,7 +1267,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1473191008000
   description: '<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE
     documentary exposes the dearth of American female and minority software engineers
@@ -1293,7 +1296,7 @@ other:
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 75
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1480,11 +1483,14 @@ other:
   yes_rsvp_count: 4
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
-    \ look at cool tools coders have built that revolve around urban planning. No\
-    \ venue yet!</p> <p>Our speakers thus far are:</p> <p>\u2022\_Jason Wright will\_\
-    demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\_and dive into\_\
-    how the game operates, and discuss future improvements.</p> <p>\u2022\_Metro Planning\
-    \ staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\"\
+    \ look at cool tools coders have built that revolve around transportation and\
+    \ urban planning.\_We'll meet on the 12th floor of\_<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
+    >WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of\
+    \ our sponsor\_<a href=\"https://www.enotrans.org/\">the\_Eno Center for Transportation</a>.\
+    \ Presentations start at 6:30.\_</p> <p>Our speakers thus far are:</p> <p>\u2022\
+    \_Jason Wright will\_demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\_\
+    and dive into\_how the game operates, and discuss future improvements.</p> <p>\u2022\
+    \_Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\"\
     >SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office\
     \ of Planning</a> to forecast ridership from new transit-oriented development\
     \ near rail stations.\_</p> <p>\u2022\_Matt Conway\_will demo <a href=\"http://conveyal.com/\"\
@@ -1492,11 +1498,13 @@ other:
     \ to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\
     \_Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration\
     \ Technology)\_project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\"\
-    >Hays Out of the Box</a> competition.\_</p> <p>Follow <a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a> for \"Transportation Techies\" updates.</p>"
+    >Hays Out of the Box</a> competition.\_</p> <p>Thanks to everyone at <a href=\"\
+    http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this\
+    \ possible.</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\
+    \ for \"Transportation Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/233717422/
   group: {created: 1384372275000, group_lat: 38.909999847412109, group_lon: -76.989997863769531,
-    id: 11092702, join_mode: open, name: "Transportation Techies \U0001F6B2", urlname: Transportation-Techies,
+    id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
   id: '233717422'
@@ -1505,11 +1513,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1476482400000
-  updated: 1473219606000
+  updated: 1473692740000
   utc_offset: -14400000
+  venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
+    lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
+    name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 62
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -1700,11 +1711,11 @@ other:
   name: November Meetup
   status: upcoming
   time: 1478734200000
-  updated: 1459227180000
+  updated: 1473695958000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 0
+  yes_rsvp_count: 1
 - created: 1466889219000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -1789,25 +1800,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/228557398/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclyvqbkb
-  maybe_rsvp_count: 0
-  name: December Meetup
-  status: upcoming
-  time: 1481758200000
-  updated: 1459227202000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1830,44 +1822,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/228557395/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywcbgb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1484177400000
-  updated: 1459227228000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 0
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/228557396/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywdbcb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1485991800000
-  updated: 1417881835000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 0
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1887,25 +1841,6 @@ other:
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywfbcb/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywfbcb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1488411000000
-  updated: 1417881835000
-  utc_offset: -18000000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -1931,25 +1866,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywgbhb/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywgbhb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1491431400000
-  updated: 1417881835000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1972,25 +1888,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/233130270/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywhbfb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1493850600000
-  updated: 1417881835000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 0
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -2010,25 +1907,6 @@ other:
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywjbkb/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywjbkb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1496874600000
-  updated: 1417881835000
-  utc_offset: -14400000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
@@ -2054,25 +1932,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywkbhb/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywkbhb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1499293800000
-  updated: 1417881835000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -2095,25 +1954,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywlbdb/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywlbdb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1501713000000
-  updated: 1417881835000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -2133,25 +1973,6 @@ other:
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 1
-- created: 1417881835000
-  description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
-    /></p>
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Wranglers-DC/events/hffzclywmbjb/
-  group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
-    who: Data Wranglers}
-  headcount: 0
-  id: hffzclywmbjb
-  maybe_rsvp_count: 0
-  name: January Meetup
-  status: upcoming
-  time: 1504737000000
-  updated: 1417881835000
-  utc_offset: -14400000
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1

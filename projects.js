@@ -4855,8 +4855,8 @@ projects([
         "pushed_at": "2016-09-11T16:22:48Z", 
         "short_name": "dcaf_case_management", 
         "size": 11220, 
-        "updated_at": "2016-09-02T01:08:36Z", 
-        "watchers": 15
+        "updated_at": "2016-09-12T15:04:10Z", 
+        "watchers": 16
     }, 
     {
         "activity": [
@@ -5706,8 +5706,8 @@ projects([
             0, 
             0, 
             7, 
-            1, 
-            3, 
+            4, 
+            0, 
             0, 
             4, 
             0, 
@@ -5955,8 +5955,8 @@ projects([
             0, 
             0, 
             0, 
-            17, 
-            55, 
+            62, 
+            10, 
             0, 
             0, 
             6, 
@@ -5965,8 +5965,8 @@ projects([
             0, 
             52, 
             10, 
-            52, 
-            8
+            54, 
+            6
         ], 
         "ci": {
             "codeclimate": false, 

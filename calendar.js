@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 66
         }
     ], 
     "other": [
@@ -68,7 +68,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1473173760000, 
@@ -108,7 +108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1466889132000, 
@@ -146,7 +146,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -186,11 +186,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p><b>Come work on that coding project you've been neglecting, or those coding challenges you've been working through--or just bring your questions!This night is open to all coding languages, but the leads will have a focus on Rails. They also know Angular JS and front-end languages.</b></p> <p><br/><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232708941/", 
             "group": {
@@ -209,7 +209,7 @@ calendar({
             "name": "Open Lab Night (with Ruby on Rails Team)", 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1473117245000, 
+            "updated": 1473693391000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -265,7 +265,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 117
         }, 
         {
             "created": 1471287239000, 
@@ -387,7 +387,7 @@ calendar({
         }, 
         {
             "created": 1473629404000, 
-            "description": "<p>For our September Data Science DC Meetup, we are excited to have <b>Majid Aldosari</b>, MS graduate of GMU Computational Science, with a background in mechanical engineering, join us to speak about unsupervised anomaly detection in sequences using long short-term memory recurrent artificial\u00a0neural networks.</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Predicting and Understanding Law with Machine Learning</b></p> <p><b>Unsupervised Anomaly Detection in Sequences using Long Short-Term Memory Recurrent Artificial Neural Networks<br/></b></p> <p>Long Short Term Memory (LSTM) recurrent neural networks (RNNs) are evaluated for their potential to generically detect anomalies in sequences. First, anomaly detection techniques are surveyed at a high level so that their shortcomings are exposed. The shortcomings are mainly their inflexibility in the use of a context \u2018window\u2019 size and/or their suboptimal performance in handling sequences. Furthermore, high-performing techniques for sequences are usually associated with their respective knowledge domains. After discussing these shortcomings, RNNs are exposed mathematically as generic sequence modelers that can handle sequences of arbitrary length. From there, results from experiments using RNNs show their ability to detect anomalies in a set of test sequences. The test sequences had different types of anomalies and unique normal behavior. Given the characteristics of the test data, it was concluded that the RNNs were not only able to generically distinguish rare values in the data (out of context) but were also able to generically distinguish abnormal patterns (in context).</p> <p>\u00a0In addition to the anomaly detection work, a solution for reproducing computational research is described. The solution addresses reproducing compute applications based on Docker container technology as well as automating the infrastructure that runs the applications. By design, the solution allows the researcher to seamlessly transition from local (test) application execution to remote (production) execution because little distinction is made between local and remote execution. Such flexibility and automation allows the researcher to be more confident of results and more productive, especially when dealing with multiple machines.\u00a0</p> <p><b>Bio:</b></p> <p><br/><b><a href=\"https://about.me/majidaldosari\">Majid Aldosari</a></b></p> <p><br/>Majid recently completed his (second) Master's degree in Computational Science from George Mason University. Although formally trained as a mechanical engineer, his interest in computation began at Vanderbilt University where he conducted computationally-expensive simulations of materials related to energy conversion devices. In addition, he interned with Continuum Analytics and is currently working for Enertiv analyzing building energy consumption data.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "description": "<p>For our September Data Science DC Meetup, we are excited to have <b>Majid Al-Dosari</b>, MS graduate of GMU Computational Science, with a background in mechanical engineering, join us to speak about unsupervised anomaly detection in sequences using long short-term memory recurrent artificial\u00a0neural networks.</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Unsupervised Anomaly Detection in Sequences using Long Short-Term Memory Recurrent Artificial Neural Networks<br/></b></p> <p>Long Short Term Memory (LSTM) recurrent neural networks (RNNs) are evaluated for their potential to generically detect anomalies in sequences. First, anomaly detection techniques are surveyed at a high level so that their shortcomings are exposed. The shortcomings are mainly their inflexibility in the use of a context \u2018window\u2019 size and/or their suboptimal performance in handling sequences. Furthermore, high-performing techniques for sequences are usually associated with their respective knowledge domains. After discussing these shortcomings, RNNs are exposed mathematically as generic sequence modelers that can handle sequences of arbitrary length. From there, results from experiments using RNNs show their ability to detect anomalies in a set of test sequences. The test sequences had different types of anomalies and unique normal behavior. Given the characteristics of the test data, it was concluded that the RNNs were not only able to generically distinguish rare values in the data (out of context) but were also able to generically distinguish abnormal patterns (in context).</p> <p>\u00a0In addition to the anomaly detection work, a solution for reproducing computational research is described. The solution addresses reproducing compute applications based on Docker container technology as well as automating the infrastructure that runs the applications. By design, the solution allows the researcher to seamlessly transition from local (test) application execution to remote (production) execution because little distinction is made between local and remote execution. Such flexibility and automation allows the researcher to be more confident of results and more productive, especially when dealing with multiple machines.\u00a0</p> <p><b>Bio:</b></p> <p><br/><b><a href=\"https://about.me/majidaldosari\">Majid Al-Dosari</a></b></p> <p><br/>Majid recently completed his (second) Master's degree in Computational Science from George Mason University. Although formally trained as a mechanical engineer, his interest in computation began at Vanderbilt University where he conducted computationally-expensive simulations of materials related to energy conversion devices. In addition, he interned with Continuum Analytics and is currently working for Enertiv analyzing building energy consumption data.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 10800000, 
             "event_url": "http://www.meetup.com/Data-Science-DC/events/234049651/", 
             "group": {
@@ -407,23 +407,23 @@ calendar({
             "rsvp_limit": 500, 
             "status": "upcoming", 
             "time": 1474324200000, 
-            "updated": 1473649204000, 
+            "updated": 1473682821000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "2201 G St. NW", 
+                "address_1": "805 21st St. NW", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24394445, 
-                "lat": 38.898685, 
+                "id": 19222872, 
+                "lat": 38.899914000000003, 
                 "localized_country_name": "USA", 
-                "lon": -77.049187000000003, 
-                "name": "GWU, Funger Hall, Room 415", 
+                "lon": -77.046204000000003, 
+                "name": "GWU Media & Public Affairs Room B07", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1457965726000, 
@@ -479,7 +479,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1446220217000, 
@@ -519,7 +519,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1468853724000, 
@@ -635,7 +635,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 24, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -826,7 +826,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1468853724000, 
@@ -1002,7 +1002,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1452612310000, 
@@ -1041,7 +1041,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1326383071000, 
@@ -1080,7 +1080,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1473191008000, 
@@ -1120,7 +1120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1460389774000, 
@@ -1284,7 +1284,7 @@ calendar({
         }, 
         {
             "created": 1472497385000, 
-            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around urban planning. No venue yet!</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around transportation and urban planning.\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor\u00a0<a href=\"https://www.enotrans.org/\">the\u00a0Eno Center for Transportation</a>. Presentations start at 6:30.\u00a0</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Thanks to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/233717422/", 
             "group": {
                 "created": 1384372275000, 
@@ -1292,7 +1292,7 @@ calendar({
                 "group_lon": -76.989997863769531, 
                 "id": 11092702, 
                 "join_mode": "open", 
-                "name": "Transportation Techies \ud83d\udeb2", 
+                "name": "Transportation Techies \ud83d\ude80", 
                 "urlname": "Transportation-Techies", 
                 "who": "Techies"
             }, 
@@ -1303,11 +1303,23 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1473219606000, 
+            "updated": 1473692740000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2221 SOUTH CLARK ST", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24336429, 
+                "lat": 38.853954000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.051636000000002, 
+                "name": "WeWork Crystal City", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 62
         }, 
         {
             "created": 1470699270000, 
@@ -1484,11 +1496,11 @@ calendar({
             "name": "November Meetup", 
             "status": "upcoming", 
             "time": 1478734200000, 
-            "updated": 1459227180000, 
+            "updated": 1473695958000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 0
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1466889219000, 
@@ -1606,33 +1618,6 @@ calendar({
             "yes_rsvp_count": 2
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/228557398/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvqbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "December Meetup", 
-            "status": "upcoming", 
-            "time": 1481758200000, 
-            "updated": 1459227202000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcywcbgb/", 
@@ -1672,60 +1657,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/228557395/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywcbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1484177400000, 
-            "updated": 1459227228000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 0
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/228557396/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywdbcb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1485991800000, 
-            "updated": 1417881835000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 0
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcywdbcb/", 
@@ -1760,33 +1691,6 @@ calendar({
                 "repinned": false, 
                 "state": "DC"
             }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywfbcb/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywfbcb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1488411000000, 
-            "updated": 1417881835000, 
-            "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -1831,33 +1735,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywgbhb/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywgbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1491431400000, 
-            "updated": 1417881835000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcywgbhb/", 
@@ -1897,33 +1774,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/233130270/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywhbfb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1493850600000, 
-            "updated": 1417881835000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 0
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/230884153/", 
@@ -1958,33 +1808,6 @@ calendar({
                 "repinned": false, 
                 "state": "DC"
             }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywjbkb/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywjbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1496874600000, 
-            "updated": 1417881835000, 
-            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
@@ -2029,33 +1852,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywkbhb/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywkbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1499293800000, 
-            "updated": 1417881835000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcywkbhb/", 
@@ -2095,33 +1891,6 @@ calendar({
             "yes_rsvp_count": 1
         }, 
         {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywlbdb/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywlbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1501713000000, 
-            "updated": 1417881835000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcywlbdb/", 
@@ -2156,33 +1925,6 @@ calendar({
                 "repinned": false, 
                 "state": "DC"
             }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/hffzclywmbjb/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclywmbjb", 
-            "maybe_rsvp_count": 0, 
-            "name": "January Meetup", 
-            "status": "upcoming", 
-            "time": 1504737000000, 
-            "updated": 1417881835000, 
-            "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
