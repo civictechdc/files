@@ -68,7 +68,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1473173760000, 
@@ -108,7 +108,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1466889132000, 
@@ -146,7 +146,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1459265642000, 
@@ -265,7 +265,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -305,7 +305,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1471287239000, 
@@ -383,7 +383,47 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
+        }, 
+        {
+            "created": 1473629404000, 
+            "description": "<p>For our September Data Science DC Meetup, we are excited to have <b>Majid Aldosari</b>, MS graduate of GMU Computational Science, with a background in mechanical engineering, join us to speak about unsupervised anomaly detection in sequences using long short-term memory recurrent artificial\u00a0neural networks.</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Predicting and Understanding Law with Machine Learning</b></p> <p><b>Unsupervised Anomaly Detection in Sequences using Long Short-Term Memory Recurrent Artificial Neural Networks<br/></b></p> <p>Long Short Term Memory (LSTM) recurrent neural networks (RNNs) are evaluated for their potential to generically detect anomalies in sequences. First, anomaly detection techniques are surveyed at a high level so that their shortcomings are exposed. The shortcomings are mainly their inflexibility in the use of a context \u2018window\u2019 size and/or their suboptimal performance in handling sequences. Furthermore, high-performing techniques for sequences are usually associated with their respective knowledge domains. After discussing these shortcomings, RNNs are exposed mathematically as generic sequence modelers that can handle sequences of arbitrary length. From there, results from experiments using RNNs show their ability to detect anomalies in a set of test sequences. The test sequences had different types of anomalies and unique normal behavior. Given the characteristics of the test data, it was concluded that the RNNs were not only able to generically distinguish rare values in the data (out of context) but were also able to generically distinguish abnormal patterns (in context).</p> <p>\u00a0In addition to the anomaly detection work, a solution for reproducing computational research is described. The solution addresses reproducing compute applications based on Docker container technology as well as automating the infrastructure that runs the applications. By design, the solution allows the researcher to seamlessly transition from local (test) application execution to remote (production) execution because little distinction is made between local and remote execution. Such flexibility and automation allows the researcher to be more confident of results and more productive, especially when dealing with multiple machines.\u00a0</p> <p><b>Bio:</b></p> <p><br/><b><a href=\"https://about.me/majidaldosari\">Majid Aldosari</a></b></p> <p><br/>Majid recently completed his (second) Master's degree in Computational Science from George Mason University. Although formally trained as a mechanical engineer, his interest in computation began at Vanderbilt University where he conducted computationally-expensive simulations of materials related to energy conversion devices. In addition, he interned with Continuum Analytics and is currently working for Enertiv analyzing building energy consumption data.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/234049651/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "234049651", 
+            "maybe_rsvp_count": 0, 
+            "name": "Unsupervised Anomaly Detection in Sequences using LSTM Recurrent Neural Nets", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1474324200000, 
+            "updated": 1473649204000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24394445, 
+                "lat": 38.898685, 
+                "localized_country_name": "USA", 
+                "lon": -77.049187000000003, 
+                "name": "GWU, Funger Hall, Room 415", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1457965726000, 
@@ -595,7 +635,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 22, 
+            "waitlist_count": 23, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -786,7 +826,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1468853724000, 
@@ -853,7 +893,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1473268749000, 
@@ -962,7 +1002,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1452612310000, 
@@ -1080,7 +1120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1460389774000, 
@@ -1267,7 +1307,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1470699270000, 

@@ -79,7 +79,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 72
 - created: 1473173760000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -111,7 +111,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 30
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -142,7 +142,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -254,7 +254,7 @@ other:
     country: us, id: 24224999, lat: 38.912067, localized_country_name: USA, lon: -77.019019999999998,
     name: 'Development Seed ', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 21
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>Matthew Purdy is a technology minded business person.\_ As CEO\
@@ -299,7 +299,7 @@ other:
     name: ByteCubed, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 108
 - created: 1471287239000
   description: "<p>NOTE: This event will be rescheduled to October. Check back Monday\
     \ afternoon 9/12 for details.</p> <p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
@@ -367,7 +367,81 @@ other:
     name: The Wireless Registry @ MakeOffices, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
+- created: 1473629404000
+  description: "<p>For our September Data Science DC Meetup, we are excited to have\
+    \ <b>Majid Aldosari</b>, MS graduate of GMU Computational Science, with a background\
+    \ in mechanical engineering, join us to speak about unsupervised anomaly detection\
+    \ in sequences using long short-term memory recurrent artificial\_neural networks.</p>\
+    \ <p>----------------------------\_</p> <p><br/>Sponsored by <b>Statistics.com</b>\_\
+    -- Learn new skills in Data Science, Analytics, and Statistics!\_Four-week online\
+    \ courses at all levels, world-class instructors, private discussion boards.\_\
+    <a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\"\
+    >Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p>\
+    \ <p>\u2022\_6:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\_\
+    7:00pm -- Introduction, Announcements</p> <p>\u2022\_7:15pm -- Presentation and\
+    \ Discussion</p> <p>\u2022\_8:30pm -- Data Drinks (Tonic ,\_2036 G St NW)</p>\
+    \ <p><b>Abstract:</b></p> <p><b>Predicting and Understanding Law with Machine\
+    \ Learning</b></p> <p><b>Unsupervised Anomaly Detection in Sequences using Long\
+    \ Short-Term Memory Recurrent Artificial Neural Networks<br/></b></p> <p>Long\
+    \ Short Term Memory (LSTM) recurrent neural networks (RNNs) are evaluated for\
+    \ their potential to generically detect anomalies in sequences. First, anomaly\
+    \ detection techniques are surveyed at a high level so that their shortcomings\
+    \ are exposed. The shortcomings are mainly their inflexibility in the use of a\
+    \ context \u2018window\u2019 size and/or their suboptimal performance in handling\
+    \ sequences. Furthermore, high-performing techniques for sequences are usually\
+    \ associated with their respective knowledge domains. After discussing these shortcomings,\
+    \ RNNs are exposed mathematically as generic sequence modelers that can handle\
+    \ sequences of arbitrary length. From there, results from experiments using RNNs\
+    \ show their ability to detect anomalies in a set of test sequences. The test\
+    \ sequences had different types of anomalies and unique normal behavior. Given\
+    \ the characteristics of the test data, it was concluded that the RNNs were not\
+    \ only able to generically distinguish rare values in the data (out of context)\
+    \ but were also able to generically distinguish abnormal patterns (in context).</p>\
+    \ <p>\_In addition to the anomaly detection work, a solution for reproducing computational\
+    \ research is described. The solution addresses reproducing compute applications\
+    \ based on Docker container technology as well as automating the infrastructure\
+    \ that runs the applications. By design, the solution allows the researcher to\
+    \ seamlessly transition from local (test) application execution to remote (production)\
+    \ execution because little distinction is made between local and remote execution.\
+    \ Such flexibility and automation allows the researcher to be more confident of\
+    \ results and more productive, especially when dealing with multiple machines.\_\
+    </p> <p><b>Bio:</b></p> <p><br/><b><a href=\"https://about.me/majidaldosari\"\
+    >Majid Aldosari</a></b></p> <p><br/>Majid recently completed his (second) Master's\
+    \ degree in Computational Science from George Mason University. Although formally\
+    \ trained as a mechanical engineer, his interest in computation began at Vanderbilt\
+    \ University where he conducted computationally-expensive simulations of materials\
+    \ related to energy conversion devices. In addition, he interned with Continuum\
+    \ Analytics and is currently working for Enertiv analyzing building energy consumption\
+    \ data.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"\
+    http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\"\
+    >George Washington Business School MS in Business Analytics Program</a>,\_<a href=\"\
+    http://bit.ly/12YljkP\">Statistics.com</a>,\_<a href=\"http://datamininglab.com/\"\
+    >Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\_<a href=\"\
+    http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\"\
+    >O'Reilly</a>,\_<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\"\
+    >Booz Allen Hamilton</a>, and\_<a href=\"http://engineering.aol.com/\">AOL</a>.\_\
+    (Would your organization like to sponsor too? Please get in touch!)\_</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/Data-Science-DC/events/234049651/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  id: '234049651'
+  maybe_rsvp_count: 0
+  name: Unsupervised Anomaly Detection in Sequences using LSTM Recurrent Neural Nets
+  rsvp_limit: 500
+  status: upcoming
+  time: 1474324200000
+  updated: 1473649204000
+  utc_offset: -14400000
+  venue: {address_1: 2201 G St. NW, city: Washington, country: us, id: 24394445, lat: 38.898685,
+    localized_country_name: USA, lon: -77.049187000000003, name: 'GWU, Funger Hall,
+      Room 415', repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 60
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -596,7 +670,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 22
+  waitlist_count: 23
   yes_rsvp_count: 30
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -936,7 +1010,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 103
+  yes_rsvp_count: 105
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -1028,7 +1102,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1473268749000
   description: "<p>Over 6 billion emojis are sent each day, and within the past year,\
     \ emojis have begun finding their way into criminal cases as vital evidence because\
@@ -1124,7 +1198,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1219,7 +1293,7 @@ other:
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 72
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1435,7 +1509,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
