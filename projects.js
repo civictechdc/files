@@ -20,7 +20,6 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
             0, 
             0, 
@@ -32,6 +31,7 @@ projects([
             0, 
             0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -883,23 +883,23 @@ projects([
             2, 
             0, 
             0, 
-            3, 
-            6, 
+            4, 
+            5, 
             2, 
             0, 
-            1, 
-            4, 
-            1, 
-            4, 
-            11, 
-            4, 
-            3, 
+            2, 
             4, 
             0, 
+            6, 
+            9, 
+            7, 
+            0, 
+            4, 
             1, 
             1, 
             0, 
             3, 
+            0, 
             0, 
             0, 
             1, 
@@ -930,7 +930,7 @@ projects([
             0, 
             1, 
             0, 
-            7
+            11
         ], 
         "ci": {
             "codeclimate": true, 
@@ -1171,8 +1171,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             5, 
+            0, 
             0, 
             0, 
             0, 
@@ -1343,8 +1343,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             3, 
+            0, 
             0, 
             0, 
             0, 
@@ -1720,8 +1720,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
-            2, 
+            1, 
+            1, 
             0, 
             0, 
             0, 
@@ -3215,8 +3215,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -3477,14 +3477,14 @@ projects([
     }, 
     {
         "activity": [
-            38, 
+            10, 
             0, 
-            0, 
-            8, 
+            2, 
+            6, 
             3, 
+            2, 
+            8, 
             0, 
-            9, 
-            1, 
             13, 
             0, 
             0, 
@@ -3496,12 +3496,12 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
             1, 
             0, 
-            33, 
-            103, 
+            0, 
+            108, 
+            28, 
             2, 
             3, 
             0, 
@@ -4313,8 +4313,8 @@ projects([
             0, 
             0, 
             0, 
-            2, 
-            4, 
+            6, 
+            0, 
             0, 
             0, 
             0, 
@@ -4626,7 +4626,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/3866868?v=3", 
-                "contributions": 1114, 
+                "contributions": 1125, 
                 "link": "https://github.com/colinxfleming", 
                 "name": "colinxfleming"
             }, 
@@ -4709,6 +4709,12 @@ projects([
                 "name": "clarissastark"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/15862551?v=3", 
+                "contributions": 9, 
+                "link": "https://github.com/jasonallenphotography", 
+                "name": "jasonallenphotography"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/15959851?v=3", 
                 "contributions": 9, 
                 "link": "https://github.com/jeffreyeaton76", 
@@ -4721,10 +4727,10 @@ projects([
                 "name": "KatSDC"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/1463253?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
                 "contributions": 5, 
-                "link": "https://github.com/mccabe615", 
-                "name": "mccabe615"
+                "link": "https://github.com/cmgiven", 
+                "name": "cmgiven"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/1399672?v=3", 
@@ -4733,22 +4739,16 @@ projects([
                 "name": "dfelsent"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/15862551?v=3", 
-                "contributions": 5, 
-                "link": "https://github.com/jasonallenphotography", 
-                "name": "jasonallenphotography"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/6306695?v=3", 
                 "contributions": 5, 
                 "link": "https://github.com/MiroFurtado", 
                 "name": "MiroFurtado"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/5375557?v=3", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1463253?v=3", 
                 "contributions": 5, 
-                "link": "https://github.com/cmgiven", 
-                "name": "cmgiven"
+                "link": "https://github.com/mccabe615", 
+                "name": "mccabe615"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5253461?v=3", 
@@ -4775,16 +4775,16 @@ projects([
                 "name": "edwardpark"
             }, 
             {
-                "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
-                "contributions": 1, 
-                "link": "https://github.com/kndllbrwn", 
-                "name": "kndllbrwn"
-            }, 
-            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/772616?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/danfowler", 
                 "name": "danfowler"
+            }, 
+            {
+                "avatar_url": "https://avatars.githubusercontent.com/u/12459939?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/kndllbrwn", 
+                "name": "kndllbrwn"
             }, 
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/5439589?v=3", 
@@ -4817,15 +4817,15 @@ projects([
         "languages": [
             [
                 "Ruby", 
-                153599
+                159172
             ], 
             [
                 "HTML", 
-                70110
+                69556
             ], 
             [
                 "CSS", 
-                27639
+                27957
             ], 
             [
                 "CoffeeScript", 
@@ -4845,18 +4845,18 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 64, 
+        "open_issues": 61, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
             "type": "User", 
             "url": "https://github.com/colinxfleming"
         }, 
-        "pushed_at": "2016-09-11T16:22:48Z", 
+        "pushed_at": "2016-09-13T04:06:43Z", 
         "short_name": "dcaf_case_management", 
-        "size": 11220, 
-        "updated_at": "2016-09-12T15:04:10Z", 
-        "watchers": 16
+        "size": 11218, 
+        "updated_at": "2016-09-13T09:08:19Z", 
+        "watchers": 17
     }, 
     {
         "activity": [
@@ -4972,26 +4972,26 @@ projects([
             0, 
             10, 
             12, 
-            25, 
-            22, 
-            18, 
-            21, 
-            17, 
-            53, 
-            16, 
-            24, 
-            15, 
-            6, 
-            18, 
-            31, 
+            28, 
             23, 
-            20, 
-            10, 
+            14, 
+            27, 
+            23, 
+            43, 
+            15, 
+            27, 
             11, 
-            3, 
+            9, 
+            18, 
+            30, 
+            26, 
+            16, 
+            15, 
+            5, 
+            9, 
+            0, 
             6, 
-            3, 
-            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -5153,13 +5153,12 @@ projects([
             0, 
             0, 
             4, 
-            0, 
             1, 
             0, 
             0, 
             0, 
-            1, 
             0, 
+            1, 
             0, 
             0, 
             0, 
@@ -5167,6 +5166,7 @@ projects([
             0, 
             0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -5829,8 +5829,8 @@ projects([
             0, 
             0, 
             8, 
-            0, 
             3, 
+            0, 
             0
         ], 
         "ci": {

@@ -39,77 +39,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 79
         }
     ], 
     "other": [
-        {
-            "created": 1460389774000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232934463/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "srrkslyvmbqb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab: First Timer's Night", 
-            "status": "upcoming", 
-            "time": 1473719400000, 
-            "updated": 1472237384000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 68
-        }, 
-        {
-            "created": 1473173760000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be continue to go through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>. In previous weeks we've covered Arrays, Linked-Lists, and Hash Tables. We will review and start on Trees this time.\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>Please arrange to get your own food before the meetup today as there won't be any food provided for today.</p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233912953/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "233912953", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1473719400000, 
-            "updated": 1473173760000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1005 7th St NW, Suite 100", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24427130, 
-                "lat": 38.903229000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.021629000000004, 
-                "name": "Contactually", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 28
-        }, 
         {
             "created": 1466889132000, 
             "description": "<p>Everyone is looking forward to hearing about *your* cool hack. The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\nPresentation signups are here:</p> <p><br/><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p><br/>See you at the meetup, at WeWork Chinatown. We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
@@ -146,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1459265642000, 
@@ -186,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1468853724000, 
@@ -226,7 +159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1473035394000, 
@@ -305,7 +238,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1471287239000, 
@@ -423,7 +356,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 122
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1457965726000, 
@@ -451,7 +384,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459265642000, 
@@ -757,7 +690,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1459265642000, 
@@ -826,7 +759,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1468853724000, 
@@ -1002,7 +935,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1452612310000, 
@@ -1120,7 +1053,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1460389774000, 
@@ -1147,7 +1080,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1466889163000, 
@@ -1283,6 +1216,45 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1471280349000, 
+            "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\" /></p> <p>Learn how to push boundaries of web based data visualizations using webGL. Currently, popular tools like D3js use SVG to render designs. SVGs can produce really beautiful visualizations, but are limited to the constraints of the DOM. WebGL on the other hand allows you to have direct access to the users GPU and therefore more power and speed for rendering large sets of data.</p> <p>Julia will walk you through her process of learning how to move a D3.js/SVG force chart to webGL using the 2D gaming library Pixi.js.\u00a0Julia will talk about the pros and cons of this method, lessons learned, and show you how to get started with Pixi.js and WebGL visualizations.</p> <p>\n\n\n<b>Thank you\u00a0</b><b><a href=\"https://generalassemb.ly\">General Assembly</a>\u00a0(<a href=\"https://twitter.com/GA_DC\">@GA_DC</a>) and\u00a0<br/></b><b><a href=\"http://www.infernored.com\">InfernoRed Technology</a> (<a href=\"https://twitter.com/infernoredtech\">@InfernoRedTech</a>) for<br/>sponsoring our event!</b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233373504/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "233373504", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tech Talk: Data Visualizations with WebGL", 
+            "status": "upcoming", 
+            "time": 1476397800000, 
+            "updated": 1472759081000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15th St NW, 12th Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24433681, 
+                "lat": 38.904865000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.033996999999999, 
+                "name": "General Assembly @1776", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 45
+        }, 
+        {
             "created": 1472497385000, 
             "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around transportation and urban planning.\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor\u00a0<a href=\"https://www.enotrans.org/\">the\u00a0Eno Center for Transportation</a>. Presentations start at 6:30.\u00a0</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Stephanie Dock will discuss DDOT\u2019s new District Mobility webtool, which will help to monitor system performance from a mobility perspective.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Thanks to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/233717422/", 
@@ -1319,7 +1291,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1470699270000, 
@@ -1358,6 +1330,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1457965726000, 
+            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 612000000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233224770/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "rzpmrlyvnbwb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1476743400000, 
+            "updated": 1472237438000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1467704208000, 
