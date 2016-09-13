@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 75
         }
     ], 
     "other": [
@@ -68,7 +68,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1473173760000, 
@@ -108,7 +108,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1466889132000, 
@@ -146,7 +146,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1459265642000, 
@@ -226,7 +226,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1473035394000, 
@@ -265,7 +265,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 23, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -305,7 +305,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 117
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1471287239000, 
@@ -344,7 +344,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1471280199000, 
@@ -383,7 +383,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1473629404000, 
@@ -423,7 +423,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1457965726000, 
@@ -826,7 +826,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1468853724000, 
@@ -893,7 +893,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1473268749000, 
@@ -1284,12 +1284,12 @@
         }, 
         {
             "created": 1472497385000, 
-            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around transportation and urban planning.\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor\u00a0<a href=\"https://www.enotrans.org/\">the\u00a0Eno Center for Transportation</a>. Presentations start at 6:30.\u00a0</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Thanks to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around transportation and urban planning.\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor\u00a0<a href=\"https://www.enotrans.org/\">the\u00a0Eno Center for Transportation</a>. Presentations start at 6:30.\u00a0</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Stephanie Dock will discuss DDOT\u2019s new District Mobility webtool, which will help to monitor system performance from a mobility perspective.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Thanks to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/233717422/", 
             "group": {
                 "created": 1384372275000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -76.989997863769531, 
+                "group_lat": 38.860000610351562, 
+                "group_lon": -77.05999755859375, 
                 "id": 11092702, 
                 "join_mode": "open", 
                 "name": "Transportation Techies \ud83d\ude80", 
@@ -1303,7 +1303,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1473692740000, 
+            "updated": 1473708341000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1319,7 +1319,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1470699270000, 

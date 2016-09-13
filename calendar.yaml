@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 75
 other:
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -79,7 +79,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 68
 - created: 1473173760000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -111,7 +111,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 28
 - created: 1466889132000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -142,7 +142,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 45
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -219,7 +219,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1473035394000
   description: "<p>Our workflows are, with few exceptions, entirely digital. This\
     \ is fantastic for productivity, accuracy, and a million other reasons- but by\
@@ -258,7 +258,7 @@ other:
     country: us, id: 24224999, lat: 38.912067, localized_country_name: USA, lon: -77.019019999999998,
     name: 'Development Seed ', repinned: false, state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 23
   yes_rsvp_count: 40
 - created: 1417881835000
   description: "<p>Matthew Purdy is a technology minded business person.\_ As CEO\
@@ -303,7 +303,7 @@ other:
     name: ByteCubed, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 117
+  yes_rsvp_count: 118
 - created: 1471287239000
   description: "<p>NOTE: This event will be rescheduled to October. Check back Monday\
     \ afternoon 9/12 for details.</p> <p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
@@ -347,7 +347,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1471280199000
   description: "<p>Eve Freeman will talk about graph database use cases and give a\
     \ brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\_\
@@ -371,7 +371,7 @@ other:
     name: The Wireless Registry @ MakeOffices, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 43
 - created: 1473629404000
   description: "<p>For our September Data Science DC Meetup, we are excited to have\
     \ <b>Majid Al-Dosari</b>, MS graduate of GMU Computational Science, with a background\
@@ -444,7 +444,7 @@ other:
     name: GWU Media & Public Affairs Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 122
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1013,7 +1013,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 109
+  yes_rsvp_count: 111
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -1105,7 +1105,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1473268749000
   description: "<p>Over 6 billion emojis are sent each day, and within the past year,\
     \ emojis have begun finding their way into criminal cases as vital evidence because\
@@ -1496,6 +1496,8 @@ other:
     \ near rail stations.\_</p> <p>\u2022\_Matt Conway\_will demo <a href=\"http://conveyal.com/\"\
     >Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes\
     \ to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\
+    \_Stephanie Dock will discuss DDOT\u2019s new District Mobility webtool, which\
+    \ will help to monitor system performance from a mobility perspective.</p> <p><br/>\u2022\
     \_Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration\
     \ Technology)\_project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\"\
     >Hays Out of the Box</a> competition.\_</p> <p>Thanks to everyone at <a href=\"\
@@ -1503,7 +1505,7 @@ other:
     \ possible.</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\
     \ for \"Transportation Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/233717422/
-  group: {created: 1384372275000, group_lat: 38.909999847412109, group_lon: -76.989997863769531,
+  group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
     id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
     who: Techies}
   headcount: 0
@@ -1513,14 +1515,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1476482400000
-  updated: 1473692740000
+  updated: 1473708341000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 69
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
