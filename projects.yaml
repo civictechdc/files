@@ -481,7 +481,7 @@
   size: 2743
   updated_at: '2016-04-14T12:30:23Z'
   watchers: 5
-- activity: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+- activity: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: false}
@@ -1546,7 +1546,7 @@
   created_at: '2015-09-24T01:19:39Z'
   default_branch: master
   description: Rails-based case management system for the DC Abortion Fund
-  forks: 47
+  forks: 48
   help_wanted: []
   homepage: ''
   html_url: https://github.com/colinxfleming/dcaf_case_management
@@ -1560,7 +1560,7 @@
   license: {featured: true, key: mit, name: MIT License, spdx_id: MIT, url: 'https://api.github.com/licenses/mit'}
   main_language: Ruby
   name: DCAF Case Manager
-  open_issues: 61
+  open_issues: 65
   owner: {avatar: 'https://avatars.githubusercontent.com/u/3866868?v=3', name: colinxfleming,
     type: User, url: 'https://github.com/colinxfleming'}
   pushed_at: '2016-09-13T04:06:43Z'
@@ -1877,7 +1877,7 @@
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json: null
   contributors:
-  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 19,
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/445875?v=3', contributions: 20,
     link: 'https://github.com/JoshData', name: JoshData}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/16766406?v=3', contributions: 8,
     link: 'https://github.com/nbanion', name: nbanion}
@@ -1887,9 +1887,11 @@
     link: 'https://github.com/mseew', name: mseew}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/12875730?v=3', contributions: 2,
     link: 'https://github.com/ursulakaczmarek', name: ursulakaczmarek}
+  - {avatar_url: 'https://avatars.githubusercontent.com/u/13643664?v=3', contributions: 1,
+    link: 'https://github.com/ostermanj', name: ostermanj}
   - {avatar_url: 'https://avatars.githubusercontent.com/u/7833279?v=3', contributions: 1,
     link: 'https://github.com/br-mcdermott', name: br-mcdermott}
-  contributors_count: 6
+  contributors_count: 7
   created_at: '2016-05-27T00:06:05Z'
   default_branch: master
   description: Evaluate how a change in rent stabilization policy would affect rental
@@ -1908,14 +1910,14 @@
   open_issues: 1
   owner: {avatar: 'https://avatars.githubusercontent.com/u/2768897?v=3', name: codefordc,
     type: Organization, url: 'https://github.com/codefordc'}
-  pushed_at: '2016-08-29T12:52:20Z'
+  pushed_at: '2016-09-13T21:31:07Z'
   short_name: rent-stabilization
-  size: 556
+  size: 558
   updated_at: '2016-08-21T23:39:56Z'
   watchers: 0
 - activity: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 10, 0, 0, 6, 0, 0, 0, 52,
-    10, 54, 6]
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 5, 0, 0, 6, 0, 0, 20, 37,
+    5, 57, 3]
   ci: {codeclimate: false, continua11y: false, coverage: false, travis: true}
   civic_json:
     contact: {email: alexandra.ulsh@gmail.com, name: Alex Ulsh}

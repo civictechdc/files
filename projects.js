@@ -1531,8 +1531,8 @@ projects([
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -4809,7 +4809,7 @@ projects([
         "created_at": "2015-09-24T01:19:39Z", 
         "default_branch": "master", 
         "description": "Rails-based case management system for the DC Abortion Fund", 
-        "forks": 47, 
+        "forks": 48, 
         "help_wanted": [], 
         "homepage": "", 
         "html_url": "https://github.com/colinxfleming/dcaf_case_management", 
@@ -4845,7 +4845,7 @@ projects([
         }, 
         "main_language": "Ruby", 
         "name": "DCAF Case Manager", 
-        "open_issues": 61, 
+        "open_issues": 65, 
         "owner": {
             "avatar": "https://avatars.githubusercontent.com/u/3866868?v=3", 
             "name": "colinxfleming", 
@@ -5843,7 +5843,7 @@ projects([
         "contributors": [
             {
                 "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
-                "contributions": 19, 
+                "contributions": 20, 
                 "link": "https://github.com/JoshData", 
                 "name": "JoshData"
             }, 
@@ -5872,13 +5872,19 @@ projects([
                 "name": "ursulakaczmarek"
             }, 
             {
+                "avatar_url": "https://avatars.githubusercontent.com/u/13643664?v=3", 
+                "contributions": 1, 
+                "link": "https://github.com/ostermanj", 
+                "name": "ostermanj"
+            }, 
+            {
                 "avatar_url": "https://avatars.githubusercontent.com/u/7833279?v=3", 
                 "contributions": 1, 
                 "link": "https://github.com/br-mcdermott", 
                 "name": "br-mcdermott"
             }
         ], 
-        "contributors_count": 6, 
+        "contributors_count": 7, 
         "created_at": "2016-05-27T00:06:05Z", 
         "default_branch": "master", 
         "description": "Evaluate how a change in rent stabilization policy would affect rental properties in the District.", 
@@ -5907,9 +5913,9 @@ projects([
             "type": "Organization", 
             "url": "https://github.com/codefordc"
         }, 
-        "pushed_at": "2016-08-29T12:52:20Z", 
+        "pushed_at": "2016-09-13T21:31:07Z", 
         "short_name": "rent-stabilization", 
-        "size": 556, 
+        "size": 558, 
         "updated_at": "2016-08-21T23:39:56Z", 
         "watchers": 0
     }, 
@@ -5955,18 +5961,18 @@ projects([
             0, 
             0, 
             0, 
-            62, 
-            10, 
+            67, 
+            5, 
             0, 
             0, 
             6, 
             0, 
             0, 
-            0, 
-            52, 
-            10, 
-            54, 
-            6
+            20, 
+            37, 
+            5, 
+            57, 
+            3
         ], 
         "ci": {
             "codeclimate": false, 
