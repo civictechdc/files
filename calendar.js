@@ -78,12 +78,12 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 25, 
+            "waitlist_count": 26, 
             "yes_rsvp_count": 40
         }, 
         {
             "created": 1417881835000, 
-            "description": "<p>Matthew Purdy is a technology minded business person.\u00a0 As CEO of a local software engineering services company with a focus on big data, his role is to grow his business through relationships.\u00a0 As a software engineer, his every day job requires handling very large data with interesting restraints and complexity.</p> <p>Matt has close to 20 years experience with many different language, software platforms, and distributed systems.\u00a0 His current focus has been big data using Hadoop, Accumulo, and Spark; however, he is alway interested in learning new technologies and listening to others to find better ideas to handle complex problems.</p> <p><b>Spark and Accumulo: handling really big data</b></p> <p>The primary focus of data science is the understanding of data. As data gets large and complex, more work needs to be done to do the bookkeeping.\u00a0 Apache Accumulo is an implementation of Google\u2019s big table with the focus on large scale and security.\u00a0 Apache Spark is the next generation compute platform. Both Accumulo and Spark can be used on Hadoop file system (HDFS). Both technologies together become a great way to do ETL first, and follow up with analytics using Sparks MLlib or GraphX.</p> <p>The goal of this presentation is to add new tools to the the data scientist toolbox. We will go through the benefits of using Accumulo and Spark as a custom data analytic platform and provide with some simple examples to ease processing.\u00a0 Once you know the basics, you can leverage any of your data analytic skills to build on top of a solid platform.</p> <p>\n\n\nMeetup Agenda</p> <p>\n\n\n\n6:30 - 7:00 \u00a0Food, drinks and meeting new people\u00a0</p> <p><br/>7:00 - 7:15 \u00a0Introduction and announcements\u00a0</p> <p><br/>7:15 - 8:30 \u00a0Presentation and Q&amp;A</p> <p>\n\n\n8:30 \u00a0After-Meetup gathering at <a href=\"http://highlinerxr.com/\">Highline</a>\u00a0Crystal City</p>", 
+            "description": "<p>Matthew Purdy is a technology minded business person.\u00a0 As CEO of a local software engineering services company with a focus on big data, his role is to grow his business through relationships.\u00a0 As a software engineer, his every day job requires handling very large data with interesting restraints and complexity.</p> <p>Matt has close to 20 years experience with many different language, software platforms, and distributed systems.\u00a0 His current focus has been big data using Hadoop, Accumulo, and Spark; however, he is alway interested in learning new technologies and listening to others to find better ideas to handle complex problems.</p> <p><b>Spark and Accumulo: handling really big data</b></p> <p>The primary focus of data science is the understanding of data. As data gets large and complex, more work needs to be done to do the bookkeeping.\u00a0 Apache Accumulo is an implementation of Google\u2019s big table with the focus on large scale and security.\u00a0 Apache Spark is the next generation compute platform. Both Accumulo and Spark can be used on Hadoop file system (HDFS). Both technologies together become a great way to do ETL first, and follow up with analytics using Sparks MLlib or GraphX.</p> <p>The goal of this presentation is to add new tools to the the data scientist toolbox. We will go through the benefits of using Accumulo and Spark as a custom data analytic platform and provide with some simple examples to ease processing.\u00a0 Once you know the basics, you can leverage any of your data analytic skills to build on top of a solid platform.</p> <p>\n\n\nMeetup Agenda</p> <p>\n\n\n\n6:30 - 7:00 \u00a0Food, drinks and meeting new people\u00a0</p> <p><br/>7:00 - 7:15 \u00a0Introduction and announcements\u00a0</p> <p><br/>7:15 - 8:30 \u00a0Presentation and Q&amp;A</p> <p>\n\n\n8:30 \u00a0After-Meetup gathering at <a href=\"http://highlinerxr.com/\">Highline</a>\u00a0Crystal City</p> <p>Special thank you to ByteCubed for hosting us tonight!</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/8/c/8/600_454127304.jpeg\" /></p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934861/", 
             "group": {
@@ -102,7 +102,7 @@ calendar({
             "name": "September Meetup - Machine Learning and Graph Processing on Accumulo w/ Spark", 
             "status": "upcoming", 
             "time": 1473892200000, 
-            "updated": 1473372831000, 
+            "updated": 1473871918000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2231 Crystal Drive, suite 401, 22202", 
@@ -118,7 +118,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 137
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1471287239000, 
@@ -196,7 +196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1473629404000, 
@@ -236,7 +236,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 183
+            "yes_rsvp_count": 195
         }, 
         {
             "created": 1457965726000, 
@@ -264,7 +264,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -292,7 +292,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1446220217000, 
@@ -371,7 +371,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1467700232000, 
@@ -409,7 +409,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1470792075000, 
@@ -448,7 +448,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 24, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -570,7 +570,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 114
+            "yes_rsvp_count": 115
         }, 
         {
             "created": 1459265642000, 
@@ -639,7 +639,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 118
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1468853724000, 
@@ -706,11 +706,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1473268749000, 
-            "description": "<p>Over 6 billion emojis are sent each day, and within the past year, emojis have begun finding their way into criminal cases as vital evidence because of their semantic value. Emojis present difficulties for attorneys because they can't be identified via keyword searches, and producing the rendered images is both technically challenging with existing software but also highly subjective due to the device-specific emojis used. This talk will explore some of the challenges and highlight several of the key cases from the past year. The talk will also discuss strategies attorneys are using to tackle these challenges, as well as where we see this issue heading over the next several years.</p> <p><br/>Speakers include:</p> <p>* Robinson Meyer, The Atlantic, is a technology/climate journalist who covers the emoji beat. \ud83d\udcdd</p> <p>* Gabriella Ziccarelli, Blank Rome, has written on emoji-related\u00a0legal issues. \u2696</p> <p>* Joe Sremack, Boxer Analytics and\u00a0Unicode Consortium member, spends way too much time analyzing emoji modifiers and surrogate pairs. \ud83c\udf9b\u00a0</p> <p>* more TBD!</p>", 
+            "description": "<p>Over 6 billion emojis are sent each day, and within the past year, emojis have begun finding their way into criminal cases as vital evidence because of their semantic value. Emojis present difficulties for attorneys because they can't be identified via keyword searches, and producing the rendered images is both technically challenging with existing software but also highly subjective due to the device-specific emojis used. This talk will explore some of the challenges and highlight several of the key cases from the past year. The talk will also discuss strategies attorneys are using to tackle these challenges, as well as where we see this issue heading over the next several years.</p> <p><br/>Speakers include:</p> <p>* Robinson Meyer, The Atlantic, is a technology/climate journalist who covers the emoji beat. \ud83d\udcdd</p> <p>* Gabriella Ziccarelli, Blank Rome, has written on emoji-related\u00a0legal issues. \u2696</p> <p>* Joe Sremack, Boxer Analytics and\u00a0Unicode Consortium member, spends way too much time analyzing emoji modifiers and surrogate pairs. \ud83c\udf9b\u00a0</p> <p>UPDATE: \ud83c\udf7b + \ud83c\udf4b-ade + perhaps emoji themed snacks will be in the house!</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/233944133/", 
             "group": {
@@ -730,7 +730,7 @@ calendar({
             "rsvp_limit": 85, 
             "status": "upcoming", 
             "time": 1475620200000, 
-            "updated": 1473270381000, 
+            "updated": 1473872404000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW", 
@@ -748,7 +748,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1459265642000, 
@@ -815,7 +815,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1452612310000, 
@@ -854,7 +854,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1326383071000, 
@@ -1004,7 +1004,7 @@ calendar({
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbpb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234120497/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1022,8 +1022,20 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1476225000000, 
-            "updated": 1472237272000, 
+            "updated": 1473865013000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1015 7th Street NW.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23509615, 
+                "lat": 38.903422999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.021598999999995, 
+                "name": "ECMC", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
@@ -1066,7 +1078,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1468853724000, 
@@ -1089,8 +1101,21 @@ calendar({
             "name": "Open Lab Night (with Ruby on Rails Team)", 
             "status": "upcoming", 
             "time": 1476311400000, 
-            "updated": 1472237304000, 
+            "updated": 1473865074000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW,", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 6154072, 
+                "lat": 38.899357000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.033066000000005, 
+                "name": "Living Social", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
@@ -1171,7 +1196,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1470699270000, 
