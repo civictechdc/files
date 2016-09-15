@@ -2,125 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1468853724000, 
-            "description": "<p><b>Come work on that coding project you've been neglecting, or those coding challenges you've been working through--or just bring your questions!This night is open to all coding languages, but the leads will have a focus on Rails. They also know Angular JS and front-end languages.</b></p> <p><br/><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232708941/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "xvsfwlyvmbsb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Open Lab Night (with Ruby on Rails Team)", 
-            "status": "upcoming", 
-            "time": 1473892200000, 
-            "updated": 1473693391000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
-            "created": 1473035394000, 
-            "description": "<p>Our workflows are, with few exceptions, entirely digital. This is fantastic for productivity, accuracy, and a million other reasons- but by building in the same tools we risk uniformity in output. There are endless ways to make something look custom, but one of the best is to simply incorporate illustrative elements- whether they be a hand drawn pattern, icon marker, or classic marginalia.</p> <p>Sometimes it's nice to take a break from the digital screens of our lives and bust out the pen and paper. Join us for an evening of drawing and tracing beautiful maps at this special Maptime.</p> <p>Dylan will go over when illustrative embellishments are appropriate, and some techniques he's found useful for bringing handy work to the digital world. If you have hesitations based on self perceived art skills, please don't let that discourage you! There is still a lot you can do, we promise.</p> <p>Inspiration and some preview activities can be <a href=\"https://github.com/ddai/hand-drawn-maps\">found here</a>.\u00a0Some art supplies will be available including colored pencils, markers, and paper, but please bring your own if you have some or if you'd like to work with a different medium. All tools and folks welcome :)</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/233877167/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "The entrance for Development Seed is located on the second floor and in back of the building. To find it, walk down Blagden Alley and enter the doorway next to The Dabney that has the Development Seed sign. Then head up the stairway to the left.", 
-            "id": "233877167", 
-            "maybe_rsvp_count": 0, 
-            "name": "Hand Drawn Maps!", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1473892200000, 
-            "updated": 1473282246000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1226 9th Street NW Second Floor Washington, DC 20001", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24224999, 
-                "lat": 38.912067, 
-                "localized_country_name": "USA", 
-                "lon": -77.019019999999998, 
-                "name": "Development Seed ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 17, 
-            "yes_rsvp_count": 40
-        }, 
-        {
-            "created": 1417881835000, 
-            "description": "<p>Matthew Purdy is a technology minded business person.\u00a0 As CEO of a local software engineering services company with a focus on big data, his role is to grow his business through relationships.\u00a0 As a software engineer, his every day job requires handling very large data with interesting restraints and complexity.</p> <p>Matt has close to 20 years experience with many different language, software platforms, and distributed systems.\u00a0 His current focus has been big data using Hadoop, Accumulo, and Spark; however, he is alway interested in learning new technologies and listening to others to find better ideas to handle complex problems.</p> <p><b>Spark and Accumulo: handling really big data</b></p> <p>The primary focus of data science is the understanding of data. As data gets large and complex, more work needs to be done to do the bookkeeping.\u00a0 Apache Accumulo is an implementation of Google\u2019s big table with the focus on large scale and security.\u00a0 Apache Spark is the next generation compute platform. Both Accumulo and Spark can be used on Hadoop file system (HDFS). Both technologies together become a great way to do ETL first, and follow up with analytics using Sparks MLlib or GraphX.</p> <p>The goal of this presentation is to add new tools to the the data scientist toolbox. We will go through the benefits of using Accumulo and Spark as a custom data analytic platform and provide with some simple examples to ease processing.\u00a0 Once you know the basics, you can leverage any of your data analytic skills to build on top of a solid platform.</p> <p>\n\n\nMeetup Agenda</p> <p>\n\n\n\n6:30 - 7:00 \u00a0Food, drinks and meeting new people\u00a0</p> <p><br/>7:00 - 7:15 \u00a0Introduction and announcements\u00a0</p> <p><br/>7:15 - 8:30 \u00a0Presentation and Q&amp;A</p> <p>\n\n\n8:30 \u00a0After-Meetup gathering at <a href=\"http://highlinerxr.com/\">Highline</a>\u00a0Crystal City</p> <p>Special thank you to ByteCubed for hosting us tonight!</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/b/8/c/8/600_454127304.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Wranglers-DC/events/225934861/", 
-            "group": {
-                "created": 1384378071000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 11094242, 
-                "join_mode": "open", 
-                "name": "Data Wranglers DC", 
-                "urlname": "Data-Wranglers-DC", 
-                "who": "Data Wranglers"
-            }, 
-            "headcount": 0, 
-            "id": "hffzclyvmbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "September Meetup - Machine Learning and Graph Processing on Accumulo w/ Spark", 
-            "status": "upcoming", 
-            "time": 1473892200000, 
-            "updated": 1473871918000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2231 Crystal Drive, suite 401, 22202", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24772536, 
-                "lat": 38.853779000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.048766999999998, 
-                "name": "ByteCubed", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 133
-        }, 
-        {
             "created": 1471280199000, 
             "description": "<p>Eve Freeman will talk about graph database use cases and give a brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\u00a0<a href=\"https://wirelessregistry.com\">Wireless Registry</a>\u00a0for sponsoring our event!</p>", 
             "duration": 7200000, 
@@ -157,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1473629404000, 
@@ -197,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 199
+            "yes_rsvp_count": 204
         }, 
         {
             "created": 1457965726000, 
@@ -293,11 +174,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022 <b>6:30pm</b> - Setup and intros</p> <p>\u2022 <b>7:00pm - 8:30 pm</b> - Tutorial</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232708947/", 
             "group": {
@@ -316,7 +197,7 @@ calendar({
             "name": "Ruby on Rails Tutorial: Build a Photo-of-the-Day app with an API from NASA", 
             "status": "upcoming", 
             "time": 1474497000000, 
-            "updated": 1473117298000, 
+            "updated": 1473911342000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "806 7th St NW #201", 
@@ -332,7 +213,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1467700232000, 
@@ -409,7 +290,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 24, 
+            "waitlist_count": 25, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -450,7 +331,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 97
         }, 
         {
@@ -491,7 +372,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1471093735000, 
@@ -531,7 +412,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1459265642000, 
@@ -600,11 +481,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 119
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop to the event so you can participate in the workshop!</p> <p>Looking for something else to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop to the event so you can participate in the workshop!</p> <p>Looking for something else to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233422034/", 
             "group": {
@@ -623,11 +504,11 @@ calendar({
             "name": "Ruby on Rails: Build a ToDo List App", 
             "status": "upcoming", 
             "time": 1475101800000, 
-            "updated": 1473117319000, 
+            "updated": 1473898398000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1473881201000, 
@@ -705,7 +586,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1473268749000, 
@@ -747,7 +628,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1459265642000, 
@@ -931,7 +812,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 1, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -959,7 +840,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1466889163000, 
@@ -1077,7 +958,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 79
         }, 
         {
             "created": 1468853724000, 
@@ -1100,7 +981,7 @@ calendar({
             "name": "Open Lab Night (with Ruby on Rails Team)", 
             "status": "upcoming", 
             "time": 1476311400000, 
-            "updated": 1473865074000, 
+            "updated": 1473898263000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -1195,7 +1076,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1470699270000, 
@@ -1261,7 +1142,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459265642000, 
@@ -1287,6 +1168,45 @@ calendar({
             "time": 1476829800000, 
             "updated": 1472237272000, 
             "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1468853724000, 
+            "description": "<p><b>Come work on that coding project you've been neglecting, or those coding challenges you've been working through--or just bring your questions!</b></p> <p><b>This night is open to all coding languages, but the leads will have a focus on Rails.\u00a0They can also answer questions on Angular JS and front-end languages.</b></p> <p><b><br/></b></p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233738441/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "xvsfwlyvnbzb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Open Lab Night (with Ruby on Rails Team)", 
+            "status": "upcoming", 
+            "time": 1476916200000, 
+            "updated": 1473898263000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "806 7th St NW #201", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24412919, 
+                "lat": 38.900185, 
+                "localized_country_name": "USA", 
+                "lon": -77.022148000000001, 
+                "name": "threespot", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
