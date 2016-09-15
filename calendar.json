@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1473035394000, 
@@ -78,7 +78,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 26, 
+            "waitlist_count": 17, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -118,46 +118,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 134
-        }, 
-        {
-            "created": 1471287239000, 
-            "description": "<p>NOTE: This event will be rescheduled to October. Check back Monday afternoon 9/12 for details.</p> <p>Register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a></p> <p>Limited to 40 attendees. Tickets are released in tiers of 10. \u00a0Save $10-35 by registering early.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:00 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:30 -\u00a0Registration &amp; Networking</p> <p>3:45 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>4:45 -\u00a0Networking &amp; Snacks</p> <p>5:00 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:00 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>6:30 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>7:30 -\u00a0Networking &amp; Dessert</p> <p>8:00 -\u00a0Adjourn\u00a0</p> <p><b>Call for Speakers</b></p> <p><br/>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "233376476", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: SEO and Search-Friendly Content", 
-            "status": "upcoming", 
-            "time": 1473966000000, 
-            "updated": 1473628631000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1401 I Street, NW, Suite 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 2316151, 
-                "lat": 38.901665000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.032416999999995, 
-                "name": "The Creative Group", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20533"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1471280199000, 
@@ -236,7 +197,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 195
+            "yes_rsvp_count": 199
         }, 
         {
             "created": 1457965726000, 
@@ -371,7 +332,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1467700232000, 
@@ -639,7 +600,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 119
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1468853724000, 
@@ -666,7 +627,45 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
+        }, 
+        {
+            "created": 1473881201000, 
+            "description": "<p>(Information is preliminary)</p> <p>Note: Limited to 40 attendees. Tickets are released in tiers. Save by registering early, which also helps with planning the speaker list.\u00a0</p> <p><b>Website Rehab: Redesigns, Facelifts &amp; Responsive Reworks</b></p> <p>Six hours of presentations on redesigns, facelifts, responsive reworks - how to decide the best strategy and make your project successful.</p> <p><b>Agenda<br/></b></p> <p>3:00 - Registration and Networking\u00a0<br/>3:30 - Session\u00a01:\u00a0Redesigns<br/>4:20 - Short Break<br/>4:30 - Session 2: Facelifts<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Responsive and Other Reworks<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Deciding the Right Strategy<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We will be looking for speakers on the topics above. Check back for more detail or reach out to [masked].</p> <p>Call for Speakers</p> <p>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/234127076/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "234127076", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: Website Rehab", 
+            "status": "upcoming", 
+            "time": 1475175600000, 
+            "updated": 1473881201000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1400 16th St NW ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24788047, 
+                "lat": 38.909030999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.037056000000007, 
+                "name": "Figleaf Software", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1457392514000, 
@@ -706,7 +705,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1473268749000, 
@@ -748,7 +747,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -960,7 +959,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1466889163000, 
@@ -1078,7 +1077,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1468853724000, 
@@ -1196,7 +1195,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1470699270000, 
@@ -1291,6 +1290,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1471287239000, 
+            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released in tiers of 10. \u00a0Save $10-35 by registering early.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:00 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:30 -\u00a0Registration &amp; Networking</p> <p>3:45 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>4:45 -\u00a0Networking &amp; Snacks</p> <p>5:00 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:00 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>6:30 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>7:30 -\u00a0Networking &amp; Dessert</p> <p>8:00 -\u00a0Adjourn\u00a0</p> <p><b>Call for Speakers</b></p> <p><br/>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "233376476", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: SEO and Search-Friendly Content", 
+            "status": "upcoming", 
+            "time": 1476990000000, 
+            "updated": 1473879650000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1401 I Street, NW, Suite 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 2316151, 
+                "lat": 38.901665000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.032416999999995, 
+                "name": "The Creative Group", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20533"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1467704208000, 
