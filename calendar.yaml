@@ -1,29 +1,5 @@
 codefordc: []
 other:
-- created: 1471280199000
-  description: "<p>Eve Freeman will talk about graph database use cases and give a\
-    \ brief intro to Neo4j and Cypher, the Neo4j query language.</p> <p>Thanks to\_\
-    <a href=\"https://wirelessregistry.com\">Wireless Registry</a>\_for sponsoring\
-    \ our event!</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233373437/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '233373437'
-  maybe_rsvp_count: 0
-  name: 'Tech Talk: Graph Databases with Neo4j'
-  status: upcoming
-  time: 1473978600000
-  updated: 1472825556000
-  utc_offset: -14400000
-  venue: {address_1: '1200 18th Street NW Suite #700', city: Washington, country: us,
-    id: 24738213, lat: 38.905937000000002, localized_country_name: USA, lon: -77.042052999999996,
-    name: The Wireless Registry @ MakeOffices, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 39
 - created: 1473629404000
   description: "<p>For our September Data Science DC Meetup, we are excited to have\
     \ <b>Majid Al-Dosari</b>, MS graduate of GMU Computational Science, with a background\
@@ -139,7 +115,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -172,7 +148,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -204,7 +180,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022 <b>6:30pm</b> - Setup and\
     \ intros</p> <p>\u2022 <b>7:00pm - 8:30 pm</b> - Tutorial</p> <p><b>Contact policy\
@@ -295,7 +271,7 @@ other:
     name: Blackboard Inc, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1470792075000
   description: "<p>Either if you know Python already or you haven't written a line\
     \ before, if you are a journalist who needs to explore data looking for a story\
@@ -324,7 +300,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 26
+  waitlist_count: 27
   yes_rsvp_count: 30
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -433,7 +409,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 17
+  waitlist_count: 18
   yes_rsvp_count: 97
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
@@ -481,7 +457,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1471093735000
   description: "<p>IBM's Watson became a household name when it defeated two human\
     \ champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>.\
@@ -541,7 +517,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 117
+  yes_rsvp_count: 118
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -706,7 +682,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1473881201000
   description: "<p>(Information is preliminary)</p> <p>Note: Limited to 40 attendees.\
     \ Tickets are released in tiers. Save by registering early, which also helps with\
@@ -795,7 +771,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1473268749000
   description: "<p>Over 6 billion emojis are sent each day, and within the past year,\
     \ emojis have begun finding their way into criminal cases as vital evidence because\
@@ -846,7 +822,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvnbgb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234168887/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -892,7 +868,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1060,7 +1036,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 9
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1134,7 +1110,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1177,7 +1153,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -1211,7 +1187,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 48
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -1300,7 +1276,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 9
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1343,7 +1319,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1417,6 +1393,38 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1446220217000
+  description: "<p>We're a group of women who want to learn and develop our Python\
+    \ scripting skills. Some of us are professional developers and data scientists,\
+    \ others are hobbyists, and some are just beginning. The study group is intended\
+    \ for everyone who wishes to learn more about the Python programming language.\
+    \ Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on\
+    \ the first Wednesday of every month, which caters especially for absolute beginners\
+    \ and people with basic familiarity.</p> <p>All other study group nights will\
+    \ generally cover more advanced topics and work on projects more in depth, according\
+    \ to everyone's interests.</p> <p>(Please bring a laptop!)\_</p> <p><b>Note:</b>\
+    \ This Women Who Code DC event is intended to be exclusively open for women; we\
+    \ are trans* friendly.</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/226817460/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gcxvllyvnbzb
+  maybe_rsvp_count: 0
+  name: Python - Hack Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1476916200000
+  updated: 1473865060000
+  utc_offset: -14400000
+  venue: {address_1: 1110 N Glebe Rd Ste 200, city: Arlington, country: US, id: 23504645,
+    lat: 38.884166999999998, localized_country_name: USA, lon: -77.116805999999997,
+    name: Blackstone Technology Group, repinned: false}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released\
