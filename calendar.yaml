@@ -72,7 +72,7 @@ other:
     name: GWU Media & Public Affairs Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 217
+  yes_rsvp_count: 218
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -549,7 +549,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 118
+  yes_rsvp_count: 119
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -672,7 +672,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 122
+  yes_rsvp_count: 123
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -796,7 +796,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 42
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1009,7 +1009,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1473191008000
   description: '<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE
     documentary exposes the dearth of American female and minority software engineers
