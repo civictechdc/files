@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 233
+            "yes_rsvp_count": 238
         }, 
         {
             "created": 1457965726000, 
@@ -292,8 +292,36 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 26, 
+            "waitlist_count": 27, 
             "yes_rsvp_count": 97
+        }, 
+        {
+            "created": 1474206605000, 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!</p> <p>The estimated cost for the brunch is $18-20, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you). Menu can be found here: <a href=\"http://www.matchboxrestaurants.com/menu/brunch/?menu=44\" class=\"linkified\">http://www.matchboxrestaurants.com/menu/brunch/?menu=44</a></p> <p>-----------------------------<br/>Matchbox on 14th Street, located around the U Street Corridor:</p> <p>Metro accessible - A short walk from the U Street/African-Amer Civil War Memorial/Cardozo Metro station (Green/Yellow lines).</p> <p>If driving, we would recommend getting there early because it will be competitive. More on parking options around the U Street Corridor here: <a href=\"http://dcparking.org/u-street-corridor-parking-guide/\" class=\"linkified\">http://dcparking.org/u-street-corridor-parking-guide/</a></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234215793/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "234215793", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Networking Brunch", 
+            "rsvp_limit": 20, 
+            "status": "upcoming", 
+            "time": 1474812000000, 
+            "updated": 1474206953000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1474036071000, 
@@ -333,7 +361,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1457212385000, 
@@ -482,7 +510,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 124
+            "yes_rsvp_count": 125
         }, 
         {
             "created": 1468853724000, 
@@ -509,7 +537,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1473881201000, 
@@ -1212,45 +1240,6 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
-            "created": 1468853724000, 
-            "description": "<p><b>Come work on that coding project you've been neglecting, or those coding challenges you've been working through--or just bring your questions!</b></p> <p><b>This night is open to all coding languages, but the leads will have a focus on Rails.\u00a0They can also answer questions on Angular JS and front-end languages.</b></p> <p><b><br/></b></p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233738441/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "xvsfwlyvnbzb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Open Lab Night (with Ruby on Rails Team)", 
-            "status": "upcoming", 
-            "time": 1476916200000, 
-            "updated": 1473898263000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "806 7th St NW #201", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24412919, 
-                "lat": 38.900185, 
-                "localized_country_name": "USA", 
-                "lon": -77.022148000000001, 
-                "name": "threespot", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
             "created": 1471287239000, 
             "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released in tiers of 10. \u00a0Save $10-35 by registering early.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:00 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:30 -\u00a0Registration &amp; Networking</p> <p>3:45 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>4:45 -\u00a0Networking &amp; Snacks</p> <p>5:00 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:00 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>6:30 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>7:30 -\u00a0Networking &amp; Dessert</p> <p>8:00 -\u00a0Adjourn\u00a0</p> <p><b>Call for Speakers</b></p> <p><br/>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
@@ -1287,7 +1276,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1467704208000, 
