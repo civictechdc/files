@@ -72,7 +72,7 @@ other:
     name: GWU Media & Public Affairs Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 243
+  yes_rsvp_count: 253
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -115,7 +115,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -180,7 +180,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022 <b>6:30pm</b> - Setup and\
     \ intros</p> <p>\u2022 <b>7:00pm - 8:30 pm</b> - Tutorial</p> <p><b>Contact policy\
@@ -218,27 +218,26 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 20
 - created: 1467700232000
   description: "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\"\
-    >Eventbrite</a> to attend. Register early - the event will fill up.</p> <p>Join\
-    \ us for a 5-hour mini-conference focused on how content strategy impacts user\
-    \ experiences.\_</p> <p><b>*</b> Hear about content strategy and management from\
-    \ 6 speakers, all through the lens of the user's experience.\_</p> <p><b>*</b>\
-    \ Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p>\
-    \ <p>4:00 -\_Registration &amp; Networking</p> <p>Enjoy light munchies and drinks\
-    \ while you meet our speakers and attendees.</p> <p>4:30 - SESSION 1: Content\
-    \ Organization</p> <p>Speakers will discuss the content organization techniques\
-    \ such as audits, taxonomy, information architecture, navigation, etc and how\
-    \ those can impact user experience.</p> <p>5:30 -\_Networking Over a Light Dinner</p>\
-    \ <p>Networking, drinks and a light dinner.\_</p> <p>6:00 - SESSION 2: Content\
-    \ Creation &amp; Display</p> <p>Topics such as responsive content, integrated\
-    \ content, content mapping, writing content, voice &amp; style - and how these\
-    \ impact the users understanding of the content.</p> <p>7:00 -\_Networking Over\
-    \ Drinks\_</p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning, Tuning\
-    \ and User Testing</p> <p>Topics around planning your content strategy, refining\
-    \ your process and testing with users.</p> <p>8:30 -\_Networking Over Dessert</p>\
-    \ <p>Dessert and wrap-up.</p> <p>9:00 -\_Adjourn\_</p> <p><b>SPEAKERS</b></p>\
+    >Eventbrite</a> to attend.\_</p> <p>Join us for a 5-hour mini-conference focused\
+    \ on how content strategy impacts user experiences.\_</p> <p>&gt; Hear about content\
+    \ strategy and management from 6 speakers, all through the lens of the user's\
+    \ experience.\_</p> <p>&gt; Network and share ideas over snacks, dinner, drinks\
+    \ and dessert.</p> <p><b>AGENDA</b></p> <p>4:00 -\_Registration &amp; Networking</p>\
+    \ <p>Enjoy light munchies and drinks while you meet our speakers and attendees.</p>\
+    \ <p>4:30 - SESSION 1: Content Organization</p> <p>Speakers will discuss the content\
+    \ organization techniques such as audits, taxonomy, information architecture,\
+    \ navigation, etc and how those can impact user experience.</p> <p>5:30 -\_Networking\
+    \ Over a Light Dinner</p> <p>Networking, drinks and a light dinner.\_</p> <p>6:00\
+    \ - SESSION 2: Content Creation &amp; Display</p> <p>Topics such as responsive\
+    \ content, integrated content, content mapping, writing content, voice &amp; style\
+    \ - and how these impact the users understanding of the content.</p> <p>7:00 -\_\
+    Networking Over Drinks\_</p> <p>Networking with drinks.</p> <p>7:30 - SESSION\
+    \ 3: Planning, Tuning and User Testing</p> <p>Topics around planning your content\
+    \ strategy, refining your process and testing with users.</p> <p>8:30 -\_Networking\
+    \ Over Dessert</p> <p>Dessert and wrap-up.</p> <p>9:00 -\_Adjourn\_</p> <p><b>SPEAKERS</b></p>\
     \ <p>Speakers will be posted beginning in early September.</p> <p><br/><b>Call\
     \ for Speakers</b></p> <p>We are seeking speakers for topic areas above.\_</p>\
     \ <p>Talks should meet one of these criteria:<br/>\_ - Gives new information or\
@@ -264,14 +263,14 @@ other:
   name: 'MavenMini: Content-Driven User Experiences'
   status: upcoming
   time: 1474574400000
-  updated: 1472647666000
+  updated: 1474252283000
   utc_offset: -14400000
   venue: {address_1: '1111 19th St NW, Washington, DC 20036', city: Washington, country: us,
     id: 24373558, lat: 38.904395999999998, localized_country_name: USA, lon: -77.042952999999997,
     name: Blackboard Inc, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 28
 - created: 1470792075000
   description: "<p>Either if you know Python already or you haven't written a line\
     \ before, if you are a journalist who needs to explore data looking for a story\
@@ -300,7 +299,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 29
+  waitlist_count: 30
   yes_rsvp_count: 30
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -440,7 +439,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1474036071000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -1017,7 +1016,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
