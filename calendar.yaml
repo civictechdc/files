@@ -72,7 +72,7 @@ other:
     name: GWU Media & Public Affairs Room B07, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 238
+  yes_rsvp_count: 243
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -271,7 +271,7 @@ other:
     name: Blackboard Inc, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1470792075000
   description: "<p>Either if you know Python already or you haven't written a line\
     \ before, if you are a journalist who needs to explore data looking for a story\
@@ -409,7 +409,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 27
+  waitlist_count: 28
   yes_rsvp_count: 97
 - created: 1474206605000
   description: '<p>Are you a professional developer, designer, sysadmin, or working
@@ -440,7 +440,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 14
 - created: 1474036071000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
@@ -472,7 +472,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -702,7 +702,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 125
+  yes_rsvp_count: 126
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -744,7 +744,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1473881201000
   description: "<p>(Information is preliminary)</p> <p>Note: Limited to 40 attendees.\
     \ Tickets are released in tiers. Save by registering early, which also helps with\
@@ -826,7 +826,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 56
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -973,7 +973,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -1039,7 +1039,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1473191008000
   description: '<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE
     documentary exposes the dearth of American female and minority software engineers
@@ -1334,7 +1334,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 83
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
