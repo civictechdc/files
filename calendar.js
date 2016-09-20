@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1468853724000, 
@@ -118,11 +118,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1467700232000, 
-            "description": "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\">Eventbrite</a> to attend.\u00a0</p> <p>Join us for a 5-hour mini-conference focused on how content strategy impacts user experiences.\u00a0</p> <p>&gt; Hear about content strategy and management from 6 speakers, all through the lens of the user's experience.\u00a0</p> <p>&gt; Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p>4:00 -\u00a0Registration &amp; Networking</p> <p>Enjoy light munchies and drinks while you meet our speakers and attendees.</p> <p>4:30 - SESSION 1: Content Organization</p> <p>Speakers will discuss the content organization techniques such as audits, taxonomy, information architecture, navigation, etc and how those can impact user experience.</p> <p>5:30 -\u00a0Networking Over a Light Dinner</p> <p>Networking, drinks and a light dinner.\u00a0</p> <p>6:00 - SESSION 2: Content Creation &amp; Display</p> <p>Topics such as responsive content, integrated content, content mapping, writing content, voice &amp; style - and how these impact the users understanding of the content.</p> <p>7:00 -\u00a0Networking Over Drinks\u00a0</p> <p>Networking with drinks.</p> <p>7:30 - SESSION 3: Planning, Tuning and User Testing</p> <p>Topics around planning your content strategy, refining your process and testing with users.</p> <p>8:30 -\u00a0Networking Over Dessert</p> <p>Dessert and wrap-up.</p> <p>9:00 -\u00a0Adjourn\u00a0</p> <p><b>SPEAKERS</b></p> <p>Speakers will be posted beginning in early September.</p> <p><br/><b>Call for Speakers</b></p> <p>We are seeking speakers for topic areas above.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><b>Topic Areas</b></p> <p>All talks should focus on the user experience - how a given subject can impact that experience.</p> <p>- Taxonomy, tagging<br/>-\u00a0Navigation &amp; IA<br/>-\u00a0Responsive content<br/>-\u00a0Mobile content<br/>-\u00a0Integrated &amp; multi-channel content approaches<br/>- Web\u00a0CMS - selecting, working with, integrating<br/>-\u00a0Content management, content governance techniques<br/>- Writing content with a focus on user experience</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "description": "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\">Eventbrite</a> to attend.\u00a0</p> <p>Join the\u00a0<a href=\"http://www.meetup.com/webcontentmavens/\">Web Content Mavens</a>\u00a0for a 5-hour mini-conference on developing &amp; designing content that enhances user experiences.\u00a0</p> <p>&gt;\u00a0Hear about content strategy and management from 6 speakers, all through the lens of the user's experience.\u00a0</p> <p>&gt;\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p><b>4:00 -\u00a0Registration &amp; Networking</b></p> <p>Enjoy light munchies and drinks while you meet our speakers and attendees.</p> <p><b>4:30 - SESSION 1: Content Organization</b></p> <p>Speakers will discuss the content organization techniques such as audits, taxonomy, information architecture, navigation, etc and how those can impact user experience.</p> <p><i><b>\"Making A Future Proof Taxonomy\"</b></i></p> <p><b>Greg\u00a0Kihlstr\u00f6m<br/></b>Founder &amp; CEO<br/>Carousel30</p> <p><b><i>\"Employing a Collaborative Model for Structured Content\"</i></b></p> <p><b>Dori Kelner<br/></b>Principal<br/>Slight of Hand Studios</p> <p><b>5:30 -\u00a0Networking Over a Light Dinner</b></p> <p>Networking, drinks and a light dinner.\u00a0</p> <p><b>6:00 - SESSION 2: Content Creation &amp; Display</b></p> <p>Topics such as responsive content, integrated content, content mapping, writing content, voice &amp; style - and how these impact the users understanding of the content.</p> <p><b><i>\"Journey Mapping With Content: A Guide to Your Customer's Galaxy\"</i></b></p> <p><b>Michaela Hackner<br/></b>Senior Manager UX Content Strategy<br/>CapitalOne</p> <p><i>(We have an additional speaker but are confirming information)\u00a0</i></p> <p><b>7:00 -\u00a0Networking Over Drinks\u00a0</b></p> <p>Networking with drinks.</p> <p><b>7:30 - SESSION 3:\u00a0Planning, Tuning and User Testing</b></p> <p>Topics around planning your content strategy, refining your process and testing with users.</p> <p><b><i>\"A Marathon of Sprints: How to Manage Content Like a Project Manager\"</i></b></p> <p><b>Lauren Maffeo<br/></b>Content Editor<br/>GetApp, Gartner Research Digital Markets</p> <p><b><i>\"Improve Your Content Through User Feedback\"</i></b></p> <p><b>Laura Ellena<br/></b>User Experience Researcher<br/>Ad Hoc LLC</p> <p><b>8:30 -\u00a0Networking Over Dessert</b></p> <p>Dessert and wrap-up.</p> <p><b>9:00 -\u00a0Adjourn\u00a0</b></p> <p>OUR SPONSOR</p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a></p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a>\u00a0has built the world's most sophisticated platform for teaching and learning code\u00a0\u2013 community and peer learning combined with modern software tools and 24/7 online instructional support. Beginners welcome.</p> <p><br/><img src=\"https://cdn.evbuc.com/eventlogos/431300/flatironlogo120x90grey.png\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
             "group": {
                 "created": 1189804715000, 
@@ -140,7 +140,7 @@ calendar({
             "name": "MavenMini: Content-Driven User Experiences", 
             "status": "upcoming", 
             "time": 1474574400000, 
-            "updated": 1474252283000, 
+            "updated": 1474380234000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1111 19th St NW, Washington, DC 20036", 
@@ -156,7 +156,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1470792075000, 
@@ -264,7 +264,7 @@ calendar({
             "updated": 1474206953000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457212385000, 
@@ -345,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1471093735000, 
@@ -385,7 +385,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 124
+            "yes_rsvp_count": 126
         }, 
         {
             "created": 1474335011000, 
@@ -413,7 +413,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1459265642000, 
@@ -482,7 +482,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 130
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1468853724000, 
@@ -585,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1457392514000, 
@@ -812,7 +812,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1473191008000, 
@@ -917,7 +917,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1459265642000, 
@@ -1115,7 +1115,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1470699270000, 
