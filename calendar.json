@@ -63,7 +63,7 @@
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1474497000000, 
-            "updated": 1473537782000, 
+            "updated": 1474414329000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2100 M St NW", 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1468853724000, 
@@ -195,7 +195,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -236,7 +236,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 29, 
+            "waitlist_count": 30, 
             "yes_rsvp_count": 97
         }, 
         {
@@ -264,7 +264,7 @@
             "updated": 1474206953000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -385,7 +385,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1474335011000, 
@@ -482,7 +482,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 136
         }, 
         {
             "created": 1468853724000, 
@@ -510,44 +510,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 18
-        }, 
-        {
-            "created": 1473881201000, 
-            "description": "<p>(Information is preliminary)</p> <p>Note: Limited to 40 attendees. Tickets are released in tiers. Save by registering early, which also helps with planning the speaker list.\u00a0</p> <p><b>Website Rehab: Redesigns, Facelifts &amp; Responsive Reworks</b></p> <p>Six hours of presentations on redesigns, facelifts, responsive reworks - how to decide the best strategy and make your project successful.</p> <p><b>Agenda<br/></b></p> <p>3:00 - Registration and Networking\u00a0<br/>3:30 - Session\u00a01:\u00a0Redesigns<br/>4:20 - Short Break<br/>4:30 - Session 2: Facelifts<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Responsive and Other Reworks<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Deciding the Right Strategy<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p>We will be looking for speakers on the topics above. Check back for more detail or reach out to [masked].</p> <p>Call for Speakers</p> <p>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/234127076/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "234127076", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Website Rehab", 
-            "status": "upcoming", 
-            "time": 1475175600000, 
-            "updated": 1473881201000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1400 16th St NW ", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24788047, 
-                "lat": 38.909030999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.037056000000007, 
-                "name": "Figleaf Software", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
         }, 
         {
             "created": 1474044580000, 
@@ -585,7 +547,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1457392514000, 
@@ -734,7 +696,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1452612310000, 
@@ -773,7 +735,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
@@ -813,6 +775,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 18
+        }, 
+        {
+            "created": 1473881201000, 
+            "description": "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\">Eventbrite</a> to attend. 5 extra early tickets left!\u00a0</p> <p><b>Website Revamp - Facelifts, Responsive Reworks, Redesigns\u00a0&amp; How to Choose!</b></p> <p><br/>Join us\u00a0for a 5+-hour mini-conference and learn about options for revamping your website - from a minor facelift to a full redesign, as well as how to know which one is right for you.\u00a0</p> <p><b>&gt;</b>\u00a0Hear from 7 experts and peers on your revamp options, what you need to think about before deciding, how to plan for each option and how to pick the right strategy based on your budget, resources and other factors.</p> <p><b>&gt;</b>\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p>3:00 - Registration and Networking\u00a0</p> <p>3:30 - SESSION\u00a01: Understanding Your Options</p> <p>4:20 - Short Break with Snacks</p> <p>4:30 - SESSION 2: Facelifts, Fixes and Responsive Reworks</p> <p>5:30 - Networking and a Light Dinner</p> <p>6:00 - SESSION 3: Redesigns</p> <p>7:00 - Networking Over Cocktails\u00a0</p> <p>7:30 - SESSION 4: Deciding the Right Strategy</p> <p>8:10 - Networking Over Dessert</p> <p>8:30 - Adjourn</p> <p><b>SPEAKERS</b></p> <p>Speakers will be announced as confirmed.</p> <p><b>CALL FOR SPEAKERS</b></p> <p>We are looking for organizations and companies that have done facelifts, fixes, responsive reworks and other approaches to revamping a website short of a redesign.\u00a0</p> <p>For more information, email [masked]. Please include your name, title, organization/company and what sort of revamp you completed (or are working on now).</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/234127076/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "234127076", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: Website Revamp", 
+            "status": "upcoming", 
+            "time": 1475780400000, 
+            "updated": 1474411492000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1401 I Street, NW, Suite 400", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 2316151, 
+                "lat": 38.901665000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.032416999999995, 
+                "name": "The Creative Group", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20533"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1473191008000, 
@@ -997,7 +998,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1468853724000, 
@@ -1076,7 +1077,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1472497385000, 
