@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1468853724000, 
@@ -78,11 +78,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1467700232000, 
-            "description": "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\">Eventbrite</a> to attend.\u00a0</p> <p>Join the\u00a0<a href=\"http://www.meetup.com/webcontentmavens/\">Web Content Mavens</a>\u00a0for a 5-hour mini-conference on developing &amp; designing content that enhances user experiences.\u00a0</p> <p>&gt;\u00a0Hear about content strategy and management from 6 speakers, all through the lens of the user's experience.\u00a0</p> <p>&gt;\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p><b>4:00 -\u00a0Registration &amp; Networking</b></p> <p>Enjoy light munchies and drinks while you meet our speakers and attendees.</p> <p><b>4:30 - SESSION 1: Content Organization</b></p> <p>Speakers will discuss the content organization techniques such as audits, taxonomy, information architecture, navigation, etc and how those can impact user experience.</p> <p><i><b>\"Making A Future Proof Taxonomy\"</b></i></p> <p><b>Greg\u00a0Kihlstr\u00f6m<br/></b>Founder &amp; CEO<br/>Carousel30</p> <p><b><i>\"Employing a Collaborative Model for Structured Content\"</i></b></p> <p><b>Dori Kelner<br/></b>Principal<br/>Slight of Hand Studios</p> <p><b>5:30 -\u00a0Networking Over a Light Dinner</b></p> <p>Networking, drinks and a light dinner.\u00a0</p> <p><b>6:00 - SESSION 2: Content Creation &amp; Display</b></p> <p>Topics such as responsive content, integrated content, content mapping, writing content, voice &amp; style - and how these impact the users understanding of the content.</p> <p><b><i>\"Journey Mapping With Content: A Guide to Your Customer's Galaxy\"</i></b></p> <p><b>Michaela Hackner<br/></b>Senior Manager UX Content Strategy<br/>CapitalOne</p> <p><i>(We have an additional speaker but are confirming information)\u00a0</i></p> <p><b>7:00 -\u00a0Networking Over Drinks\u00a0</b></p> <p>Networking with drinks.</p> <p><b>7:30 - SESSION 3:\u00a0Planning, Tuning and User Testing</b></p> <p>Topics around planning your content strategy, refining your process and testing with users.</p> <p><b><i>\"A Marathon of Sprints: How to Manage Content Like a Project Manager\"</i></b></p> <p><b>Lauren Maffeo<br/></b>Content Editor<br/>GetApp, Gartner Research Digital Markets</p> <p><b><i>\"Improve Your Content Through User Feedback\"</i></b></p> <p><b>Laura Ellena<br/></b>User Experience Researcher<br/>Ad Hoc LLC</p> <p><b>8:30 -\u00a0Networking Over Dessert</b></p> <p>Dessert and wrap-up.</p> <p><b>9:00 -\u00a0Adjourn\u00a0</b></p> <p>OUR SPONSOR</p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a></p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a>\u00a0has built the world's most sophisticated platform for teaching and learning code\u00a0\u2013 community and peer learning combined with modern software tools and 24/7 online instructional support. Beginners welcome.</p> <p><br/><img src=\"https://cdn.evbuc.com/eventlogos/431300/flatironlogo120x90grey.png\" /></p>", 
+            "description": "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\">Eventbrite</a> to attend.\u00a0</p> <p>Join the\u00a0<a href=\"http://www.meetup.com/webcontentmavens/\">Web Content Mavens</a>\u00a0for a 5-hour mini-conference on developing &amp; designing content that enhances user experiences.\u00a0</p> <p>&gt;\u00a0Hear about content strategy and management from 6 speakers, all through the lens of the user's experience.\u00a0</p> <p>&gt;\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p><b>4:00 -\u00a0Registration &amp; Networking</b></p> <p>Enjoy light munchies and drinks while you meet our speakers and attendees.</p> <p><b>4:30 - SESSION 1: Content Organization</b></p> <p>Speakers will discuss the content organization techniques such as audits, taxonomy, information architecture, navigation, etc and how those can impact user experience.</p> <p><i><b>\"Making A Future Proof Taxonomy\"</b></i></p> <p><b>Greg\u00a0Kihlstr\u00f6m<br/></b>Founder &amp; CEO<br/>Carousel30</p> <p><b><i>\"Employing a Collaborative Model for Structured Content\"</i></b></p> <p><b>Dori Kelner<br/></b>Principal<br/>Slight of Hand Studios</p> <p><b>5:30 -\u00a0Networking Over a Light Dinner</b></p> <p>Networking, drinks and a light dinner.\u00a0</p> <p><b>6:00 - SESSION 2: Content Creation &amp; Display</b></p> <p>Topics such as responsive content, integrated content, content mapping, writing content, voice &amp; style - and how these impact the users understanding of the content.</p> <p><b><i>\"Journey Mapping With Content: A Guide to Your Customer's Galaxy\"</i></b></p> <p><b>Michaela Hackner<br/></b>Senior Manager UX Content Strategy<br/>CapitalOne</p> <p><i>(We have an additional speaker but are confirming information)\u00a0</i></p> <p><b>7:00 -\u00a0Networking Over Drinks\u00a0</b></p> <p>Networking with drinks.</p> <p><b>7:30 - SESSION 3:\u00a0Planning, Tuning and User Testing</b></p> <p>Topics around planning your content strategy, refining your process and testing with users.</p> <p><b><i>\"A Marathon of Sprints: How to Manage Content Like a Project Manager\"</i></b></p> <p><b>Lauren Maffeo<br/></b>Content Editor<br/>GetApp, Gartner Research Digital Markets</p> <p><b><i>\"Improve Your Content Through User Feedback\"</i></b></p> <p><b>Laura Ellena<br/></b>User Experience Researcher<br/>Ad Hoc LLC</p> <p><b>8:30 -\u00a0Networking Over Dessert</b></p> <p>Dessert and wrap-up.</p> <p><b>9:00 -\u00a0Adjourn\u00a0</b></p> <p>OUR SPONSOR</p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a></p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a></p> <p>\u00a0has built the world's most sophisticated platform for teaching and learning code\u00a0\u2013 community and peer learning combined with modern software tools and 24/7 online instructional support. Beginners welcome.</p> <p>\n\n\n<img src=\"https://cdn.evbuc.com/eventlogos/431300/flatironlogo120x90grey.png\" /></p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
             "group": {
                 "created": 1189804715000, 
@@ -100,17 +100,17 @@ calendar({
             "name": "MavenMini: Content-Driven User Experiences", 
             "status": "upcoming", 
             "time": 1474574400000, 
-            "updated": 1474380234000, 
+            "updated": 1474476779000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1111 19th St NW, Washington, DC 20036", 
+                "address_1": "1133 15th St NW (8th Floor)", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24373558, 
-                "lat": 38.904395999999998, 
+                "id": 20421012, 
+                "lat": 38.904854, 
                 "localized_country_name": "USA", 
-                "lon": -77.042952999999997, 
-                "name": "Blackboard Inc", 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776", 
                 "repinned": false, 
                 "state": "DC"
             }, 
@@ -155,7 +155,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 17, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -224,7 +224,7 @@ calendar({
             "updated": 1474206953000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1471093735000, 
@@ -345,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 141
+            "yes_rsvp_count": 144
         }, 
         {
             "created": 1474335011000, 
@@ -442,7 +442,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 136
+            "yes_rsvp_count": 142
         }, 
         {
             "created": 1468853724000, 
@@ -507,7 +507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 64
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1457392514000, 
@@ -547,7 +547,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1473268749000, 
@@ -734,7 +734,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1473881201000, 
@@ -812,7 +812,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 6, 
+            "waitlist_count": 8, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -878,7 +878,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1459265642000, 
@@ -1076,7 +1076,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1470699270000, 
@@ -1403,7 +1403,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1417881835000, 
