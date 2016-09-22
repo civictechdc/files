@@ -31,7 +31,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 30
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022 <b>6:30pm</b> - Setup and\
     \ intros</p> <p>\u2022 <b>7:00pm - 8:30 pm</b> - Tutorial</p> <p><b>Contact policy\
@@ -69,7 +69,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 24
 - created: 1467700232000
   description: "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\"\
     >Eventbrite</a> to attend.\_</p> <p>Join the\_<a href=\"http://www.meetup.com/webcontentmavens/\"\
@@ -124,7 +124,7 @@ other:
       Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 28
 - created: 1470792075000
   description: "<p>Either if you know Python already or you haven't written a line\
     \ before, if you are a journalist who needs to explore data looking for a story\
@@ -153,7 +153,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 17
+  waitlist_count: 16
   yes_rsvp_count: 40
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -262,7 +262,7 @@ other:
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 31
+  waitlist_count: 32
   yes_rsvp_count: 97
 - created: 1474206605000
   description: '<p>Are you a professional developer, designer, sysadmin, or working
@@ -372,7 +372,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1471093735000
   description: "<p>IBM's Watson became a household name when it defeated two human\
     \ champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>.\
@@ -432,7 +432,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 144
+  yes_rsvp_count: 147
 - created: 1474335011000
   description: "<p>Two of our local data scientists (Benjamin Bengfort and Jenny Kim)\
     \ have just published an O'Reilly book called\_<a href=\"http://shop.oreilly.com/product/0636920035275.do\"\
@@ -618,7 +618,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 142
+  yes_rsvp_count: 144
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -703,7 +703,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 68
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -753,7 +753,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1473268749000
   description: "<p>Over 6 billion emojis are sent each day, and within the past year,\
     \ emojis have begun finding their way into criminal cases as vital evidence because\
@@ -789,7 +789,7 @@ other:
     name: '1776', repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -919,26 +919,35 @@ other:
   yes_rsvp_count: 19
 - created: 1473881201000
   description: "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\"\
-    >Eventbrite</a> to attend. 5 extra early tickets left!\_</p> <p><b>Website Revamp\
-    \ - Facelifts, Responsive Reworks, Redesigns\_&amp; How to Choose!</b></p> <p><br/>Join\
-    \ us\_for a 5+-hour mini-conference and learn about options for revamping your\
-    \ website - from a minor facelift to a full redesign, as well as how to know which\
-    \ one is right for you.\_</p> <p><b>&gt;</b>\_Hear from 7 experts and peers on\
-    \ your revamp options, what you need to think about before deciding, how to plan\
-    \ for each option and how to pick the right strategy based on your budget, resources\
-    \ and other factors.</p> <p><b>&gt;</b>\_Network and share ideas over snacks,\
-    \ dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p>3:00 - Registration\
-    \ and Networking\_</p> <p>3:30 - SESSION\_1: Understanding Your Options</p> <p>4:20\
-    \ - Short Break with Snacks</p> <p>4:30 - SESSION 2: Facelifts, Fixes and Responsive\
-    \ Reworks</p> <p>5:30 - Networking and a Light Dinner</p> <p>6:00 - SESSION 3:\
-    \ Redesigns</p> <p>7:00 - Networking Over Cocktails\_</p> <p>7:30 - SESSION 4:\
-    \ Deciding the Right Strategy</p> <p>8:10 - Networking Over Dessert</p> <p>8:30\
-    \ - Adjourn</p> <p><b>SPEAKERS</b></p> <p>Speakers will be announced as confirmed.</p>\
-    \ <p><b>CALL FOR SPEAKERS</b></p> <p>We are looking for organizations and companies\
-    \ that have done facelifts, fixes, responsive reworks and other approaches to\
-    \ revamping a website short of a redesign.\_</p> <p>For more information, email\
-    \ [masked]. Please include your name, title, organization/company and what sort\
-    \ of revamp you completed (or are working on now).</p>"
+    >Eventbrite</a> to attend. 4 extra early tickets left!\_</p> <p><b>Website Revamp\
+    \ - Create a Website Improvement Roadmap</b></p> <p>Learn about facelifts, fixes,\
+    \ responsive reworks, redesigns\_&amp; other website improvement options - as\
+    \ well as how to choose a strategy and what to do to prepare.</p> <p><br/>Regardless\
+    \ of your size, resources or website status, you'll learn techniques for to make\
+    \ your website better - short, mid &amp; long-term.</p> <p><b>&gt;</b> 5 hours\
+    \ of informative presentations, discussions and networking.</p> <p><b>&gt;</b>\_\
+    Hear from experts and peers on your revamp &amp; redesign options, what you need\
+    \ to think about before deciding, how to plan for each option and how to pick\
+    \ the right strategy based on your budget, resources and other factors.</p> <p><b>&gt;</b>\_\
+    Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>&gt;</b>\
+    \ Relevant for many audiences</p> <p><br/><i>Under-resourced?\_</i>You'll learn\
+    \ about small enhancement you can make that will lead you to bigger improvements.</p>\
+    \ <p><br/><i>Trying to figure out next steps?\_</i>You'll learn how to road-map\
+    \ for rehabs or redesign.</p> <p><i>Mid-redesign?</i>\_You'll learn about a creating\
+    \ an update roadmap so you can finish the elements that were put aside for later\
+    \ and plan for the the issues and things you missed.</p> <p><b>AGENDA</b></p>\
+    \ <p>3:00 - Registration and Networking\_</p> <p>3:30 - SESSION\_1: Understanding\
+    \ Your Options</p> <p>4:20 - Short Break with Snacks</p> <p>4:30 - SESSION 2:\
+    \ Facelifts, Fixes and Responsive Reworks</p> <p>5:30 - Networking and a Light\
+    \ Dinner</p> <p>6:00 - SESSION 3: Redesigns</p> <p>7:00 - Networking Over Cocktails\_\
+    </p> <p>7:30 - SESSION 4: Deciding the Right Strategy</p> <p>8:10 - Networking\
+    \ Over Dessert</p> <p>8:30 - Adjourn</p> <p>SPEAKERS</p> <p>Speakers will be announced\
+    \ as confirmed.</p> <p><b>CALL FOR SPEAKERS</b></p> <p>We are looking for organizations\
+    \ and companies that have done facelifts, fixes, responsive reworks and other\
+    \ approaches to revamping a website short of a redesign.\_</p> <p>For more information,\
+    \ email [masked]. Please include your name, title, organization/company and what\
+    \ sort of revamp you completed (or are working on now).\_</p> <p>For more information,\
+    \ email [masked]. Please include your topic idea/ideas and background.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/234127076/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -946,10 +955,10 @@ other:
   headcount: 0
   id: '234127076'
   maybe_rsvp_count: 0
-  name: 'MavenMini: Website Revamp'
+  name: Website Revamp - Create a Website Improvement Roadmap
   status: upcoming
   time: 1475780400000
-  updated: 1474411492000
+  updated: 1474483568000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -984,7 +993,7 @@ other:
     country: us, id: 18875152, lat: 38.914546999999999, localized_country_name: USA,
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 10
   yes_rsvp_count: 80
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -1209,7 +1218,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 52
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -1251,7 +1260,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 96
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\

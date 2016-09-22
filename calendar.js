@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1468853724000, 
@@ -78,7 +78,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1467700232000, 
@@ -116,7 +116,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1470792075000, 
@@ -155,7 +155,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -196,7 +196,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 31, 
+            "waitlist_count": 32, 
             "yes_rsvp_count": 97
         }, 
         {
@@ -305,7 +305,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1471093735000, 
@@ -345,7 +345,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 144
+            "yes_rsvp_count": 147
         }, 
         {
             "created": 1474335011000, 
@@ -442,7 +442,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 142
+            "yes_rsvp_count": 144
         }, 
         {
             "created": 1468853724000, 
@@ -507,7 +507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1457392514000, 
@@ -547,7 +547,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1473268749000, 
@@ -589,7 +589,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1459265642000, 
@@ -738,7 +738,7 @@ calendar({
         }, 
         {
             "created": 1473881201000, 
-            "description": "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\">Eventbrite</a> to attend. 5 extra early tickets left!\u00a0</p> <p><b>Website Revamp - Facelifts, Responsive Reworks, Redesigns\u00a0&amp; How to Choose!</b></p> <p><br/>Join us\u00a0for a 5+-hour mini-conference and learn about options for revamping your website - from a minor facelift to a full redesign, as well as how to know which one is right for you.\u00a0</p> <p><b>&gt;</b>\u00a0Hear from 7 experts and peers on your revamp options, what you need to think about before deciding, how to plan for each option and how to pick the right strategy based on your budget, resources and other factors.</p> <p><b>&gt;</b>\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p>3:00 - Registration and Networking\u00a0</p> <p>3:30 - SESSION\u00a01: Understanding Your Options</p> <p>4:20 - Short Break with Snacks</p> <p>4:30 - SESSION 2: Facelifts, Fixes and Responsive Reworks</p> <p>5:30 - Networking and a Light Dinner</p> <p>6:00 - SESSION 3: Redesigns</p> <p>7:00 - Networking Over Cocktails\u00a0</p> <p>7:30 - SESSION 4: Deciding the Right Strategy</p> <p>8:10 - Networking Over Dessert</p> <p>8:30 - Adjourn</p> <p><b>SPEAKERS</b></p> <p>Speakers will be announced as confirmed.</p> <p><b>CALL FOR SPEAKERS</b></p> <p>We are looking for organizations and companies that have done facelifts, fixes, responsive reworks and other approaches to revamping a website short of a redesign.\u00a0</p> <p>For more information, email [masked]. Please include your name, title, organization/company and what sort of revamp you completed (or are working on now).</p>", 
+            "description": "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\">Eventbrite</a> to attend. 4 extra early tickets left!\u00a0</p> <p><b>Website Revamp - Create a Website Improvement Roadmap</b></p> <p>Learn about facelifts, fixes, responsive reworks, redesigns\u00a0&amp; other website improvement options - as well as how to choose a strategy and what to do to prepare.</p> <p><br/>Regardless of your size, resources or website status, you'll learn techniques for to make your website better - short, mid &amp; long-term.</p> <p><b>&gt;</b> 5 hours of informative presentations, discussions and networking.</p> <p><b>&gt;</b>\u00a0Hear from experts and peers on your revamp &amp; redesign options, what you need to think about before deciding, how to plan for each option and how to pick the right strategy based on your budget, resources and other factors.</p> <p><b>&gt;</b>\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>&gt;</b> Relevant for many audiences</p> <p><br/><i>Under-resourced?\u00a0</i>You'll learn about small enhancement you can make that will lead you to bigger improvements.</p> <p><br/><i>Trying to figure out next steps?\u00a0</i>You'll learn how to road-map for rehabs or redesign.</p> <p><i>Mid-redesign?</i>\u00a0You'll learn about a creating an update roadmap so you can finish the elements that were put aside for later and plan for the the issues and things you missed.</p> <p><b>AGENDA</b></p> <p>3:00 - Registration and Networking\u00a0</p> <p>3:30 - SESSION\u00a01: Understanding Your Options</p> <p>4:20 - Short Break with Snacks</p> <p>4:30 - SESSION 2: Facelifts, Fixes and Responsive Reworks</p> <p>5:30 - Networking and a Light Dinner</p> <p>6:00 - SESSION 3: Redesigns</p> <p>7:00 - Networking Over Cocktails\u00a0</p> <p>7:30 - SESSION 4: Deciding the Right Strategy</p> <p>8:10 - Networking Over Dessert</p> <p>8:30 - Adjourn</p> <p>SPEAKERS</p> <p>Speakers will be announced as confirmed.</p> <p><b>CALL FOR SPEAKERS</b></p> <p>We are looking for organizations and companies that have done facelifts, fixes, responsive reworks and other approaches to revamping a website short of a redesign.\u00a0</p> <p>For more information, email [masked]. Please include your name, title, organization/company and what sort of revamp you completed (or are working on now).\u00a0</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/234127076/", 
             "group": {
                 "created": 1189804715000, 
@@ -753,10 +753,10 @@ calendar({
             "headcount": 0, 
             "id": "234127076", 
             "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Website Revamp", 
+            "name": "Website Revamp - Create a Website Improvement Roadmap", 
             "status": "upcoming", 
             "time": 1475780400000, 
-            "updated": 1474411492000, 
+            "updated": 1474483568000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -812,7 +812,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 8, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -1037,7 +1037,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1472497385000, 
@@ -1076,7 +1076,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1470699270000, 
