@@ -47,11 +47,11 @@ other:
   name: 'MavenMini: Content-Driven User Experiences'
   status: upcoming
   time: 1474574400000
-  updated: 1474476779000
+  updated: 1474555024000
   utc_offset: -14400000
-  venue: {address_1: 1133 15th St NW (8th Floor), city: Washington, country: us, id: 20421012,
-    lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996, name: General
-      Assembly @ 1776, repinned: false, state: DC}
+  venue: {address_1: 1133 15th St NW (2th Floor), city: Washington, country: us, id: 24803402,
+    lat: 38.919181999999999, localized_country_name: USA, lon: -76.982039999999998,
+    name: NYC-DA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 29
@@ -83,7 +83,7 @@ other:
     lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
     name: iStrategyLabs HQ, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 16
+  waitlist_count: 11
   yes_rsvp_count: 40
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
@@ -169,6 +169,7 @@ other:
     \ and panels planned.</p> <p>This event is only possible with the generous sponsorship\
     \ from these sponsors and community!</p> <p><br/><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\"\
     \ /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/f/9/600_453241785.jpeg\"\
+    \ /></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/1/4/9/0/600_454385264.jpeg\"\
     \ /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/1/d/7/600_453213239.jpeghttp://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\"\
     \ /></p>"
   duration: 118800000
@@ -186,13 +187,13 @@ other:
   rsvp_limit: 97
   status: upcoming
   time: 1474633800000
-  updated: 1473389280000
+  updated: 1474558859000
   utc_offset: -14400000
   venue: {address_1: 1680 Capital One Drive, city: McLean, country: us, id: 23933274,
     lat: 0, localized_country_name: USA, lon: 0, name: Capital One, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 35
+  waitlist_count: 37
   yes_rsvp_count: 97
 - created: 1474206605000
   description: '<p>Are you a professional developer, designer, sysadmin, or working
@@ -255,7 +256,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 22
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
@@ -362,7 +363,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 146
+  yes_rsvp_count: 148
 - created: 1474335011000
   description: "<p>Two of our local data scientists (Benjamin Bengfort and Jenny Kim)\
     \ have just published an O'Reilly book called\_<a href=\"http://shop.oreilly.com/product/0636920035275.do\"\
@@ -455,7 +456,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1473195621000
   description: "<p>Join your fellow data visualizers on Tuesday September 27th at\
     \ Chief (1800 Massachusetts Ave NW) for How to Succeed in Data Driven Journalism\
@@ -548,7 +549,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 155
+  yes_rsvp_count: 163
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -633,7 +634,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 69
+  yes_rsvp_count: 71
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -846,7 +847,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1473881201000
   description: "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\"\
     >Eventbrite</a> to attend. 4 extra early tickets left!\_</p> <p><b>Website Revamp\
@@ -1598,7 +1599,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 23
 - created: 1467833256000
   description: "<p>(We haven't finalized a date. You are welcome to register but be\
     \ aware that are in the planning stages and information is preliminary)</p> <p>Registration\
