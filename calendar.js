@@ -2,44 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1467700232000, 
-            "description": "<p>NOTE: You *must* register on <a href=\"https://www.eventbrite.com/e/mavenmini-content-driven-user-experiences-tickets-26415816418\">Eventbrite</a> to attend.\u00a0</p> <p>Join the\u00a0<a href=\"http://www.meetup.com/webcontentmavens/\">Web Content Mavens</a>\u00a0for a 5-hour mini-conference on developing &amp; designing content that enhances user experiences.\u00a0</p> <p>&gt;\u00a0Hear about content strategy and management from 6 speakers, all through the lens of the user's experience.\u00a0</p> <p>&gt;\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>AGENDA</b></p> <p><b>4:00 -\u00a0Registration &amp; Networking</b></p> <p>Enjoy light munchies and drinks while you meet our speakers and attendees.</p> <p><b>4:30 - SESSION 1: Content Organization</b></p> <p>Speakers will discuss the content organization techniques such as audits, taxonomy, information architecture, navigation, etc and how those can impact user experience.</p> <p><i><b>\"Making A Future Proof Taxonomy\"</b></i></p> <p><b>Greg\u00a0Kihlstr\u00f6m<br/></b>Founder &amp; CEO<br/>Carousel30</p> <p><b><i>\"Employing a Collaborative Model for Structured Content\"</i></b></p> <p><b>Dori Kelner<br/></b>Principal<br/>Slight of Hand Studios</p> <p><b>5:30 -\u00a0Networking Over a Light Dinner</b></p> <p>Networking, drinks and a light dinner.\u00a0</p> <p><b>6:00 - SESSION 2: Content Creation &amp; Display</b></p> <p>Topics such as responsive content, integrated content, content mapping, writing content, voice &amp; style - and how these impact the users understanding of the content.</p> <p><b><i>\"Journey Mapping With Content: A Guide to Your Customer's Galaxy\"</i></b></p> <p><b>Michaela Hackner<br/></b>Senior Manager UX Content Strategy<br/>CapitalOne</p> <p><i>(We have an additional speaker but are confirming information)\u00a0</i></p> <p><b>7:00 -\u00a0Networking Over Drinks\u00a0</b></p> <p>Networking with drinks.</p> <p><b>7:30 - SESSION 3:\u00a0Planning, Tuning and User Testing</b></p> <p>Topics around planning your content strategy, refining your process and testing with users.</p> <p><b><i>\"A Marathon of Sprints: How to Manage Content Like a Project Manager\"</i></b></p> <p><b>Lauren Maffeo<br/></b>Content Editor<br/>GetApp, Gartner Research Digital Markets</p> <p><b><i>\"Improve Your Content Through User Feedback\"</i></b></p> <p><b>Laura Ellena<br/></b>User Experience Researcher<br/>Ad Hoc LLC</p> <p><b>8:30 -\u00a0Networking Over Dessert</b></p> <p>Dessert and wrap-up.</p> <p><b>9:00 -\u00a0Adjourn\u00a0</b></p> <p>OUR SPONSOR</p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a></p> <p><a href=\"http://flatironschooldc.com/\">Flatiron School</a></p> <p>\u00a0has built the world's most sophisticated platform for teaching and learning code\u00a0\u2013 community and peer learning combined with modern software tools and 24/7 online instructional support. Beginners welcome.</p> <p>\n\n\n<img src=\"https://cdn.evbuc.com/eventlogos/431300/flatironlogo120x90grey.png\" /></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/232382584/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "232382584", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Content-Driven User Experiences", 
-            "status": "upcoming", 
-            "time": 1474574400000, 
-            "updated": 1474555024000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St NW (2th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24803402, 
-                "lat": 38.919181999999999, 
-                "localized_country_name": "USA", 
-                "lon": -76.982039999999998, 
-                "name": "NYC-DA", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 29
-        }, 
-        {
             "created": 1470792075000, 
             "description": "<p>Either if you know Python already or you haven't written a line before, if you are a journalist who needs to explore data looking for a story to tell, or just someone who likes investigating and playing around with data out of pure curiosity...</p> <p>Come &amp; join us for an evening learning how to wrangle and explore data, creating\u00a0simple but effective graphs that will help you explore what's hidden in your data using Python and the Pandas library.</p> <p>Bring your laptop, meet other Python enthusiast women, and learn with us! Reserve your seat now!</p> <p>This workshop is based on an idea from <a href=\"http://www.meetup.com/pyladies-bcn/\">PyLadies BCN</a> at Barcelona, thanks for your support!!</p> <p>This event is for\u00a0women\u00a0only.\u00a0</p>", 
             "duration": 7200000, 
@@ -76,7 +38,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 40
         }, 
         {
@@ -117,7 +79,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 37, 
+            "waitlist_count": 35, 
             "yes_rsvp_count": 97
         }, 
         {
@@ -266,7 +228,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 148
+            "yes_rsvp_count": 149
         }, 
         {
             "created": 1474335011000, 
@@ -294,7 +256,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
@@ -363,7 +325,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 163
+            "yes_rsvp_count": 164
         }, 
         {
             "created": 1468853724000, 
@@ -428,7 +390,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1457392514000, 
@@ -510,7 +472,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1459265642000, 
@@ -655,7 +617,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1473881201000, 
@@ -799,7 +761,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1459265642000, 
@@ -879,7 +841,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1468853724000, 
