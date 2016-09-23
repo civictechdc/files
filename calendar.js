@@ -2,46 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1470792075000, 
-            "description": "<p>Either if you know Python already or you haven't written a line before, if you are a journalist who needs to explore data looking for a story to tell, or just someone who likes investigating and playing around with data out of pure curiosity...</p> <p>Come &amp; join us for an evening learning how to wrangle and explore data, creating\u00a0simple but effective graphs that will help you explore what's hidden in your data using Python and the Pandas library.</p> <p>Bring your laptop, meet other Python enthusiast women, and learn with us! Reserve your seat now!</p> <p>This workshop is based on an idea from <a href=\"http://www.meetup.com/pyladies-bcn/\">PyLadies BCN</a> at Barcelona, thanks for your support!!</p> <p>This event is for\u00a0women\u00a0only.\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/dc-pyladies/events/233246249/", 
-            "group": {
-                "created": 1312496216000, 
-                "group_lat": 38.950000762939453, 
-                "group_lon": -77.019996643066406, 
-                "id": 2292131, 
-                "join_mode": "open", 
-                "name": "DC PyLadies", 
-                "urlname": "dc-pyladies", 
-                "who": "PyLadies"
-            }, 
-            "headcount": 0, 
-            "id": "233246249", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python for journalists and data nerds!!", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1474583400000, 
-            "updated": 1474335618000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW, Floor 1", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23642317, 
-                "lat": 38.914551000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs HQ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 40
-        }, 
-        {
             "created": 1470324592000, 
             "description": "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\" /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\u00a0is scheduled as a two day event.\u00a0</p> <p>Register in the <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a> Link.</p> <p>This location conveniently located near <b>McLean Metro Station</b> in Silver Line.</p> <p>DevFestDC is around the corner (Sep 23 &amp; 24) and we have great line of speakers, code labs, sessions in store for all. The entry fee for this 2 day event including breakfast, lunch on both days and happy hours\u00a0on Friday\u00a0at CapitalOne is only $19.99 if you sign up before Sep 1. We will update the sessions and speakers at\u00a0<a href=\"http://www.devfestdc.org/sessions\">sessions</a>\u00a0and\u00a0<a href=\"http://www.devfestdc.org/speakers\">Speakers</a>\u00a0</p> <p>Plan to attend both days or either one of the days depending on your schedule!</p> <p>More Updates on Sessions/Speakers coming at\u00a0<b><a href=\"http://ascendra.us1.list-manage.com/track/click?u=b6c31f5ac99131cd2f9405c05&amp;id=1848e5e78b&amp;e=94381f871e\">www.devfestdc.org</a>\u00a0</b></p> <p>Following is a sampling of speakers:</p> <p>\u2022 <b>Raj\u00a0Echambadi</b> (University of Illinois)\u00a0</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/e/7/b/600_453260091.jpeg\" /></p> <p><b>\u2022\u00a0Josh Gordon</b> (Google) - <i>Google Machine Learning Session</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/2/1/600_453213057.jpeg\" /></p> <p><b>\u2022\u00a0Chris Nguyen</b> (Washington Post) -\u00a0<i>The Hitchhiker's Guide to Building a Progressive Web App</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/9/f/8/5/600_453160837.jpeg\" /></p> <p><b>\u2022\u00a0Katy Kasmai\u00a0</b>(Team Exponent) - <i>Building 10x Solutions</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/1/d/a/e/600_453487598.jpeg\" /></p> <p>\u2022 <b>Frank van Puffelen</b> (Google) - <i>Firebase</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/b/8/9/600_453395721.jpeg\" /></p> <p><b>\u2022\u00a0Jared Sheehan</b> (Capital One) -\u00a0<i>Making Sense - Unleash the Power of Sensory Data to Understand User Context</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/b/1/d/600_453019229.jpeg\" /></p> <p>\u2022\u00a0<b>Huyen Tue Dao</b> (Trello) -\u00a0<i>Measure, Layout, Draw, Repeat: Custom Views and ViewGroups</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/4/e/600_453162062.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Sam Edwards</b> (Capital One) -\u00a0<i>Espresso: A Screenshot is Worth 1,000 Words</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/b/2/0/600_453019232.jpeg\" /></p> <p>\u2022 <b>Jonathan Bodner</b> (Capital One)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/c/b/d/d/600_453472189.jpeg\" /></p> <p><b>\u2022\u00a0Dave Erickson</b> (Elastic) -\u00a0<i>Visualizing data in Elasticsearch: Search, Timeseries, and Graph Analysis in the Cloud</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/8/1/a/d/600_453213197.jpeg\" /></p> <p><b>\u2022\u00a0Michael Evans</b> (Living Social) -\u00a0<i>Jumpstart MongoDB: What You Need To Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/9/3/600_453213171.jpeg\" /></p> <p>\u2022\u00a0\u00a0<b>Noble Ackerson</b> (Byte an Atom\u00a0Research) -\u00a0<i>User-centered Product Validation</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/2/8/600_453019240.jpeg\" /></p> <p>\u2022 <b>Azat Mardan</b> (Capital One) -\u00a0<i>Implementing HTTP/2 Server with Node and Express</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/7/a/600_453213146.jpeg\" /></p> <p><b>\u2022\u00a0Elizabeth Mezias</b> (Mezcode) -\u00a0<i>Wallpapers, Widgets &amp; Wear</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/a/4/b/a/600_453162170.jpeg\" /></p> <p>\u2022 <b>Jay Gordon</b> (MongoDB) - <i>Jumpstart MongoDB: What You Need to Know</i></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/1/4/3/600_453213091.jpeg\" /></p> <p>\u2022\u00a0J<b>ohn Niedzwieck</b>\u00a0(ThreatTrack Security, Inc.)\u00a0-\u00a0\u00a0<i>D3 + AngularJS = Visual Awesomesauce </i></p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/a/4/c/5/600_453162181.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Marc Boorshtein</b> (Tremolo Security,\u00a0Inc.) -\u00a0<i>Open Source Identity Management with Kubernetes RBAC</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/b/3/0/600_453019248.jpeg\" /></p> <p>\u2022 <b>Naveen Singhal</b> (Mobile Posse)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/1/0/600_453259984.jpeg\" /></p> <p><b>\u2022\u00a0Nitya\u00a0Narasimha</b> (Digital HV)\u00a0</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/4/2/2/600_453162018.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Martin Omander</b> (Google) -\u00a0<i>Game Development with Firebase and Javascript</i></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/a/3/d/5/600_453161941.jpeg\" /></p> <p><b>\u2022\u00a0</b><b>Eric Fung</b> (Shopify) -\u00a0<i>Set Course for Notifications\u2026 Engage!</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/3/8/600_453019256.jpeg\" /></p> <p><i>\u2022 </i><b>Mark Murphy</b>\u00a0(CommonsWare) -\u00a0<i>Doing Periodic Work: Another Android Headache</i></p> <p><br/><img src=\"http://photos2.meetupstatic.com/photos/event/e/8/3/5/600_453419445.jpeg\" /></p> <p>\u2022 \u00a0<b>Annyce Davis</b> (Off Grid Electric) - <i>Say It With Video!</i></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\" /></p> <p><b>\u2022\u00a0\u00a0Mark Brown (Department of Commerce)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/8/1/600_453259841.jpeg\" /></p> <p><b>\u2022\u00a0Michael Brown (comScore)\u00a0</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/4/d/5/2/600_453259794.jpeg\" /></p> <p><b>\u2022\u00a0Jessica Bell (Deloitte Digital)\u00a0</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/4/6/600_453259782.jpeg\" /></p> <p><b>\u2022 Cameron Mace (Mapbox)</b></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/8/d/6/7/600_453396199.jpeg\" /></p> <p>\u2022\u00a0<b>Antonio Zugaldia</b> (Mapbox)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/2/f/600_453259759.jpeg\" /></p> <p><b>\u2022\u00a0Yufeng Gao</b> (Google)</p> <p><br/><img src=\"http://photos4.meetupstatic.com/photos/event/4/c/b/2/600_453259634.jpeg\" /></p> <p>\u2022 <b>Lougenia Bailey</b> (Excella Consulting)</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/d/d/a/600_453259930.jpeg\" /></p> <p>\u2022 <b>Dave Erickson</b> (Elastic)</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/d/f/b/600_453259963.jpeg\" /></p> <p>\u2022\u00a0<b>Eric Newman</b> (Mobile Posse)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/4/d/c/3/600_453259907.jpeg\" /></p> <p>\u2022 <b>Anastasia Lopez</b> (Songkick)</p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/e/8/2/9/600_453419433.jpeg\" /></p> <p>\u2022\u00a0<b>Romain Piel</b> (Songkick)</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/e/8/2/4/600_453419428.jpeg\" /></p> <p><b>Code Labs:</b></p> <p>\u2022\u00a0<b>Ray Tsang</b>\u00a0(Google) -\u00a0<i>Kubernetes</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/a/e/c/600_453019180.jpeg\" /></p> <p>\u2022\u00a0<b>Kashif Qureshi </b>(AOL) - <i>Kotlin Code Lab</i></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/4/e/c/1/600_453260161.jpeg\" /></p> <p>\u2022\u00a0<b>Bret McGowen</b>\u00a0(Google) -\u00a0<i>Tensor Flow / Machine Learning Workshop\u00a0</i></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/4/b/0/7/600_453019207.jpeg\" /></p> <p><br/>*Please don't RSVP here. RSVP at <a href=\"http://devfestdc2016.eventbrite.com\">Eventbrite</a>!</p> <p>Great speakers, code labs (Machine Learning), workshops and panels planned.</p> <p>This event is only possible with the generous sponsorship from these sponsors and community!</p> <p><br/><img src=\"https://ci5.googleusercontent.com/proxy/mQQS2IzQSSyWLQJ7fA1OGNxA0FiMYYkNCJUGqLGUN9oWDEbD0-gZkDL31JDLs2zmNG4xMLcKsItUJED6JTicNm8LnASEJOlTMLqZQOUjtrm-dblcigQxXWiy2tejxt3PQcLkvKj_iQWB9hO5d7wEyCxVcgXnXwpw_q77TN8=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/5d477ff9-836e-46d0-a18e-fcb859072ac1.pnghttps://ci3.googleusercontent.com/proxy/KibpZnP7WO6nfF5b1cYdDisTShQmFnYkoA6LFedLBOumf2a2sHxPkGVSXKXPs06PdcbeQSJlVazwv8IGuDyikHL4_ICJHHenFpKm5cLwA8RJeCtnQnfDP0BXaCuj-uTm4MFkxz0MREh0Q88ZpYpfPUvxkoUsxFzIBS7RH8A=s0-d-e1-ft#https://gallery.mailchimp.com/b6c31f5ac99131cd2f9405c05/images/c144feb3-08bc-4b69-9a3e-f67fbe843dbe.jpg\" /></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/f/9/600_453241785.jpeg\" /></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/1/4/9/0/600_454385264.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/1/d/7/600_453213239.jpeghttp://photos3.meetupstatic.com/photos/event/2/3/7/1/600_453189073.jpeg\" /></p>", 
             "duration": 118800000, 
@@ -107,7 +67,7 @@ calendar({
             "updated": 1474206953000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 20
         }, 
         {
@@ -228,7 +188,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 149
+            "yes_rsvp_count": 151
         }, 
         {
             "created": 1474335011000, 
@@ -256,7 +216,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459265642000, 
@@ -325,7 +285,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 164
+            "yes_rsvp_count": 167
         }, 
         {
             "created": 1468853724000, 
@@ -352,7 +312,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1474044580000, 
@@ -472,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -617,7 +577,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1473881201000, 
@@ -656,7 +616,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1473191008000, 
@@ -695,7 +655,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -761,7 +721,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -1289,7 +1249,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1467833256000, 

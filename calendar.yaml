@@ -1,35 +1,5 @@
 codefordc: []
 other:
-- created: 1470792075000
-  description: "<p>Either if you know Python already or you haven't written a line\
-    \ before, if you are a journalist who needs to explore data looking for a story\
-    \ to tell, or just someone who likes investigating and playing around with data\
-    \ out of pure curiosity...</p> <p>Come &amp; join us for an evening learning how\
-    \ to wrangle and explore data, creating\_simple but effective graphs that will\
-    \ help you explore what's hidden in your data using Python and the Pandas library.</p>\
-    \ <p>Bring your laptop, meet other Python enthusiast women, and learn with us!\
-    \ Reserve your seat now!</p> <p>This workshop is based on an idea from <a href=\"\
-    http://www.meetup.com/pyladies-bcn/\">PyLadies BCN</a> at Barcelona, thanks for\
-    \ your support!!</p> <p>This event is for\_women\_only.\_</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/dc-pyladies/events/233246249/
-  group: {created: 1312496216000, group_lat: 38.950000762939453, group_lon: -77.019996643066406,
-    id: 2292131, join_mode: open, name: DC PyLadies, urlname: dc-pyladies, who: PyLadies}
-  headcount: 0
-  id: '233246249'
-  maybe_rsvp_count: 0
-  name: Python for journalists and data nerds!!
-  rsvp_limit: 40
-  status: upcoming
-  time: 1474583400000
-  updated: 1474335618000
-  utc_offset: -14400000
-  venue: {address_1: '641 S St NW, Floor 1', city: Washington, country: us, id: 23642317,
-    lat: 38.914551000000003, localized_country_name: USA, lon: -77.021095000000003,
-    name: iStrategyLabs HQ, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 5
-  yes_rsvp_count: 40
 - created: 1470324592000
   description: "<p>Friends,</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/2/600_452799890.jpeg\"\
     \ /></p> <p>This Year <a href=\"http://www.devfestdc.org\">DevFestDC</a>\_is scheduled\
@@ -168,7 +138,7 @@ other:
   updated: 1474206953000
   utc_offset: -14400000
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 11
   yes_rsvp_count: 20
 - created: 1474036071000
   description: "<p>Interested in sharpening your problem solving skills and learning\
@@ -308,7 +278,7 @@ other:
     name: AOL / Advertising.com, repinned: false, state: MD}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 149
+  yes_rsvp_count: 151
 - created: 1474335011000
   description: "<p>Two of our local data scientists (Benjamin Bengfort and Jenny Kim)\
     \ have just published an O'Reilly book called\_<a href=\"http://shop.oreilly.com/product/0636920035275.do\"\
@@ -371,7 +341,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -494,7 +464,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 164
+  yes_rsvp_count: 167
 - created: 1468853724000
   description: <p>We will build a simple Todo list application using Rails. We will
     learn how to start a Rails application, make basic updates to the MVC framework
@@ -536,7 +506,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 24
 - created: 1474044580000
   description: "<p>Please join us for our next meetup on Thursday 9/29 on\_AnalyticOps\
     \ and Analytic Engines: Roles, Tools and Techniques for Deploying Analytic Models\
@@ -665,7 +635,7 @@ other:
     name: '1776', repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 39
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -792,7 +762,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1473881201000
   description: "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\"\
     >Eventbrite</a> to attend. 4 extra early tickets left!\_</p> <p><b>Website Revamp\
@@ -841,7 +811,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1473191008000
   description: '<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE
     documentary exposes the dearth of American female and minority software engineers
@@ -869,7 +839,7 @@ other:
     country: us, id: 18875152, lat: 38.914546999999999, localized_country_name: USA,
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 10
+  waitlist_count: 11
   yes_rsvp_count: 80
 - created: 1460389774000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -943,7 +913,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1544,7 +1514,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 - created: 1467833256000
   description: "<p>(We haven't finalized a date. You are welcome to register but be\
     \ aware that are in the planning stages and information is preliminary)</p> <p>Registration\
