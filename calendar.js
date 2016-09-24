@@ -61,14 +61,14 @@ calendar({
             "id": "234215793", 
             "maybe_rsvp_count": 0, 
             "name": "Professional Networking Brunch", 
-            "rsvp_limit": 20, 
+            "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1474812000000, 
-            "updated": 1474206953000, 
+            "updated": 1474689029000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
-            "waitlist_count": 12, 
-            "yes_rsvp_count": 20
+            "waitlist_count": 8, 
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1474036071000, 
@@ -285,7 +285,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 169
+            "yes_rsvp_count": 172
         }, 
         {
             "created": 1468853724000, 
@@ -350,7 +350,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1457392514000, 
@@ -432,7 +432,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1459265642000, 
@@ -801,7 +801,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1468853724000, 
@@ -919,7 +919,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1470699270000, 
