@@ -2,34 +2,6 @@ calendar({
     "codefordc": [], 
     "other": [
         {
-            "created": 1474206605000, 
-            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Come brunch with others like you!</p> <p>The estimated cost for the brunch is $18-20, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you). Menu can be found here: <a href=\"http://www.matchboxrestaurants.com/menu/brunch/?menu=44\" class=\"linkified\">http://www.matchboxrestaurants.com/menu/brunch/?menu=44</a></p> <p>-----------------------------<br/>Matchbox on 14th Street, located around the U Street Corridor:</p> <p>Metro accessible - A short walk from the U Street/African-Amer Civil War Memorial/Cardozo Metro station (Green/Yellow lines).</p> <p>If driving, we would recommend getting there early because it will be competitive. More on parking options around the U Street Corridor here: <a href=\"http://dcparking.org/u-street-corridor-parking-guide/\" class=\"linkified\">http://dcparking.org/u-street-corridor-parking-guide/</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234215793/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "234215793", 
-            "maybe_rsvp_count": 0, 
-            "name": "Professional Networking Brunch", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1474812000000, 
-            "updated": 1474689029000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 10, 
-            "yes_rsvp_count": 25
-        }, 
-        {
             "created": 1474036071000, 
             "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next week we will be continue to go through data structures. The link to the topics and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\">here</a>. In previous weeks we've covered Arrays, Linked-Lists, Hash Tables, and Trees. We will review and start on stacks and queues this time.\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>Please arrange to get your own food before the meetup today as there won't be any food provided for today.</p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
             "duration": 7200000, 
@@ -67,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457212385000, 
@@ -107,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1471093735000, 
@@ -244,7 +216,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 171
+            "yes_rsvp_count": 174
         }, 
         {
             "created": 1468853724000, 
@@ -309,7 +281,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1457392514000, 
@@ -349,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1473268749000, 
@@ -760,7 +732,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1468853724000, 
@@ -801,6 +773,47 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 7
+        }, 
+        {
+            "created": 1473617834000, 
+            "description": "<p>Please join us in October for two talks on how machine learning can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Fighting Malware with Machine Learning - Ed Raff</i></p> <p>8:00 PM --\u00a0<i>How to Build a Malware Classifier [That Doesn't Suck on Real-world Data] - John Seymour</i></p> <p>9:00 PM -- Post event drinks at Green Turtle</p> <p><b>Talks</b></p> <p><b>Fighting Malware with Machine Learning - Ed Raff<br/></b></p> <p>This is a talk I will be giving at Nvidia\u2019s GTC conference in DC. We have been performing research with the Laboratory for Physical Sciences on how to apply machine learning to detect malware, and to do so with minimal domain knowledge about binaries and how they work. I\u2019ll be giving an overview about the problem, why its difficult \u2013 especially compared to current ML tasks, and an overview of our current and completed research toward that goal.</p> <p><br/><b>How to Build a Malware Classifier [That Doesn't Suck on Real-world Data] - John Seymour</b></p> <p><br/>Machine learning is the latest trend in malware classification. It's easy enough that now everyone can spin up a malware crawler, extract some features from the files, build some machine learning models, and publish their research in a reputable journal. However, many of these models have issues with overfitting: they have significant accuracy reductions on real-world data. We'll give a full introduction on using machine learning to classify malware, including the features that are currently used, which models seem to work best, and what datasets exist for this purpose. We'll also demonstrate that even the best public malware classifiers overfit to their original training sets. We'll end the talk with forays into avoiding this issue, for creating malware classifiers that don't suck on real-world data.</p> <p><br/><b>Speakers</b></p> <p><a href=\"http://www.edwardraff.com\">Edward Raff</a> is a Computer Scientist at Booz Allen Hamilton, specializing in Machine Learning problems and solutions. As the author of the JSAT library, Edward has extensive experience implementing all manner of algorithms. In particular, he has worked on problems involving bioinformatics, signal classification, sentiment analysis, real time object tracking, and change detection. He currently works at the Laboratory for Physical Sciences researching new methods of applying deep learning to cyber security, and in particular malware classification and analysis. Edward holds a Bachelor's and Master's degree from Purdue University, and is working on a Ph.D. at the University of Maryland, Baltimore County. Ed can be emailed at\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/>John Seymour is a Data Scientist at ZeroFOX, Inc. by day, and Ph.D. student at UMBC by night. He researches the intersection of machine learning and InfoSec in both roles. He's mostly interested in avoiding and helping others avoid some of the major pitfalls in machine learning, especially in dataset preparation (seriously, do people still use malware datasets from 1998?) He has spoken at BlackHat USA, DEFCON, BSidesLV, and aims to add SecTor to the list in the near future. John can be found on Twitter <a href=\"https://twitter.com/_delta_zero\">@_delta_zero</a>\u00a0and emailed at\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/><b>Projects</b></p> <p>Edward has developed a machine learning library called JSAT. You can access it on <a href=\"https://github.com/EdwardRaff/JSAT\">Github</a>. It is a Java library for machine learning, built out of my frustration in using Weka. It aims to provide a more efficient and easier to use API, as well as numerous algorithms. Many of the algorithms in JSAT are independent implementations of common tools (such as linear SVMs, Lasso, and t-SNE) and others are more niche or rarely available methods (such as Kernel k-means and AMM).</p> <p><br/>John has released two security related projects on Github.</p> <p>label-virusshare: A project to label the VirusShare malware corpus using VirusTotal's public API. Presented at BSidesLV 2016. <a href=\"https://github.com/seymour1/label-virusshare\" class=\"linkified\">https://github.com/seymour1/label-virusshare</a></p> <p>SNAP_R: A project that demonstrates the capability for posting phishing posts to social network users. Presented at BlackHat USA 2016. <a href=\"https://github.com/getzerofox/SNAP_R/\"><a href=\"https://github.com/getzerofox/SNAP_R/\" class=\"linkified\">https://github.com/getzerofox/SNAP_R/</a></a></p>", 
+            "duration": 8100000, 
+            "event_url": "http://www.meetup.com/Data-Science-MD/events/234045560/", 
+            "group": {
+                "created": 1355196079000, 
+                "group_lat": 39.270000457763672, 
+                "group_lon": -76.629997253417969, 
+                "id": 6195792, 
+                "join_mode": "open", 
+                "name": "Data Science MD", 
+                "urlname": "Data-Science-MD", 
+                "who": "Data Enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "234045560", 
+            "maybe_rsvp_count": 0, 
+            "name": "Malware Machine Learning", 
+            "rsvp_limit": 175, 
+            "status": "upcoming", 
+            "time": 1476311400000, 
+            "updated": 1474817999000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "8890 McGaw Rd #230", 
+                "city": "Columbia", 
+                "country": "us", 
+                "id": 23832486, 
+                "lat": 39.209999000000003, 
+                "localized_country_name": "USA", 
+                "lon": -76.879997000000003, 
+                "name": "Loyola Columbia", 
+                "repinned": false, 
+                "state": "MD", 
+                "zip": "21044"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1471280349000, 
@@ -1208,7 +1221,35 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234318392/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvnbhc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1477434600000, 
+            "updated": 1472237272000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1467833256000, 
