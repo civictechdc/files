@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "announced": false, 
@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "announced": false, 
@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }
     ], 
     "other": [
@@ -163,7 +163,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457212385000, 
@@ -203,7 +203,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1471093735000, 
@@ -271,7 +271,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1459265642000, 
@@ -311,7 +311,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1473195621000, 
@@ -352,11 +352,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 177
+            "yes_rsvp_count": 185
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop to the event so you can participate in the workshop!</p> <p>Looking for something else to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
+            "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop with Ruby on Rails installed (<a href=\"http://installrails.com/\">instructions</a>)\u00a0to the event so you can participate in the workshop!</p> <p>WeddingWire is located on the 3rd floor of the Chevy Chase Metro Building at 2 Wisconsin Circle. We will be in a conference room named \"Weddings\" - follow the Women Who Code signs to get to the conference room once you get to the 3rd floor. If you need assistance, please call or text Mary-Katherine at[masked]-7944.</p> <p><b>Looking for something else to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p><b>Want to be a Ruby on Rails Study Group leader?</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233422034/", 
             "group": {
@@ -375,11 +375,23 @@ calendar({
             "name": "Ruby on Rails: Build a ToDo List App", 
             "status": "upcoming", 
             "time": 1475101800000, 
-            "updated": 1473898398000, 
+            "updated": 1474902253000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2 Wisconsin Circle, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24810108, 
+                "lat": 38.961533000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.085402999999999, 
+                "name": "WeddingWire", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1474044580000, 
@@ -417,7 +429,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1457392514000, 
@@ -457,7 +469,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1474850079000, 
@@ -495,7 +507,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1473268749000, 
@@ -537,7 +549,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1459265642000, 
@@ -604,7 +616,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1452612310000, 
@@ -643,7 +655,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1326383071000, 
@@ -760,7 +772,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 18, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -792,7 +804,7 @@ calendar({
         }, 
         {
             "created": 1466889163000, 
-            "description": "<p>Everyone is looking forward to hearing about *your* cool hack. The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback. The hacks that people present are anything from how to train your dog to text you when it needs a walk to [something more serious... like blenders made out of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches, no dull work projects, no deckware!</p> <p>\n\nPresentation signups are here:</p> <p><br/><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p> <p><br/>See you at the meetup, at WeWork Chinatown. We try to start on-time at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
+            "description": "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month - because we're getting together for a joint meetup!\u00a0</p> <p>\n\nA first ever for Hack&amp;&amp;Tell, we're trying a themed meetup with the amazing DC NLP folks. This October, we're looking for presenters, speakers, and hackers for anything related to human language, whether text, audio, videos of sign language, etc... show us what you\u2019ve got! (remember: no startup pitches, dull work projects, or deckware). The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.\u00a0</p> <p>\n\n\n\nPresentation signups are below:<br/><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\nNeed an idea? Here are some talks we'd like to see at H&amp;&amp;T NLP:</p> <p>+ Political twitter bots, bonus points if they pass the Turing test and fight w/real people!</p> <p>+ the weirdest take on a Turing test that you can come up with</p> <p>+ Haiku!</p> <p>+ Automated assistant hacks, or how I got Cortana to break up with me</p> <p><br/>+ Pen-testing (\"real\" hacking!) with deep learning NLP+ Linguistic analysis of everyone's favorite anti-blog gawker</p> <p>+ Voice activation hacks, like getting Alexa to order a pizza when my dog barks or find the nearest polling place</p> <p>+ generating text based on your own email history (can you simulate yourself? your friends?)</p> <p>+ unsupervised email classification (separate into personal, work, whatever)</p> <p>+ recruit-bot: a bot that corresponds with recruiters for arbitrarily long exchanges (Q-learning on real people?)<br/>+ multi-scale generative text (character + word??? + more?)</p> <p>+ sentiment analysis for your work emails. Maybe don't read some of them right away.</p> <p><br/>+ baby names, learned from pictures of other people's babies and their names</p> <p>+ generate hack and tell ideas?!</p> <p>Does it have to be related to human language? No, but if the speaking slots fill up, we will try to give priority to NLP this month.\u00a0</p> <p>See you at the meetup, at WeWork Chinatown. This month we are starting at 6:30 with pizza and the talks will begin at 7:00.\u00a0 DC NLPers, be a little earlier than usual, late arrivals are disruptive.\u00a0 Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
             "event_url": "http://www.meetup.com/DC-Hack-and-Tell/events/232161085/", 
             "group": {
                 "created": 1361902062000, 
@@ -810,7 +822,7 @@ calendar({
             "name": "Round 37: Cell Out", 
             "status": "upcoming", 
             "time": 1476225000000, 
-            "updated": 1466889382000, 
+            "updated": 1474910067000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "718 7th St NW", 
@@ -826,7 +838,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
@@ -866,7 +878,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1417881835000, 
@@ -906,7 +918,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1468853724000, 
@@ -987,7 +999,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1471280349000, 
@@ -1026,7 +1038,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1472497385000, 
@@ -1065,7 +1077,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1470699270000, 
@@ -1237,7 +1249,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1471287239000, 
@@ -1395,7 +1407,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1459265642000, 
@@ -1500,7 +1512,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1417881835000, 
