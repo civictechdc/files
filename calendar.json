@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 14
         }, 
         {
             "announced": false, 
@@ -80,7 +80,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 11
         }, 
         {
             "announced": false, 
@@ -121,7 +121,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }
     ], 
     "other": [
@@ -204,7 +204,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 188
+            "yes_rsvp_count": 189
         }, 
         {
             "created": 1468853724000, 
@@ -281,7 +281,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1457392514000, 
@@ -321,7 +321,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1474850079000, 
@@ -359,7 +359,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1473268749000, 
@@ -468,7 +468,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1452612310000, 
@@ -507,7 +507,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1326383071000, 
@@ -624,7 +624,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 19, 
+            "waitlist_count": 21, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -663,7 +663,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1459265642000, 
@@ -743,7 +743,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1468853724000, 
@@ -824,7 +824,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1471280349000, 
@@ -863,7 +863,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1472497385000, 
@@ -902,7 +902,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1470699270000, 
@@ -968,7 +968,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1459265642000, 
@@ -997,6 +997,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1474985603000, 
+            "description": "<p>Want to come to more Women Who Code meetups but live in Northern Virginia and not near Metro? We\u2019ve got you covered! We\u2019re kicking off a new set of meetups for the Northern Virginia area with a presentation by Rebecca Rice of Digital Globe about working with Cucumber for automated testing. Following her presentation, we\u2019ll do an open lab night so bring your laptop and whatever you\u2019re currently working on and join us!</p> <p>Pizza and drinks will be provided.</p> <p>Digital Globe is located near the intersection of rte 28 and the Dulles Toll Road (exit 10). Free parking is available in the parking garage attached to the building. Please bring your ID for admittance into the building. If you need assistance, please call or text Lisa at[masked] or Melissa at[masked]-2115.\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are trans* friendly.</p> <p>Can't attend this event, but want to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\">Slack group</a>!</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234440876/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "234440876", 
+            "maybe_rsvp_count": 0, 
+            "name": "NoVa Edition: Cucumber and Front End Open Lab", 
+            "status": "upcoming", 
+            "time": 1476829800000, 
+            "updated": 1474994047000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2325 Dulles Corner Boulevard", 
+                "city": "Herndon", 
+                "country": "us", 
+                "id": 24812373, 
+                "lat": 38.960251, 
+                "localized_country_name": "USA", 
+                "lon": -77.422318000000004, 
+                "name": "Digital Globe", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1468853724000, 
@@ -1192,7 +1231,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1459265642000, 
@@ -1353,46 +1392,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387932/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gqfsxlyvpbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Beginners Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1478125800000, 
-            "updated": 1473865192000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1 Thomas Circle", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24416213, 
-                "lat": 38.905323000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.032700000000006, 
-                "name": "Fiscal Note", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
