@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - announced: false
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -114,208 +114,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 8
 other:
-- created: 1474036071000
-  description: "<p>Interested in sharpening your problem solving skills and learning\
-    \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>Next\
-    \ week we will be continue to go through data structures. The link to the topics\
-    \ and the walk through are <a href=\"https://github.com/ghoshkaj/datastructures\"\
-    >here</a>. In previous weeks we've covered Arrays, Linked-Lists, Hash Tables,\
-    \ and Trees. We will review and start on stacks and queues this time.\_</p> <p>Find\
-    \ material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\"\
-    >here</a>.</p> <p>Please arrange to get your own food before the meetup today\
-    \ as there won't be any food provided for today.</p> <p><br/>This event is intended\
-    \ to be exclusively open for women; we are trans* friendly.\_</p> <p><br/>See\
-    \ you there!</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234174782/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '234174782'
-  maybe_rsvp_count: 0
-  name: Algorithms Meetup
-  rsvp_limit: 50
-  status: upcoming
-  time: 1474929000000
-  updated: 1474036071000
-  utc_offset: -14400000
-  venue: {address_1: '1005 7th St NW, Suite 100', city: Washington, country: us, id: 24427130,
-    lat: 38.903229000000003, localized_country_name: USA, lon: -77.021629000000004,
-    name: Contactually, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 23
-- created: 1457212385000
-  description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
-    >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study\
-    \ group where women can come together and help each other learn and understand\
-    \ web development. We welcome devs of all levels and encourage those with more\
-    \ experience to help out those that are just starting. There's always at least\
-    \ one mentor or leader present to help you with best practices or to guide you\
-    \ through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize\
-    \ your benefits from FEHN, please bring your laptop. Extra computers will not\
-    \ be available at the event. Even if you have never coded before, you will be\
-    \ coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following\
-    \ format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p>\
-    \ <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
-    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
-    \ Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\"\
-    \ class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study\
-    \ Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\"\
-    \ class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript\
-    \ Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\"\
-    \ class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p>\
-    \ <p>Certain building management companies require Meetup hosts to let people\
-    \ in and do not encourage them being contacted. Please respect the policy. In\
-    \ case the location requires access to the building, contact the group lead if\
-    \ information is provided or drop a comment on the Meetup page. We'll come and\
-    \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
-    \ we are trans* friendly.</p>"
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233046976/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: wqrfrlyvmbjc
-  maybe_rsvp_count: 0
-  name: Front End Hack Night
-  rsvp_limit: 40
-  status: upcoming
-  time: 1474929000000
-  updated: 1472237508000
-  utc_offset: -14400000
-  venue: {address_1: '1875 Connecticut Ave NW, Suite 715', city: Washington, country: us,
-    id: 24555695, lat: 38.915768, localized_country_name: USA, lon: -77.046059, name: Socrata,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 19
-- created: 1471093735000
-  description: "<p>IBM's Watson became a household name when it defeated two human\
-    \ champions on <a href=\"https://www.youtube.com/watch?v=WFR3lOm_xhE\">Jeopardy</a>.\
-    \ Now individual data scientists can develop analytics to harness the power of\
-    \ Watson. Please join us in September to learn about Watson Analytics and how\
-    \ they can be applied to social media.</p> <p>If you would like more information\
-    \ on Watson and Watson Analytics, please <a href=\"https://www-01.ibm.com/events/wwe/grp/grp004.nsf/v17_enrollall?openform&amp;seminar=482P77ES&amp;locale=en_US\"\
-    >register at IBM</a>.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp;\
-    \ Food\_</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Watson\
-    \ Analytics for Social Media -\_</i>Alex Hoomis</p> <p>9:00 PM -- Post event drinks</p>\
-    \ <p><b>Talks</b></p> <p><b><i>Watson Analytics for Social Media</i><br/></b></p>\
-    \ <p>As we usher in a new era of work flow, everyday business\_users are leveraging\
-    \ Watson Analytics to become \u2018citizen\_analysts\u2019. We will show how Watson\
-    \ Analytics can explore\_your data, predict drivers and build interactive dashboards\_\
-    leveraging cognitive and IBMs best of breed business\_intelligence solutions all\
-    \ in one, easy to use interface. Not\_only is important to make the best business\
-    \ decisions with\_the data inside your org, what is going outside of your\_walls?\
-    \ Watson Analytics for Social Media aggregates and\_matches data from the over\
-    \ 30,000 sources like the\_world\u2019s most popular blogs, forums, twitter and\
-    \ Facebook\_to provide users a look far beyond day to day reports. With\_Watson\
-    \ Analytics for Social Media users can leverage\_self-service analytics with our\
-    \ data partnerships to allow\_users to not only see what is being said but then\
-    \ run\_dynamic analytics on it.</p> <p><br/><b>Bring your laptop and get hands\
-    \ on experience by\_starting a Free Trial of IBM Watson Analytics today!</b></p>\
-    \ <p><br/><b>Speakers</b></p> <p><b><a href=\"https://www.linkedin.com/in/alexhoomisibm\"\
-    >Alex Hoomis</a>, Sales Manager Watson Analytics</b></p> <p>I began my career\
-    \ selling Business Intelligence at IBM that included the full business analytics\
-    \ portfolio. I spent a long time in reporting, predictive and financial planning\
-    \ solutions before moving to Watson Analytics when it went live almost two years\
-    \ ago. I spent the first 18 months as a seller and have now moved to the leadership\
-    \ team. A large part of what I do is working with our sellers and clients in the\
-    \ new age of cognitive cloud computing. I work with clients of all sizes who are\
-    \ looking to leverage SaaS self-service data discovery solutions into their analytics\
-    \ portfolio. Alex can be reached via <a href=\"mailto:[masked]\">email</a>.</p>\
-    \ <p><b>Location</b></p> <p>Park in any open street spots as well as the triangle\
-    \ lot that is outlined in purple. Do not park in spots marked handicap, no parking,\
-    \ or for a specific companies. The X marks the spot of the meetup. We are directly\
-    \ behind the Natty Boh tower on the campus (the building with the big white roof).\_\
-    </p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/9/b/5/7/600_435819767.jpeg\"\
-    \ /></p>"
-  duration: 8100000
-  event_url: http://www.meetup.com/Data-Science-MD/events/233328767/
-  group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
-    id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
-    who: Data Enthusiasts}
-  headcount: 0
-  id: '233328767'
-  maybe_rsvp_count: 0
-  name: Watson Analytics for Social Media
-  rsvp_limit: 175
-  status: upcoming
-  time: 1474929000000
-  updated: 1473618802000
-  utc_offset: -14400000
-  venue: {address_1: '3700 O''Donnell Street ', city: Baltimore, country: us, id: 23668500,
-    lat: 39.280602000000002, localized_country_name: USA, lon: -76.565917999999996,
-    name: AOL / Advertising.com, repinned: false, state: MD}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 153
-- created: 1474335011000
-  description: "<p>Two of our local data scientists (Benjamin Bengfort and Jenny Kim)\
-    \ have just published an O'Reilly book called\_<a href=\"http://shop.oreilly.com/product/0636920035275.do\"\
-    >Data Analytics with Hadoop</a>! \_Come celebrate the release of their book with\
-    \ us, meet the authors, and mingle with your fellow data community members. \_\
-    </p> <p>We will be holding a drawing to give away free copies of the book and\
-    \ will also have print copies available that attendees can purchase at a discount.\
-    \ \_</p> <p><br/>About the Book</p> <p>Ready to use statistical and machine-learning\
-    \ techniques across large data sets? This practical guide shows you why the Hadoop\
-    \ ecosystem is perfect for the job. Instead of deployment, operations, or software\
-    \ development usually associated with distributed computing, you\u2019ll focus\
-    \ on particular analyses you can build, the data warehousing techniques that Hadoop\
-    \ provides, and higher order data workflows this framework can produce.</p> <p>Data\
-    \ scientists and analysts will learn how to perform a wide range of techniques,\
-    \ from writing MapReduce and Spark applications with Python to using advanced\
-    \ modeling and data management with Spark MLlib, Hive, and HBase. You\u2019ll\
-    \ also learn about the analytical processes and data systems available to build\
-    \ and empower data products that can handle\u2014and actually require\u2014huge\
-    \ amounts of data.</p> <p>\u2022\_Understand core concepts behind Hadoop and cluster\
-    \ computing</p> <p>\u2022\_Use design patterns and parallel analytical algorithms\
-    \ to create distributed data analysis jobs</p> <p>\u2022\_Learn about data management,\
-    \ mining, and warehousing in a distributed context using Apache Hive and HBase</p>\
-    \ <p>\u2022\_Use Sqoop and Apache Flume to ingest data from relational databases</p>\
-    \ <p>\u2022\_Program complex Hadoop and Spark applications with Apache Pig and\
-    \ Spark DataFrames</p> <p>\u2022\_Perform machine learning techniques such as\
-    \ classification, clustering, and collaborative filtering with Spark\u2019s MLlib</p>\
-    \ <p><br/>About the Authors</p> <p>Benjamin Bengfort\_is a Data Scientist who\
-    \ lives inside the beltway but ignores politics (the normal business of DC) favoring\
-    \ technology instead. He is currently working to finish his PhD at the University\
-    \ of Maryland where he studies machine learning and distributed computing. His\
-    \ lab does have robots (though this field of study is not one he favors) and,\
-    \ much to his chagrin, they seem to constantly arm said robots with knives and\
-    \ tools; presumably to pursue culinary accolades. Having seen a robot attempt\
-    \ to slice a tomato, Benjamin prefers his own adventures in the kitchen where\
-    \ he specializes in fusion French and Guyanese cuisine as well as BBQ of all types.\
-    \ A professional programmer by trade, a Data Scientist by vocation, Benjamin's\
-    \ writing pursues a diverse range of subjects from Natural Language Processing,\
-    \ to Data Science with Python to analytics with Hadoop and Spark.</p> <p>Jenny\
-    \ Kim\_is an experienced big data engineer who works in both commercial software\
-    \ efforts as well as in academia. She has significant experience in working with\
-    \ large scale data, machine learning, and Hadoop implementations in production\
-    \ and research environments. Jenny (with Benjamin Bengfort) previously built a\
-    \ large scale recommender system that used a web crawler to gather ontological\
-    \ information about apparel products and produce recommendations from transactions.\
-    \ Currently, she is working with the Hue team at Cloudera, to help build intuitive\
-    \ interfaces for analyzing big data with Hadoop.\_</p>"
-  duration: 10800000
-  event_url: http://www.meetup.com/Data-Innovation-DC/events/234256747/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
-    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Innovation-DC,
-    who: Data-preneurs}
-  headcount: 0
-  id: '234256747'
-  maybe_rsvp_count: 0
-  name: Data Analytics with Hadoop Book Release Celebration
-  rsvp_limit: 80
-  status: upcoming
-  time: 1474929000000
-  updated: 1474335011000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 19
 - created: 1459265642000
   description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -493,7 +291,7 @@ other:
     name: WeddingWire, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 22
 - created: 1474044580000
   description: "<p>Please join us for our next meetup on Thursday 9/29 on\_AnalyticOps\
     \ and Analytic Engines: Roles, Tools and Techniques for Deploying Analytic Models\
@@ -586,7 +384,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1474850079000
   description: "<p>With cool fall weather finally upon us, we've ever reason to enjoy\
     \ an after work jaunt over to the DC API meetup after work, next week. \_Once\
@@ -711,7 +509,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -854,7 +652,7 @@ other:
     country: us, id: 18875152, lat: 38.914546999999999, localized_country_name: USA,
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 18
+  waitlist_count: 19
   yes_rsvp_count: 80
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -1102,7 +900,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 77
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -1136,7 +934,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 56
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -1178,7 +976,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 104
+  yes_rsvp_count: 105
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -1539,7 +1337,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1698,6 +1496,82 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 7
+- created: 1452612310000
+  description: "<p>Interested in learning Ruby and Rails with an awesome group of\
+    \ women? Looking to build your first web app, learn more about coding, or build\
+    \ on existing skills?</p> <p>Come to our\_First Timer's Night\_Ruby on Rails(ROR)\
+    \ Study Group. This event is intended for those new to programming and/or ROR\
+    \ (but we welcome people of all levels to attend and help out)! The agenda will\
+    \ include a lecture that covers Ruby and Rails and an installfest to help you\
+    \ set up Rails on your own computer.</p> <p>This event is intended to be exclusively\
+    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
+    \ bring a laptop to the event so you can participate in\_the installfest!</p>\
+    \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
+    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
+    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p>\
+    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
+    \ <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\_</p> <p>\u2022\
+    \ 7:10 - 8:10pm - Install necessary software following the\_<a href=\"http://installrails.com/\"\
+    >InstallRails</a>\_guide.\_</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p>\
+    \ <p>These are the resources that members have been following along, feel free\
+    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
+    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
+    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
+    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
+    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228457076/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: cjdtnlyvpbdb
+  maybe_rsvp_count: 0
+  name: 'Ruby on Rails: Beginners Night!'
+  status: upcoming
+  time: 1478125800000
+  updated: 1473265870000
+  utc_offset: -14400000
+  venue: {address_1: '1341 G St NW Washington, DC 20005', city: Washington, country: us,
+    id: 24728607, lat: 38.898578999999998, localized_country_name: USA, lon: -77.031531999999999,
+    name: The Iron Yard, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
+- created: 1446219481000
+  description: <p>We're a group of women who want to learn and develop our Python
+    scripting skills. Some of us are professional developers and data scientists,
+    others are hobbyists, and some are just beginning. The study group is intended
+    for everyone who wishes to learn more about the Python programming language. Folks
+    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
+    Wednesday of every month, which caters especially for absolute beginners and people
+    with basic familiarity.</p> <p>All other study group nights will generally cover
+    more advanced topics and work on projects more in depth, according to everyone's
+    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
+    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
+    for women; we are trans* friendly.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387932/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gqfsxlyvpbdb
+  maybe_rsvp_count: 0
+  name: Python Beginners Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1478125800000
+  updated: 1473865192000
+  utc_offset: -14400000
+  venue: {address_1: 1 Thomas Circle, city: Washington, country: us, id: 24416213,
+    lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
+    name: Fiscal Note, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 12
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
