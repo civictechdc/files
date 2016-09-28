@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - announced: false
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -114,132 +114,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 10
 other:
-- created: 1459265642000
-  description: '<p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p>This week: Join us in building a multiscreen android
-    app.</p> <p>Resources</p> <p>Beginners should check out our <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It''s chock full of information to get you up and running.
-    It is a work in progress and we''ll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can''t Come This Week, but Want to Stay
-    in Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>'
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232213365/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvmbkc
-  maybe_rsvp_count: 0
-  name: Android Lab:Build Multiscreen App
-  rsvp_limit: 25
-  status: upcoming
-  time: 1475015400000
-  updated: 1474854295000
-  utc_offset: -14400000
-  venue: {address_1: 9th and G St NW, city: Washington, country: us, id: 16271902,
-    lat: 38.908141999999998, localized_country_name: USA, lon: -77.023972000000001,
-    name: 'MLK Library, Digital Commons Room 5', repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 10
-- created: 1473195621000
-  description: "<p>Join your fellow data visualizers on Tuesday September 27th at\
-    \ Chief (1800 Massachusetts Ave NW) for How to Succeed in Data Driven Journalism\
-    \ without Going Crazy. Our guest speaker for September will be trans-Atlantic\
-    \ data journalism rock star, Mark McDonald. Mark\u2019s presentation will focus\
-    \ on the data process in journalism, and how the information age has transformed\
-    \ our abilities in storytelling and reporting. I will also appeal to journalists\
-    \ to utilize the big data tools in their work as much as possible, leading to\
-    \ a better informed public. \_</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0b5/17a/1264a57.jpg\"\
-    \ /></p> <p><b>Check out our\_<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\"\
-    >Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\"\
-    >Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\"\
-    >We can help</a>.</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\"\
-    \ /></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20\
-    \ \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Mark McDonald\
-    \ \_</p> <p>8:20 - 8:40 \u2013 Q &amp; A for Mark McDonald</p> <p>8:40 - Data\
-    \ Drinks</p> <p><br/><b>More about Mark McDonald </b></p> <p>A 30 year veteran\
-    \ of the news industry, Mark has defined his career as a news producer by working\
-    \ at the highest levels of international news, starting at the BBC TV News production\
-    \ in the 80s, Mark served the BBC as a World Duty Editor, and in the field in\
-    \ both Western and Eastern Europe, and extensively throughout North and South\
-    \ America. While working for the BBC his work included coverage, both short and\
-    \ long-form, of international politics, five U.S. Presidential elections, battlefield\
-    \ conflict, diplomacy, the United Nations and its agencies, as well as natural\
-    \ and human tragedies.</p> <p>In the 90s Mark made the intrepid voyage across\
-    \ the Atlantic via jet airplane to hold senior management positions with the BBC\u2019\
-    s New York Bureau before transferring to US Public Radio, serving senior positions\
-    \ at WNYC in New York, where he built a stellar reporting team that won the Edward\
-    \ R. Murrow Award and the DuPont Columbia Award for investigative reporting. \_\
-    After Mark left New York he became Programming Director WAMU in Washington, DC,\
-    \ in this position he brought podcasting, internet streaming, and digital content\
-    \ management to WAMU, expanding the station\u2019s range and increasing the listing\
-    \ base dramatically.</p> <p>Mark is the founder and CEO of Birkdale Media, a boutique\
-    \ media and public relations firm; Birkdale specializes in media coaching, interview\
-    \ preparation, public relations for individuals and for corporations.</p> <p>Above\
-    \ all else, Mark is a champion for data and data visualization in the newsroom\
-    \ and on the air. \_We conducted an interview with him and were really impressed\
-    \ by the passion he displayed for Data Viz \u2013 full text of the interview below:</p>\
-    \ <p><br/>1) What got you into data visualization and how do you think data visualization\
-    \ has enhanced your profession?\_</p> <p><b>Mark: </b>TV and Video Graphics have\
-    \ become so much more sophisticated in the digital age that they can be designed\
-    \ much more quickly, easily, and contain much more useful information for viewers,\
-    \ helping producers to explain complex stories and issues, and put them into better\
-    \ context than ever before. The internet means blogs, news-sites, etc. can contain\
-    \ way more vital information\_and background than they did before - and many organizations\
-    \ are utilizing data to enhance their story-telling, provide background, history,\
-    \ and further detail.\_</p> <p>\n\n\n2) You worked for the BBC, how do you think\
-    \ that working for an international news agency affected your views on data?\_\
-    </p> <p><b>Mark:\_</b>In my day (80's and 90's) a sophisticated graphic could\
-    \ take days, even weeks to assemble to be inserted into a news report. New technology\
-    \ speeds this process meaning producers can make much better use of graphics on\
-    \ video and on the web.\_</p> <p>\n\n\n3) How do you see data visualization shaping\
-    \ the future of news media or vice versa how do you see news media shaping the\
-    \ path of data visualization?\_</p> <p><b>Mark:\_</b>It opens up vast new possibilities\
-    \ for journalism. Better analysis, better explanations and details in investigative\
-    \ work (being able to collate and display complex documents, and show how they\
-    \ relate to each other, for instance). The news media in turn can drive the quest\
-    \ for big data using the Freedom of Information legislation on complex stories\
-    \ and issues and making it public utilizing graphics and big data.\_</p> <p>\n\
-    \n\n4) How do we make the news - print, media, digital, etc.- Great Again?\_</p>\
-    \ <p><b>Mark:\_</b>By using our imagination about how to tell stories and raise\
-    \ important issues in a more captivating and compelling way, rather than feeding\
-    \ the public cheap consumer-driven news which is often second or third hand.\_\
-    </p> <p>\n\n\n5) What international news story from the past decade could have\
-    \ had a different outcome if data visualization was better used in covering it?\_\
-    </p> <p><b>Mark:\_</b>Resolution from any conflict zone you care to mention -\
-    \ by using big data to report it more accurately (Iraq, for example) thus raising\
-    \ public awareness.\_</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"\
-    http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p>\
-    \ <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\"\
-    \ /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\"\
-    \ /></p>"
-  duration: 9000000
-  event_url: http://www.meetup.com/Data-Visualization-DC/events/233922115/
-  group: {created: 1359639162000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 6957082, join_mode: open, name: Data Visualization DC, urlname: Data-Visualization-DC,
-    who: Data Visualizers}
-  headcount: 0
-  how_to_find_us: 2nd Floor. Ask the guard to let you up.
-  id: '233922115'
-  maybe_rsvp_count: 0
-  name: Success & Sanity in Data Journalism
-  rsvp_limit: 200
-  status: upcoming
-  time: 1475015400000
-  updated: 1473195621000
-  utc_offset: -14400000
-  venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
-    id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
-    name: CHIEF, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 183
 - created: 1468853724000
   description: "<p>We will build a simple Todo list application using Rails. We will\
     \ learn how to start a Rails application, make basic updates to the MVC framework\
@@ -334,7 +208,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 111
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -384,7 +258,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 68
 - created: 1474850079000
   description: "<p>With cool fall weather finally upon us, we've ever reason to enjoy\
     \ an after work jaunt over to the DC API meetup after work, next week. \_Once\
@@ -509,7 +383,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 57
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -553,7 +427,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -652,7 +526,7 @@ other:
     country: us, id: 18875152, lat: 38.914546999999999, localized_country_name: USA,
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 21
+  waitlist_count: 22
   yes_rsvp_count: 80
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -779,7 +653,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -900,7 +774,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 89
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -934,7 +808,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 59
+  yes_rsvp_count: 61
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -1130,7 +1004,7 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1325,29 +1199,32 @@ other:
     \ options available) and drink. A list of available resources related to these\
     \ discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\"\
     \ class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\_</p> <p><b>Come\
-    \ join us!</b></p> <p><br/><b>NOTE:</b> This is a joint event that is part of\
-    \ <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a>\
-    \ and AIGA DC Design week. Because this is an event in partnership with AIGA DC,\
-    \ <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About\
-    \ DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying\
-    \ women in tech organizations, sharing resources, and bringing leaders together\
-    \ to close the gender gap. Bimonthly meetings are inclusive and open to any women\
-    \ in tech leaders.Members are affiliated with organizations with women attendance\
-    \ that is 50% or higher; who have a focus on technology; and have a primary focus\
-    \ in the mission statement about gender or women. Find out more about DCFemTech\
-    \ here:\_<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\"\
-    \ class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\_</p> <p><b>About\
-    \ AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and\
-    \ most active in the country. Run by a volunteer board of directors, the organization\
-    \ celebrates design and provides unparalleled opportunities for networking within\
-    \ the local design community and a variety of resources to advance professionalism\
-    \ and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich\
-    \ the collective experience of design. Find out more about AIGA here: <a href=\"\
-    http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\_</p> <p><b>About\
-    \ Chief </b><br/>Shout out to our event host Chief, who is providing us with the\
-    \ venue and food/drinks for the event! Chief is a digital agency that works with\
-    \ organizations in the public and private sectors in the DC area. Find out more\
-    \ info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\_\
+    \ join us!</b></p> <p><br/>Event Agenda</p> <p><br/>1. Brief Introduction -\_\
+    About Tour De Code, WWC, AIGA</p> <p>2. Panel Presentation, Q &amp; A with guest\
+    \ panelists:<br/>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha\
+    \ Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p>3. Networking Breakout</p>\
+    \ <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\"\
+    >DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event\
+    \ in partnership with AIGA DC, <i>this particular meetup will be inclusive to\
+    \ all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition\
+    \ of women leaders aimed at amplifying women in tech organizations, sharing resources,\
+    \ and bringing leaders together to close the gender gap. Bimonthly meetings are\
+    \ inclusive and open to any women in tech leaders.Members are affiliated with\
+    \ organizations with women attendance that is 50% or higher; who have a focus\
+    \ on technology; and have a primary focus in the mission statement about gender\
+    \ or women. Find out more about DCFemTech here:\_<a href=\"https://dcfemtech.github.io/index.html\"\
+    ><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\_\
+    </p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of\
+    \ the biggest and most active in the country. Run by a volunteer board of directors,\
+    \ the organization celebrates design and provides unparalleled opportunities for\
+    \ networking within the local design community and a variety of resources to advance\
+    \ professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse\
+    \ and enrich the collective experience of design. Find out more about AIGA here:\
+    \ <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\_\
+    </p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing\
+    \ us with the venue and food/drinks for the event! Chief is a digital agency that\
+    \ works with organizations in the public and private sectors in the DC area. Find\
+    \ out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\_\
     </p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly\
     \ off the southeast side of Dupont Circle. Our office is located nearest to the\
     \ Dupont Circle Metro station south entrance. Parking is available on the street\
@@ -1364,14 +1241,14 @@ other:
   rsvp_limit: 100
   status: upcoming
   time: 1477348200000
-  updated: 1473456107000
+  updated: 1475030908000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1574,6 +1451,38 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1446219481000
+  description: <p>We're a group of women who want to learn and develop our Python
+    scripting skills. Some of us are professional developers and data scientists,
+    others are hobbyists, and some are just beginning. The study group is intended
+    for everyone who wishes to learn more about the Python programming language. Folks
+    of all skill levels are welcome!</p> <p><br/>We host beginners night on the first
+    Wednesday of every month, which caters especially for absolute beginners and people
+    with basic familiarity.</p> <p>All other study group nights will generally cover
+    more advanced topics and work on projects more in depth, according to everyone's
+    interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this
+    event!</p> <p>This Women Who Code DC event is intended to be exclusively open
+    for women; we are trans* friendly.</p>
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387932/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: gqfsxlyvpbdb
+  maybe_rsvp_count: 0
+  name: Python Beginners Night
+  rsvp_limit: 50
+  status: upcoming
+  time: 1478125800000
+  updated: 1473865192000
+  utc_offset: -14400000
+  venue: {address_1: 1 Thomas Circle, city: Washington, country: us, id: 24416213,
+    lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
+    name: Fiscal Note, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 12
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and

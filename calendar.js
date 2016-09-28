@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "announced": false, 
@@ -126,87 +126,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>This week: Join us in building a multiscreen android app.</p> <p>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232213365/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvmbkc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab:Build Multiscreen App", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1475015400000, 
-            "updated": 1474854295000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "9th and G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 16271902, 
-                "lat": 38.908141999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.023972000000001, 
-                "name": "MLK Library, Digital Commons Room 5", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 10
-        }, 
-        {
-            "created": 1473195621000, 
-            "description": "<p>Join your fellow data visualizers on Tuesday September 27th at Chief (1800 Massachusetts Ave NW) for How to Succeed in Data Driven Journalism without Going Crazy. Our guest speaker for September will be trans-Atlantic data journalism rock star, Mark McDonald. Mark\u2019s presentation will focus on the data process in journalism, and how the information age has transformed our abilities in storytelling and reporting. I will also appeal to journalists to utilize the big data tools in their work as much as possible, leading to a better informed public. \u00a0</p> <p><img src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0b5/17a/1264a57.jpg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Mark McDonald \u00a0</p> <p>8:20 - 8:40 \u2013 Q &amp; A for Mark McDonald</p> <p>8:40 - Data Drinks</p> <p><br/><b>More about Mark McDonald </b></p> <p>A 30 year veteran of the news industry, Mark has defined his career as a news producer by working at the highest levels of international news, starting at the BBC TV News production in the 80s, Mark served the BBC as a World Duty Editor, and in the field in both Western and Eastern Europe, and extensively throughout North and South America. While working for the BBC his work included coverage, both short and long-form, of international politics, five U.S. Presidential elections, battlefield conflict, diplomacy, the United Nations and its agencies, as well as natural and human tragedies.</p> <p>In the 90s Mark made the intrepid voyage across the Atlantic via jet airplane to hold senior management positions with the BBC\u2019s New York Bureau before transferring to US Public Radio, serving senior positions at WNYC in New York, where he built a stellar reporting team that won the Edward R. Murrow Award and the DuPont Columbia Award for investigative reporting. \u00a0After Mark left New York he became Programming Director WAMU in Washington, DC, in this position he brought podcasting, internet streaming, and digital content management to WAMU, expanding the station\u2019s range and increasing the listing base dramatically.</p> <p>Mark is the founder and CEO of Birkdale Media, a boutique media and public relations firm; Birkdale specializes in media coaching, interview preparation, public relations for individuals and for corporations.</p> <p>Above all else, Mark is a champion for data and data visualization in the newsroom and on the air. \u00a0We conducted an interview with him and were really impressed by the passion he displayed for Data Viz \u2013 full text of the interview below:</p> <p><br/>1) What got you into data visualization and how do you think data visualization has enhanced your profession?\u00a0</p> <p><b>Mark: </b>TV and Video Graphics have become so much more sophisticated in the digital age that they can be designed much more quickly, easily, and contain much more useful information for viewers, helping producers to explain complex stories and issues, and put them into better context than ever before. The internet means blogs, news-sites, etc. can contain way more vital information\u00a0and background than they did before - and many organizations are utilizing data to enhance their story-telling, provide background, history, and further detail.\u00a0</p> <p>\n\n\n2) You worked for the BBC, how do you think that working for an international news agency affected your views on data?\u00a0</p> <p><b>Mark:\u00a0</b>In my day (80's and 90's) a sophisticated graphic could take days, even weeks to assemble to be inserted into a news report. New technology speeds this process meaning producers can make much better use of graphics on video and on the web.\u00a0</p> <p>\n\n\n3) How do you see data visualization shaping the future of news media or vice versa how do you see news media shaping the path of data visualization?\u00a0</p> <p><b>Mark:\u00a0</b>It opens up vast new possibilities for journalism. Better analysis, better explanations and details in investigative work (being able to collate and display complex documents, and show how they relate to each other, for instance). The news media in turn can drive the quest for big data using the Freedom of Information legislation on complex stories and issues and making it public utilizing graphics and big data.\u00a0</p> <p>\n\n\n4) How do we make the news - print, media, digital, etc.- Great Again?\u00a0</p> <p><b>Mark:\u00a0</b>By using our imagination about how to tell stories and raise important issues in a more captivating and compelling way, rather than feeding the public cheap consumer-driven news which is often second or third hand.\u00a0</p> <p>\n\n\n5) What international news story from the past decade could have had a different outcome if data visualization was better used in covering it?\u00a0</p> <p><b>Mark:\u00a0</b>Resolution from any conflict zone you care to mention - by using big data to report it more accurately (Iraq, for example) thus raising public awareness.\u00a0</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/7/5/f/e/600_452550206.jpeg\" /></p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/233922115/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "2nd Floor. Ask the guard to let you up.", 
-            "id": "233922115", 
-            "maybe_rsvp_count": 0, 
-            "name": "Success & Sanity in Data Journalism", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1475015400000, 
-            "updated": 1473195621000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 183
-        }, 
-        {
             "created": 1468853724000, 
             "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop with Ruby on Rails installed (<a href=\"http://installrails.com/\">instructions</a>)\u00a0to the event so you can participate in the workshop!</p> <p>WeddingWire is located on the 3rd floor of the Chevy Chase Metro Building at 2 Wisconsin Circle. We will be in a conference room named \"Weddings\" - follow the Women Who Code signs to get to the conference room once you get to the 3rd floor. If you need assistance, please call or text Mary-Katherine at[masked]-7944.</p> <p><b>Looking for something else to work on?</b></p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p><b>Want to be a Ruby on Rails Study Group leader?</b></p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>", 
             "duration": 7200000, 
@@ -281,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 110
+            "yes_rsvp_count": 111
         }, 
         {
             "created": 1457392514000, 
@@ -321,7 +240,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1474850079000, 
@@ -468,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1452612310000, 
@@ -507,7 +426,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
@@ -624,7 +543,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -743,7 +662,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "created": 1468853724000, 
@@ -824,7 +743,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1471280349000, 
@@ -863,7 +782,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1472497385000, 
@@ -1035,7 +954,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1468853724000, 
@@ -1195,7 +1114,7 @@ calendar({
         }, 
         {
             "created": 1473454402000, 
-            "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
+            "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/>Event Agenda</p> <p><br/>1. Brief Introduction -\u00a0About Tour De Code, WWC, AIGA</p> <p>2. Panel Presentation, Q &amp; A with guest panelists:<br/>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p>3. Networking Breakout</p> <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234005278/", 
             "group": {
@@ -1215,7 +1134,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1477348200000, 
-            "updated": 1473456107000, 
+            "updated": 1475030908000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -1231,7 +1150,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1459265642000, 
@@ -1392,6 +1311,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1446219481000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387932/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "gqfsxlyvpbdb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python Beginners Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1478125800000, 
+            "updated": 1473865192000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1 Thomas Circle", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24416213, 
+                "lat": 38.905323000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.032700000000006, 
+                "name": "Fiscal Note", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
