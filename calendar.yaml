@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - announced: false
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -165,7 +165,7 @@ other:
     name: WeddingWire, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1474044580000
   description: "<p>Please join us for our next meetup on Thursday 9/29 on\_AnalyticOps\
     \ and Analytic Engines: Roles, Tools and Techniques for Deploying Analytic Models\
@@ -208,7 +208,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 111
+  yes_rsvp_count: 116
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -258,7 +258,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 74
 - created: 1474850079000
   description: "<p>With cool fall weather finally upon us, we've ever reason to enjoy\
     \ an after work jaunt over to the DC API meetup after work, next week. \_Once\
@@ -286,7 +286,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1473268749000
   description: "<p>Over 6 billion emojis are sent each day, and within the past year,\
     \ emojis have begun finding their way into criminal cases as vital evidence because\
@@ -383,7 +383,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -449,38 +449,39 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1473881201000
   description: "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\"\
-    >Eventbrite</a> to attend. 4 extra early tickets left!\_</p> <p><b>Website Revamp\
-    \ - Create a Website Improvement Roadmap</b></p> <p>Learn about facelifts, fixes,\
-    \ responsive reworks, redesigns\_&amp; other website improvement options - as\
-    \ well as how to choose a strategy and what to do to prepare.</p> <p><br/>Regardless\
-    \ of your size, resources or website status, you'll learn techniques for to make\
-    \ your website better - short, mid &amp; long-term.</p> <p><b>&gt;</b> 5 hours\
-    \ of informative presentations, discussions and networking.</p> <p><b>&gt;</b>\_\
-    Hear from experts and peers on your revamp &amp; redesign options, what you need\
-    \ to think about before deciding, how to plan for each option and how to pick\
-    \ the right strategy based on your budget, resources and other factors.</p> <p><b>&gt;</b>\_\
-    Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>&gt;</b>\
-    \ Relevant for many audiences</p> <p><br/><i>Under-resourced?\_</i>You'll learn\
-    \ about small enhancement you can make that will lead you to bigger improvements.</p>\
-    \ <p><br/><i>Trying to figure out next steps?\_</i>You'll learn how to road-map\
-    \ for rehabs or redesign.</p> <p><i>Mid-redesign?</i>\_You'll learn about a creating\
-    \ an update roadmap so you can finish the elements that were put aside for later\
-    \ and plan for the the issues and things you missed.</p> <p><b>AGENDA</b></p>\
-    \ <p>3:00 - Registration and Networking\_</p> <p>3:30 - SESSION\_1: Understanding\
-    \ Your Options</p> <p>4:20 - Short Break with Snacks</p> <p>4:30 - SESSION 2:\
-    \ Facelifts, Fixes and Responsive Reworks</p> <p>5:30 - Networking and a Light\
-    \ Dinner</p> <p>6:00 - SESSION 3: Redesigns</p> <p>7:00 - Networking Over Cocktails\_\
-    </p> <p>7:30 - SESSION 4: Deciding the Right Strategy</p> <p>8:10 - Networking\
-    \ Over Dessert</p> <p>8:30 - Adjourn</p> <p>SPEAKERS</p> <p>Speakers will be announced\
-    \ as confirmed.</p> <p><b>CALL FOR SPEAKERS</b></p> <p>We are looking for organizations\
-    \ and companies that have done facelifts, fixes, responsive reworks and other\
-    \ approaches to revamping a website short of a redesign.\_</p> <p>For more information,\
-    \ email [masked]. Please include your name, title, organization/company and what\
-    \ sort of revamp you completed (or are working on now).\_</p> <p>For more information,\
-    \ email [masked]. Please include your topic idea/ideas and background.</p>"
+    >Eventbrite</a> to attend.\_</p> <p><b>Website Revamp - Create a Website Improvement\
+    \ Roadmap</b></p> <p>Learn about facelifts, fixes, responsive reworks, redesigns\_\
+    &amp; other website improvement options - as well as how to choose a strategy\
+    \ and what to do to prepare.</p> <p><br/>Regardless of your size, resources or\
+    \ website status, you'll learn techniques for to make your website better - short,\
+    \ mid &amp; long-term.</p> <p><b>&gt;</b> 5 hours of informative presentations,\
+    \ discussions and networking.</p> <p><b>&gt;</b>\_Hear from experts and peers\
+    \ on your revamp &amp; redesign options, what you need to think about before deciding,\
+    \ how to plan for each option and how to pick the right strategy based on your\
+    \ budget, resources and other factors.</p> <p><b>&gt;</b>\_Network and share ideas\
+    \ over snacks, dinner, drinks and dessert.</p> <p><b>&gt;</b> Relevant for many\
+    \ audiences</p> <p><br/><i>Under-resourced?\_</i>You'll learn about small enhancement\
+    \ you can make that will lead you to bigger improvements.</p> <p><br/><i>Trying\
+    \ to figure out next steps?\_</i>You'll learn how to road-map for rehabs or redesign.</p>\
+    \ <p><i>Mid-redesign?</i>\_You'll learn about a creating an update roadmap so\
+    \ you can finish the elements that were put aside for later and plan for the the\
+    \ issues and things you missed.</p> <p><b>AGENDA</b></p> <p>3:00 - Registration\
+    \ and Networking\_</p> <p>3:30 - SESSION\_1: Understanding Your Options</p> <p>4:20\
+    \ - Short Break with Snacks</p> <p>4:30 - SESSION 2: Facelifts, Fixes and Responsive\
+    \ Reworks</p> <p>5:30 - Networking and a Light Dinner</p> <p>6:00 - SESSION 3:\
+    \ Redesigns</p> <p>7:00 - Networking Over Cocktails\_</p> <p>7:30 - SESSION 4:\
+    \ Deciding the Right Strategy</p> <p>8:10 - Networking Over Dessert</p> <p>8:30\
+    \ - Adjourn</p> <p>SPEAKERS</p> <p>Speakers will be announced as confirmed.</p>\
+    \ <p><b>CALL FOR SPEAKERS - Facelifts, Fixes, etc\_</b></p> <p>We are looking\
+    \ for organizations and companies that have done facelifts, fixes, responsive\
+    \ reworks and other approaches to revamping a website short of a redesign (we\
+    \ have enough of those).\_</p> <p>For more information, email [masked]. Please\
+    \ include your name, title, organization/company and what sort of revamp you completed\
+    \ (or are working on now).\_</p> <p>For more information, email [masked]. Please\
+    \ include your topic idea/ideas and background.</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/234127076/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -488,10 +489,10 @@ other:
   headcount: 0
   id: '234127076'
   maybe_rsvp_count: 0
-  name: Website Revamp - Create a Website Improvement Roadmap
+  name: Website Revamp - Options, Plans & Roadmaps
   status: upcoming
   time: 1475780400000
-  updated: 1474483568000
+  updated: 1475080342000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -526,7 +527,7 @@ other:
     country: us, id: 18875152, lat: 38.914546999999999, localized_country_name: USA,
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 22
+  waitlist_count: 26
   yes_rsvp_count: 80
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -653,7 +654,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 98
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -774,7 +775,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 91
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -850,7 +851,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 107
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -940,7 +941,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1004,7 +1005,7 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1122,7 +1123,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1467704208000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
     \ <p>Registration is through\_<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
@@ -1248,7 +1249,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
