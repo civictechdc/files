@@ -239,7 +239,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 189
+  yes_rsvp_count: 183
 - created: 1468853724000
   description: "<p>We will build a simple Todo list application using Rails. We will\
     \ learn how to start a Rails application, make basic updates to the MVC framework\
@@ -291,7 +291,7 @@ other:
     name: WeddingWire, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 25
 - created: 1474044580000
   description: "<p>Please join us for our next meetup on Thursday 9/29 on\_AnalyticOps\
     \ and Analytic Engines: Roles, Tools and Techniques for Deploying Analytic Models\
@@ -334,7 +334,7 @@ other:
       Room 103, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 109
+  yes_rsvp_count: 110
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -384,7 +384,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 61
 - created: 1474850079000
   description: "<p>With cool fall weather finally upon us, we've ever reason to enjoy\
     \ an after work jaunt over to the DC API meetup after work, next week. \_Once\
@@ -412,7 +412,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1473268749000
   description: "<p>Over 6 billion emojis are sent each day, and within the past year,\
     \ emojis have begun finding their way into criminal cases as vital evidence because\
@@ -575,7 +575,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1473881201000
   description: "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\"\
     >Eventbrite</a> to attend. 4 extra early tickets left!\_</p> <p><b>Website Revamp\
@@ -900,7 +900,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 85
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -934,7 +934,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -1066,7 +1066,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1130,7 +1130,7 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1205,7 +1205,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released\
