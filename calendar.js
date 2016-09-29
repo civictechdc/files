@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "announced": false, 
@@ -146,23 +146,23 @@ calendar({
             "name": "Ruby on Rails: Build a ToDo List App", 
             "status": "upcoming", 
             "time": 1475101800000, 
-            "updated": 1474902253000, 
+            "updated": 1475102070000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "2 Wisconsin Circle, 3rd Floor", 
-                "city": "Washington", 
+                "address_1": "2 Wisconsin Circle", 
+                "city": "Chevy Chase", 
                 "country": "us", 
-                "id": 24810108, 
+                "id": 24686879, 
                 "lat": 38.961533000000003, 
                 "localized_country_name": "USA", 
                 "lon": -77.085402999999999, 
                 "name": "WeddingWire", 
                 "repinned": false, 
-                "state": "DC"
+                "state": "MD"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1474044580000, 
@@ -200,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 118
         }, 
         {
             "created": 1457392514000, 
@@ -240,7 +240,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1474850079000, 
@@ -278,7 +278,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1473268749000, 
@@ -320,7 +320,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1459265642000, 
@@ -387,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 59
         }, 
         {
             "created": 1452612310000, 
@@ -426,7 +426,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1326383071000, 
@@ -465,7 +465,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1473881201000, 
@@ -543,7 +543,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 26, 
+            "waitlist_count": 27, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -662,7 +662,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 99
         }, 
         {
             "created": 1468853724000, 
@@ -702,7 +702,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1473617834000, 
@@ -743,7 +743,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1471280349000, 
@@ -954,7 +954,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1468853724000, 
