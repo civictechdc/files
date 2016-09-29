@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "announced": false, 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1457392514000, 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1474850079000, 
@@ -239,7 +239,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1473268749000, 
@@ -348,7 +348,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1452612310000, 
@@ -387,7 +387,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
@@ -504,7 +504,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 27, 
+            "waitlist_count": 31, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -543,7 +543,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1459265642000, 
@@ -704,7 +704,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 96
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1471280349000, 
@@ -782,7 +782,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1470699270000, 
@@ -915,7 +915,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1468853724000, 
@@ -1074,6 +1074,46 @@
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1475170545000, 
+            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This week we'll have a special talk, here's the summary:</p> <p>Do you suffer from too much geographical data to handle? Ever wanted to round latitude and longitude to an arbitrary level of precision to make them easier to process but didn't know how? Fortunately, a solution is in sight: geohashing is a technique for compressing geo coordinates and simplify working with them. Join me, Mary Griffus, at Women Who Code: Algorithms on October 24th and you, too, will be able to geohash like a pro. We will discuss use cases for geohashing and the math behind how it works, and write a geohashing algorithm as a codealong (Python and Java will be provided for each step).\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>Please arrange to get your own food before the meetup today as there won't be any food provided for today.</p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234505323/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "234505323", 
+            "maybe_rsvp_count": 0, 
+            "name": "Algorithms Meetup", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1477348200000, 
+            "updated": 1475170545000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1005 7th St NW, Suite 100", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24427130, 
+                "lat": 38.903229000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.021629000000004, 
+                "name": "Contactually", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 6
+        }, 
+        {
             "created": 1473454402000, 
             "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/>Event Agenda</p> <p><br/>1. Brief Introduction -\u00a0About Tour De Code, WWC, AIGA</p> <p>2. Panel Presentation, Q &amp; A with guest panelists:<br/>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p>3. Networking Breakout</p> <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
             "duration": 9000000, 
@@ -1111,7 +1151,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -1351,46 +1391,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1457392514000, 
-            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232450360/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "wskkxlyvpbkb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab - First Timer's Night", 
-            "status": "upcoming", 
-            "time": 1478561400000, 
-            "updated": 1472237526000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 16
         }, 
         {
             "created": 1417881835000, 
