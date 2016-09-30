@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "announced": false, 
@@ -161,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 112
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1457392514000, 
@@ -201,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1474850079000, 
@@ -239,7 +239,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1473268749000, 
@@ -332,7 +332,7 @@ calendar({
             "name": "Python Beginners Night", 
             "status": "upcoming", 
             "time": 1475706600000, 
-            "updated": 1475115496000, 
+            "updated": 1475174036000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1 Thomas Circle", 
@@ -348,7 +348,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1452612310000, 
@@ -387,7 +387,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1326383071000, 
@@ -426,7 +426,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1473881201000, 
@@ -465,7 +465,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1473191008000, 
@@ -704,7 +704,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1471280349000, 
@@ -782,7 +782,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1470699270000, 
@@ -915,7 +915,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1468853724000, 
@@ -1111,7 +1111,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1473454402000, 
