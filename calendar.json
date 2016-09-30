@@ -126,44 +126,6 @@
     ], 
     "other": [
         {
-            "created": 1474044580000, 
-            "description": "<p>Please join us for our next meetup on Thursday 9/29 on\u00a0AnalyticOps and Analytic Engines: Roles, Tools and Techniques for Deploying Analytic Models into Production in Modern Environments with\u00a0<a href=\"https://twitter.com/stu_bailey\">Stu Bailey</a>.</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30 - 7:00 Food, drinks and meet new people\u00a0</p> <p>\u2022\u00a07:00 - 7:15 Intros and announcements\u00a0</p> <p>\u2022\u00a07:15 - 8:30 Presentation, Q&amp;A\u00a0</p> <p>\u2022\u00a08:30ish Off to the bar</p> <p><b>Abstract:</b></p> <p>Stu will discuss three case studies to introduce available tools, hands on technical considerations, and best practices for deploying and future proofing analytic models into modern products, services and operational systems. He will discuss technical details and trends in data science requirements in relationship to technical details and trends developing in modern infrastructure solutions. He will conclude with concrete actions and pointers that will help attendees get hands on with the current state of the art technology as quickly as possible.</p> <p><b>Bio:</b></p> <p>Stu is the Chief Technology Officer of <b><a href=\"http://www.opendatagroup.com/\">Open Data Group</a></b>. He is a technologist and entrepreneur who has been focused on analytic and data intensive distributed systems for over two decades. Stu is the founder and most recently Chief Scientist of Infoblox (NYSE:BLOX). While bringing successful products to market over the years, Stu has received several patents and awards and has helped drive emerging standards in analytics and distributed systems control. During his six years as technical lead for the National Center for Data Mining, Stu pioneered some of the very first analytic applications to utilize the Predictive Modeling Markup Language (PMML).</p> <p>\n\n\n\n\n\n\n\n\n\n<b><br/></b></p>", 
-            "event_url": "http://www.meetup.com/stats-prog-dc/events/234177489/", 
-            "group": {
-                "created": 1249911519000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 1503964, 
-                "join_mode": "open", 
-                "name": "Statistical Programming DC", 
-                "urlname": "stats-prog-dc", 
-                "who": "dc-hackeRs"
-            }, 
-            "headcount": 0, 
-            "id": "234177489", 
-            "maybe_rsvp_count": 0, 
-            "name": "AnalyticOps and Analytic Engines: Roles, Tools and Techniques", 
-            "status": "upcoming", 
-            "time": 1475188200000, 
-            "updated": 1474044580000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24286689, 
-                "lat": 38.898685, 
-                "localized_country_name": "USA", 
-                "lon": -77.049187000000003, 
-                "name": "GWU Funger Hall - Room 103", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 110
-        }, 
-        {
             "created": 1457392514000, 
             "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -201,11 +163,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 89
         }, 
         {
             "created": 1474850079000, 
-            "description": "<p>With cool fall weather finally upon us, we've ever reason to enjoy an after work jaunt over to the DC API meetup after work, next week. \u00a0Once there, plenty of good food, drink, and conversation can be enjoyed on the outdoor patio before enjoying a round of solid speakers. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* David Smith - EPA<br/>* Aaron Snow - OG Systems<br/>* Matthew Reinbold<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>With cool fall weather finally upon us, we've ever reason to enjoy an after work jaunt over to the DC API meetup after work, next week. \u00a0Once there, plenty of good food, drink, and conversation can be enjoyed on the outdoor patio before enjoying a round of solid speakers. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* David Smith - EPA<br/>* Aaron Snow - OG Systems<br/>* Matthew Reinbold</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/234403140/", 
             "group": {
                 "created": 1347647025000, 
@@ -223,7 +185,7 @@
             "name": "DC API User Group - October Edition", 
             "status": "upcoming", 
             "time": 1475618400000, 
-            "updated": 1474850079000, 
+            "updated": 1475202982000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -239,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1473268749000, 
@@ -309,7 +271,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1446219481000, 
@@ -387,7 +349,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
@@ -426,7 +388,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1473881201000, 
@@ -465,7 +427,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1473191008000, 
@@ -504,7 +466,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 31, 
+            "waitlist_count": 33, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -623,7 +585,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 101
         }, 
         {
             "created": 1468853724000, 
@@ -704,7 +666,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1471280349000, 
@@ -821,6 +783,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 10
+        }, 
+        {
+            "created": 1475207740000, 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Or are you someone looking to get into the tech field? Come brunch with us! The estimated cost for the brunch is between $10-15, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------</p> <p>TEAISM in Penn Quarter:</p> <p>We will have a section reserved for us downstairs where there is a cool Koi Pond!</p> <p>Metro accessible - Across the street from the Archives/Navy Memorial Metro Station, but also short walk from the Federal Triangle AND Gallery Place/Chinatown Metro stations, which covers ALL the Metro Lines (Red/Green/Orange/Silver/Blue/Yellow).</p>", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234519859/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "234519859", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Networking Brunch", 
+            "status": "upcoming", 
+            "time": 1476633600000, 
+            "updated": 1475207740000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "400 8th St NW, Washington, DC 20004", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23631792, 
+                "lat": 0, 
+                "localized_country_name": "USA", 
+                "lon": 0, 
+                "name": "Teaism Penn Quarter", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1457965726000, 
@@ -1111,7 +1111,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1473454402000, 
@@ -1151,7 +1151,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1459265642000, 
@@ -1312,46 +1312,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387932/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gqfsxlyvpbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Beginners Night", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1478125800000, 
-            "updated": 1473865192000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1 Thomas Circle", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24416213, 
-                "lat": 38.905323000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.032700000000006, 
-                "name": "Fiscal Note", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
