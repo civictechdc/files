@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 15
 - announced: false
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -163,7 +163,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 93
 - created: 1474850079000
   description: "<p>With cool fall weather finally upon us, we've ever reason to enjoy\
     \ an after work jaunt over to the DC API meetup after work, next week. \_Once\
@@ -190,7 +190,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 50
 - created: 1473268749000
   description: "<p>Over 6 billion emojis are sent each day, and within the past year,\
     \ emojis have begun finding their way into criminal cases as vital evidence because\
@@ -206,7 +206,12 @@ other:
     \ has written on emoji-related\_legal issues. \u2696</p> <p>* Joe Sremack, Boxer\
     \ Analytics and\_Unicode Consortium member, spends way too much time analyzing\
     \ emoji modifiers and surrogate pairs. \U0001F39B\_</p> <p>UPDATE: \U0001F37B\
-    \ + \U0001F34B-ade + perhaps emoji themed snacks will be in the house!</p>"
+    \ + \U0001F34B-ade + perhaps emoji themed snacks will be in the house!</p> <p>Schedule:</p>\
+    \ <p>\u200B6:30 - Drinks and Networking</p> <p><br/>7:00 - DC Legal Hackers Intro\
+    \ and Announcements</p> <p>7:10 - Emoji Intro (Robinson Meyer)\_</p> <p>7:15 -\
+    \ Presentation (Gabriella Ziccarelli)\_</p> <p>7:30 - Presentation (Joe Sremack)</p>\
+    \ <p>7:45-8:30 - Panel and Discussion (moderated by Robinson Meyer)</p> <p>\u200B\
+    8:45 Fin/Clean Up\u200B</p>"
   duration: 9000000
   event_url: http://www.meetup.com/DCLegalHackers/events/233944133/
   group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
@@ -219,26 +224,28 @@ other:
   rsvp_limit: 85
   status: upcoming
   time: 1475620200000
-  updated: 1473872404000
+  updated: 1475271457000
   utc_offset: -14400000
   venue: {address_1: 1133 15th St NW, address_2: 12th Floor, city: Washington, country: us,
     id: 24421680, lat: 38.904865000000001, localized_country_name: USA, lon: -77.034000000000006,
     name: '1776', repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 47
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
     to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    (including none).</p> <p>Join us as we hack away on Android.Feel free to bring
+    questions, pair up on a projects, and bring ideas.</p> <p><br/>***Please bring
+    your laptop to this event as computers will not be provided.***</p> <p>Resources</p>
+    <p>Beginners should check out our Android Getting Started Guide (<a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md"
+    class="linkified">https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md</a>).
+    It's chock full of information to get you up and running. It is a work in progress
+    and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p>
+    <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>
+    <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our Slack
+    (<a href="http://bit.ly/womenwhocodedcslack" class="linkified">http://bit.ly/womenwhocodedcslack</a>)
     group to talk about all things Android.</p>
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/234168887/
@@ -252,11 +259,14 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1475620200000
-  updated: 1472237272000
+  updated: 1475262643000
   utc_offset: -14400000
+  venue: {address_1: '1301 K Street NW, 4th floor', city: Washington, country: us,
+    id: 24461952, lat: 38.902926999999998, localized_country_name: USA, lon: -77.030540000000002,
+    name: The Washington Post, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1446219481000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -333,9 +343,16 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 24
 - created: 1326383071000
-  description: <p>On the first Wednesday of the month, we'll gather to socialize,
-    network, and hear about the work people are doing with maps, GIS, geodata, and
-    more.</p>
+  description: "<p>This month, Mapbox is hosting on the topic of Smart Cities and\
+    \ transportation. Our lineup of speakers include:\_</p> <p><br/>- <b>Tim Channell</b>\
+    \ from Mapbox will show how Mapbox uses anonymous, aggregated mobile data to help\
+    \ cities understand traffic patterns, build safer infrastructure, and improve\
+    \ open map data.</p> <p>- <b>Kim Lucas</b> from the DC Department of Transportation\
+    \ will describe how the city balances\_of policy, funding, demographic, and geographic\
+    \ considerations to determine where to locate Capital Bikeshare stations.</p>\
+    \ <p><br/>Join us for drinks and discussion!\_</p> <p><i>About GeoDC</i></p> <p>On\
+    \ the first Wednesday of the month, we'll gather to socialize, network, and hear\
+    \ about the work people are doing with maps, GIS, geodata, and more.</p>"
   event_url: http://www.meetup.com/Geo-DC/events/233065960/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
@@ -343,17 +360,17 @@ other:
   how_to_find_us: Upstairs bar
   id: dlcllcyvnbhb
   maybe_rsvp_count: 0
-  name: Monthly Meetup
+  name: 'October Meetup: Smart Cities'
   status: upcoming
   time: 1475708400000
-  updated: 1446214010000
+  updated: 1475253000000
   utc_offset: -14400000
   venue: {address_1: 1602 U St NW, city: Washington, country: us, id: 24181227, lat: 38.916733000000001,
     localized_country_name: USA, lon: -77.037186000000005, name: Local 16, repinned: false,
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 49
 - created: 1473881201000
   description: "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\"\
     >Eventbrite</a> to attend.\_</p> <p><b>Website Revamp - Create a Website Improvement\
@@ -403,7 +420,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 9
 - created: 1473191008000
   description: '<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE
     documentary exposes the dearth of American female and minority software engineers
@@ -431,7 +448,7 @@ other:
     country: us, id: 18875152, lat: 38.914546999999999, localized_country_name: USA,
     lon: -77.021927000000005, name: WeWork, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 33
+  waitlist_count: 32
   yes_rsvp_count: 80
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -484,7 +501,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -558,7 +575,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 101
+  yes_rsvp_count: 102
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -679,7 +696,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 112
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -802,7 +819,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1475207740000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -831,7 +848,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -914,12 +931,13 @@ other:
     \ and whatever you\u2019re currently working on and join us!</p> <p>Pizza and\
     \ drinks will be provided.</p> <p>Digital Globe is located near the intersection\
     \ of rte 28 and the Dulles Toll Road (exit 10). Free parking is available in the\
-    \ parking garage attached to the building. Please bring your ID for admittance\
-    \ into the building. If you need assistance, please call or text Lisa at[masked]\
-    \ or Melissa at[masked]-2115.\_</p> <p>This event is intended to be exclusively\
-    \ open for people who identify as women - we are trans* friendly.</p> <p>Can't\
-    \ attend this event, but want to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\"\
-    >Slack group</a>!</p>"
+    \ parking garage attached to the building. <b>Please park on P1</b> for direct\
+    \ access to the lobby. \_Please bring your ID for admittance into the building.\
+    \ If you need assistance, please call or text Lisa at[masked] or Melissa at[masked]-2115.\_\
+    </p> <p>This event is intended to be exclusively open for people who identify\
+    \ as women - we are trans* friendly.</p> <p>Can't attend this event, but want\
+    \ to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\">Slack\
+    \ group</a>!</p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/234440876/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -931,7 +949,7 @@ other:
   name: 'NoVa Edition: Cucumber and Front End Open Lab'
   status: upcoming
   time: 1476829800000
-  updated: 1474994047000
+  updated: 1475265262000
   utc_offset: -14400000
   venue: {address_1: 2325 Dulles Corner Boulevard, city: Herndon, country: us, id: 24812373,
     lat: 38.960251, localized_country_name: USA, lon: -77.422318000000004, name: Digital
@@ -1013,7 +1031,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released\
@@ -1142,7 +1160,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 18
 - created: 1473454402000
   description: "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design\
     \ Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio\
@@ -1219,7 +1237,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come

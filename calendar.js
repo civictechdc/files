@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 15
         }, 
         {
             "announced": false, 
@@ -163,7 +163,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1474850079000, 
@@ -201,11 +201,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1473268749000, 
-            "description": "<p>Over 6 billion emojis are sent each day, and within the past year, emojis have begun finding their way into criminal cases as vital evidence because of their semantic value. Emojis present difficulties for attorneys because they can't be identified via keyword searches, and producing the rendered images is both technically challenging with existing software but also highly subjective due to the device-specific emojis used. This talk will explore some of the challenges and highlight several of the key cases from the past year. The talk will also discuss strategies attorneys are using to tackle these challenges, as well as where we see this issue heading over the next several years.</p> <p><br/>Speakers include:</p> <p>* Robinson Meyer, The Atlantic, is a technology/climate journalist who covers the emoji beat. \ud83d\udcdd</p> <p>* Gabriella Ziccarelli, Blank Rome, has written on emoji-related\u00a0legal issues. \u2696</p> <p>* Joe Sremack, Boxer Analytics and\u00a0Unicode Consortium member, spends way too much time analyzing emoji modifiers and surrogate pairs. \ud83c\udf9b\u00a0</p> <p>UPDATE: \ud83c\udf7b + \ud83c\udf4b-ade + perhaps emoji themed snacks will be in the house!</p>", 
+            "description": "<p>Over 6 billion emojis are sent each day, and within the past year, emojis have begun finding their way into criminal cases as vital evidence because of their semantic value. Emojis present difficulties for attorneys because they can't be identified via keyword searches, and producing the rendered images is both technically challenging with existing software but also highly subjective due to the device-specific emojis used. This talk will explore some of the challenges and highlight several of the key cases from the past year. The talk will also discuss strategies attorneys are using to tackle these challenges, as well as where we see this issue heading over the next several years.</p> <p><br/>Speakers include:</p> <p>* Robinson Meyer, The Atlantic, is a technology/climate journalist who covers the emoji beat. \ud83d\udcdd</p> <p>* Gabriella Ziccarelli, Blank Rome, has written on emoji-related\u00a0legal issues. \u2696</p> <p>* Joe Sremack, Boxer Analytics and\u00a0Unicode Consortium member, spends way too much time analyzing emoji modifiers and surrogate pairs. \ud83c\udf9b\u00a0</p> <p>UPDATE: \ud83c\udf7b + \ud83c\udf4b-ade + perhaps emoji themed snacks will be in the house!</p> <p>Schedule:</p> <p>\u200b6:30 - Drinks and Networking</p> <p><br/>7:00 - DC Legal Hackers Intro and Announcements</p> <p>7:10 - Emoji Intro (Robinson Meyer)\u00a0</p> <p>7:15 - Presentation (Gabriella Ziccarelli)\u00a0</p> <p>7:30 - Presentation (Joe Sremack)</p> <p>7:45-8:30 - Panel and Discussion (moderated by Robinson Meyer)</p> <p>\u200b8:45 Fin/Clean Up\u200b</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/233944133/", 
             "group": {
@@ -225,7 +225,7 @@ calendar({
             "rsvp_limit": 85, 
             "status": "upcoming", 
             "time": 1475620200000, 
-            "updated": 1473872404000, 
+            "updated": 1475271457000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW", 
@@ -243,11 +243,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none).</p> <p>Join us as we hack away on Android.Feel free to bring questions, pair up on a projects, and bring ideas.</p> <p><br/>***Please bring your laptop to this event as computers will not be provided.***</p> <p>Resources</p> <p>Beginners should check out our Android Getting Started Guide (<a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\" class=\"linkified\">https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md</a>). It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our Slack (<a href=\"http://bit.ly/womenwhocodedcslack\" class=\"linkified\">http://bit.ly/womenwhocodedcslack</a>) group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234168887/", 
             "group": {
@@ -267,11 +267,23 @@ calendar({
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1475620200000, 
-            "updated": 1472237272000, 
+            "updated": 1475262643000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1301 K Street NW, 4th floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24461952, 
+                "lat": 38.902926999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.030540000000002, 
+                "name": "The Washington Post", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1446219481000, 
@@ -353,7 +365,7 @@ calendar({
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>This month, Mapbox is hosting on the topic of Smart Cities and transportation. Our lineup of speakers include:\u00a0</p> <p><br/>- <b>Tim Channell</b> from Mapbox will show how Mapbox uses anonymous, aggregated mobile data to help cities understand traffic patterns, build safer infrastructure, and improve open map data.</p> <p>- <b>Kim Lucas</b> from the DC Department of Transportation will describe how the city balances\u00a0of policy, funding, demographic, and geographic considerations to determine where to locate Capital Bikeshare stations.</p> <p><br/>Join us for drinks and discussion!\u00a0</p> <p><i>About GeoDC</i></p> <p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/233065960/", 
             "group": {
                 "created": 1307975249000, 
@@ -369,10 +381,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcyvnbhb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "October Meetup: Smart Cities", 
             "status": "upcoming", 
             "time": 1475708400000, 
-            "updated": 1446214010000, 
+            "updated": 1475253000000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -388,7 +400,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1473881201000, 
@@ -427,7 +439,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1473191008000, 
@@ -466,7 +478,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 33, 
+            "waitlist_count": 32, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -505,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -585,7 +597,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 101
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1468853724000, 
@@ -666,7 +678,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1471280349000, 
@@ -782,7 +794,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1475207740000, 
@@ -820,7 +832,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1457965726000, 
@@ -880,7 +892,7 @@ calendar({
         }, 
         {
             "created": 1474985603000, 
-            "description": "<p>Want to come to more Women Who Code meetups but live in Northern Virginia and not near Metro? We\u2019ve got you covered! We\u2019re kicking off a new set of meetups for the Northern Virginia area with a presentation by Rebecca Rice of Digital Globe about working with Cucumber for automated testing. Following her presentation, we\u2019ll do an open lab night so bring your laptop and whatever you\u2019re currently working on and join us!</p> <p>Pizza and drinks will be provided.</p> <p>Digital Globe is located near the intersection of rte 28 and the Dulles Toll Road (exit 10). Free parking is available in the parking garage attached to the building. Please bring your ID for admittance into the building. If you need assistance, please call or text Lisa at[masked] or Melissa at[masked]-2115.\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are trans* friendly.</p> <p>Can't attend this event, but want to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\">Slack group</a>!</p>", 
+            "description": "<p>Want to come to more Women Who Code meetups but live in Northern Virginia and not near Metro? We\u2019ve got you covered! We\u2019re kicking off a new set of meetups for the Northern Virginia area with a presentation by Rebecca Rice of Digital Globe about working with Cucumber for automated testing. Following her presentation, we\u2019ll do an open lab night so bring your laptop and whatever you\u2019re currently working on and join us!</p> <p>Pizza and drinks will be provided.</p> <p>Digital Globe is located near the intersection of rte 28 and the Dulles Toll Road (exit 10). Free parking is available in the parking garage attached to the building. <b>Please park on P1</b> for direct access to the lobby. \u00a0Please bring your ID for admittance into the building. If you need assistance, please call or text Lisa at[masked] or Melissa at[masked]-2115.\u00a0</p> <p>This event is intended to be exclusively open for people who identify as women - we are trans* friendly.</p> <p>Can't attend this event, but want to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\">Slack group</a>!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234440876/", 
             "group": {
@@ -899,7 +911,7 @@ calendar({
             "name": "NoVa Edition: Cucumber and Front End Open Lab", 
             "status": "upcoming", 
             "time": 1476829800000, 
-            "updated": 1474994047000, 
+            "updated": 1475265262000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2325 Dulles Corner Boulevard", 
@@ -993,7 +1005,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1471287239000, 
@@ -1111,7 +1123,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1473454402000, 
@@ -1151,7 +1163,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1459265642000, 
