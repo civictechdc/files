@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "announced": false, 
@@ -203,7 +203,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1474850079000, 
@@ -262,10 +262,10 @@
             "id": "233944133", 
             "maybe_rsvp_count": 0, 
             "name": "#LegalHack Emojis \ud83d\udcbb\u2696\ud83e\udd14\u2728", 
-            "rsvp_limit": 85, 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1475620200000, 
-            "updated": 1475271457000, 
+            "updated": 1475453102000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St NW", 
@@ -283,7 +283,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1459265642000, 
@@ -362,7 +362,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1452612310000, 
@@ -401,7 +401,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1326383071000, 
@@ -440,7 +440,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1473881201000, 
@@ -518,7 +518,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 39, 
+            "waitlist_count": 40, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -557,7 +557,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1459265642000, 
@@ -637,7 +637,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 104
         }, 
         {
             "created": 1468853724000, 
@@ -677,7 +677,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1473617834000, 
@@ -718,7 +718,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1471280349000, 
@@ -872,7 +872,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1457965726000, 
@@ -1124,6 +1124,45 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1475453045000, 
+            "description": "<p>As part of D.C. Pro Bono Week, learn about what a legal hackathon is and what the DC Legal Hackers community is up to, over drinks! There will be short presentations and an opportunity to network. Please RSVP here to attend.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/DCLegalHackers/events/234580114/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "234580114", 
+            "maybe_rsvp_count": 0, 
+            "name": "Hacky Hour", 
+            "status": "upcoming", 
+            "time": 1477342800000, 
+            "updated": 1475453073000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1900 K Street NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24822609, 
+                "lat": 38.902073000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.043839000000006, 
+                "name": "Dechert LPP", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1475170545000, 
