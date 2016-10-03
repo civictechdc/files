@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 37
         }, 
         {
             "announced": false, 
@@ -203,7 +203,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1474850079000, 
@@ -241,7 +241,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1473268749000, 
@@ -283,7 +283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1459265642000, 
@@ -303,11 +303,11 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvnbgb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Android Lab - Open Lab Night!", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1475620200000, 
-            "updated": 1475262643000, 
+            "updated": 1475508280000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1301 K Street NW, 4th floor", 
@@ -401,7 +401,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1326383071000, 
@@ -440,7 +440,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1473881201000, 
@@ -479,7 +479,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1473191008000, 
@@ -518,7 +518,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 40, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -557,7 +557,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1459265642000, 
@@ -641,7 +641,7 @@ calendar({
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Come work on that coding project you've been neglecting, or those coding challenges you've been working through--or just bring your questions!</b></p> <p><b>This night is open to all coding languages, but the leads will have a focus on Rails.\u00a0They can also answer questions on Angular JS and front-end languages.</b></p> <p><b><br/></b></p> <p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end framework that combines the Ruby programming language with front-end languages such as HTML and CSS to create a web application that runs on a web server.\u00a0</p> <p>Ruby is a big language, and the subset needed to be productive as a Rails developer is relatively small. In this meetup, we\u2019ll start to cover only that subset and will look at how blocks and iterators work.</p> <p>***</p> <p><b>Meetup Agenda</b></p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - \"Ruby on Rails: Focus on Fundamentals\"</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>\n\n\n<b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233734789/", 
             "group": {
@@ -657,10 +657,10 @@ calendar({
             "headcount": 0, 
             "id": "xvsfwlyvnbqb", 
             "maybe_rsvp_count": 0, 
-            "name": "Open Lab Night (with Ruby on Rails Team)", 
+            "name": "Ruby on Rails Lab: Ruby Fundamentals", 
             "status": "upcoming", 
             "time": 1476311400000, 
-            "updated": 1473898263000, 
+            "updated": 1475509617000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1445 New York Ave NW,", 
@@ -677,7 +677,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1473617834000, 
@@ -796,7 +796,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 115
+            "yes_rsvp_count": 116
         }, 
         {
             "created": 1470699270000, 
@@ -872,7 +872,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457965726000, 
@@ -900,7 +900,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -1045,7 +1045,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1471287239000, 
