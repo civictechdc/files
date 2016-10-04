@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 42
         }, 
         {
             "announced": false, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "announced": false, 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1473268749000, 
@@ -243,7 +243,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1459265642000, 
@@ -283,7 +283,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1446219481000, 
@@ -322,7 +322,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 78
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1452612310000, 
@@ -361,7 +361,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1326383071000, 
@@ -400,7 +400,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1473881201000, 
@@ -439,7 +439,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1473191008000, 
@@ -478,7 +478,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 44, 
+            "waitlist_count": 43, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -517,7 +517,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1459265642000, 
@@ -637,7 +637,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1473617834000, 
@@ -678,7 +678,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 121
+            "yes_rsvp_count": 122
         }, 
         {
             "created": 1471280349000, 
@@ -717,7 +717,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1472497385000, 
@@ -737,10 +737,10 @@
             "id": "233717422", 
             "maybe_rsvp_count": 0, 
             "name": "Transportation + Urban Planning", 
-            "rsvp_limit": 120, 
+            "rsvp_limit": 130, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1473708341000, 
+            "updated": 1475592085000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -756,7 +756,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 120
+            "yes_rsvp_count": 121
         }, 
         {
             "created": 1470699270000, 
@@ -832,7 +832,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457965726000, 
@@ -860,7 +860,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
@@ -1005,7 +1005,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1471287239000, 
@@ -1087,7 +1087,7 @@
         }, 
         {
             "created": 1475453045000, 
-            "description": "<p>As part of D.C. Pro Bono Week, learn about what a legal hackathon is and what the DC Legal Hackers community is up to, over drinks! There will be short presentations and an opportunity to network. Please RSVP here to attend.</p>", 
+            "description": "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/DCPBW-2016_SocialSquare_r1.png\" /></p> <p>Legal hackathons have been called \u201cinnovation labs for the legal industry.\u201d These increasingly popular meet-ups bring lawyers together with coders, developers, marketers, and sometimes entrepreneurs to design new technologies that address legal and social problems.</p> <p><br/>Learn more about how hackathons and technology more generally can shape the future of the legal industry and increase access to justice. Our panel describe the\u00a0technologies that they\u2019ve developed to help people and inspire you to use technology to solve your most vexing legal problems.</p> <p>Please Register here to attend:\u00a0<a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour/\"><a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour\" class=\"linkified\">https://wclawyers.org/dc-pro-bono-week-hacky-hour</a></a></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/234580114/", 
             "group": {
@@ -1106,7 +1106,7 @@
             "name": "Hacky Hour", 
             "status": "upcoming", 
             "time": 1477342800000, 
-            "updated": 1475453073000, 
+            "updated": 1475584833000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1900 K Street NW", 
@@ -1202,7 +1202,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1459265642000, 
@@ -1323,7 +1323,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1452612310000, 
