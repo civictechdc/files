@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 49
         }, 
         {
             "announced": false, 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "announced": false, 
@@ -120,7 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 15
         }, 
         {
             "announced": false, 
@@ -166,126 +166,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1474850079000, 
-            "description": "<p>With cool fall weather finally upon us, we've ever reason to enjoy an after work jaunt over to the DC API meetup after work, next week. \u00a0Once there, plenty of good food, drink, and conversation can be enjoyed on the outdoor patio before enjoying a round of solid speakers. \u00a0</p> <p>6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* David Smith - EPA<br/>* Aaron Snow - OG Systems<br/>* Matthew Reinbold</p> <p><br/>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
-            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/234403140/", 
-            "group": {
-                "created": 1347647025000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.069999694824219, 
-                "id": 4930742, 
-                "join_mode": "open", 
-                "name": "DC Web API User Group", 
-                "urlname": "DC-Web-API-User-Group", 
-                "who": "API enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "234403140", 
-            "maybe_rsvp_count": 0, 
-            "name": "DC API User Group - October Edition", 
-            "status": "upcoming", 
-            "time": 1475618400000, 
-            "updated": 1475202982000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23841139, 
-                "lat": 38.908771999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.042266999999995, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 73
-        }, 
-        {
-            "created": 1473268749000, 
-            "description": "<p>Over 6 billion emojis are sent each day, and within the past year, emojis have begun finding their way into criminal cases as vital evidence because of their semantic value. Emojis present difficulties for attorneys because they can't be identified via keyword searches, and producing the rendered images is both technically challenging with existing software but also highly subjective due to the device-specific emojis used. This talk will explore some of the challenges and highlight several of the key cases from the past year. The talk will also discuss strategies attorneys are using to tackle these challenges, as well as where we see this issue heading over the next several years.</p> <p><br/>Speakers include:</p> <p>* Robinson Meyer, The Atlantic, is a technology/climate journalist who covers the emoji beat. \ud83d\udcdd</p> <p>* Gabriella Ziccarelli, Blank Rome, has written on emoji-related\u00a0legal issues. \u2696</p> <p>* Joe Sremack, Boxer Analytics and\u00a0Unicode Consortium member, spends way too much time analyzing emoji modifiers and surrogate pairs. \ud83c\udf9b\u00a0</p> <p>UPDATE: \ud83c\udf7b + \ud83c\udf4b-ade + perhaps emoji themed snacks will be in the house!</p> <p>Schedule:</p> <p>\u200b6:30 - Drinks and Networking</p> <p><br/>7:00 - DC Legal Hackers Intro and Announcements</p> <p>7:10 - Emoji Intro (Robinson Meyer)\u00a0</p> <p>7:15 - Presentation (Gabriella Ziccarelli)\u00a0</p> <p>7:30 - Presentation (Joe Sremack)</p> <p>7:45-8:30 - Panel and Discussion (moderated by Robinson Meyer)</p> <p>\u200b8:45 Fin/Clean Up\u200b</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/233944133/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "233944133", 
-            "maybe_rsvp_count": 0, 
-            "name": "#LegalHack Emojis \ud83d\udcbb\u2696\ud83e\udd14\u2728", 
-            "rsvp_limit": 100, 
-            "status": "upcoming", 
-            "time": 1475620200000, 
-            "updated": 1475453102000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St NW", 
-                "address_2": "12th Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24421680, 
-                "lat": 38.904865000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.034000000000006, 
-                "name": "1776", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 61
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none).</p> <p>Join us as we hack away on Android.Feel free to bring questions, pair up on a projects, and bring ideas.</p> <p><br/>***Please bring your laptop to this event as computers will not be provided.***</p> <p>Resources</p> <p>Beginners should check out our Android Getting Started Guide (<a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\" class=\"linkified\">https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md</a>). It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our Slack (<a href=\"http://bit.ly/womenwhocodedcslack\" class=\"linkified\">http://bit.ly/womenwhocodedcslack</a>) group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234168887/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvnbgb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab - Open Lab Night!", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1475620200000, 
-            "updated": 1475508280000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1301 K Street NW, 4th floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24461952, 
-                "lat": 38.902926999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.030540000000002, 
-                "name": "The Washington Post", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
             "created": 1446219481000, 
             "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
@@ -322,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1452612310000, 
@@ -361,7 +241,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1326383071000, 
@@ -400,7 +280,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1473881201000, 
@@ -439,7 +319,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1473191008000, 
@@ -518,7 +398,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1459265642000, 
@@ -598,7 +478,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 108
+            "yes_rsvp_count": 109
         }, 
         {
             "created": 1468853724000, 
@@ -638,7 +518,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1473617834000, 
@@ -679,7 +559,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
+            "yes_rsvp_count": 129
         }, 
         {
             "created": 1471280349000, 
@@ -718,7 +598,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1472497385000, 
@@ -757,7 +637,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 126
+            "yes_rsvp_count": 127
         }, 
         {
             "created": 1470699270000, 
@@ -833,7 +713,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1457965726000, 
@@ -861,7 +741,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459265642000, 
@@ -928,7 +808,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1468853724000, 
@@ -971,7 +851,7 @@ calendar({
         }, 
         {
             "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Where the majority of us are beginners, some are professional developers, data scientists, and just hobbyists. The lab group is intended for everyone who wishes to learn and practice more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>This night we will cover a Python data flow structure and complete a mini project using what was presented. You can also bring something your already working on - we are here to help.</p> <p>Please bring a laptop!</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/226817460/", 
             "group": {
@@ -987,11 +867,11 @@ calendar({
             "headcount": 0, 
             "id": "gcxvllyvnbzb", 
             "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night", 
+            "name": "Python - Hack Night using the IF statement", 
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1476916200000, 
-            "updated": 1473865060000, 
+            "updated": 1475632286000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1110 N Glebe Rd Ste 200", 
@@ -1006,7 +886,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1471287239000, 
@@ -1203,7 +1083,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1459265642000, 
@@ -1442,7 +1322,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1457392514000, 
+            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/232450360/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "wskkxlyvpbkb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab - First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1478561400000, 
+            "updated": 1472237526000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1417881835000, 
@@ -1512,7 +1432,7 @@ calendar({
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/dlcllcyvqbkb/", 
+            "event_url": "http://www.meetup.com/Geo-DC/events/234638938/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
