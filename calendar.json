@@ -3,7 +3,7 @@
         {
             "announced": true, 
             "created": 1475332841000, 
-            "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\u00a0<a href=\"https://hackpad.com/Code-for-DC-Hacknight-901-dr2BRr2Aluw\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-901-dr2BRr2Aluw</a></p>", 
+            "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\u00a0<a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\"><a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>", 
             "duration": 9900000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/234549546/", 
             "group": {
@@ -22,7 +22,7 @@
             "name": "Civic Hacknight", 
             "status": "upcoming", 
             "time": 1475706600000, 
-            "updated": 1475332841000, 
+            "updated": 1475683463000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 55
         }, 
         {
             "announced": false, 
@@ -120,7 +120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "announced": false, 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }
     ], 
     "other": [
@@ -241,7 +241,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1326383071000, 
@@ -280,7 +280,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 95
         }, 
         {
             "created": 1473881201000, 
@@ -319,7 +319,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1473191008000, 
@@ -358,7 +358,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 43, 
+            "waitlist_count": 41, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -438,7 +438,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1417881835000, 
@@ -478,7 +478,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1468853724000, 
@@ -518,7 +518,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1473617834000, 
@@ -637,7 +637,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 127
+            "yes_rsvp_count": 128
         }, 
         {
             "created": 1470699270000, 
@@ -713,7 +713,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1457965726000, 
@@ -808,7 +808,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1468853724000, 
@@ -886,7 +886,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1471287239000, 
@@ -1083,7 +1083,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 83
         }, 
         {
             "created": 1459265642000, 
@@ -1112,6 +1112,47 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1475597533000, 
+            "description": "<p><a href=\"https://lh4.googleusercontent.com/91j0kA29__r784y6WJnM_oHjGubVyC9tbLpSv77DMr1zD0ljNTAc3NRnX55eO5TkxKrqTEBJ0nHePWX2NKOFyZjztVvdy35D2ej0Tv6NAirvt2KroC9282G8kLtLrS9iRw1Mw7XeNUQYczFPjg\" class=\"linkified\">https://lh4.googleusercontent.com/91j0kA29__r784y6WJnM_oHjGubVyC9tbLpSv77DMr1zD0ljNTAc3NRnX55eO5TkxKrqTEBJ0nHePWX2NKOFyZjztVvdy35D2ej0Tv6NAirvt2KroC9282G8kLtLrS9iRw1Mw7XeNUQYczFPjg</a></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief (1800 Massachusetts Ave NW) for \"Facing\" Artificial Intelligence. Just in time for Halloween, Michael Flynn showcases his graduate research on neural networks and facial recognition to D.C.\u2019s Data Community \u2013 be amazed as machine learning algorithms allow a computer to display any human emotion on a digital face, be astonished by the dark magic of decompression algorithms applied to machine vision, be spellbound as Michael uses his coding sorcery to transform pixelated blobs into PEOPLE!! \u00a0</p> <p>Were these initial ghostly images output of a partially trained Neural Network, or something more?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/sgd.jpg\" /></p> <p>Was the Neural Network learning, or was there a \"deeper\" connection to another dimension?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/random-2.jpg\" /></p> <p>Read all about Michael's accounts in his <a href=\"https://zo7.github.io/blog/2016/09/25/generating-faces.html\">blog on generating faces</a>.\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Michael Flynn</p> <p>8:20 - 8:40 \u2013 Q &amp; A\u00a0</p> <p>8:40 - Data Drinks</p> <p><br/><b>More about Michael Flynn</b></p> <p>In addition to being a Mad Data Scientist \u2013 Michael Flynn is a graduate student at Johns Hopkins University researching computer vision models for intelligent video processing. A musician-turned-electrical-engineer-turned-computer-scientist, he is interested in discovering how we can exploit advancements in deep learning and computer vision to create compelling artwork and develop a more intuitive sense for how these complex systems work. Prior to moving to Baltimore, Flynn lived in Richmond, Virginia where he worked for several local startups as a software developer and studied electrical engineering at Virginia Commonwealth University.</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/57a89d6be58c62866cd497b4/57d2e95629687f368b627531/1473440123365/data-society-logo2.png\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/1/9/5/7/600_454806487.jpeg\" /></p> <p><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww?\"><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww\" class=\"linkified\">https://gtcdc.smarteventscloud.com/portal/createAccount.ww</a>?</a></p> <p><br/>20% off with code: FFRZ20</p> <p>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/234619258/", 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "2nd Floor. Ask the guard to let you up.", 
+            "id": "234619258", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ghosts of Artificial Intelligence", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1477434600000, 
+            "updated": 1475678818000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1468853724000, 
