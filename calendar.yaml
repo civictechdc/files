@@ -77,7 +77,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - announced: false
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -185,7 +185,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 79
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -194,23 +194,26 @@ other:
     \ (but we welcome people of all levels to attend and help out)! The agenda will\
     \ include a lecture that covers Ruby and Rails and an installfest to help you\
     \ set up Rails on your own computer.</p> <p>This event is intended to be exclusively\
-    \ open for people who identify as women - we are transgender friendly.</p> <p>Please\
+    \ open for people who identify as women - we are trans friendly.</p> <p>Please\
     \ bring a laptop to the event so you can participate in\_the installfest!</p>\
     \ <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\_\
-    <a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\"\
-    \ class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p>\
-    \ <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p>\
-    \ <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\_</p> <p>\u2022\
-    \ 7:10 - 8:10pm - Install necessary software following the\_<a href=\"http://installrails.com/\"\
-    >InstallRails</a>\_guide.\_</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p>\
-    \ <p>These are the resources that members have been following along, feel free\
-    \ to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    ><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"\
-    \ class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p>\
-    \ <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"\
-    ><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p>\
-    \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
-    \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
+    <a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p>\
+    \ <p>Meetup Agenda</p> <p>\u2022\_6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm -\
+    \ Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby\
+    \ and Rails\_</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following\
+    \ the\_<a href=\"http://installrails.com/\">InstallRails</a>\_guide.\_</p> <p>\u2022\
+    \ 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that\
+    \ members have been following along, feel free to suggest if you have more to\
+    \ add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"\
+    ><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"\
+    \ class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p>\
+    \ <p><br/>Request to join our Slack channel for communication:</p> <p><a href=\"\
+    http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\"\
+    >http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"\
+    ><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\_\
+    </p>"
   duration: 7200000
   event_url: http://www.meetup.com/Women-Who-Code-DC/events/228457105/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -222,14 +225,14 @@ other:
   name: 'Ruby on Rails: Beginners Night!'
   status: upcoming
   time: 1475706600000
-  updated: 1473265851000
+  updated: 1475696081000
   utc_offset: -14400000
   venue: {address_1: '1341 G St NW Washington, DC 20005', city: Washington, country: us,
     id: 24728607, lat: 38.898578999999998, localized_country_name: USA, lon: -77.031531999999999,
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 28
 - created: 1326383071000
   description: "<p>This month, Mapbox is hosting on the topic of Smart Cities and\
     \ transportation. Our lineup of speakers include:\_</p> <p><br/>- <b>Tim Channell</b>\
@@ -258,7 +261,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 100
 - created: 1473881201000
   description: "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\"\
     >Eventbrite</a> to attend.\_</p> <p><b>Website Revamp - Create a Website Improvement\
@@ -308,7 +311,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1473191008000
   description: '<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE
     documentary exposes the dearth of American female and minority software engineers
@@ -390,7 +393,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 45
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -464,7 +467,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 111
 - created: 1468853724000
   description: "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end\
     \ framework that combines the Ruby programming language with front-end languages\
@@ -509,7 +512,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 27
 - created: 1473617834000
   description: "<p>Please join us in October for two talks on how machine learning\
     \ can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking\
@@ -621,7 +624,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 68
+  yes_rsvp_count: 69
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -663,7 +666,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 128
+  yes_rsvp_count: 127
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -739,7 +742,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -782,7 +785,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 24
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -922,7 +925,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 22
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released\
@@ -1045,7 +1048,7 @@ other:
     name: Dechert LPP, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1475170545000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This\
@@ -1159,7 +1162,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 83
+  yes_rsvp_count: 90
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1251,7 +1254,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 64
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1477,7 +1480,43 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 7
+- created: 1475704079000
+  description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
+    \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork\
+    \ in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers\
+    \ starting at 6:30.</p> <p>\u2022\_Jon Wergin will show how he tracked CaBi riders\
+    \ with GPS</p> <p><br/>\u2022\_Alex Rixey and\_Ranjani Prabhakar will share their\
+    \ study of CaBi trips and\_Level\_of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\
+    \_Bob Kraig will share his demand prediction model for Capital Bikeshare.</p>\
+    \ <p>Many thanks to our sponsors at\_<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
+    >WeWork</a>\_and\_<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_for making\
+    \ this event possible!</p> <p>Read about CaBi Hack Night V:\_<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\"\
+    >How bikeshare should fit into a low-stress biking network</a>, and\_<a href=\"\
+    http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare\
+    \ data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\_\
+    <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\_\
+    As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
+    for updates.\_</p>"
+  event_url: http://www.meetup.com/Transportation-Techies/events/234652961/
+  group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
+    id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
+    who: Techies}
+  headcount: 0
+  id: '234652961'
+  maybe_rsvp_count: 0
+  name: CaBi Hack Night VI
+  rsvp_limit: 120
+  status: upcoming
+  time: 1478210400000
+  updated: 1475708691000
+  utc_offset: -14400000
+  venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
+    lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
+    name: WeWork Crystal City, repinned: false, state: VA}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1527,7 +1566,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1599,7 +1638,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1466889250000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
