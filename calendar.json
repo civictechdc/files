@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 33
         }, 
         {
             "announced": false, 
@@ -201,7 +201,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 41, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -281,7 +281,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -321,7 +321,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 125
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1468853724000, 
@@ -445,7 +445,7 @@
         }, 
         {
             "created": 1472497385000, 
-            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around transportation and urban planning.\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor\u00a0<a href=\"https://www.enotrans.org/\">the\u00a0Eno Center for Transportation</a>. Presentations start at 6:30.\u00a0</p> <p>Our speakers thus far are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Metro Planning staff will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Stephanie Dock will discuss DDOT\u2019s new District Mobility webtool, which will help to monitor system performance from a mobility perspective.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.\u00a0</p> <p>Thanks to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
+            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around transportation and urban planning.\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor\u00a0<a href=\"https://www.enotrans.org/\">the\u00a0Eno Center for Transportation</a>. Presentations start at 6:30.\u00a0Our speakers are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Michael Eichler will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Stephanie Dock will discuss DDOT\u2019s new District Mobility webtool, which will help to monitor system performance from a mobility perspective.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.</p> <p>\u2022\u00a0Peter Viechnicki, from <a href=\"http://www2.deloitte.com/us/en/pages/public-sector/solutions/center-for-government-insights.html\">Deloitte\u2019s Center for Government Insights</a>, will show how the <a href=\"http://dupress.deloitte.com/dup-us-en/multimedia/interactives/smart-mobility-trends-map.html\">\u2018Smart Mobility\u2019 map</a> can forecast congestion reductions and economic benefits.</p> <p><br/>Thanks to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Everyone's Twitter handles are shown on our <a href=\"http://mvjantzen.com/meetup/urbanplanning.html\">splash page</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/233717422/", 
             "group": {
                 "created": 1384372275000, 
@@ -464,7 +464,7 @@
             "rsvp_limit": 130, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1475592085000, 
+            "updated": 1475773455000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -480,7 +480,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 127
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1470699270000, 
@@ -584,7 +584,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 
@@ -925,8 +925,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "waitlist_count": 14, 
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1459265642000, 
@@ -995,7 +995,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1468853724000, 
@@ -1167,7 +1167,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1326383071000, 
@@ -1206,11 +1206,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about CaBi Hack Night V:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -1229,7 +1229,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1475717873000, 
+            "updated": 1475776781000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1245,7 +1245,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457392514000, 
@@ -1285,7 +1285,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1459265642000, 
