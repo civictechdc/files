@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "announced": false, 
@@ -126,45 +126,6 @@
     ], 
     "other": [
         {
-            "created": 1473881201000, 
-            "description": "<p>NOTE: You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-website-revamp-tickets-26792613428\">Eventbrite</a> to attend.\u00a0</p> <p><b>Website Revamp - Create a Website Improvement Roadmap</b></p> <p>Learn about facelifts, fixes, responsive reworks, redesigns\u00a0&amp; other website improvement options - as well as how to choose a strategy and what to do to prepare.</p> <p><br/>Regardless of your size, resources or website status, you'll learn techniques for to make your website better - short, mid &amp; long-term.</p> <p><b>&gt;</b> 5 hours of informative presentations, discussions and networking.</p> <p><b>&gt;</b>\u00a0Hear from experts and peers on your revamp &amp; redesign options, what you need to think about before deciding, how to plan for each option and how to pick the right strategy based on your budget, resources and other factors.</p> <p><b>&gt;</b>\u00a0Network and share ideas over snacks, dinner, drinks and dessert.</p> <p><b>&gt;</b> Relevant for many audiences</p> <p><br/><i>Under-resourced?\u00a0</i>You'll learn about small enhancement you can make that will lead you to bigger improvements.</p> <p><br/><i>Trying to figure out next steps?\u00a0</i>You'll learn how to road-map for rehabs or redesign.</p> <p><i>Mid-redesign?</i>\u00a0You'll learn about a creating an update roadmap so you can finish the elements that were put aside for later and plan for the the issues and things you missed.</p> <p><b>AGENDA</b></p> <p>3:00 - Registration and Networking\u00a0</p> <p>3:30 - SESSION\u00a01: Understanding Your Options</p> <p>4:20 - Short Break with Snacks</p> <p>4:30 - SESSION 2: Facelifts, Fixes and Responsive Reworks</p> <p>5:30 - Networking and a Light Dinner</p> <p>6:00 - SESSION 3: Redesigns</p> <p>7:00 - Networking Over Cocktails\u00a0</p> <p>7:30 - SESSION 4: Deciding the Right Strategy</p> <p>8:10 - Networking Over Dessert</p> <p>8:30 - Adjourn</p> <p>SPEAKERS</p> <p>Speakers will be announced as confirmed.</p> <p><b>CALL FOR SPEAKERS - Facelifts, Fixes, etc\u00a0</b></p> <p>We are looking for organizations and companies that have done facelifts, fixes, responsive reworks and other approaches to revamping a website short of a redesign (we have enough of those).\u00a0</p> <p>For more information, email [masked]. Please include your name, title, organization/company and what sort of revamp you completed (or are working on now).\u00a0</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/234127076/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "234127076", 
-            "maybe_rsvp_count": 0, 
-            "name": "Website Revamp - Options, Plans & Roadmaps", 
-            "status": "upcoming", 
-            "time": 1475780400000, 
-            "updated": 1475080342000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1401 I Street, NW, Suite 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 2316151, 
-                "lat": 38.901665000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.032416999999995, 
-                "name": "The Creative Group", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20533"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 19
-        }, 
-        {
             "created": 1473191008000, 
             "description": "<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE documentary exposes the dearth of American female and minority software engineers and explores the reasons for this gender gap. What would society gain from having more women and minorities code?</p> <p>Join Dev Bootcamp and Women Who Code DC at the WeWork in Shaw for a screening of the film and conversation with local community members working to increase diversity and gender equity in technology.</p> <p><br/>Snacks Provided. Watch the CODE documentary trailer:</p> <p><a href=\"https://vimeo.com/123004482\" class=\"embedded\">https://vimeo.com/123004482</a></p>", 
             "duration": 7200000, 
@@ -201,7 +162,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 39, 
+            "waitlist_count": 26, 
             "yes_rsvp_count": 80
         }, 
         {
@@ -240,8 +201,8 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "waitlist_count": 2, 
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1459265642000, 
@@ -321,7 +282,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 133
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1468853724000, 
@@ -441,7 +402,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1472497385000, 
@@ -461,10 +422,10 @@
             "id": "233717422", 
             "maybe_rsvp_count": 0, 
             "name": "Transportation + Urban Planning", 
-            "rsvp_limit": 130, 
+            "rsvp_limit": 135, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1475773455000, 
+            "updated": 1475794925000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -556,7 +517,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457965726000, 
@@ -651,7 +612,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1468853724000, 
@@ -729,7 +690,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1471287239000, 
@@ -846,7 +807,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1475170545000, 
@@ -925,7 +886,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 14, 
+            "waitlist_count": 17, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -995,7 +956,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 77
         }, 
         {
             "created": 1468853724000, 
@@ -1210,7 +1171,7 @@
         }, 
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -1225,11 +1186,11 @@
             "headcount": 0, 
             "id": "234652961", 
             "maybe_rsvp_count": 0, 
-            "name": "CaBi Hack Night VI", 
+            "name": "CaBi Hack Night VI \ud83d\udeb2", 
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1475776781000, 
+            "updated": 1475778437000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -1245,7 +1206,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1457392514000, 
@@ -1285,7 +1246,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
@@ -1444,7 +1405,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1466889250000, 
