@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "announced": false, 
@@ -125,46 +125,6 @@
         }
     ], 
     "other": [
-        {
-            "created": 1473191008000, 
-            "description": "<p>Description Comments<br/>CODE: Debugging the Gender Gap The CODE documentary exposes the dearth of American female and minority software engineers and explores the reasons for this gender gap. What would society gain from having more women and minorities code?</p> <p>Join Dev Bootcamp and Women Who Code DC at the WeWork in Shaw for a screening of the film and conversation with local community members working to increase diversity and gender equity in technology.</p> <p><br/>Snacks Provided. Watch the CODE documentary trailer:</p> <p><a href=\"https://vimeo.com/123004482\" class=\"embedded\">https://vimeo.com/123004482</a></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233920205/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "233920205", 
-            "maybe_rsvp_count": 0, 
-            "name": "CODE Film Screening ", 
-            "rsvp_limit": 80, 
-            "status": "upcoming", 
-            "time": 1475791200000, 
-            "updated": 1473191008000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Wonder Bread Factory, 641 S Street NW (shaw metro)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 18875152, 
-                "lat": 38.914546999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.021927000000005, 
-                "name": "WeWork", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 26, 
-            "yes_rsvp_count": 80
-        }, 
         {
             "created": 1466889163000, 
             "description": "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month - because we're getting together for a joint meetup!\u00a0</p> <p>\n\nA first ever for Hack&amp;&amp;Tell, we're trying a themed meetup with the amazing DC NLP folks. This October, we're looking for presenters, speakers, and hackers for anything related to human language, whether text, audio, videos of sign language, etc... show us what you\u2019ve got! (remember: no startup pitches, dull work projects, or deckware). The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you\u2019d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.\u00a0</p> <p>\n\n\n\nPresentation signups are below:<br/><a href=\"http://bit.ly/presentatdc\"><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></a></p> <p>\n\nNeed an idea? Here are some talks we'd like to see at H&amp;&amp;T NLP:</p> <p>+ Political twitter bots, bonus points if they pass the Turing test and fight w/real people!</p> <p>+ the weirdest take on a Turing test that you can come up with</p> <p>+ Haiku!</p> <p>+ Automated assistant hacks, or how I got Cortana to break up with me</p> <p><br/>+ Pen-testing (\"real\" hacking!) with deep learning NLP+ Linguistic analysis of everyone's favorite anti-blog gawker</p> <p>+ Voice activation hacks, like getting Alexa to order a pizza when my dog barks or find the nearest polling place</p> <p>+ generating text based on your own email history (can you simulate yourself? your friends?)</p> <p>+ unsupervised email classification (separate into personal, work, whatever)</p> <p>+ recruit-bot: a bot that corresponds with recruiters for arbitrarily long exchanges (Q-learning on real people?)<br/>+ multi-scale generative text (character + word??? + more?)</p> <p>+ sentiment analysis for your work emails. Maybe don't read some of them right away.</p> <p><br/>+ baby names, learned from pictures of other people's babies and their names</p> <p>+ generate hack and tell ideas?!</p> <p>Does it have to be related to human language? No, but if the speaking slots fill up, we will try to give priority to NLP this month.\u00a0</p> <p>See you at the meetup, at WeWork Chinatown. This month we are starting at 6:30 with pizza and the talks will begin at 7:00.\u00a0 DC NLPers, be a little earlier than usual, late arrivals are disruptive.\u00a0 Big thanks to WeWork for hosting us! We love WeWork! We love you! We love hacks! &lt;3</p>", 
@@ -282,7 +242,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 137
+            "yes_rsvp_count": 142
         }, 
         {
             "created": 1468853724000, 
@@ -322,7 +282,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1473617834000, 
@@ -363,7 +323,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 142
         }, 
         {
             "created": 1471280349000, 
@@ -517,7 +477,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457965726000, 
@@ -807,7 +767,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1475170545000, 
@@ -956,7 +916,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1468853724000, 
@@ -1206,7 +1166,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1457392514000, 
@@ -1367,6 +1327,34 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 3
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbtb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvpbtb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1479252600000, 
+            "updated": 1472237272000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1326383071000, 
