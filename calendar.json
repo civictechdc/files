@@ -161,7 +161,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 55
         }, 
         {
@@ -202,7 +202,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1417881835000, 
@@ -323,7 +323,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 148
+            "yes_rsvp_count": 149
         }, 
         {
             "created": 1471280349000, 
@@ -846,7 +846,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -879,7 +879,7 @@
         }, 
         {
             "created": 1475597533000, 
-            "description": "<p><a href=\"https://lh4.googleusercontent.com/91j0kA29__r784y6WJnM_oHjGubVyC9tbLpSv77DMr1zD0ljNTAc3NRnX55eO5TkxKrqTEBJ0nHePWX2NKOFyZjztVvdy35D2ej0Tv6NAirvt2KroC9282G8kLtLrS9iRw1Mw7XeNUQYczFPjg\" class=\"linkified\">https://lh4.googleusercontent.com/91j0kA29__r784y6WJnM_oHjGubVyC9tbLpSv77DMr1zD0ljNTAc3NRnX55eO5TkxKrqTEBJ0nHePWX2NKOFyZjztVvdy35D2ej0Tv6NAirvt2KroC9282G8kLtLrS9iRw1Mw7XeNUQYczFPjg</a></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief (1800 Massachusetts Ave NW) for \"Facing\" Artificial Intelligence. Just in time for Halloween, Michael Flynn showcases his graduate research on neural networks and facial recognition to D.C.\u2019s Data Community \u2013 be amazed as machine learning algorithms allow a computer to display any human emotion on a digital face, be astonished by the dark magic of decompression algorithms applied to machine vision, be spellbound as Michael uses his coding sorcery to transform pixelated blobs into PEOPLE!! \u00a0</p> <p>Were these initial ghostly images output of a partially trained Neural Network, or something more?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/sgd.jpg\" /></p> <p>Was the Neural Network learning, or was there a \"deeper\" connection to another dimension?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/random-2.jpg\" /></p> <p>Read all about Michael's accounts in his <a href=\"https://zo7.github.io/blog/2016/09/25/generating-faces.html\">blog on generating faces</a>.\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Michael Flynn</p> <p>8:20 - 8:40 \u2013 Q &amp; A\u00a0</p> <p>8:40 - Data Drinks</p> <p><br/><b>More about Michael Flynn</b></p> <p>In addition to being a Mad Data Scientist \u2013 Michael Flynn is a graduate student at Johns Hopkins University researching computer vision models for intelligent video processing. A musician-turned-electrical-engineer-turned-computer-scientist, he is interested in discovering how we can exploit advancements in deep learning and computer vision to create compelling artwork and develop a more intuitive sense for how these complex systems work. Prior to moving to Baltimore, Flynn lived in Richmond, Virginia where he worked for several local startups as a software developer and studied electrical engineering at Virginia Commonwealth University.</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/57a89d6be58c62866cd497b4/57d2e95629687f368b627531/1473440123365/data-society-logo2.png\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/1/9/5/7/600_454806487.jpeg\" /></p> <p><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww?\"><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww\" class=\"linkified\">https://gtcdc.smarteventscloud.com/portal/createAccount.ww</a>?</a></p> <p><br/>20% off with code: FFRZ20</p> <p>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</p>", 
+            "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\" /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief (1800 Massachusetts Ave NW) for \"Facing\" Artificial Intelligence. Just in time for Halloween, Michael Flynn showcases his graduate research on neural networks and facial recognition to D.C.\u2019s Data Community \u2013 be amazed as machine learning algorithms allow a computer to display any human emotion on a digital face, be astonished by the dark magic of decompression algorithms applied to machine vision, be spellbound as Michael uses his coding sorcery to transform pixelated blobs into PEOPLE!! \u00a0</p> <p><br/>Were these initial ghostly images output of a partially trained Neural Network, or something more?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/sgd.jpg\" /></p> <p>Was the Neural Network learning, or was there a \"deeper\" connection to another dimension?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/random-2.jpg\" /></p> <p>Read all about Michael's accounts in his <a href=\"https://zo7.github.io/blog/2016/09/25/generating-faces.html\">blog on generating faces</a>.\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Michael Flynn</p> <p>8:20 - 8:40 \u2013 Q &amp; A\u00a0</p> <p>8:40 - Data Drinks</p> <p><br/><b>More about Michael Flynn</b></p> <p>In addition to being a Mad Data Scientist \u2013 Michael Flynn is a graduate student at Johns Hopkins University researching computer vision models for intelligent video processing. A musician-turned-electrical-engineer-turned-computer-scientist, he is interested in discovering how we can exploit advancements in deep learning and computer vision to create compelling artwork and develop a more intuitive sense for how these complex systems work. Prior to moving to Baltimore, Flynn lived in Richmond, Virginia where he worked for several local startups as a software developer and studied electrical engineering at Virginia Commonwealth University.</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/57a89d6be58c62866cd497b4/57d2e95629687f368b627531/1473440123365/data-society-logo2.png\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/1/9/5/7/600_454806487.jpeg\" /></p> <p><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww?\"><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww\" class=\"linkified\">https://gtcdc.smarteventscloud.com/portal/createAccount.ww</a>?</a></p> <p><br/>20% off with code: FFRZ20</p> <p>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Data-Visualization-DC/events/234619258/", 
             "group": {
@@ -900,7 +900,7 @@
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1477434600000, 
-            "updated": 1475678818000, 
+            "updated": 1475865691000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -916,7 +916,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 80
         }, 
         {
             "created": 1468853724000, 
@@ -1048,7 +1048,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1446219481000, 

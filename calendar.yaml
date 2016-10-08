@@ -165,7 +165,7 @@ other:
     localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
+  waitlist_count: 4
   yes_rsvp_count: 55
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -199,7 +199,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1417881835000
   description: "<p>Topic Overview:\_The Business Value of Data Wrangling</p> <p>Data\
     \ Wrangling and Data Preparation have emerged as key topics in the world of Information\
@@ -363,7 +363,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 148
+  yes_rsvp_count: 149
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -940,7 +940,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 22
   yes_rsvp_count: 100
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -973,20 +973,19 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1475597533000
-  description: "<p><a href=\"https://lh4.googleusercontent.com/91j0kA29__r784y6WJnM_oHjGubVyC9tbLpSv77DMr1zD0ljNTAc3NRnX55eO5TkxKrqTEBJ0nHePWX2NKOFyZjztVvdy35D2ej0Tv6NAirvt2KroC9282G8kLtLrS9iRw1Mw7XeNUQYczFPjg\"\
-    \ class=\"linkified\">https://lh4.googleusercontent.com/91j0kA29__r784y6WJnM_oHjGubVyC9tbLpSv77DMr1zD0ljNTAc3NRnX55eO5TkxKrqTEBJ0nHePWX2NKOFyZjztVvdy35D2ej0Tv6NAirvt2KroC9282G8kLtLrS9iRw1Mw7XeNUQYczFPjg</a></p>\
-    \ <p>Join your fellow data visualizers on Tuesday October 25th at Chief (1800\
-    \ Massachusetts Ave NW) for \"Facing\" Artificial Intelligence. Just in time for\
-    \ Halloween, Michael Flynn showcases his graduate research on neural networks\
-    \ and facial recognition to D.C.\u2019s Data Community \u2013 be amazed as machine\
-    \ learning algorithms allow a computer to display any human emotion on a digital\
-    \ face, be astonished by the dark magic of decompression algorithms applied to\
-    \ machine vision, be spellbound as Michael uses his coding sorcery to transform\
-    \ pixelated blobs into PEOPLE!! \_</p> <p>Were these initial ghostly images output\
-    \ of a partially trained Neural Network, or something more?</p> <p><img src=\"\
-    https://zo7.github.io/img/2016-09-25-generating-faces/sgd.jpg\" /></p> <p>Was\
-    \ the Neural Network learning, or was there a \"deeper\" connection to another\
-    \ dimension?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/random-2.jpg\"\
+  description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
+    \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
+    \ (1800 Massachusetts Ave NW) for \"Facing\" Artificial Intelligence. Just in\
+    \ time for Halloween, Michael Flynn showcases his graduate research on neural\
+    \ networks and facial recognition to D.C.\u2019s Data Community \u2013 be amazed\
+    \ as machine learning algorithms allow a computer to display any human emotion\
+    \ on a digital face, be astonished by the dark magic of decompression algorithms\
+    \ applied to machine vision, be spellbound as Michael uses his coding sorcery\
+    \ to transform pixelated blobs into PEOPLE!! \_</p> <p><br/>Were these initial\
+    \ ghostly images output of a partially trained Neural Network, or something more?</p>\
+    \ <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/sgd.jpg\"\
+    \ /></p> <p>Was the Neural Network learning, or was there a \"deeper\" connection\
+    \ to another dimension?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/random-2.jpg\"\
     \ /></p> <p>Read all about Michael's accounts in his <a href=\"https://zo7.github.io/blog/2016/09/25/generating-faces.html\"\
     >blog on generating faces</a>.\_</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\"\
     \ /></p> <p><b>Check out our\_<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\"\
@@ -1026,14 +1025,14 @@ other:
   rsvp_limit: 200
   status: upcoming
   time: 1477434600000
-  updated: 1475678818000
+  updated: 1475865691000
   utc_offset: -14400000
   venue: {address_1: '1800 Massachusetts Ave NW, 2nd Floor', city: Washington, country: us,
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 80
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1205,7 +1204,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 4
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
