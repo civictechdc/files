@@ -202,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1417881835000, 
@@ -242,7 +242,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 146
+            "yes_rsvp_count": 147
         }, 
         {
             "created": 1468853724000, 
@@ -401,7 +401,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 132
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1470699270000, 
@@ -439,7 +439,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1475207740000, 
@@ -459,9 +459,10 @@ calendar({
             "id": "234519859", 
             "maybe_rsvp_count": 0, 
             "name": "Professional Networking Brunch", 
+            "rsvp_limit": 30, 
             "status": "upcoming", 
             "time": 1476633600000, 
-            "updated": 1475207740000, 
+            "updated": 1475971642000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "400 8th St NW, Washington, DC 20004", 
@@ -476,7 +477,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 2, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -732,8 +733,8 @@ calendar({
         }, 
         {
             "created": 1475453045000, 
-            "description": "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/DCPBW-2016_SocialSquare_r1.png\" /></p> <p>Legal hackathons have been called \u201cinnovation labs for the legal industry.\u201d These increasingly popular meet-ups bring lawyers together with coders, developers, marketers, and sometimes entrepreneurs to design new technologies that address legal and social problems.</p> <p><br/>Learn more about how hackathons and technology more generally can shape the future of the legal industry and increase access to justice. Our panel describe the\u00a0technologies that they\u2019ve developed to help people and inspire you to use technology to solve your most vexing legal problems.</p> <p>Please Register here to attend:\u00a0<a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour/\"><a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour\" class=\"linkified\">https://wclawyers.org/dc-pro-bono-week-hacky-hour</a></a></p>", 
-            "duration": 7200000, 
+            "description": "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\" /></p> <p>Legal hackathons have been called \u201cinnovation labs for the legal industry.\u201d These increasingly popular meet-ups bring lawyers together with coders, developers, marketers, and sometimes entrepreneurs to design new technologies that address legal and social problems.</p> <p><br/>Learn more about how hackathons and technology more generally can shape the future of the legal industry and increase access to justice. Our panel describe the\u00a0technologies that they\u2019ve developed to help people and inspire you to use technology to solve your most vexing legal problems.</p> <p>Our featured presenters will include:</p> <p>\u2022 Briane Cornish (Clean Slate DC)<br/>\u2022 Keith Porcaro (SimLab)<br/>\u2022 DC Legal Hackers</p> <p><br/>The program will be moderated by our board member Paul Lee (Dechert).</p> <p>Pizza and drinks (as well as lots of useful information) will be provided.</p> <p><b>Please Register here to attend:\u00a0<a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour/\"><a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour\" class=\"linkified\">https://wclawyers.org/dc-pro-bono-week-hacky-hour</a></a></b></p>", 
+            "duration": 5400000, 
             "event_url": "http://www.meetup.com/DCLegalHackers/events/234580114/", 
             "group": {
                 "created": 1372871984000, 
@@ -750,8 +751,8 @@ calendar({
             "maybe_rsvp_count": 0, 
             "name": "Hacky Hour", 
             "status": "upcoming", 
-            "time": 1477342800000, 
-            "updated": 1475584833000, 
+            "time": 1477346400000, 
+            "updated": 1475971916000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1900 K Street NW", 
@@ -1088,7 +1089,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
@@ -1166,7 +1167,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1457392514000, 
@@ -1206,7 +1207,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459265642000, 
