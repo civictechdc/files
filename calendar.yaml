@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - announced: false
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -165,7 +165,7 @@ other:
     localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 6
   yes_rsvp_count: 55
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -240,7 +240,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 148
+  yes_rsvp_count: 149
 - created: 1468853724000
   description: "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end\
     \ framework that combines the Ruby programming language with front-end languages\
@@ -363,7 +363,48 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 149
+  yes_rsvp_count: 151
+- created: 1476036686000
+  description: "<p>In the wake of Hurricane Matthew, we are encouraging members to\
+    \ join the GWU Humanitarian Mapping Society and Missing Maps teams to help map\
+    \ the affected areas. This will be in place of a Maptime this month.</p> <p><a\
+    \ href=\"http://www.missingmaps.org/\">Missing Maps\_</a>is a humanitarian mapping\
+    \ project with the objective to\_map the most vulnerable places in the developing\
+    \ world, in order that international and local NGOs and individuals can use the\
+    \ maps and data to better respond to crises affecting the areas. We will be mapping\
+    \ areas where the data is literally missing from\_<a href=\"http://www.openstreetmap.org/\"\
+    >OpenStreetMap</a>.\_</p> <p>Mapping beginners are welcome! If you are new to\
+    \ OSM please\_<a href=\"https://www.openstreetmap.org/user/new\">sign up for an\
+    \ account</a>\_beforehand, and if you have some time before the mapathon, there\
+    \ are\_<a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a>\_\
+    to provide some background. At the start of the mapathon we will be going through\
+    \ a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up\
+    \ to speed.\_</p> <p>Please bring a laptop. If you have one, external mouses are\
+    \ handy for easier mapping. Food and drinks will be provided mid-way through the\
+    \ event.</p> <p><b>Please RSVP through the EventBrite page found here: </b><a\
+    \ href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
+    ><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
+    \ class=\"linkified\">https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280</a></a></p>"
+  event_url: http://www.meetup.com/Maptime-DC/events/234737941/
+  group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
+      hackers}
+  headcount: 0
+  how_to_find_us: Rooms 301 and 302
+  id: '234737941'
+  maybe_rsvp_count: 0
+  name: Missing Maps Marathon!
+  rsvp_limit: 1
+  status: upcoming
+  time: 1476313200000
+  updated: 1476036694000
+  utc_offset: -14400000
+  venue: {address_1: 2130 H Street NW, city: Washington, country: us, id: 24835542,
+    lat: 38.899203999999997, localized_country_name: USA, lon: -77.048400999999998,
+    name: GWU Gelman Library, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
     \ /></p> <p>Learn how to push boundaries of web based data visualizations using\
@@ -422,11 +463,14 @@ other:
     >Deloitte\u2019s Center for Government Insights</a>, will show how the <a href=\"\
     http://dupress.deloitte.com/dup-us-en/multimedia/interactives/smart-mobility-trends-map.html\"\
     >\u2018Smart Mobility\u2019 map</a> can forecast congestion reductions and economic\
-    \ benefits.</p> <p><br/>Thanks to everyone at <a href=\"http://mobilitylab.org/\"\
-    >Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Everyone's\
-    \ Twitter handles are shown on our <a href=\"http://mvjantzen.com/meetup/urbanplanning.html\"\
-    >splash page</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\
-    \ for \"Transportation Techies\" updates.</p>"
+    \ benefits.</p> <p><br/>\u2022\_Uli Str\xF6tz will show how\_<a href=\"https://www.door2door.io/\"\
+    >Door2Door</a> does \"Public Transport Infrastructure as a Service\" with tools\
+    \ such as\_<a href=\"https://www.trackyourcity.org/\">TrackYourCity</a>.</p> <p><br/>Thanks\
+    \ to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their\
+    \ sponsorship and making this possible.</p> <p>Everyone's Twitter handles are\
+    \ shown on our <a href=\"http://mvjantzen.com/meetup/urbanplanning.html\">splash\
+    \ page</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for\
+    \ \"Transportation Techies\" updates.</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/233717422/
   group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
     id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
@@ -438,13 +482,13 @@ other:
   rsvp_limit: 136
   status: upcoming
   time: 1476482400000
-  updated: 1476028557000
+  updated: 1476049313000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 3
   yes_rsvp_count: 136
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
@@ -492,7 +536,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1475207740000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -698,7 +742,7 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1476916200000
-  updated: 1475632286000
+  updated: 1476057437000
   utc_offset: -14400000
   venue: {address_1: 1110 N Glebe Rd Ste 200, city: Arlington, country: US, id: 23504645,
     lat: 38.884166999999998, localized_country_name: USA, lon: -77.116805999999997,
@@ -869,7 +913,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1473454402000
   description: "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design\
     \ Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio\
@@ -1037,7 +1081,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 88
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1306,7 +1350,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
