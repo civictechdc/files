@@ -161,8 +161,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
-            "yes_rsvp_count": 55
+            "waitlist_count": 8, 
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1459265642000, 
@@ -242,7 +242,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 151
+            "yes_rsvp_count": 152
         }, 
         {
             "created": 1468853724000, 
@@ -282,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1473617834000, 
@@ -323,11 +323,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 152
+            "yes_rsvp_count": 154
         }, 
         {
             "created": 1476036686000, 
-            "description": "<p>In the wake of Hurricane Matthew, we are encouraging members to join the GWU Humanitarian Mapping Society and Missing Maps teams to help map the affected areas. This will be in place of a Maptime this month.</p> <p><a href=\"http://www.missingmaps.org/\">Missing Maps\u00a0</a>is a humanitarian mapping project with the objective to\u00a0map the most vulnerable places in the developing world, in order that international and local NGOs and individuals can use the maps and data to better respond to crises affecting the areas. We will be mapping areas where the data is literally missing from\u00a0<a href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\u00a0</p> <p>Mapping beginners are welcome! If you are new to OSM please\u00a0<a href=\"https://www.openstreetmap.org/user/new\">sign up for an account</a>\u00a0beforehand, and if you have some time before the mapathon, there are\u00a0<a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a>\u00a0to provide some background. At the start of the mapathon we will be going through a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up to speed.\u00a0</p> <p>Please bring a laptop. If you have one, external mouses are handy for easier mapping. Food and drinks will be provided mid-way through the event.</p> <p><b>Please RSVP through the EventBrite page found here: </b><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\" class=\"linkified\">https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280</a></a></p>", 
+            "description": "<p><b>To attend this event, please RSVP through the EventBrite page found here:\u00a0</b><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\" class=\"linkified\">https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280</a></a></p> <p>\n\n\nIn the wake of Hurricane Matthew, we are encouraging members to join the GWU Humanitarian Mapping Society and Missing Maps teams to help map the affected areas. This will be in place of a Maptime this month.</p> <p><a href=\"http://www.missingmaps.org/\">Missing Maps\u00a0</a>is a humanitarian mapping project with the objective to\u00a0map the most vulnerable places in the developing world, in order that international and local NGOs and individuals can use the maps and data to better respond to crises affecting the areas. We will be mapping areas where the data is literally missing from\u00a0<a href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\u00a0</p> <p>Mapping beginners are welcome! If you are new to OSM please\u00a0<a href=\"https://www.openstreetmap.org/user/new\">sign up for an account</a>\u00a0beforehand, and if you have some time before the mapathon, there are\u00a0<a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a>\u00a0to provide some background. At the start of the mapathon we will be going through a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up to speed.\u00a0</p> <p>Please bring a laptop. If you have one, external mouses are handy for easier mapping. Food and drinks will be provided mid-way through the event.</p>", 
             "event_url": "http://www.meetup.com/Maptime-DC/events/234737941/", 
             "group": {
                 "created": 1399208438000, 
@@ -347,7 +347,7 @@ calendar({
             "rsvp_limit": 1, 
             "status": "upcoming", 
             "time": 1476313200000, 
-            "updated": 1476036694000, 
+            "updated": 1476107163000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2130 H Street NW", 
@@ -402,7 +402,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 79
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1472497385000, 
@@ -440,7 +440,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 3, 
+            "waitlist_count": 7, 
             "yes_rsvp_count": 136
         }, 
         {
@@ -517,7 +517,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 2, 
+            "waitlist_count": 4, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -546,7 +546,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1459265642000, 
@@ -691,7 +691,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1471287239000, 
@@ -887,7 +887,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 25, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -957,7 +957,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 91
         }, 
         {
             "created": 1468853724000, 
@@ -1129,7 +1129,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1326383071000, 
@@ -1207,7 +1207,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1457392514000, 

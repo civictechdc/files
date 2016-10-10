@@ -165,8 +165,8 @@ other:
     localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 7
-  yes_rsvp_count: 55
+  waitlist_count: 8
+  yes_rsvp_count: 54
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -240,7 +240,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 151
+  yes_rsvp_count: 152
 - created: 1468853724000
   description: "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end\
     \ framework that combines the Ruby programming language with front-end languages\
@@ -285,7 +285,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - created: 1473617834000
   description: "<p>Please join us in October for two talks on how machine learning\
     \ can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking\
@@ -363,15 +363,19 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 152
+  yes_rsvp_count: 154
 - created: 1476036686000
-  description: "<p>In the wake of Hurricane Matthew, we are encouraging members to\
-    \ join the GWU Humanitarian Mapping Society and Missing Maps teams to help map\
-    \ the affected areas. This will be in place of a Maptime this month.</p> <p><a\
-    \ href=\"http://www.missingmaps.org/\">Missing Maps\_</a>is a humanitarian mapping\
-    \ project with the objective to\_map the most vulnerable places in the developing\
-    \ world, in order that international and local NGOs and individuals can use the\
-    \ maps and data to better respond to crises affecting the areas. We will be mapping\
+  description: "<p><b>To attend this event, please RSVP through the EventBrite page\
+    \ found here:\_</b><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
+    ><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
+    \ class=\"linkified\">https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280</a></a></p>\
+    \ <p>\n\n\nIn the wake of Hurricane Matthew, we are encouraging members to join\
+    \ the GWU Humanitarian Mapping Society and Missing Maps teams to help map the\
+    \ affected areas. This will be in place of a Maptime this month.</p> <p><a href=\"\
+    http://www.missingmaps.org/\">Missing Maps\_</a>is a humanitarian mapping project\
+    \ with the objective to\_map the most vulnerable places in the developing world,\
+    \ in order that international and local NGOs and individuals can use the maps\
+    \ and data to better respond to crises affecting the areas. We will be mapping\
     \ areas where the data is literally missing from\_<a href=\"http://www.openstreetmap.org/\"\
     >OpenStreetMap</a>.\_</p> <p>Mapping beginners are welcome! If you are new to\
     \ OSM please\_<a href=\"https://www.openstreetmap.org/user/new\">sign up for an\
@@ -381,10 +385,7 @@ other:
     \ a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up\
     \ to speed.\_</p> <p>Please bring a laptop. If you have one, external mouses are\
     \ handy for easier mapping. Food and drinks will be provided mid-way through the\
-    \ event.</p> <p><b>Please RSVP through the EventBrite page found here: </b><a\
-    \ href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
-    ><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
-    \ class=\"linkified\">https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280</a></a></p>"
+    \ event.</p>"
   event_url: http://www.meetup.com/Maptime-DC/events/234737941/
   group: {created: 1399208438000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
     id: 14258282, join_mode: open, name: Maptime DC, urlname: Maptime-DC, who: Map
@@ -397,7 +398,7 @@ other:
   rsvp_limit: 1
   status: upcoming
   time: 1476313200000
-  updated: 1476036694000
+  updated: 1476107163000
   utc_offset: -14400000
   venue: {address_1: 2130 H Street NW, city: Washington, country: us, id: 24835542,
     lat: 38.899203999999997, localized_country_name: USA, lon: -77.048400999999998,
@@ -438,7 +439,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 79
+  yes_rsvp_count: 81
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -488,7 +489,7 @@ other:
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 7
   yes_rsvp_count: 136
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
@@ -565,7 +566,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 2
+  waitlist_count: 4
   yes_rsvp_count: 30
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -609,7 +610,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -749,7 +750,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released\
@@ -989,7 +990,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 23
+  waitlist_count: 25
   yes_rsvp_count: 100
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -1081,7 +1082,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 91
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1285,7 +1286,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1350,7 +1351,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
