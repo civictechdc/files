@@ -112,7 +112,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 other:
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -165,7 +165,7 @@ other:
     localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 6
+  waitlist_count: 7
   yes_rsvp_count: 55
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -199,7 +199,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 13
 - created: 1417881835000
   description: "<p>Topic Overview:\_The Business Value of Data Wrangling</p> <p>Data\
     \ Wrangling and Data Preparation have emerged as key topics in the world of Information\
@@ -240,7 +240,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 149
+  yes_rsvp_count: 151
 - created: 1468853724000
   description: "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end\
     \ framework that combines the Ruby programming language with front-end languages\
@@ -285,7 +285,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1473617834000
   description: "<p>Please join us in October for two talks on how machine learning\
     \ can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking\
@@ -363,7 +363,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 151
+  yes_rsvp_count: 152
 - created: 1476036686000
   description: "<p>In the wake of Hurricane Matthew, we are encouraging members to\
     \ join the GWU Humanitarian Mapping Society and Missing Maps teams to help map\
@@ -438,7 +438,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -1081,7 +1081,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 88
+  yes_rsvp_count: 89
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1307,7 +1307,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1475704079000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork\
