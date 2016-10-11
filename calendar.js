@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 56
         }, 
         {
             "announced": true, 
@@ -80,7 +80,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 26
         }, 
         {
             "announced": true, 
@@ -121,7 +121,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }
     ], 
     "other": [
@@ -161,8 +161,8 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 9, 
-            "yes_rsvp_count": 58
+            "waitlist_count": 10, 
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1459265642000, 
@@ -202,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1417881835000, 
@@ -242,7 +242,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 162
+            "yes_rsvp_count": 164
         }, 
         {
             "created": 1468853724000, 
@@ -282,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1473617834000, 
@@ -323,7 +323,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 157
+            "yes_rsvp_count": 166
         }, 
         {
             "created": 1476036686000, 
@@ -440,8 +440,8 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
-            "yes_rsvp_count": 136
+            "waitlist_count": 14, 
+            "yes_rsvp_count": 137
         }, 
         {
             "created": 1470699270000, 
@@ -517,7 +517,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 13, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -546,7 +546,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1459265642000, 
@@ -613,7 +613,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1468853724000, 
@@ -691,7 +691,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1471287239000, 
@@ -848,7 +848,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1473454402000, 
@@ -887,7 +887,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 26, 
+            "waitlist_count": 28, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -957,7 +957,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 94
         }, 
         {
             "created": 1468853724000, 
@@ -990,7 +990,7 @@ calendar({
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbcb/", 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234778839/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -1207,7 +1207,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457392514000, 
@@ -1247,7 +1247,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1459265642000, 

@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 56
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 26
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -112,7 +112,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 23
 other:
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -165,8 +165,8 @@ other:
     localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 9
-  yes_rsvp_count: 58
+  waitlist_count: 10
+  yes_rsvp_count: 57
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -199,7 +199,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 14
 - created: 1417881835000
   description: "<p>Topic Overview:\_The Business Value of Data Wrangling</p> <p>Data\
     \ Wrangling and Data Preparation have emerged as key topics in the world of Information\
@@ -240,7 +240,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 162
+  yes_rsvp_count: 164
 - created: 1468853724000
   description: "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end\
     \ framework that combines the Ruby programming language with front-end languages\
@@ -285,7 +285,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1473617834000
   description: "<p>Please join us in October for two talks on how machine learning\
     \ can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking\
@@ -363,7 +363,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 157
+  yes_rsvp_count: 166
 - created: 1476036686000
   description: "<p><b>To attend this event, please RSVP through the EventBrite page\
     \ found here:\_</b><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
@@ -489,8 +489,8 @@ other:
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
-  waitlist_count: 13
-  yes_rsvp_count: 136
+  waitlist_count: 14
+  yes_rsvp_count: 137
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -566,7 +566,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 12
+  waitlist_count: 13
   yes_rsvp_count: 30
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -610,7 +610,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -675,7 +675,7 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -750,7 +750,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released\
@@ -914,7 +914,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - created: 1473454402000
   description: "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design\
     \ Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio\
@@ -990,7 +990,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 26
+  waitlist_count: 28
   yes_rsvp_count: 100
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -1082,7 +1082,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 94
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1137,7 +1137,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbcb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234778839/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1351,7 +1351,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 23
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1401,7 +1401,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
