@@ -1,5 +1,5 @@
 codefordc:
-- announced: false
+- announced: true
   created: 1474863220000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
     \ you know and love.</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_\
@@ -36,8 +36,8 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
-- announced: false
+  yes_rsvp_count: 51
+- announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
     \ you know and love.</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_\
@@ -74,8 +74,8 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
-- announced: false
+  yes_rsvp_count: 21
+- announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
     \ you know and love.</p> <p>6:30 - 7:00\_Participants arrive and socialize.\_\
@@ -112,7 +112,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 19
 other:
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -155,18 +155,18 @@ other:
   headcount: 0
   id: '232161085'
   maybe_rsvp_count: 0
-  name: 'Round 37: Cell Out'
+  name: 'Round 37: Cell Out (with DC NLP!)'
   rsvp_limit: 50
   status: upcoming
   time: 1476225000000
-  updated: 1475621382000
+  updated: 1476126972000
   utc_offset: -14400000
   venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
     localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
-  yes_rsvp_count: 54
+  waitlist_count: 7
+  yes_rsvp_count: 58
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -199,7 +199,7 @@ other:
     name: ECMC, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 15
 - created: 1417881835000
   description: "<p>Topic Overview:\_The Business Value of Data Wrangling</p> <p>Data\
     \ Wrangling and Data Preparation have emerged as key topics in the world of Information\
@@ -240,7 +240,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 152
+  yes_rsvp_count: 159
 - created: 1468853724000
   description: "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end\
     \ framework that combines the Ruby programming language with front-end languages\
@@ -285,7 +285,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 35
 - created: 1473617834000
   description: "<p>Please join us in October for two talks on how machine learning\
     \ can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking\
@@ -363,7 +363,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 154
+  yes_rsvp_count: 155
 - created: 1476036686000
   description: "<p><b>To attend this event, please RSVP through the EventBrite page\
     \ found here:\_</b><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
@@ -439,7 +439,7 @@ other:
     name: General Assembly @1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 82
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -489,7 +489,7 @@ other:
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
-  waitlist_count: 7
+  waitlist_count: 10
   yes_rsvp_count: 136
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
@@ -537,7 +537,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1475207740000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -566,7 +566,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 10
   yes_rsvp_count: 30
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -610,7 +610,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -877,7 +877,7 @@ other:
     name: Dechert LPP, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1475170545000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This\
@@ -914,7 +914,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 27
 - created: 1473454402000
   description: "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design\
     \ Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio\
@@ -990,7 +990,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 25
+  waitlist_count: 26
   yes_rsvp_count: 100
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -1401,7 +1401,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1450,7 +1450,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
