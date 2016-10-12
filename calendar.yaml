@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 56
+  yes_rsvp_count: 59
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -112,7 +112,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 25
 other:
 - created: 1466889163000
   description: "<p>DC NLP and Hack&amp;&amp;Tell are at the same time again this month\
@@ -165,7 +165,7 @@ other:
     localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 10
+  waitlist_count: 6
   yes_rsvp_count: 57
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
@@ -240,7 +240,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 164
+  yes_rsvp_count: 165
 - created: 1468853724000
   description: "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end\
     \ framework that combines the Ruby programming language with front-end languages\
@@ -285,7 +285,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1473617834000
   description: "<p>Please join us in October for two talks on how machine learning\
     \ can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking\
@@ -363,7 +363,7 @@ other:
     name: Loyola Columbia, repinned: false, state: MD, zip: '21044'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 166
+  yes_rsvp_count: 161
 - created: 1476036686000
   description: "<p><b>To attend this event, please RSVP through the EventBrite page\
     \ found here:\_</b><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"\
@@ -489,8 +489,8 @@ other:
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
-  waitlist_count: 14
-  yes_rsvp_count: 137
+  waitlist_count: 15
+  yes_rsvp_count: 136
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -1082,7 +1082,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 95
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -1351,7 +1351,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1523,7 +1523,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 5
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
