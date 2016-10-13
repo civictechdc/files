@@ -126,127 +126,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1468853724000, 
-            "description": "<p>\"Ruby on Rails: Focus on Fundamentals\"</p> <p>Rails is a back-end framework that combines the Ruby programming language with front-end languages such as HTML and CSS to create a web application that runs on a web server.\u00a0</p> <p>Ruby is a big language, and the subset needed to be productive as a Rails developer is relatively small. In this meetup, we\u2019ll start to cover only that subset and will look at how blocks and iterators work.</p> <p>***</p> <p><b>Meetup Agenda</b></p> <p>\u2022\u00a06:30pm - Setup and start working</p> <p>\u2022 7pm - Break for quick introductions</p> <p>\u2022 7:15pm - \"Ruby on Rails: Focus on Fundamentals\"</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>\n\n\n<b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233734789/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "xvsfwlyvnbqb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails Lab: Ruby Fundamentals", 
-            "status": "upcoming", 
-            "time": 1476311400000, 
-            "updated": 1475509617000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1445 New York Ave NW,", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 6154072, 
-                "lat": 38.899357000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.033066000000005, 
-                "name": "Living Social", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20005"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 32
-        }, 
-        {
-            "created": 1473617834000, 
-            "description": "<p>Please join us in October for two talks on how machine learning can be used in identifying malware.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>7:00 PM -- Greetings &amp; Prizes</p> <p>7:05 PM -- <i>Fighting Malware with Machine Learning - Ed Raff</i></p> <p>8:00 PM --\u00a0<i>How to Build a Malware Classifier [That Doesn't Suck on Real-world Data] - John Seymour</i></p> <p>9:00 PM -- Post event drinks at Green Turtle</p> <p><b>Talks</b></p> <p><b>Fighting Malware with Machine Learning - Ed Raff<br/></b></p> <p>This is a talk I will be giving at Nvidia\u2019s GTC conference in DC. We have been performing research with the Laboratory for Physical Sciences on how to apply machine learning to detect malware, and to do so with minimal domain knowledge about binaries and how they work. I\u2019ll be giving an overview about the problem, why its difficult \u2013 especially compared to current ML tasks, and an overview of our current and completed research toward that goal.</p> <p><br/><b>How to Build a Malware Classifier [That Doesn't Suck on Real-world Data] - John Seymour</b></p> <p><br/>Machine learning is the latest trend in malware classification. It's easy enough that now everyone can spin up a malware crawler, extract some features from the files, build some machine learning models, and publish their research in a reputable journal. However, many of these models have issues with overfitting: they have significant accuracy reductions on real-world data. We'll give a full introduction on using machine learning to classify malware, including the features that are currently used, which models seem to work best, and what datasets exist for this purpose. We'll also demonstrate that even the best public malware classifiers overfit to their original training sets. We'll end the talk with forays into avoiding this issue, for creating malware classifiers that don't suck on real-world data.</p> <p><br/><b>Speakers</b></p> <p><a href=\"http://www.edwardraff.com\">Edward Raff</a> is a Computer Scientist at Booz Allen Hamilton, specializing in Machine Learning problems and solutions. As the author of the JSAT library, Edward has extensive experience implementing all manner of algorithms. In particular, he has worked on problems involving bioinformatics, signal classification, sentiment analysis, real time object tracking, and change detection. He currently works at the Laboratory for Physical Sciences researching new methods of applying deep learning to cyber security, and in particular malware classification and analysis. Edward holds a Bachelor's and Master's degree from Purdue University, and is working on a Ph.D. at the University of Maryland, Baltimore County. Ed can be emailed at\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/>John Seymour is a Data Scientist at ZeroFOX, Inc. by day, and Ph.D. student at UMBC by night. He researches the intersection of machine learning and InfoSec in both roles. He's mostly interested in avoiding and helping others avoid some of the major pitfalls in machine learning, especially in dataset preparation (seriously, do people still use malware datasets from 1998?) He has spoken at BlackHat USA, DEFCON, BSidesLV, and aims to add SecTor to the list in the near future. John can be found on Twitter <a href=\"https://twitter.com/_delta_zero\">@_delta_zero</a>\u00a0and emailed at\u00a0<a href=\"mailto:[masked]\">[masked]</a></p> <p><br/><b>Projects</b></p> <p>Edward has developed a machine learning library called JSAT. You can access it on <a href=\"https://github.com/EdwardRaff/JSAT\">Github</a>. It is a Java library for machine learning, built out of my frustration in using Weka. It aims to provide a more efficient and easier to use API, as well as numerous algorithms. Many of the algorithms in JSAT are independent implementations of common tools (such as linear SVMs, Lasso, and t-SNE) and others are more niche or rarely available methods (such as Kernel k-means and AMM).</p> <p><br/>John has released two security related projects on Github.</p> <p>label-virusshare: A project to label the VirusShare malware corpus using VirusTotal's public API. Presented at BSidesLV 2016. <a href=\"https://github.com/seymour1/label-virusshare\" class=\"linkified\">https://github.com/seymour1/label-virusshare</a></p> <p>SNAP_R: A project that demonstrates the capability for posting phishing posts to social network users. Presented at BlackHat USA 2016. <a href=\"https://github.com/getzerofox/SNAP_R/\"><a href=\"https://github.com/getzerofox/SNAP_R/\" class=\"linkified\">https://github.com/getzerofox/SNAP_R/</a></a></p>", 
-            "duration": 8100000, 
-            "event_url": "http://www.meetup.com/Data-Science-MD/events/234045560/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "234045560", 
-            "maybe_rsvp_count": 0, 
-            "name": "Malware Machine Learning", 
-            "rsvp_limit": 175, 
-            "status": "upcoming", 
-            "time": 1476311400000, 
-            "updated": 1474817999000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "8890 McGaw Rd #230", 
-                "city": "Columbia", 
-                "country": "us", 
-                "id": 23832486, 
-                "lat": 39.209999000000003, 
-                "localized_country_name": "USA", 
-                "lon": -76.879997000000003, 
-                "name": "Loyola Columbia", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21044"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 162
-        }, 
-        {
-            "created": 1476036686000, 
-            "description": "<p><b>To attend this event, please RSVP through the EventBrite page found here:\u00a0</b><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\"><a href=\"https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280\" class=\"linkified\">https://www.eventbrite.com/e/gwu-humanitarian-mapping-society-missing-maps-october-mapathon-tickets-28339524280</a></a></p> <p>\n\n\nIn the wake of Hurricane Matthew, we are encouraging members to join the GWU Humanitarian Mapping Society and Missing Maps teams to help map the affected areas. This will be in place of a Maptime this month.</p> <p><a href=\"http://www.missingmaps.org/\">Missing Maps\u00a0</a>is a humanitarian mapping project with the objective to\u00a0map the most vulnerable places in the developing world, in order that international and local NGOs and individuals can use the maps and data to better respond to crises affecting the areas. We will be mapping areas where the data is literally missing from\u00a0<a href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\u00a0</p> <p>Mapping beginners are welcome! If you are new to OSM please\u00a0<a href=\"https://www.openstreetmap.org/user/new\">sign up for an account</a>\u00a0beforehand, and if you have some time before the mapathon, there are\u00a0<a href=\"http://www.missingmaps.org/contribute/#learn\">training videos</a>\u00a0to provide some background. At the start of the mapathon we will be going through a short tutorial on OpenStreetMap and the Tasking Manager to get everyone up to speed.\u00a0</p> <p>Please bring a laptop. If you have one, external mouses are handy for easier mapping. Food and drinks will be provided mid-way through the event.</p>", 
-            "event_url": "http://www.meetup.com/Maptime-DC/events/234737941/", 
-            "group": {
-                "created": 1399208438000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 14258282, 
-                "join_mode": "open", 
-                "name": "Maptime DC", 
-                "urlname": "Maptime-DC", 
-                "who": "Map hackers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Rooms 301 and 302", 
-            "id": "234737941", 
-            "maybe_rsvp_count": 0, 
-            "name": "Missing Maps Marathon!", 
-            "rsvp_limit": 1, 
-            "status": "upcoming", 
-            "time": 1476313200000, 
-            "updated": 1476107163000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2130 H Street NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24835542, 
-                "lat": 38.899203999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.048400999999998, 
-                "name": "GWU Gelman Library", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 1
-        }, 
-        {
             "created": 1471280349000, 
             "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\" /></p> <p>Learn how to push boundaries of web based data visualizations using webGL. Currently, popular tools like D3js use SVG to render designs. SVGs can produce really beautiful visualizations, but are limited to the constraints of the DOM. WebGL on the other hand allows you to have direct access to the users GPU and therefore more power and speed for rendering large sets of data.</p> <p>Julia will walk you through her process of learning how to move a D3.js/SVG force chart to webGL using the 2D gaming library Pixi.js.\u00a0Julia will talk about the pros and cons of this method, lessons learned, and show you how to get started with Pixi.js and WebGL visualizations.</p> <p>\n\n\n<b>Thank you\u00a0</b><b><a href=\"https://generalassemb.ly\">General Assembly</a>\u00a0(<a href=\"https://twitter.com/GA_DC\">@GA_DC</a>) and\u00a0<br/></b><b><a href=\"http://www.infernored.com\">InfernoRed Technology</a> (<a href=\"https://twitter.com/infernoredtech\">@InfernoRedTech</a>) for<br/>sponsoring our event!</b></p>", 
             "duration": 7200000, 
@@ -283,7 +162,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1472497385000, 
@@ -321,7 +200,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 15, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 136
         }, 
         {
@@ -398,7 +277,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -691,7 +570,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1475453045000, 
@@ -809,8 +688,49 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 32, 
+            "waitlist_count": 35, 
             "yes_rsvp_count": 100
+        }, 
+        {
+            "created": 1476319672000, 
+            "description": "<p>For our October Data Science DC Meetup, we are excited to have <b>Khuram Zaman</b>, CEO of Fifth Tribe, share with us techniques used to mine Twitter in an effort to find terrorists. As a special *bonus* after the talk,\u00a0we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online. Come prepared with your brilliant data scientist minds!</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022 8:15pm -- Challenge competition: Audience pitches and judging</p> <p><br/>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Data Mining 101: How to Use Twitter to Find Terrorists<br/></b></p> <p>First, we'll review how violent extremists like ISIS use social media to spread propaganda, drive recruitment, and communicate with supporters. Second, we'll discuss how we used open-source platforms to download ISIS fanboy tweets. Third, we'll review how data scientists on Kaggle used the data. Fourth, we'll discuss potential future applications in countering violent extremists online. Lastly, we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online.</p> <p><b>Bio:</b></p> <p><br/><b>Khuram Zaman</b></p> <p>Khuram Zaman is the CEO of Fifth Tribe, a leading digital agency serving the Washington DC Metropolitan Area based out of the 1776 Startup Accelerator. Upon graduating from Widener\u00a0University School of Law in Delaware, he went on to work in the non-profit\u00a0sector where he raised almost a million dollars online for various\u00a0charitable causes involving donors and volunteers from over 80 countries. In his\u00a0professional capacity, he has provided digital marketing services to clients as\u00a0diverse as the Department of Defense, the U.S. Air Force, Aetna Innovation\u00a0Health, Kaiser Permanente, Silatech, Oxfam, and The Hult Prize. His writing has\u00a0been featured in Entrepreneur.com, Business2Community, and LinkedIn Publisher. In 2016, his work in data science drew recognition when his anti-ISIS dataset became the #1 trending dataset on Kaggle \u2013 the largest online community of data scientists. He gave a keynote address entitled \u201cInnovation Culture: Multiplying Impact Across Sectors\u201d and also lead a plenary session entitled \u201cData Mining 101: How to Use Twitter to Find Terrorists\u201d at the Fall 2016 Business Analytics Form at the University of Tennessee, Knoxville. In 2015, his company was appointed to Private Sector Committee along with Goldman Sachs and IBM to the Global Community Engagement Resiliency Fund (GCERF). In December 2014, Khuram and his co-worker won 1st place at the Hedaya Hackathon during the Global CVE Expo where they developed and prototyped a crowdsourcing and social media platform to counter violent extremist messages.\u00a0He is the cofounder of Tekfeuds, an annual event that brings together big brands and passionate technologists to use Oxford-style to debate contemporary tech issues. He serves on the board of Project Katalyst, a non-profit whose mission is to use technology to help displaced and at-risk youth all over the world.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Data-Science-DC/events/234817674/", 
+            "group": {
+                "created": 1311348860000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 2215331, 
+                "join_mode": "open", 
+                "name": "Data Science DC", 
+                "urlname": "Data-Science-DC", 
+                "who": "Data Scientists"
+            }, 
+            "headcount": 0, 
+            "id": "234817674", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Mining 101: How to Use Twitter to Find Terrorists", 
+            "rsvp_limit": 500, 
+            "status": "upcoming", 
+            "time": 1477434600000, 
+            "updated": 1476322677000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2201 G St. NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 13300352, 
+                "lat": 38.898952000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.048942999999994, 
+                "name": "GWU, Funger Hall, Room 108", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20052"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
@@ -1051,7 +971,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
@@ -1129,7 +1049,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1457392514000, 
@@ -1289,7 +1209,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1459265642000, 
@@ -1346,6 +1266,45 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 2
+        }, 
+        {
+            "created": 1471280434000, 
+            "description": "<p>Accessibility is more than alt tags and even major companies are failing at the most obvious code choices when it comes to doing more. This talk will cover topics from basic considerations to accessibility \u2018gotchas\u2019, the wide range of accessibility concerns, and simple ways to make huge improvements.\u00a0</p> <p>While much of what is talked about will be from a developer's perspective, designers, product managers, and others can benefit from understanding these concepts and what is and isn't possible from a development perspective.</p> <p>Lindsey Dragun is a full-stack developer at PBS and part of a team that advocates for and educates on accessibility.\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233373539/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "233373539", 
+            "maybe_rsvp_count": 0, 
+            "name": "Tech Talk: Accessibility for the Modern Web", 
+            "status": "upcoming", 
+            "time": 1479425400000, 
+            "updated": 1475247391000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1428 U St NW Suite #300 ", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24752339, 
+                "lat": 38.916710000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.033157000000003, 
+                "name": "NAVA", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
