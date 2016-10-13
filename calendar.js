@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 62
+            "yes_rsvp_count": 61
         }, 
         {
             "announced": true, 
@@ -163,7 +163,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1473617834000, 
@@ -204,7 +204,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 159
+            "yes_rsvp_count": 162
         }, 
         {
             "created": 1476036686000, 
@@ -283,7 +283,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1472497385000, 
@@ -321,7 +321,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 136
         }, 
         {
@@ -398,7 +398,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 16, 
+            "waitlist_count": 20, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -427,7 +427,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1459265642000, 
@@ -494,7 +494,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1468853724000, 
@@ -533,7 +533,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1446220217000, 
@@ -653,6 +653,47 @@ calendar({
             "yes_rsvp_count": 3
         }, 
         {
+            "created": 1476305244000, 
+            "description": "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\">DevFestDC</a> and thanks for all who came by and participated, networked and enjoyed! Folks who missed the DevFestDC Lanyards, please come to this Meetup!!</p> <p>Anyone who missed explosive session and Code Labs from Ray Tsang from Google, he is coming down here again.\u00a0</p> <p>Location: Google Reston, 1875, Explorer St, Reston, VA</p> <p>Date: Thu, 20th October,2016, 6:30 PM</p> <p>Title: Micro-datacenter with Raspberry Pi and Kubernetes</p> <p>Subtitle: <b>Let's play real chaos monkeys</b></p> <p><b>Description</b>: Kubernetes is a powerful, open source, container orchestration / cluster management tool created by Google. It drew upon all the lessons learned from a near-decade of using containers at Google. Kubernetes handles a number of failure scenarios gracefully, from a crashed process, to a failure of a cluster node. We'll show this through a real <b>Raspberry Pi</b> computing cluster that runs <b>Kubernetes</b> - and play a real-life chaos monkey by pulling the plugs!</p> <p>In this session, we'll look beyond container orchestration with Kubernetes, but also demonstrate its failure handling by pulling the plugs on random nodes from a <b>Raspberry Pi computing cluster</b>: - Overview of Kubernetes - Process resource isolation to prevent a run-away process affecting another - Use Replication controller to ensure a crashed process is restarted - Who wants to pull a network or power plug from a computing cluster? <b>Let's play real chaos monkeys</b>.</p> <p><br/>Speaker: \u00a0Ray Tsang, Google</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.</p> <p><br/>Sponsors: <a href=\"http://developers.google.com\">Google</a></p> <p>PS: Attendees who missed our DevFestDC Lanyards, come to get it in this event!</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/234811961/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Kubernetes, Containers, DevOps, GKE, Google Cloud", 
+            "id": "234811961", 
+            "maybe_rsvp_count": 0, 
+            "name": "Micro-datacenter with Raspberry Pi and Kubernetes", 
+            "rsvp_limit": 80, 
+            "status": "upcoming", 
+            "time": 1477002600000, 
+            "updated": 1476306807000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1875 Explorer St", 
+                "city": "Reston", 
+                "country": "us", 
+                "id": 24459459, 
+                "lat": 38.958297999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.360236999999998, 
+                "name": "Google Reston", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 41
+        }, 
+        {
             "created": 1475453045000, 
             "description": "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\" /></p> <p>Legal hackathons have been called \u201cinnovation labs for the legal industry.\u201d These increasingly popular meet-ups bring lawyers together with coders, developers, marketers, and sometimes entrepreneurs to design new technologies that address legal and social problems.</p> <p><br/>Learn more about how hackathons and technology more generally can shape the future of the legal industry and increase access to justice. Our panel describe the\u00a0technologies that they\u2019ve developed to help people and inspire you to use technology to solve your most vexing legal problems.</p> <p>Our featured presenters will include:</p> <p>\u2022 Briane Cornish (Clean Slate DC)<br/>\u2022 Keith Porcaro (SimLab)<br/>\u2022 DC Legal Hackers</p> <p><br/>The program will be moderated by our board member Paul Lee (Dechert).</p> <p>Pizza and drinks (as well as lots of useful information) will be provided.</p> <p><b>Please Register here to attend:\u00a0<a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour/\"><a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour\" class=\"linkified\">https://wclawyers.org/dc-pro-bono-week-hacky-hour</a></a></b></p>", 
             "duration": 5400000, 
@@ -768,7 +809,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 31, 
+            "waitlist_count": 32, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -838,7 +879,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1468853724000, 
@@ -970,7 +1011,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1446219481000, 
@@ -1049,7 +1090,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1475704079000, 
@@ -1248,7 +1289,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1459265642000, 
