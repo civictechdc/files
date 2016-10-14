@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 66
+            "yes_rsvp_count": 67
         }, 
         {
             "announced": true, 
@@ -142,11 +142,11 @@ calendar({
             "headcount": 0, 
             "id": "233717422", 
             "maybe_rsvp_count": 0, 
-            "name": "Transportation + Urban Planning", 
-            "rsvp_limit": 136, 
+            "name": "Transportation + Urban Planning \ud83e\udd16", 
+            "rsvp_limit": 135, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1476049313000, 
+            "updated": 1476461308000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -161,46 +161,8 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
-            "yes_rsvp_count": 136
-        }, 
-        {
-            "created": 1470699270000, 
-            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "233220012", 
-            "maybe_rsvp_count": 0, 
-            "name": "Work The Room: Networking in the Wild", 
-            "status": "upcoming", 
-            "time": 1476482400000, 
-            "updated": 1471450571000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1203 19th St NW ", 
-                "city": "3rd floor", 
-                "country": "us", 
-                "id": 24145676, 
-                "lat": 38.905971999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.043205, 
-                "name": "Canvas Co/work ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "waitlist_count": 5, 
+            "yes_rsvp_count": 135
         }, 
         {
             "created": 1475207740000, 
@@ -267,7 +229,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -334,7 +296,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1468853724000, 
@@ -416,7 +378,7 @@ calendar({
         }, 
         {
             "created": 1471287239000, 
-            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.</p> <p><br/>Limited to 40 attendees. Tickets are released in tiers of 10. \u00a0Save $10-35 by registering early.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:00 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:30 -\u00a0Registration &amp; Networking</p> <p>3:45 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>4:45 -\u00a0Networking &amp; Snacks</p> <p>5:00 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:00 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>6:30 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>7:30 -\u00a0Networking &amp; Dessert</p> <p>8:00 -\u00a0Adjourn\u00a0</p> <p><b>Call for Speakers</b></p> <p><br/>We are seeking speakers for topic areas below.\u00a0</p> <p>Talks should meet one of these criteria:<br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.</p> <p><br/>Limited to 40 attendees.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:15 -\u00a0Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p>3:45 -\u00a0Registration &amp; Networking</p> <p>4:00 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in search and SEO for 2017</p> <p>5:00 -\u00a0Networking &amp; Snacks</p> <p>5:30 - SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing for Google</p> <p>6:30 -\u00a0Networking, Drinks &amp; Light Dinner</p> <p>7:00 - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\u00a0Tips to tune your SEO and make your website more SEO friendly</p> <p>8:00 -\u00a0Networking &amp; Dessert</p> <p>8:30 -\u00a0Adjourn\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
             "group": {
                 "created": 1189804715000, 
@@ -434,7 +396,7 @@ calendar({
             "name": "MavenMini: SEO and Search-Friendly Content", 
             "status": "upcoming", 
             "time": 1476990000000, 
-            "updated": 1473879650000, 
+            "updated": 1476462592000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -492,7 +454,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 86
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1475453045000, 
@@ -532,6 +494,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 17
+        }, 
+        {
+            "created": 1470699270000, 
+            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "233220012", 
+            "maybe_rsvp_count": 0, 
+            "name": "Work The Room: Networking in the Wild", 
+            "status": "upcoming", 
+            "time": 1477346400000, 
+            "updated": 1476466371000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1203 19th St NW ", 
+                "city": "3rd floor", 
+                "country": "us", 
+                "id": 24145676, 
+                "lat": 38.905971999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043205, 
+                "name": "Canvas Co/work ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1475170545000, 
@@ -610,7 +610,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 38, 
+            "waitlist_count": 44, 
             "yes_rsvp_count": 101
         }, 
         {
@@ -652,7 +652,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 166
+            "yes_rsvp_count": 194
         }, 
         {
             "created": 1459265642000, 
@@ -748,7 +748,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459265642000, 
@@ -971,7 +971,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1457392514000, 
@@ -1093,7 +1093,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1460389774000, 
