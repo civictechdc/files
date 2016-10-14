@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 65
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -74,7 +74,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -112,7 +112,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 other:
 - created: 1471280349000
   description: "<p><img src=\"http://photos3.meetupstatic.com/photos/event/a/7/f/6/600_453162998.jpeg\"\
@@ -147,7 +147,7 @@ other:
     name: General Assembly @ 1776, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 81
+  yes_rsvp_count: 77
 - created: 1472497385000
   description: "<p>How do computer programmers get involved in urban planning? Let's\
     \ look at cool tools coders have built that revolve around transportation and\
@@ -197,7 +197,7 @@ other:
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
-  waitlist_count: 15
+  waitlist_count: 16
   yes_rsvp_count: 136
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
@@ -245,7 +245,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1475207740000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -274,7 +274,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 22
+  waitlist_count: 23
   yes_rsvp_count: 30
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -426,7 +426,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1446220217000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Where the majority of us are beginners, some are professional
@@ -501,7 +501,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1476305244000
   description: "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a> and thanks for all who came by and participated, networked and\
@@ -551,7 +551,7 @@ other:
     state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 83
 - created: 1475453045000
   description: "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\"\
     \ /></p> <p>Legal hackathons have been called \u201Cinnovation labs for the legal\
@@ -699,7 +699,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 35
+  waitlist_count: 37
   yes_rsvp_count: 101
 - created: 1476319672000
   description: "<p>For our October Data Science DC Meetup, we are excited to have\
@@ -777,7 +777,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 146
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -868,7 +868,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 102
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1090,7 +1090,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1475704079000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork\
@@ -1133,7 +1133,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1341,7 +1341,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 33
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
