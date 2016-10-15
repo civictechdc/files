@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 75
+  yes_rsvp_count: 76
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -186,37 +186,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234388715/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvnbxb
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1476829800000
-  updated: 1472237272000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 33
 - created: 1474985603000
   description: "<p>Want to come to more Women Who Code meetups but live in Northern\
     \ Virginia and not near Metro? We\u2019ve got you covered! We\u2019re kicking\
@@ -251,7 +221,42 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 31
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p>Join as this week as we build a button counter app
+    together.This will be a Google Hangouts code along.</p> <p>Resources</p> <p>Beginners
+    should check out our Android Getting Started Guide (<a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md"
+    class="linkified">https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md</a>).
+    It's chock full of information to get you up and running. It is a work in progress
+    and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p>
+    <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>
+    <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our Slack
+    (<a href="http://bit.ly/womenwhocodedcslack" class="linkified">http://bit.ly/womenwhocodedcslack</a>)
+    group to talk about all things Android.</p>
+  duration: 5400000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234388715/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvnbxb
+  maybe_rsvp_count: 0
+  name: 'Android Lab: Build An Button Click App'
+  rsvp_limit: 25
+  status: upcoming
+  time: 1476831600000
+  updated: 1476538474000
+  utc_offset: -14400000
+  venue: {address_1: Virtual (Google Hangouts), city: Washington, country: us, id: 23694110,
+    lat: 38.875359000000003, localized_country_name: USA, lon: -76.994972000000004,
+    name: Virtual (Google Hangouts), repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 7
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -360,7 +365,7 @@ other:
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1476305244000
   description: "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a> and thanks for all who came by and participated, networked and\
@@ -409,7 +414,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 4
+  waitlist_count: 16
   yes_rsvp_count: 100
 - created: 1475453045000
   description: "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\"\
@@ -683,37 +688,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 209
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234318392/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvnbhc
-  maybe_rsvp_count: 0
-  name: Android Lab
-  rsvp_limit: 25
-  status: upcoming
-  time: 1477434600000
-  updated: 1472237272000
-  utc_offset: -14400000
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 211
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -774,7 +749,42 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 106
+  yes_rsvp_count: 107
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p>Join us this week in a java review for android.We'll
+    review some java foundations and work through some exercises.</p> <p>Resources</p>
+    <p>Beginners should check out our Android Getting Started Guide (<a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md"
+    class="linkified">https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md</a>).
+    It's chock full of information to get you up and running. It is a work in progress
+    and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p>
+    <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>
+    <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our Slack
+    (<a href="http://bit.ly/womenwhocodedcslack" class="linkified">http://bit.ly/womenwhocodedcslack</a>)
+    group to talk about all things Android.</p>
+  duration: 5400000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234318392/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvnbhc
+  maybe_rsvp_count: 0
+  name: 'Android Lab : Java Review for Android '
+  rsvp_limit: 25
+  status: upcoming
+  time: 1477436400000
+  updated: 1476541479000
+  utc_offset: -14400000
+  venue: {address_1: Virtual (Google Hangouts), city: Washington, country: us, id: 23694110,
+    lat: 38.875359000000003, localized_country_name: USA, lon: -76.994972000000004,
+    name: Virtual (Google Hangouts), repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
