@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 72
+  yes_rsvp_count: 75
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -114,57 +114,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 26
 other:
-- created: 1472497385000
-  description: "<p>How do computer programmers get involved in urban planning? Let's\
-    \ look at cool tools coders have built that revolve around transportation and\
-    \ urban planning.\_We'll meet on the 12th floor of\_<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
-    >WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of\
-    \ our sponsor\_<a href=\"https://www.enotrans.org/\">the\_Eno Center for Transportation</a>.\
-    \ Presentations start at 6:30.\_Our speakers are:</p> <p>\u2022\_Jason Wright\
-    \ will\_demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\_and\
-    \ dive into\_how the game operates, and discuss future improvements.</p> <p>\u2022\
-    \_Michael Eichler will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\"\
-    >SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office\
-    \ of Planning</a> to forecast ridership from new transit-oriented development\
-    \ near rail stations.\_</p> <p>\u2022\_Matt Conway\_will demo <a href=\"http://conveyal.com/\"\
-    >Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes\
-    \ to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\
-    \_Stephanie Dock will discuss DDOT\u2019s new District Mobility webtool, which\
-    \ will help to monitor system performance from a mobility perspective.</p> <p><br/>\u2022\
-    \_Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration\
-    \ Technology)\_project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\"\
-    >Hays Out of the Box</a> competition.</p> <p>\u2022\_Peter Viechnicki, from <a\
-    \ href=\"http://www2.deloitte.com/us/en/pages/public-sector/solutions/center-for-government-insights.html\"\
-    >Deloitte\u2019s Center for Government Insights</a>, will show how the <a href=\"\
-    http://dupress.deloitte.com/dup-us-en/multimedia/interactives/smart-mobility-trends-map.html\"\
-    >\u2018Smart Mobility\u2019 map</a> can forecast congestion reductions and economic\
-    \ benefits.</p> <p><br/>\u2022\_Uli Str\xF6tz will show how\_<a href=\"https://www.door2door.io/\"\
-    >Door2Door</a> does \"Public Transport Infrastructure as a Service\" with tools\
-    \ such as\_<a href=\"https://www.trackyourcity.org/\">TrackYourCity</a>.</p> <p><br/>Thanks\
-    \ to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their\
-    \ sponsorship and making this possible.</p> <p>Everyone's Twitter handles are\
-    \ shown on our <a href=\"http://mvjantzen.com/meetup/urbanplanning.html\">splash\
-    \ page</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for\
-    \ \"Transportation Techies\" updates.</p>"
-  event_url: http://www.meetup.com/Transportation-Techies/events/233717422/
-  group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
-    id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
-    who: Techies}
-  headcount: 0
-  id: '233717422'
-  maybe_rsvp_count: 0
-  name: Transportation + Urban Planning
-  rsvp_limit: 135
-  status: upcoming
-  time: 1476482400000
-  updated: 1476474163000
-  utc_offset: -14400000
-  venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
-    lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
-    name: WeWork Crystal City, repinned: false, state: VA}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 133
 - created: 1475207740000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -237,7 +186,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 32
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -302,7 +251,7 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -460,8 +409,8 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 90
+  waitlist_count: 4
+  yes_rsvp_count: 100
 - created: 1475453045000
   description: "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\"\
     \ /></p> <p>Legal hackathons have been called \u201Cinnovation labs for the legal\
@@ -656,7 +605,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 45
+  waitlist_count: 46
   yes_rsvp_count: 101
 - created: 1476319672000
   description: "<p>For our October Data Science DC Meetup, we are excited to have\
@@ -734,7 +683,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 204
+  yes_rsvp_count: 209
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1025,7 +974,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 26
+  yes_rsvp_count: 28
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1090,7 +1039,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\

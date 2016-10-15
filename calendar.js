@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 72
+            "yes_rsvp_count": 75
         }, 
         {
             "announced": true, 
@@ -126,45 +126,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1472497385000, 
-            "description": "<p>How do computer programmers get involved in urban planning? Let's look at cool tools coders have built that revolve around transportation and urban planning.\u00a0We'll meet on the 12th floor of\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork's Crystal City location</a>. Doors open at 6:00 with pizza courtesy of our sponsor\u00a0<a href=\"https://www.enotrans.org/\">the\u00a0Eno Center for Transportation</a>. Presentations start at 6:30.\u00a0Our speakers are:</p> <p>\u2022\u00a0Jason Wright will\u00a0demo <a href=\"http://brandnewsubway.com/\">Brand New Subway</a>\u00a0and dive into\u00a0how the game operates, and discuss future improvements.</p> <p>\u2022\u00a0Michael Eichler will demo the <a href=\"http://planitmetro.com/2016/08/11/introducing-s-w-a-r-m-another-tool-for-your-tod-toolkit-2/\">SWARM tool</a>, built by the <a href=\"http://planitmetro.com/\">Metro Office of Planning</a> to forecast ridership from new transit-oriented development near rail stations.\u00a0</p> <p>\u2022\u00a0Matt Conway\u00a0will demo <a href=\"http://conveyal.com/\">Conveyal</a>'s Scenario Editor tool, which allows planners to prototype changes to the transit system and see their effects in near-real-time.</p> <p><br/>\u2022\u00a0Stephanie Dock will discuss DDOT\u2019s new District Mobility webtool, which will help to monitor system performance from a mobility perspective.</p> <p><br/>\u2022\u00a0Drew Morrison will share his \"map.it\" (Metropolitan Area Planning Integration Technology)\u00a0project, winner of the 2016 <a href=\"http://outsidethebox.gmu.edu/\">Hays Out of the Box</a> competition.</p> <p>\u2022\u00a0Peter Viechnicki, from <a href=\"http://www2.deloitte.com/us/en/pages/public-sector/solutions/center-for-government-insights.html\">Deloitte\u2019s Center for Government Insights</a>, will show how the <a href=\"http://dupress.deloitte.com/dup-us-en/multimedia/interactives/smart-mobility-trends-map.html\">\u2018Smart Mobility\u2019 map</a> can forecast congestion reductions and economic benefits.</p> <p><br/>\u2022\u00a0Uli Str\u00f6tz will show how\u00a0<a href=\"https://www.door2door.io/\">Door2Door</a> does \"Public Transport Infrastructure as a Service\" with tools such as\u00a0<a href=\"https://www.trackyourcity.org/\">TrackYourCity</a>.</p> <p><br/>Thanks to everyone at <a href=\"http://mobilitylab.org/\">Mobility Lab</a> for their sponsorship and making this possible.</p> <p>Everyone's Twitter handles are shown on our <a href=\"http://mvjantzen.com/meetup/urbanplanning.html\">splash page</a>. Follow <a href=\"https://twitter.com/techiesdc\">@techiesdc</a> for \"Transportation Techies\" updates.</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/233717422/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.860000610351562, 
-                "group_lon": -77.05999755859375, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies \ud83d\ude80", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "233717422", 
-            "maybe_rsvp_count": 0, 
-            "name": "Transportation + Urban Planning", 
-            "rsvp_limit": 135, 
-            "status": "upcoming", 
-            "time": 1476482400000, 
-            "updated": 1476474163000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2221 SOUTH CLARK ST", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24336429, 
-                "lat": 38.853954000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.051636000000002, 
-                "name": "WeWork Crystal City", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 133
-        }, 
-        {
             "created": 1475207740000, 
             "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Or are you someone looking to get into the tech field? Come brunch with us! The estimated cost for the brunch is between $10-15, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------</p> <p>TEAISM in Penn Quarter:</p> <p>We will have a section reserved for us downstairs where there is a cool Koi Pond!</p> <p>Metro accessible - Across the street from the Archives/Navy Memorial Metro Station, but also short walk from the Federal Triangle AND Gallery Place/Chinatown Metro stations, which covers ALL the Metro Lines (Red/Green/Orange/Silver/Blue/Yellow).</p>", 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234519859/", 
@@ -229,7 +190,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1459265642000, 
@@ -296,7 +257,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1468853724000, 
@@ -453,8 +414,8 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 90
+            "waitlist_count": 4, 
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1475453045000, 
@@ -610,7 +571,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 45, 
+            "waitlist_count": 46, 
             "yes_rsvp_count": 101
         }, 
         {
@@ -652,7 +613,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 204
+            "yes_rsvp_count": 209
         }, 
         {
             "created": 1459265642000, 
@@ -893,7 +854,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1326383071000, 
@@ -971,7 +932,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1457392514000, 
