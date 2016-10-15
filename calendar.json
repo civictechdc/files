@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 72
         }, 
         {
             "announced": true, 
@@ -142,11 +142,11 @@
             "headcount": 0, 
             "id": "233717422", 
             "maybe_rsvp_count": 0, 
-            "name": "Transportation + Urban Planning \ud83e\udd16", 
+            "name": "Transportation + Urban Planning", 
             "rsvp_limit": 135, 
             "status": "upcoming", 
             "time": 1476482400000, 
-            "updated": 1476461308000, 
+            "updated": 1476474163000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -161,8 +161,8 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 135
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 133
         }, 
         {
             "created": 1475207740000, 
@@ -200,7 +200,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 25, 
+            "waitlist_count": 23, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -229,7 +229,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1459265642000, 
@@ -257,7 +257,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1474985603000, 
@@ -296,7 +296,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1468853724000, 
@@ -374,7 +374,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1471287239000, 
@@ -413,7 +413,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1476305244000, 
@@ -454,7 +454,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 90
         }, 
         {
             "created": 1475453045000, 
@@ -571,7 +571,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1473454402000, 
@@ -610,7 +610,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 44, 
+            "waitlist_count": 45, 
             "yes_rsvp_count": 101
         }, 
         {
@@ -652,7 +652,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 194
+            "yes_rsvp_count": 204
         }, 
         {
             "created": 1459265642000, 
@@ -680,7 +680,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1475597533000, 
@@ -721,7 +721,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 105
+            "yes_rsvp_count": 106
         }, 
         {
             "created": 1468853724000, 
@@ -932,7 +932,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1475704079000, 
@@ -971,7 +971,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1457392514000, 
