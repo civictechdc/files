@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 78
         }, 
         {
             "announced": true, 
@@ -161,7 +161,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 30
         }, 
         {
@@ -190,7 +190,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1474985603000, 
@@ -583,7 +583,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 46, 
+            "waitlist_count": 47, 
             "yes_rsvp_count": 101
         }, 
         {
@@ -625,7 +625,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 213
+            "yes_rsvp_count": 217
         }, 
         {
             "created": 1475597533000, 
@@ -921,7 +921,7 @@ calendar({
         }, 
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>\u2022\u00a0Aysha Cohen will share the dataviz and maps she made to support her\u00a0thesis on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -940,7 +940,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1475778437000, 
+            "updated": 1476589266000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 

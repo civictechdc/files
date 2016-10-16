@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 78
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -142,7 +142,7 @@ other:
     id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
     repinned: false, state: DC}
   visibility: public
-  waitlist_count: 23
+  waitlist_count: 19
   yes_rsvp_count: 30
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -186,7 +186,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1474985603000
   description: "<p>Want to come to more Women Who Code meetups but live in Northern\
     \ Virginia and not near Metro? We\u2019ve got you covered! We\u2019re kicking\
@@ -610,7 +610,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 46
+  waitlist_count: 47
   yes_rsvp_count: 101
 - created: 1476319672000
   description: "<p>For our October Data Science DC Meetup, we are excited to have\
@@ -688,7 +688,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 213
+  yes_rsvp_count: 217
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -1017,9 +1017,11 @@ other:
     >how often they use bike lanes</a>.</p> <p><br/>\u2022\_Alex Rixey and\_Ranjani\
     \ Prabhakar will share their study of CaBi trips and\_Level\_of Traffic Stress\
     \ (LTS) measurements.</p> <p><br/>\u2022\_Bob Kraig will share his demand prediction\
-    \ model for Capital Bikeshare.</p> <p>Capital Bikeshare has a rich trove of <a\
-    \ href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\_\
-    Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
+    \ model for Capital Bikeshare.</p> <p>\u2022\_Aysha Cohen will share the dataviz\
+    \ and maps she made to support her\_thesis on \u201C<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\"\
+    >Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201D</p> <p><br/>Capital\
+    \ Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\"\
+    >Trip History Data</a>.\_Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\"\
     >Michael</a> if you have a CaBi project and want to be added to the agenda.</p>\
     \ <p>Many thanks to our sponsors at\_<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\"\
     >WeWork</a>\_and\_<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\_for making\
@@ -1042,7 +1044,7 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1478210400000
-  updated: 1475778437000
+  updated: 1476589266000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
