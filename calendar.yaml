@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 80
+  yes_rsvp_count: 83
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -114,36 +114,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 26
 other:
-- created: 1475207740000
-  description: <p>Are you a professional developer, designer, sysadmin, or working
-    in a field somehow related to code? Or are you someone looking to get into the
-    tech field? Come brunch with us! The estimated cost for the brunch is between
-    $10-15, but the final cost will be whatever you owe the restaurant for your order,
-    which you will pay directly to them. (We will not be taking any payments from
-    you).</p> <p>-----------------------------</p> <p>TEAISM in Penn Quarter:</p>
-    <p>We will have a section reserved for us downstairs where there is a cool Koi
-    Pond!</p> <p>Metro accessible - Across the street from the Archives/Navy Memorial
-    Metro Station, but also short walk from the Federal Triangle AND Gallery Place/Chinatown
-    Metro stations, which covers ALL the Metro Lines (Red/Green/Orange/Silver/Blue/Yellow).</p>
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234519859/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '234519859'
-  maybe_rsvp_count: 0
-  name: Professional Networking Brunch
-  rsvp_limit: 30
-  status: upcoming
-  time: 1476633600000
-  updated: 1475971642000
-  utc_offset: -14400000
-  venue: {address_1: '400 8th St NW, Washington, DC 20004', city: Washington, country: us,
-    id: 23631792, lat: 0, localized_country_name: USA, lon: 0, name: Teaism Penn Quarter,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 16
-  yes_rsvp_count: 30
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -221,7 +191,7 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 30
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -249,14 +219,14 @@ other:
   rsvp_limit: 25
   status: upcoming
   time: 1476831600000
-  updated: 1476538474000
+  updated: 1476647371000
   utc_offset: -14400000
-  venue: {address_1: Virtual (Google Hangouts), city: Washington, country: us, id: 23694110,
-    lat: 38.875359000000003, localized_country_name: USA, lon: -76.994972000000004,
-    name: Virtual (Google Hangouts), repinned: false, state: DC}
+  venue: {address_1: 'https://plus.google.com/hangouts/_/calendar/aWplb21hY2V6ZUBnbWFpbC5jb20.3o35q9trjtvjcrhl6k0ngq90gs?authuser=0',
+    city: Washington, country: us, id: 24849080, lat: 0, localized_country_name: USA,
+    lon: 0, name: Virtual Google Hangouts, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -331,7 +301,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees.\_</p> <p>A mini-conference\
@@ -688,7 +658,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 222
+  yes_rsvp_count: 224
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -984,7 +954,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 30
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1051,7 +1021,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1407,6 +1377,35 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1471280434000
+  description: "<p>Accessibility is more than alt tags and even major companies are\
+    \ failing at the most obvious code choices when it comes to doing more. This talk\
+    \ will cover topics from basic considerations to accessibility \u2018gotchas\u2019\
+    , the wide range of accessibility concerns, and simple ways to make huge improvements.\_\
+    </p> <p>While much of what is talked about will be from a developer's perspective,\
+    \ designers, product managers, and others can benefit from understanding these\
+    \ concepts and what is and isn't possible from a development perspective.</p>\
+    \ <p>Lindsey Dragun is a full-stack developer at PBS and part of a team that advocates\
+    \ for and educates on accessibility.\_</p>"
+  duration: 7200000
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233373539/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: '233373539'
+  maybe_rsvp_count: 0
+  name: 'Tech Talk: Accessibility for the Modern Web'
+  status: upcoming
+  time: 1479425400000
+  updated: 1475247391000
+  utc_offset: -18000000
+  venue: {address_1: '1428 U St NW Suite #300 ', city: Washington, country: us, id: 24752339,
+    lat: 38.916710000000002, localized_country_name: USA, lon: -77.033157000000003,
+    name: NAVA, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 18
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
