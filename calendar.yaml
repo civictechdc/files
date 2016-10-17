@@ -156,7 +156,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 37
 - created: 1474985603000
   description: "<p>Want to come to more Women Who Code meetups but live in Northern\
     \ Virginia and not near Metro? We\u2019ve got you covered! We\u2019re kicking\
@@ -191,7 +191,7 @@ other:
       Globe, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 37
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -226,7 +226,7 @@ other:
     lon: 0, name: Virtual Google Hangouts, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 11
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -269,7 +269,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1446220217000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Where the majority of us are beginners, some are professional
@@ -301,23 +301,24 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 36
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees.\_</p> <p>A mini-conference\
     \ focused on search, SEO, Google tips &amp; tricks, and how to structure your\
     \ content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>-\
-    \ 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/>3:15\
-    \ -\_Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology\
-    \ and basics, intended for digital professionals who simply aren't as familiar\
-    \ with the intricacies of search.</p> <p>3:45 -\_Registration &amp; Networking</p>\
-    \ <p>4:00 - SESSION 1: SEO Trends for 2017</p> <p>Discussions around changes in\
-    \ search and SEO for 2017</p> <p>5:00 -\_Networking &amp; Snacks</p> <p>5:30 -\
-    \ SESSION 2: Keywords and Writing for Google</p> <p>Keyword Research and Writing\
-    \ for Google</p> <p>6:30 -\_Networking, Drinks &amp; Light Dinner</p> <p>7:00\
-    \ - SESSION 3: Measure and Tune Your SEO</p> <p>SEO Measurement, Tools and\_Tips\
-    \ to tune your SEO and make your website more SEO friendly</p> <p>8:00 -\_Networking\
-    \ &amp; Dessert</p> <p>8:30 -\_Adjourn\_</p>"
+    \ 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/><b>3:15\
+    \ -\_</b>Pre-Session - Search 101 (optional)</p> <p>Option overview of search\
+    \ terminology and basics, intended for digital professionals who simply aren't\
+    \ as familiar with the intricacies of search.</p> <p><b>3:45 -\_</b>Registration\
+    \ &amp; Networking</p> <p><b>4:00 - </b>SESSION 1: Planning for SEO and Knowing\
+    \ the Trends</p> <p><b>Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><b>5:00\
+    \ -\_</b>Networking &amp; Snacks</p> <p><b>5:30 - </b>SESSION 2: Keywords and\
+    \ Writing for Google</p> <p><b>John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p>\
+    \ <p><b>6:30 -\_</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - </b>SESSION\
+    \ 3: Measure and Tune Your SEO</p> <p><b>Freddie Belcher</b><br/>Senior Manager,\
+    \ SEO &amp; Analytics, Marriott and Ritz-Carlton</p> <p><b>8:00 -\_</b>Networking\
+    \ &amp; Dessert</p> <p><b>8:30 -\_</b>Adjourn\_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/233376476/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -328,14 +329,14 @@ other:
   name: 'MavenMini: SEO and Search-Friendly Content'
   status: upcoming
   time: 1476990000000
-  updated: 1476462592000
+  updated: 1476721972000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
     name: The Creative Group, repinned: false, state: DC, zip: '20533'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 27
 - created: 1476305244000
   description: "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a> and thanks for all who came by and participated, networked and\
@@ -580,8 +581,8 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 48
-  yes_rsvp_count: 101
+  waitlist_count: 51
+  yes_rsvp_count: 100
 - created: 1476319672000
   description: "<p>For our October Data Science DC Meetup, we are excited to have\
     \ <b>Khuram Zaman</b>, CEO of Fifth Tribe, share with us techniques used to mine\
@@ -658,7 +659,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 228
+  yes_rsvp_count: 237
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -719,7 +720,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 108
+  yes_rsvp_count: 110
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -790,7 +791,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 5
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1021,7 +1022,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 33
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1156,7 +1157,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -1327,7 +1328,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 4
 - created: 1467704208000
   description: "<p>(We are in the planning stages so information is preliminary)</p>\
     \ <p>Registration is through\_<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\"\
