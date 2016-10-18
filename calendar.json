@@ -39,7 +39,47 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 83
+            "yes_rsvp_count": 84
+        }, 
+        {
+            "announced": true, 
+            "created": 1476764652000, 
+            "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\u00a0<a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\"><a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>", 
+            "duration": 9900000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/234934608/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "234934608", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1478212200000, 
+            "updated": 1476764652000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "localized_country_name": "USA", 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 9
         }, 
         {
             "announced": true, 
@@ -81,6 +121,46 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 30
+        }, 
+        {
+            "announced": true, 
+            "created": 1476764726000, 
+            "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\u00a0<a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\"><a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>", 
+            "duration": 9900000, 
+            "event_url": "http://www.meetup.com/Code-for-DC/events/234934622/", 
+            "group": {
+                "created": 1375990708000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 9724492, 
+                "join_mode": "open", 
+                "name": "Code for DC", 
+                "urlname": "Code-for-DC", 
+                "who": "Civic Hackers"
+            }, 
+            "headcount": 0, 
+            "id": "234934622", 
+            "maybe_rsvp_count": 0, 
+            "name": "Civic Hacknight", 
+            "status": "upcoming", 
+            "time": 1481153400000, 
+            "updated": 1476764726000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1325 G Street, NW, 3rd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24266346, 
+                "lat": 38.898567, 
+                "localized_country_name": "USA", 
+                "lon": -77.031006000000005, 
+                "name": "Social Tables", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
         }, 
         {
             "announced": true, 
@@ -190,7 +270,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1459265642000, 
@@ -230,7 +310,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1468853724000, 
@@ -312,7 +392,7 @@
         }, 
         {
             "created": 1471287239000, 
-            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.\u00a0</p> <p><br/>Limited to 40 attendees.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/><b>3:15 -\u00a0</b>Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p><b>3:45 -\u00a0</b>Registration &amp; Networking</p> <p><b>4:00 - Session 1: Planning for SEO</b></p> <p><b>&gt; Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><b>&gt; Bruce Namerow</b><br/>Founder &amp; Chief Strategist, Interactive Strategies</p> <p><br/><b>5:00 -\u00a0</b>Networking &amp; Snacks</p> <p><b>5:30 - Session 2: Keywords and Writing for Google</b></p> <p><b>&gt; John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p> <p><b>&gt; Megan Furey<br/></b>SEO Analyst, Knucklepuck Media</p> <p><b>6:30 -\u00a0</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - Session 3: Measure and Tune Your SEO</b></p> <p><b>&gt; Freddie Belcher</b><br/>Senior Manager, SEO &amp; Analytics, Marriott and Ritz-Carlton</p> <p><b>8:00 -\u00a0</b>Networking &amp; Dessert</p> <p><b>8:30 -\u00a0</b>Adjourn\u00a0</p>", 
+            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.\u00a0</p> <p><br/>Limited to 40 attendees.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/><b>3:15 - </b>Doors open</p> <p><b>3:20 -\u00a0</b>Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p><b>3:40 -\u00a0</b>Registration &amp; Networking</p> <p><b>4:00 - Session 1: Planning for SEO</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/8/9/8/600_455194968.jpeg\" /></p> <p><b>Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/8/b/3/600_455194995.jpeg\" /></p> <p><br/><b>Bruce Namerow</b><br/>Founder &amp; Chief Strategist, Interactive Strategies</p> <p><br/><b>5:00 -\u00a0</b>Networking &amp; Snacks</p> <p><b>5:30 - Session 2: Keywords and Writing for Google</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/8/6/d/600_455194925.jpeg\" /></p> <p><b>John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/8/8/6/5/600_455194917.jpeg\" /></p> <p><b>Megan Furey<br/></b>SEO Analyst, Knucklepuck Media</p> <p><b>6:30 -\u00a0</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - Session 3: Measure and Tune Your SEO</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/9/0/3/600_455195075.jpeg\" /></p> <p><b>Freddie Bilcher</b><br/>Senior Manager, SEO &amp; Analytics, Marriott and Ritz-Carlton</p> <p><b>8:00 -\u00a0</b>Networking &amp; Dessert</p> <p><b>8:30 -\u00a0</b>Adjourn\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
             "group": {
                 "created": 1189804715000, 
@@ -330,7 +410,7 @@
             "name": "MavenMini: SEO and Search-Friendly Content", 
             "status": "upcoming", 
             "time": 1476990000000, 
-            "updated": 1476748638000, 
+            "updated": 1476749680000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -347,7 +427,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1476305244000, 
@@ -387,7 +467,7 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 21, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -505,7 +585,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1473454402000, 
@@ -586,7 +666,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 243
+            "yes_rsvp_count": 246
         }, 
         {
             "created": 1475597533000, 
@@ -667,7 +747,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1476733076000, 
@@ -762,44 +842,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
-        }, 
-        {
-            "created": 1467833256000, 
-            "description": "<p>(We haven't finalized a date. You are welcome to register but be aware that are in the planning stages and information is preliminary)</p> <p>Registration is through\u00a0<a href=\"https://www.eventbrite.com/e/mavenmini-nonprofit-web-tickets-26449911397\">Eventbrite </a></p> <p><br/>Looking for the Association Web mini-conference? <a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\">Here</a></p> <p><b>== MavenMini: Nonprofit\u00a0Web Mini-Conference ==</b></p> <p><b>Five hours of presentations, discussions and networking focused on both nonprofit websites and digital marketing, advocacy &amp; engagement tools<br/></b></p> <p>&gt; Meet your nonprofit peers and share stories over dinner, drinks and dessert.<br/>&gt; Listen to sessions focused on the specific needs and interests of nonprofits.<br/>&gt; Hear talks from other nonprofit leaders, from experts in nonprofits websites and from thought leaders.<br/>&gt; Follow-up with fellow attendees after the event.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Websites<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Digital Marketing, Advocacy and Engagement<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Tools and Integrated Marketing<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Call for Speakers &amp; Topics</b></p> <p>We are looking for speakers on the topics below.</p> <p>We are interested in hearing from nonprofit staff. You do not need to be an experienced speaker!! This is a small conference and a great opportunity for you to get your feet wet with speaking to a group.</p> <p>Generally, talks range from 15-25 minutes and should include a slideshow or other visual presentation.</p> <p><i>\u00a0<b>Criteria</b></i></p> <p>\u00a0Talks should meet one of these criteria:</p> <p>- Gives new information or shows an innovative approach to established techniques<br/>- Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>- Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc. We are specifically looking for nonprofit staff to participate. You do not need to be an experienced speaker.</p> <p><i><b>Topics</b></i></p> <p>These are just guiding topic descriptions - not intended to be exhaustive or literal.</p> <p><i>Session\u00a01:\u00a0Websites<br/></i>Topics such as: redesigns, building community, conference sites, etc</p> <p><i>Session 2:\u00a0Digital Marketing<br/></i>Topics such as newsletters, email marketing, integrated communications, advocacy, converting prospects, etc.</p> <p><i>Session 3: Tools &amp; CRM<br/></i>Topics such as integrating external tools with web properties (CRMs, etc), website management and governance, persuading leadership, etc.</p> <p>For more information on speaking, email [masked]. Please include a topic sentence (or topic idea/ideas) and a brief background. If you have several ideas/topics, share them all!</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/232424128/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "232424128", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Nonprofit Web [date TBD]", 
-            "status": "upcoming", 
-            "time": 1478116800000, 
-            "updated": 1467833256000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1110 Vermont Avenue NW, Suite 500", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 19625362, 
-                "lat": 38.904330999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.033278999999993, 
-                "name": "OpenGov Hub", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 8
         }, 
         {
             "created": 1452612310000, 
@@ -921,7 +963,7 @@
         }, 
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>\u2022\u00a0Aysha Cohen will share the dataviz and maps she made to support her\u00a0thesis on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.</p> <p><br/>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -940,7 +982,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1476589266000, 
+            "updated": 1476760104000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -956,7 +998,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1457392514000, 
@@ -1078,7 +1120,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1460389774000, 
@@ -1242,7 +1284,7 @@
         }, 
         {
             "created": 1467704208000, 
-            "description": "<p>(We are in the planning stages so information is preliminary)</p> <p>Registration is through\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a></p> <p><br/>Note: This event is limited to 45 attendees.\u00a0</p> <p><b>== MavenMini: Association Web Mini-Conference ==</b></p> <p><b>Five hours of presentations, discussions and networking focused on association websites and digital properties.</b></p> <p>Our first MavenMini is August 11th on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-web-user-experience-tickets-26372889021\">Web User Experience</a>.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Websites<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Digital Marketing<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Tools &amp; Management<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Topics</b></p> <p><i>Call for Speakers: </i>We are looking for presentations that present new information, a unique approach, a detailed overview of a complex element, etc. See below for more information.</p> <p>These are guiding topic descriptions -\u00a0in draft form - and are not complete lists.</p> <p><i>Session\u00a01:\u00a0Websites </i><br/>Redesigns, website tuning, responsive design</p> <p><i>Session 2:\u00a0Digital Marketing<br/></i>Newsletters, email marketing, integrated communications, advocacy, calls-to-action.</p> <p><i>Session 3: Tools &amp; Site Management </i><br/>Integrating external tools with web properties (AMS, eLearning, etc), website management and governance</p> <p><b>Call for Speakers</b></p> <p>Note: We are particularly interested in association staff presenters.\u00a0</p> <p>Talks should meet one of these criteria:\u00a0</p> <p><br/>\u00a0 - Gives new information or shows an innovative approach to established techniques<br/>\u00a0 - Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>\u00a0 - Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><b><i>Topic Areas</i></b></p> <p>Coming soon. Feel free to suggest something.</p> <p>For more information, email [masked]. Please include your topic idea/ideas and background.</p>", 
+            "description": "<p>NOTE: You must register on\u00a0<a href=\"http://www.eventbrite.com/e/maven-mini-content-strategy-cms-tickets-26415816418\">Eventbrite</a>.\u00a0</p> <p><br/><b>== MavenMini: Association Web Mini-Conference ==</b></p> <p><br/>Five hours of presentations, discussions and networking focused on association websites and digital properties.</p> <p><b>&gt;</b> Meet your association peers and share stories over dinner, drinks and dessert.<br/><b>&gt;</b> Listen to sessions focused on the specific needs and interests of associations.<br/><b>&gt;</b> Hear talks from other association leaders, from experts in association websites and from thought leaders.<br/><b>&gt;</b> Follow-up with fellow attendees after the event.</p> <p><br/><b>AGENDA</b></p> <p><br/>4:00 - Registration and Networking\u00a0\u00a0</p> <p>4:30 - Session\u00a01:\u00a0Websites\u00a0</p> <p>Topics such as: redesigns, website tuning, responsive design, member-only areas, etc.</p> <p>5:30 - Networking and Light Dinner\u00a0\u00a0</p> <p>6:00 - Session 2: Digital Marketing\u00a0</p> <p>Topics such as newsletters, email marketing, integrated communications, advocacy, calls-to-action, etc.</p> <p>7:00 - Networking Over Cocktails\u00a0\u00a0</p> <p>7:30 - Session 3: Tools &amp; Management\u00a0</p> <p>Topics such as integrating external tools with web properties (AMS, eLearning, etc), website management and governance, etc.</p> <p>8:30 - Networking Over Coffee &amp; Dessert\u00a0</p> <p>9:00 - Adjourn</p> <p>\n\n<b>CALL FOR SPEAKERS\u00a0</b></p> <p><b>Association Staff</b></p> <p><br/>We are looking for association staff to share ideas and experiences. New speakers welcome.</p> <p>An ideal talk discusses new information, a unique approach to established techniques, presents a though-provoking idea (in an actionable context), a detailed overview of a complex element, etc.\u00a0</p> <p><br/>Talks should speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><br/><i>For more information, email [masked]. Please include your topic idea/ideas and background.</i></p> <p><b>Other Attendees</b></p> <p>For the most part, speaking slots will be filled by association staff and speakers provided by our event sponsors. However, there may be opportunities if we cannot find association staff to present.\u00a0</p> <p><i>Email [masked] with information on your background and where you might be a fit for the discussion.\u00a0</i></p> <p><b>Sponsoring the Event</b></p> <p>We are looking for event sponsors. Email [masked] for more information.</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/232383194/", 
             "group": {
                 "created": 1189804715000, 
@@ -1260,20 +1302,19 @@
             "name": "MavenMini: Association Web", 
             "status": "upcoming", 
             "time": 1479416400000, 
-            "updated": 1476375119000, 
+            "updated": 1476760124000, 
             "utc_offset": -18000000, 
             "venue": {
-                "address_1": "1401 I Street, NW, Suite 400", 
+                "address_1": "1133 15th St NW (2th Floor)", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 2316151, 
-                "lat": 38.901665000000001, 
+                "id": 24803402, 
+                "lat": 38.919181999999999, 
                 "localized_country_name": "USA", 
-                "lon": -77.032416999999995, 
-                "name": "The Creative Group", 
+                "lon": -76.982039999999998, 
+                "name": "NYC-DA", 
                 "repinned": false, 
-                "state": "DC", 
-                "zip": "20533"
+                "state": "DC"
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -1316,7 +1357,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1326383071000, 
@@ -1472,6 +1513,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1467833256000, 
+            "description": "<p>(We haven't finalized a date. You are welcome to register but be aware that are in the planning stages and information is preliminary)</p> <p>Registration is through\u00a0<a href=\"https://www.eventbrite.com/e/mavenmini-nonprofit-web-tickets-26449911397\">Eventbrite </a></p> <p><br/>Looking for the Association Web mini-conference? <a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\">Here</a></p> <p><b>== MavenMini: Nonprofit\u00a0Web Mini-Conference ==</b></p> <p><b>Five hours of presentations, discussions and networking focused on both nonprofit websites and digital marketing, advocacy &amp; engagement tools<br/></b></p> <p>&gt; Meet your nonprofit peers and share stories over dinner, drinks and dessert.<br/>&gt; Listen to sessions focused on the specific needs and interests of nonprofits.<br/>&gt; Hear talks from other nonprofit leaders, from experts in nonprofits websites and from thought leaders.<br/>&gt; Follow-up with fellow attendees after the event.</p> <p><b>Agenda</b></p> <p>4:00 - Registration and Networking\u00a0<br/>4:30 - Session\u00a01:\u00a0Websites<br/>5:30 - Networking and Light Dinner\u00a0<br/>6:00 - Session 2: Digital Marketing, Advocacy and Engagement<br/>7:00 - Networking Over Cocktails\u00a0<br/>7:30 - Session 3: Tools and Integrated Marketing<br/>8:30 - Networking Over Coffee &amp; Dessert<br/>9:00 - Adjourn</p> <p><b>Call for Speakers &amp; Topics</b></p> <p>We are looking for speakers on the topics below.</p> <p>We are interested in hearing from nonprofit staff. You do not need to be an experienced speaker!! This is a small conference and a great opportunity for you to get your feet wet with speaking to a group.</p> <p>Generally, talks range from 15-25 minutes and should include a slideshow or other visual presentation.</p> <p><i>\u00a0<b>Criteria</b></i></p> <p>\u00a0Talks should meet one of these criteria:</p> <p>- Gives new information or shows an innovative approach to established techniques<br/>- Presents a thought provoking or intriguing idea in an actionable context (i.e. inclusive design as a theory and how to put it in practice)<br/>- Applies complex technique to a range applications</p> <p>Talks should also speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc. We are specifically looking for nonprofit staff to participate. You do not need to be an experienced speaker.</p> <p><i><b>Topics</b></i></p> <p>These are just guiding topic descriptions - not intended to be exhaustive or literal.</p> <p><i>Session\u00a01:\u00a0Websites<br/></i>Topics such as: redesigns, building community, conference sites, etc</p> <p><i>Session 2:\u00a0Digital Marketing<br/></i>Topics such as newsletters, email marketing, integrated communications, advocacy, converting prospects, etc.</p> <p><i>Session 3: Tools &amp; CRM<br/></i>Topics such as integrating external tools with web properties (CRMs, etc), website management and governance, persuading leadership, etc.</p> <p>For more information on speaking, email [masked]. Please include a topic sentence (or topic idea/ideas) and a brief background. If you have several ideas/topics, share them all!</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/232424128/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "232424128", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: Nonprofit Web [date TBD]", 
+            "status": "upcoming", 
+            "time": 1486069200000, 
+            "updated": 1476759009000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1133 15th St NW (2th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24803402, 
+                "lat": 38.919181999999999, 
+                "localized_country_name": "USA", 
+                "lon": -76.982039999999998, 
+                "name": "NYC-DA", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1326383071000, 
