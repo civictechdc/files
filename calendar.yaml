@@ -156,7 +156,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 32
 - created: 1474985603000
   description: "<p>Want to come to more Women Who Code meetups but live in Northern\
     \ Virginia and not near Metro? We\u2019ve got you covered! We\u2019re kicking\
@@ -226,7 +226,7 @@ other:
     lon: 0, name: Virtual Google Hangouts, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1468853724000
   description: "<p><b>Come work on that coding project you've been neglecting, or\
     \ those coding challenges you've been working through--or just bring your questions!</b></p>\
@@ -301,24 +301,26 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 35
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
-    >Eventbrite</a>\_to attend.</p> <p><br/>Limited to 40 attendees.\_</p> <p>A mini-conference\
-    \ focused on search, SEO, Google tips &amp; tricks, and how to structure your\
-    \ content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>-\
-    \ 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/><b>3:15\
-    \ -\_</b>Pre-Session - Search 101 (optional)</p> <p>Option overview of search\
-    \ terminology and basics, intended for digital professionals who simply aren't\
-    \ as familiar with the intricacies of search.</p> <p><b>3:45 -\_</b>Registration\
-    \ &amp; Networking</p> <p><b>4:00 - </b>SESSION 1: Planning for SEO and Knowing\
-    \ the Trends</p> <p><b>Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><b>5:00\
-    \ -\_</b>Networking &amp; Snacks</p> <p><b>5:30 - </b>SESSION 2: Keywords and\
-    \ Writing for Google</p> <p><b>John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p>\
-    \ <p><b>6:30 -\_</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - </b>SESSION\
-    \ 3: Measure and Tune Your SEO</p> <p><b>Freddie Belcher</b><br/>Senior Manager,\
-    \ SEO &amp; Analytics, Marriott and Ritz-Carlton</p> <p><b>8:00 -\_</b>Networking\
-    \ &amp; Dessert</p> <p><b>8:30 -\_</b>Adjourn\_</p>"
+    >Eventbrite</a>\_to attend.\_</p> <p><br/>Limited to 40 attendees.\_</p> <p>A\
+    \ mini-conference focused on search, SEO, Google tips &amp; tricks, and how to\
+    \ structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>-\
+    \ 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p>\
+    \ <p><br/><b>3:15 -\_</b>Pre-Session - Search 101 (optional)</p> <p>Option overview\
+    \ of search terminology and basics, intended for digital professionals who simply\
+    \ aren't as familiar with the intricacies of search.</p> <p><b>3:45 -\_</b>Registration\
+    \ &amp; Networking</p> <p><b>4:00 - Session 1: Planning for SEO</b></p> <p><b>&gt;\
+    \ Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><b>&gt; Bruce Namerow</b><br/>Founder\
+    \ &amp; Chief Strategist, Interactive Strategies</p> <p><br/><b>5:00 -\_</b>Networking\
+    \ &amp; Snacks</p> <p><b>5:30 - Session 2: Keywords and Writing for Google</b></p>\
+    \ <p><b>&gt; John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p> <p><b>&gt;\
+    \ Megan Furey<br/></b>SEO Analyst, Knucklepuck Media</p> <p><b>6:30 -\_</b>Networking,\
+    \ Drinks &amp; Light Dinner</p> <p><b>7:00 - Session 3: Measure and Tune Your\
+    \ SEO</b></p> <p><b>&gt; Freddie Belcher</b><br/>Senior Manager, SEO &amp; Analytics,\
+    \ Marriott and Ritz-Carlton</p> <p><b>8:00 -\_</b>Networking &amp; Dessert</p>\
+    \ <p><b>8:30 -\_</b>Adjourn\_</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/233376476/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -329,7 +331,7 @@ other:
   name: 'MavenMini: SEO and Search-Friendly Content'
   status: upcoming
   time: 1476990000000
-  updated: 1476721972000
+  updated: 1476748638000
   utc_offset: -14400000
   venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
     id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
@@ -385,7 +387,7 @@ other:
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 17
+  waitlist_count: 21
   yes_rsvp_count: 100
 - created: 1475453045000
   description: "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\"\
@@ -421,7 +423,7 @@ other:
     name: Dechert LPP, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -581,7 +583,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 51
+  waitlist_count: 54
   yes_rsvp_count: 100
 - created: 1476319672000
   description: "<p>For our October Data Science DC Meetup, we are excited to have\
@@ -659,7 +661,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 237
+  yes_rsvp_count: 243
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -720,7 +722,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 110
+  yes_rsvp_count: 112
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -756,6 +758,46 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 5
+- created: 1476733076000
+  description: "<p><a href=\"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4\"\
+    \ class=\"linkified\">https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4</a></p>\
+    \ <p>In this new era of smartphones, personalization, and efficiency, it\u2019\
+    s becoming increasingly difficult for attorneys and law firms to give their clients\
+    \ the services that they demand. Experts point to the increasing price, the low\
+    \ accessibility, and the inconveniences of the current legal industry as reasons,\
+    \ but all of these aspects encompass a common core problem \u2013 a lack of client-driven\
+    \ technology solutions. Join our expert panel to see where the future of law is\
+    \ headed and explore new innovations that are available for attorneys to use to\
+    \ help their clients.</p> <p><br/>6:00 Demo Tables for Innovators &amp; Sponsors\
+    \ during Networking</p> <p>6:50 Welcome \u2013 Evolve Law</p> <p>7:00 Expert Panel:\
+    \ Client Driven Technology</p> <p>Moderator: Joel Mier,\_<a href=\"https://www.contactually.com/\"\
+    >Contactually</a></p> <p>Panelists:<br/>Abe Geiger,\_<a href=\"https://www.legalshield.com/\"\
+    >LegalShield</a><br/>Mary Juetten,\_<a href=\"http://www.traklight.com/\">Traklight</a><br/>Tanina\
+    \ Rostain,\_<a href=\"https://www.law.georgetown.edu/\">Georgetown Law</a></p>\
+    \ <p>8:00 Darwin Talk \u2013 Selling Simply, Jay Guiliano,\_<a href=\"http://patdek.com/\"\
+    >PatDek</a></p> <p>8:10 Networking &amp; Demo Tables</p> <p><b>Register Here:\_\
+    <a href=\"https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463\"\
+    ><a href=\"https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463\"\
+    \ class=\"linkified\">https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463</a></a></b></p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/DCLegalHackers/events/234924689/
+  group: {created: 1372871984000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 9201422, join_mode: open, name: DCLegalHackers, urlname: DCLegalHackers, who: Legal
+      Hackers}
+  headcount: 0
+  id: '234924689'
+  maybe_rsvp_count: 0
+  name: Technology Driven Client Solutions presented by EvolveLaw
+  status: upcoming
+  time: 1477519200000
+  updated: 1476733214000
+  utc_offset: -14400000
+  venue: {address_1: 1875 K Street Northwest, city: Washington, country: us, id: 24851111,
+    lat: 38.902957999999998, localized_country_name: USA, lon: -77.043036999999998,
+    name: WeWork, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1468853724000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -923,7 +965,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -955,7 +997,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1022,7 +1064,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1072,7 +1114,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 34
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1087,7 +1129,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpblb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234927508/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1102,7 +1144,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1124,7 +1166,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvpbmb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234927519/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1138,7 +1180,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -1406,7 +1448,7 @@ other:
     name: NAVA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
