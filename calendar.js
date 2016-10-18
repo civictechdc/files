@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 87
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 12
         }, 
         {
             "announced": true, 
@@ -120,7 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "announced": true, 
@@ -160,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 11
         }, 
         {
             "announced": true, 
@@ -201,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }
     ], 
     "other": [
@@ -270,7 +270,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -427,11 +427,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1476305244000, 
-            "description": "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\">DevFestDC</a> and thanks for all who came by and participated, networked and enjoyed! Folks who missed the DevFestDC Lanyards, please come to this Meetup!!</p> <p>Anyone who missed explosive session and Code Labs from Ray Tsang from Google, he is coming down here again.\u00a0</p> <p>Location: Google Reston, 1875, Explorer St, Reston, VA</p> <p>Date: Thu, 20th October,2016, 6:30 PM</p> <p>Title: Micro-datacenter with Raspberry Pi and Kubernetes</p> <p>Subtitle: <b>Let's play real chaos monkeys</b></p> <p><b>Description</b>: Kubernetes is a powerful, open source, container orchestration / cluster management tool created by Google. It drew upon all the lessons learned from a near-decade of using containers at Google. Kubernetes handles a number of failure scenarios gracefully, from a crashed process, to a failure of a cluster node. We'll show this through a real <b>Raspberry Pi</b> computing cluster that runs <b>Kubernetes</b> - and play a real-life chaos monkey by pulling the plugs!</p> <p>In this session, we'll look beyond container orchestration with Kubernetes, but also demonstrate its failure handling by pulling the plugs on random nodes from a <b>Raspberry Pi computing cluster</b>: - Overview of Kubernetes - Process resource isolation to prevent a run-away process affecting another - Use Replication controller to ensure a crashed process is restarted - Who wants to pull a network or power plug from a computing cluster? <b>Let's play real chaos monkeys</b>.</p> <p><br/>Speaker: \u00a0Ray Tsang, Google</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.</p> <p><br/>Sponsors: <a href=\"http://developers.google.com\">Google</a></p> <p>PS: Attendees who missed our DevFestDC Lanyards, come to get it in this event!</p>", 
+            "description": "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\">DevFestDC</a> and thanks for all who came by and participated, networked and enjoyed! Folks who missed the DevFestDC Lanyards, please come to this Meetup!!</p> <p>Anyone who missed explosive session and Code Labs from Ray Tsang from Google, he is coming down here again.\u00a0</p> <p>Location: Google Reston, 1875, Explorer St, Reston, VA</p> <p>Date: Thu, 20th October,2016, 6:30 PM</p> <p>Title: Micro-datacenter with Raspberry Pi and Kubernetes</p> <p>6:00-6:45 - Sign-in + Networking</p> <p>6:45 - Micro-datacenter with Raspberry Pi and Kubernetes,\u00a0Ray Tsang</p> <p>7:30 - Cluster Federation in Kubernetes -\u00a0Allan Naim, Google</p> <p>Subtitle: <b>Let's play real chaos monkeys</b></p> <p><b>Description</b>: Kubernetes is a powerful, open source, container orchestration / cluster management tool created by Google. It drew upon all the lessons learned from a near-decade of using containers at Google. Kubernetes handles a number of failure scenarios gracefully, from a crashed process, to a failure of a cluster node. We'll show this through a real <b>Raspberry Pi</b> computing cluster that runs <b>Kubernetes</b> - and play a real-life chaos monkey by pulling the plugs!</p> <p>In this session, we'll look beyond container orchestration with Kubernetes, but also demonstrate its failure handling by pulling the plugs on random nodes from a <b>Raspberry Pi computing cluster</b>: - Overview of Kubernetes - Process resource isolation to prevent a run-away process affecting another - Use Replication controller to ensure a crashed process is restarted - Who wants to pull a network or power plug from a computing cluster? <b>Let's play real chaos monkeys</b>.</p> <p><br/>Speaker: \u00a0Ray Tsang, Google</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.</p> <p><br/>Sponsors: <a href=\"http://developers.google.com\">Google</a></p> <p>PS: Attendees who missed our DevFestDC Lanyards, come to get it in this event!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/gdg-dc/events/234811961/", 
             "group": {
@@ -448,11 +448,11 @@ calendar({
             "how_to_find_us": "Kubernetes, Containers, DevOps, GKE, Google Cloud", 
             "id": "234811961", 
             "maybe_rsvp_count": 0, 
-            "name": "Micro-datacenter with Raspberry Pi and Kubernetes", 
+            "name": "Micro-datacenter with Raspberry Pi and Kubernetes + Cluster Federation", 
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1477002600000, 
-            "updated": 1476370000000, 
+            "updated": 1476801396000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Explorer St", 
@@ -467,7 +467,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 22, 
+            "waitlist_count": 24, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -545,7 +545,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1475170545000, 
@@ -624,7 +624,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 54, 
+            "waitlist_count": 56, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -666,7 +666,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 246
+            "yes_rsvp_count": 252
         }, 
         {
             "created": 1475597533000, 
@@ -747,7 +747,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1476733076000, 
@@ -813,7 +813,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459265642000, 
@@ -959,7 +959,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1475704079000, 
@@ -1038,7 +1038,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1459265642000, 
@@ -1357,7 +1357,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1326383071000, 
