@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 94
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 17
         }, 
         {
             "announced": true, 
@@ -309,7 +309,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1471287239000, 
@@ -370,10 +370,10 @@
             "id": "234811961", 
             "maybe_rsvp_count": 0, 
             "name": "Micro-datacenter with Raspberry Pi and Kubernetes + Cluster Federation", 
-            "rsvp_limit": 125, 
+            "rsvp_limit": 130, 
             "status": "upcoming", 
             "time": 1477002600000, 
-            "updated": 1476826057000, 
+            "updated": 1476908721000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Explorer St", 
@@ -388,8 +388,8 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 1, 
-            "yes_rsvp_count": 125
+            "waitlist_count": 2, 
+            "yes_rsvp_count": 130
         }, 
         {
             "created": 1475453045000, 
@@ -466,7 +466,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1475170545000, 
@@ -506,7 +506,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1473454402000, 
@@ -545,7 +545,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 57, 
+            "waitlist_count": 58, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -587,7 +587,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 262
+            "yes_rsvp_count": 280
         }, 
         {
             "created": 1475597533000, 
@@ -628,7 +628,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 116
+            "yes_rsvp_count": 120
         }, 
         {
             "created": 1459265642000, 
@@ -774,7 +774,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1459265642000, 
@@ -841,7 +841,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1446219481000, 
@@ -881,7 +881,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1326383071000, 
@@ -959,7 +959,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1457392514000, 
@@ -1279,7 +1279,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1471280434000, 

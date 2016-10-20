@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 91
+  yes_rsvp_count: 94
 - announced: true
   created: 1476764652000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -77,7 +77,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 17
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -313,7 +313,7 @@ other:
     name: Blackstone Technology Group, repinned: false}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 34
 - created: 1471287239000
   description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
     >Eventbrite</a>\_to attend.\_</p> <p><br/>Limited to 40 attendees.\_</p> <p>A\
@@ -398,17 +398,17 @@ other:
   id: '234811961'
   maybe_rsvp_count: 0
   name: Micro-datacenter with Raspberry Pi and Kubernetes + Cluster Federation
-  rsvp_limit: 125
+  rsvp_limit: 130
   status: upcoming
   time: 1477002600000
-  updated: 1476826057000
+  updated: 1476908721000
   utc_offset: -14400000
   venue: {address_1: 1875 Explorer St, city: Reston, country: us, id: 24459459, lat: 38.958297999999999,
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 1
-  yes_rsvp_count: 125
+  waitlist_count: 2
+  yes_rsvp_count: 130
 - created: 1475453045000
   description: "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\"\
     \ /></p> <p>Legal hackathons have been called \u201Cinnovation labs for the legal\
@@ -490,7 +490,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1475170545000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This\
@@ -527,7 +527,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 35
+  yes_rsvp_count: 37
 - created: 1473454402000
   description: "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design\
     \ Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio\
@@ -603,7 +603,7 @@ other:
     id: 24185893, lat: 38.908957999999998, localized_country_name: USA, lon: -77.042197999999999,
     name: CHIEF, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 57
+  waitlist_count: 58
   yes_rsvp_count: 100
 - created: 1476319672000
   description: "<p>For our October Data Science DC Meetup, we are excited to have\
@@ -681,7 +681,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 262
+  yes_rsvp_count: 280
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -742,7 +742,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 116
+  yes_rsvp_count: 120
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -881,7 +881,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 24
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -955,7 +955,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -987,7 +987,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 34
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1057,7 +1057,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 55
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1413,7 +1413,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1471280434000
   description: "<p>Accessibility is more than alt tags and even major companies are\
     \ failing at the most obvious code choices when it comes to doing more. This talk\
