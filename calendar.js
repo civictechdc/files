@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 94
+            "yes_rsvp_count": 93
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "announced": true, 
@@ -120,7 +120,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "announced": true, 
@@ -160,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "announced": true, 
@@ -235,7 +235,7 @@ calendar({
         }, 
         {
             "created": 1471287239000, 
-            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.\u00a0</p> <p><br/>Limited to 40 attendees.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/><b>3:15 - </b>Doors open</p> <p><b>3:20 -\u00a0</b>Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p><b>3:40 -\u00a0</b>Registration &amp; Networking</p> <p><b>4:00 - Session 1: Planning for SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/9/8/600_455194968.jpeg\" /></p> <p><b>Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/b/3/600_455194995.jpeg\" /></p> <p><br/><b>Bruce Namerow</b><br/>Founder &amp; Chief Strategist, Interactive Strategies</p> <p><br/><b>5:00 -\u00a0</b>Networking &amp; Snacks</p> <p><b>5:30 - Session 2: Keywords and Writing for Google</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/d/600_455194925.jpeg\" /></p> <p><b>John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/5/600_455194917.jpeg\" /></p> <p><b>Meghan Furey<br/></b>SEO Analyst, Knucklepuck Media</p> <p><b>6:30 -\u00a0</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - Session 3: Measure and Tune Your SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/9/0/3/600_455195075.jpeg\" /></p> <p><b>Freddie Bilcher</b><br/>Senior Manager, SEO &amp; Analytics, Marriott and Ritz-Carlton</p> <p><b>8:00 -\u00a0</b>Networking &amp; Dessert</p> <p><b>8:30 -\u00a0</b>Adjourn\u00a0</p>", 
+            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.\u00a0</p> <p><br/>Limited to 40 attendees.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/><b>3:15 - </b>Doors open</p> <p><b>3:20 -\u00a0</b>Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p><b>3:40 -\u00a0</b>Registration &amp; Networking</p> <p><b>4:00 - Session 1: Planning for SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/9/8/600_455194968.jpeg\" /></p> <p><b>Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/b/3/600_455194995.jpeg\" /></p> <p><br/><b>Bruce Namerow</b><br/>Founder &amp; Chief Strategist, Interactive Strategies</p> <p><br/><b>5:00 -\u00a0</b>Networking &amp; Snacks</p> <p><b>5:30 - Session 2: Keywords and Writing for Google</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/d/600_455194925.jpeg\" /></p> <p><b>John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/5/600_455194917.jpeg\" /></p> <p><b>Meghan Furey<br/></b>SEO Analyst, Knucklepuck Media</p> <p><b>6:30 -\u00a0</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - Session 3: Measure and Tune Your SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/9/0/3/600_455195075.jpeg\" /></p> <p><b>Freddie Blicher</b><br/>Senior Manager, SEO &amp; Analytics, Marriott and Ritz-Carlton</p> <p><b>8:00 -\u00a0</b>Networking &amp; Dessert</p> <p><b>8:30 -\u00a0</b>Adjourn\u00a0</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
             "group": {
                 "created": 1189804715000, 
@@ -253,7 +253,7 @@ calendar({
             "name": "MavenMini: SEO and Search-Friendly Content", 
             "status": "upcoming", 
             "time": 1476990000000, 
-            "updated": 1476825475000, 
+            "updated": 1476977995000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1401 I Street, NW, Suite 400", 
@@ -270,7 +270,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1476305244000, 
@@ -310,7 +310,7 @@ calendar({
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 7, 
+            "waitlist_count": 5, 
             "yes_rsvp_count": 130
         }, 
         {
@@ -350,7 +350,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1470699270000, 
@@ -428,7 +428,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1473454402000, 
@@ -467,7 +467,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 58, 
+            "waitlist_count": 61, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -509,7 +509,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 313
+            "yes_rsvp_count": 335
         }, 
         {
             "created": 1475597533000, 
@@ -550,7 +550,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 127
+            "yes_rsvp_count": 138
         }, 
         {
             "created": 1459265642000, 
@@ -656,7 +656,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1476814959000, 
@@ -696,7 +696,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1459265642000, 
@@ -803,7 +803,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1326383071000, 
@@ -881,7 +881,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1457392514000, 
@@ -921,7 +921,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1459265642000, 
@@ -1240,7 +1240,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457965726000, 
@@ -1377,7 +1377,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1326383071000, 
