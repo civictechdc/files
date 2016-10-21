@@ -2,47 +2,6 @@ calendar({
     "codefordc": [
         {
             "announced": true, 
-            "created": 1474863220000, 
-            "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/234407027/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "234407027", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1477002600000, 
-            "updated": 1474863220000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 97
-        }, 
-        {
-            "announced": true, 
             "created": 1476764652000, 
             "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\u00a0<a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\"><a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>", 
             "duration": 9900000, 
@@ -79,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "announced": true, 
@@ -160,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "announced": true, 
@@ -232,47 +191,6 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 32
-        }, 
-        {
-            "created": 1476305244000, 
-            "description": "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\">DevFestDC</a> and thanks for all who came by and participated, networked and enjoyed! Folks who missed the DevFestDC Lanyards, please come to this Meetup!!</p> <p>Anyone who missed explosive session and Code Labs from Ray Tsang from Google, he is coming down here again.\u00a0</p> <p>Location: Google Reston, 1875, Explorer St, Reston, VA</p> <p>Date: Thu, 20th October,2016, 6:30 PM</p> <p>Title: Micro-datacenter with Raspberry Pi and Kubernetes</p> <p>6:00-6:45 - Sign-in + Networking</p> <p>6:45 - Micro-datacenter with Raspberry Pi and Kubernetes,\u00a0Ray Tsang</p> <p>7:30 - Cluster Federation in Kubernetes -\u00a0Allan Naim, Google</p> <p>Subtitle: <b>Let's play real chaos monkeys</b></p> <p><b>Description</b>: Kubernetes is a powerful, open source, container orchestration / cluster management tool created by Google. It drew upon all the lessons learned from a near-decade of using containers at Google. Kubernetes handles a number of failure scenarios gracefully, from a crashed process, to a failure of a cluster node. We'll show this through a real <b>Raspberry Pi</b> computing cluster that runs <b>Kubernetes</b> - and play a real-life chaos monkey by pulling the plugs!</p> <p>In this session, we'll look beyond container orchestration with Kubernetes, but also demonstrate its failure handling by pulling the plugs on random nodes from a <b>Raspberry Pi computing cluster</b>: - Overview of Kubernetes - Process resource isolation to prevent a run-away process affecting another - Use Replication controller to ensure a crashed process is restarted - Who wants to pull a network or power plug from a computing cluster? <b>Let's play real chaos monkeys</b>.</p> <p><br/>Speaker: \u00a0Ray Tsang, Google</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.</p> <p><br/>Sponsors: <a href=\"http://developers.google.com\">Google</a></p> <p>PS: Attendees who missed our DevFestDC Lanyards, come to get it in this event!</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/234811961/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Kubernetes, Containers, DevOps, GKE, Google Cloud", 
-            "id": "234811961", 
-            "maybe_rsvp_count": 0, 
-            "name": "Micro-datacenter with Raspberry Pi and Kubernetes + Cluster Federation", 
-            "rsvp_limit": 135, 
-            "status": "upcoming", 
-            "time": 1477002600000, 
-            "updated": 1476999244000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1875 Explorer St", 
-                "city": "Reston", 
-                "country": "us", 
-                "id": 24459459, 
-                "lat": 38.958297999999999, 
-                "localized_country_name": "USA", 
-                "lon": -77.360236999999998, 
-                "name": "Google Reston", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 131
         }, 
         {
             "created": 1475453045000, 
@@ -428,7 +346,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 61, 
+            "waitlist_count": 62, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -470,7 +388,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 343
+            "yes_rsvp_count": 349
         }, 
         {
             "created": 1475597533000, 
@@ -511,7 +429,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 140
+            "yes_rsvp_count": 141
         }, 
         {
             "created": 1459265642000, 
@@ -590,11 +508,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1468853724000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop with Ruby on Rails installed (<a href=\"http://installrails.com/\">instructions</a>)\u00a0to the event so you can participate in the workshop!</p> <p>WeddingWire is located on the 3rd floor of the Chevy Chase Metro Building at 2 Wisconsin Circle. We will be in a conference room named \"Weddings\" - follow the Women Who Code signs to get to the conference room once you get to the 3rd floor. If you need assistance, please call or text Mary-Katherine at[masked]-7944.</p> <p>Looking for something else to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234696135/", 
             "group": {
@@ -610,14 +528,14 @@ calendar({
             "headcount": 0, 
             "id": "bmvvbmyvnbjc", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Ruby on Rails: Build a To Do List App", 
             "status": "upcoming", 
             "time": 1477521000000, 
-            "updated": 1476369329000, 
+            "updated": 1477012789000, 
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1476814959000, 
@@ -764,7 +682,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1326383071000, 
@@ -842,7 +760,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1457392514000, 
