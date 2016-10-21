@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 93
+            "yes_rsvp_count": 97
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "announced": true, 
@@ -120,7 +120,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "announced": true, 
@@ -234,45 +234,6 @@
             "yes_rsvp_count": 32
         }, 
         {
-            "created": 1471287239000, 
-            "description": "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\">Eventbrite</a>\u00a0to attend.\u00a0</p> <p><br/>Limited to 40 attendees.\u00a0</p> <p>A mini-conference focused on search, SEO, Google tips &amp; tricks, and how to structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>- 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p> <p><br/><b>3:15 - </b>Doors open</p> <p><b>3:20 -\u00a0</b>Pre-Session - Search 101 (optional)</p> <p>Option overview of search terminology and basics, intended for digital professionals who simply aren't as familiar with the intricacies of search.</p> <p><b>3:40 -\u00a0</b>Registration &amp; Networking</p> <p><b>4:00 - Session 1: Planning for SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/9/8/600_455194968.jpeg\" /></p> <p><b>Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/b/3/600_455194995.jpeg\" /></p> <p><br/><b>Bruce Namerow</b><br/>Founder &amp; Chief Strategist, Interactive Strategies</p> <p><br/><b>5:00 -\u00a0</b>Networking &amp; Snacks</p> <p><b>5:30 - Session 2: Keywords and Writing for Google</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/d/600_455194925.jpeg\" /></p> <p><b>John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/5/600_455194917.jpeg\" /></p> <p><b>Meghan Furey<br/></b>SEO Analyst, Knucklepuck Media</p> <p><b>6:30 -\u00a0</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - Session 3: Measure and Tune Your SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/9/0/3/600_455195075.jpeg\" /></p> <p><b>Freddie Blicher</b><br/>Senior Manager, SEO &amp; Analytics, Marriott and Ritz-Carlton</p> <p><b>8:00 -\u00a0</b>Networking &amp; Dessert</p> <p><b>8:30 -\u00a0</b>Adjourn\u00a0</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/233376476/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "233376476", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: SEO and Search-Friendly Content", 
-            "status": "upcoming", 
-            "time": 1476990000000, 
-            "updated": 1476977995000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1401 I Street, NW, Suite 400", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 2316151, 
-                "lat": 38.901665000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.032416999999995, 
-                "name": "The Creative Group", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20533"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 34
-        }, 
-        {
             "created": 1476305244000, 
             "description": "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\">DevFestDC</a> and thanks for all who came by and participated, networked and enjoyed! Folks who missed the DevFestDC Lanyards, please come to this Meetup!!</p> <p>Anyone who missed explosive session and Code Labs from Ray Tsang from Google, he is coming down here again.\u00a0</p> <p>Location: Google Reston, 1875, Explorer St, Reston, VA</p> <p>Date: Thu, 20th October,2016, 6:30 PM</p> <p>Title: Micro-datacenter with Raspberry Pi and Kubernetes</p> <p>6:00-6:45 - Sign-in + Networking</p> <p>6:45 - Micro-datacenter with Raspberry Pi and Kubernetes,\u00a0Ray Tsang</p> <p>7:30 - Cluster Federation in Kubernetes -\u00a0Allan Naim, Google</p> <p>Subtitle: <b>Let's play real chaos monkeys</b></p> <p><b>Description</b>: Kubernetes is a powerful, open source, container orchestration / cluster management tool created by Google. It drew upon all the lessons learned from a near-decade of using containers at Google. Kubernetes handles a number of failure scenarios gracefully, from a crashed process, to a failure of a cluster node. We'll show this through a real <b>Raspberry Pi</b> computing cluster that runs <b>Kubernetes</b> - and play a real-life chaos monkey by pulling the plugs!</p> <p>In this session, we'll look beyond container orchestration with Kubernetes, but also demonstrate its failure handling by pulling the plugs on random nodes from a <b>Raspberry Pi computing cluster</b>: - Overview of Kubernetes - Process resource isolation to prevent a run-away process affecting another - Use Replication controller to ensure a crashed process is restarted - Who wants to pull a network or power plug from a computing cluster? <b>Let's play real chaos monkeys</b>.</p> <p><br/>Speaker: \u00a0Ray Tsang, Google</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/a/4/b/4/600_439242164.jpeg\" /></p> <p>Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.</p> <p><br/>Sponsors: <a href=\"http://developers.google.com\">Google</a></p> <p>PS: Attendees who missed our DevFestDC Lanyards, come to get it in this event!</p>", 
             "duration": 7200000, 
@@ -292,10 +253,10 @@
             "id": "234811961", 
             "maybe_rsvp_count": 0, 
             "name": "Micro-datacenter with Raspberry Pi and Kubernetes + Cluster Federation", 
-            "rsvp_limit": 130, 
+            "rsvp_limit": 135, 
             "status": "upcoming", 
             "time": 1477002600000, 
-            "updated": 1476908721000, 
+            "updated": 1476999244000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Explorer St", 
@@ -310,8 +271,8 @@
                 "state": "VA"
             }, 
             "visibility": "public", 
-            "waitlist_count": 5, 
-            "yes_rsvp_count": 130
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 131
         }, 
         {
             "created": 1475453045000, 
@@ -509,7 +470,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 335
+            "yes_rsvp_count": 343
         }, 
         {
             "created": 1475597533000, 
@@ -550,7 +511,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 138
+            "yes_rsvp_count": 140
         }, 
         {
             "created": 1459265642000, 
@@ -656,7 +617,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1476814959000, 
@@ -696,7 +657,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1459265642000, 
@@ -803,7 +764,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1326383071000, 
@@ -842,7 +803,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1475704079000, 
@@ -1377,7 +1338,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1326383071000, 

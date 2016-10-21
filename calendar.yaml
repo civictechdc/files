@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 93
+  yes_rsvp_count: 97
 - announced: true
   created: 1476764652000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -77,7 +77,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 19
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -115,7 +115,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -239,48 +239,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 32
-- created: 1471287239000
-  description: "<p>You MUST register on <a href=\"http://www.eventbrite.com/e/mavenmini-seo-and-search-friendly-content-tickets-26792825061\"\
-    >Eventbrite</a>\_to attend.\_</p> <p><br/>Limited to 40 attendees.\_</p> <p>A\
-    \ mini-conference focused on search, SEO, Google tips &amp; tricks, and how to\
-    \ structure your content for effective search.</p> <p>- 5 hours<br/>- 3 sessions<br/>-\
-    \ 5 speakers<br/>- 3 networking sessions with food &amp; drink</p> <p><b>Agenda</b></p>\
-    \ <p><br/><b>3:15 - </b>Doors open</p> <p><b>3:20 -\_</b>Pre-Session - Search\
-    \ 101 (optional)</p> <p>Option overview of search terminology and basics, intended\
-    \ for digital professionals who simply aren't as familiar with the intricacies\
-    \ of search.</p> <p><b>3:40 -\_</b>Registration &amp; Networking</p> <p><b>4:00\
-    \ - Session 1: Planning for SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/9/8/600_455194968.jpeg\"\
-    \ /></p> <p><b>Sajad Ghanizada</b><br/>Growth Engineer, Hurdlr</p> <p><img src=\"\
-    https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/b/3/600_455194995.jpeg\"\
-    \ /></p> <p><br/><b>Bruce Namerow</b><br/>Founder &amp; Chief Strategist, Interactive\
-    \ Strategies</p> <p><br/><b>5:00 -\_</b>Networking &amp; Snacks</p> <p><b>5:30\
-    \ - Session 2: Keywords and Writing for Google</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/d/600_455194925.jpeg\"\
-    \ /></p> <p><b>John Yeung</b><br/>Senior Marketing Analyst, WeddingWire</p> <p><img\
-    \ src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/8/6/5/600_455194917.jpeg\"\
-    \ /></p> <p><b>Meghan Furey<br/></b>SEO Analyst, Knucklepuck Media</p> <p><b>6:30\
-    \ -\_</b>Networking, Drinks &amp; Light Dinner</p> <p><b>7:00 - Session 3: Measure\
-    \ and Tune Your SEO</b></p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/9/0/3/600_455195075.jpeg\"\
-    \ /></p> <p><b>Freddie Blicher</b><br/>Senior Manager, SEO &amp; Analytics, Marriott\
-    \ and Ritz-Carlton</p> <p><b>8:00 -\_</b>Networking &amp; Dessert</p> <p><b>8:30\
-    \ -\_</b>Adjourn\_</p>"
-  event_url: http://www.meetup.com/webcontentmavens/events/233376476/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '233376476'
-  maybe_rsvp_count: 0
-  name: 'MavenMini: SEO and Search-Friendly Content'
-  status: upcoming
-  time: 1476990000000
-  updated: 1476977995000
-  utc_offset: -14400000
-  venue: {address_1: '1401 I Street, NW, Suite 400', city: Washington, country: us,
-    id: 2316151, lat: 38.901665000000001, localized_country_name: USA, lon: -77.032416999999995,
-    name: The Creative Group, repinned: false, state: DC, zip: '20533'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 34
 - created: 1476305244000
   description: "<p>Friends,</p> <p>We all had a great <a href=\"http://www.devfestdc.org\"\
     >DevFestDC</a> and thanks for all who came by and participated, networked and\
@@ -323,17 +281,17 @@ other:
   id: '234811961'
   maybe_rsvp_count: 0
   name: Micro-datacenter with Raspberry Pi and Kubernetes + Cluster Federation
-  rsvp_limit: 130
+  rsvp_limit: 135
   status: upcoming
   time: 1477002600000
-  updated: 1476908721000
+  updated: 1476999244000
   utc_offset: -14400000
   venue: {address_1: 1875 Explorer St, city: Reston, country: us, id: 24459459, lat: 38.958297999999999,
     localized_country_name: USA, lon: -77.360236999999998, name: Google Reston, repinned: false,
     state: VA}
   visibility: public
-  waitlist_count: 5
-  yes_rsvp_count: 130
+  waitlist_count: 0
+  yes_rsvp_count: 131
 - created: 1475453045000
   description: "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\"\
     \ /></p> <p>Legal hackathons have been called \u201Cinnovation labs for the legal\
@@ -606,7 +564,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 335
+  yes_rsvp_count: 343
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -667,7 +625,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 138
+  yes_rsvp_count: 140
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -778,7 +736,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1476814959000
   description: "<p>Have you ever asked the question: \"How do I contribute to Open\
     \ Sourced Software (OSS) and projects?\"\_ This event is for you!</p> <p>This\
@@ -806,7 +764,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 28
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -912,7 +870,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 35
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -934,7 +892,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1475704079000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork\
@@ -1528,7 +1486,7 @@ other:
     name: Inovex Information Systems, repinned: false, state: MD, zip: '21076'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 36
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
