@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -319,7 +319,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 41
 - created: 1473454402000
   description: "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design\
     \ Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio\
@@ -473,7 +473,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 364
+  yes_rsvp_count: 367
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -569,7 +569,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 7
 - created: 1476733076000
   description: "<p><a href=\"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4\"\
     \ class=\"linkified\">https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4</a></p>\
@@ -658,7 +658,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 15
 - created: 1476814959000
   description: "<p>Have you ever asked the question: \"How do I contribute to Open\
     \ Sourced Software (OSS) and projects?\"\_ This event is for you!</p> <p>This\
@@ -686,7 +686,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 36
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -719,7 +719,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -795,7 +795,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -890,7 +890,7 @@ other:
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 38
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -940,7 +940,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 38
+  yes_rsvp_count: 39
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1318,7 +1318,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1389,7 +1389,7 @@ other:
     name: Inovex Information Systems, repinned: false, state: MD, zip: '21076'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
