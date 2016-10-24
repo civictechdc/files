@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 24
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "announced": true, 
@@ -160,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }
     ], 
     "other": [
@@ -229,45 +229,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
-        }, 
-        {
-            "created": 1470699270000, 
-            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "233220012", 
-            "maybe_rsvp_count": 0, 
-            "name": "Work The Room: Networking in the Wild", 
-            "status": "upcoming", 
-            "time": 1477346400000, 
-            "updated": 1476466371000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1203 19th St NW ", 
-                "city": "3rd floor", 
-                "country": "us", 
-                "id": 24145676, 
-                "lat": 38.905971999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.043205, 
-                "name": "Canvas Co/work ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1475170545000, 
@@ -307,11 +269,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1473454402000, 
-            "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/>Event Agenda</p> <p><br/>1. Brief Introduction -\u00a0About Tour De Code, WWC, AIGA</p> <p>2. Panel Presentation, Q &amp; A with guest panelists:<br/>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p>3. Networking Breakout</p> <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
+            "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/>Event Agenda\u00a0</p> <p><b>6:00PM:</b> Food and networking</p> <p><b>6:15PM:</b>\u00a0Brief Introduction -\u00a0About Tour De Code, WWC, AIGA\u00a0</p> <p><b>6:20PM:</b>\u00a0Panel Presentation, Q &amp; A with guest panelists:\u00a0</p> <p>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p><b>7:00PM:</b> Q&amp;A with panel presentation</p> <p><b>7:15PM:</b> Networking breakout; your opportunity to seek guidance on your developer or design portfolio</p> <p><b>8:30-9PM:</b> Networking and wrap-up</p> <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
             "duration": 9000000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234005278/", 
             "group": {
@@ -331,7 +293,7 @@ calendar({
             "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1477348200000, 
-            "updated": 1475030908000, 
+            "updated": 1477320918000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -346,7 +308,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 67, 
+            "waitlist_count": 57, 
             "yes_rsvp_count": 100
         }, 
         {
@@ -388,7 +350,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 379
+            "yes_rsvp_count": 395
         }, 
         {
             "created": 1475597533000, 
@@ -429,7 +391,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 149
+            "yes_rsvp_count": 158
         }, 
         {
             "created": 1459265642000, 
@@ -469,7 +431,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1476733076000, 
@@ -535,7 +497,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1476814959000, 
@@ -575,7 +537,85 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 42
+        }, 
+        {
+            "created": 1477323682000, 
+            "description": "<p><b>Happy Halloween!</b> Come code with us in your Halloween costume (highly encouraged but not required)! No tricks, and treats will be provided.</p> <p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/235080762/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "235080762", 
+            "maybe_rsvp_count": 0, 
+            "name": "Code + Costume: Front End Lab", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1477953000000, 
+            "updated": 1477323707000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1919 N. Lynn Street. Arlington, VA 22209", 
+                "city": "Arlington", 
+                "country": "us", 
+                "id": 24401587, 
+                "lat": 38.897694000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.070335, 
+                "name": "Deloitte Digital - Rosslyn", 
+                "repinned": false, 
+                "state": "VA"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1470699270000, 
+            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "233220012", 
+            "maybe_rsvp_count": 0, 
+            "name": "Work The Room: Networking in the Wild", 
+            "status": "upcoming", 
+            "time": 1478037600000, 
+            "updated": 1477315219000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1133 15th St NW (2th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24803402, 
+                "lat": 38.919181999999999, 
+                "localized_country_name": "USA", 
+                "lon": -76.982039999999998, 
+                "name": "NYCDA", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1459265642000, 
@@ -694,11 +734,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>With the election less than a week away, this month we are focusing on election mapping!</p> <p><a href=\"https://twitter.com/dereklieu\">Derek Lieu</a> from Development Seed will be giving a talk entitled \"<i>Election Mapping in the Open Source Era</i>,\" discussing his role in creating the election maps for the Washington Post and the impact on the Open Source community.</p> <p>Michelle Kinzer from (potential, future VP) Tim Kaine's Senatorial Office will be discussing mapping for constituents in VA.</p> <p><br/>Got any announcements but unable to attend? Let us know by shooting us a message.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/232624329/", 
             "group": {
                 "created": 1307975249000, 
@@ -714,10 +754,10 @@ calendar({
             "how_to_find_us": "Upstairs bar", 
             "id": "dlcllcyvpbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "Monthly Meetup", 
+            "name": "November GeoDC: Election 2016 Edition!", 
             "status": "upcoming", 
             "time": 1478127600000, 
-            "updated": 1446214010000, 
+            "updated": 1477328798000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1602 U St NW", 
@@ -733,7 +773,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1475704079000, 
@@ -812,7 +852,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1457392514000, 
@@ -934,7 +974,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1460389774000, 
@@ -999,7 +1039,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -1202,34 +1242,6 @@ calendar({
             "yes_rsvp_count": 8
         }, 
         {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbdc/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvpbdc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1479857400000, 
-            "updated": 1472237272000, 
-            "utc_offset": -18000000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 4
-        }, 
-        {
             "created": 1476928965000, 
             "description": "<p>Please join us in November to hear how Apache Pirk enables users to generate and execute secure queries.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Scalable Private Information Retrieval \u2013 Introducing Apache Pirk (incubating) - Ellison Anne Williams</i></p> <p>9:00 PM -- Post event drinks.</p> <p><br/><b>Location</b></p> <p><b>Directions</b></p> <p><b>Talks</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/6/a/d/2/600_455247346.jpeg\" /></p> <p><i>Scalable Private Information Retrieval \u2013 Introducing Apache Pirk (incubating)</i></p> <p><br/>Querying information over TBs of data where no one can see what you query or the responses obtained? It sounds like science fiction, but it is actually the science of Private Information Retrieval (PIR). This talk will introduce Apache Pirk - a new incubating Apache project designed to provide a framework for scalable, distributed PIR. We will discuss the motivation for Apache Pirk, its distributed implementations in platforms such as Spark and Storm, it\u2019s current algorithms, the power of homomorphic encryption, and take a look at the path forward.</p> <p><br/><b>Speakers</b></p> <p>Ellison Anne Williams is a creator and PMC member of Apache Pirk, a pure mathematician by training, and a practical computer scientist in real life. She is Founder/CEO of Enveil, Inc. Her passion is doing cool stuff with massive amounts of data. Ellison can be contacted\u00a0<a href=\"mailto:[masked]\">[masked]</a></p>", 
             "duration": 5400000, 
@@ -1307,7 +1319,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 3
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1466889250000, 
