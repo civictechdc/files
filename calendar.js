@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "announced": true, 
@@ -165,114 +165,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1457965726000, 
-            "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 612000000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233224770/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "rzpmrlyvnbwb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1476743400000, 
-            "updated": 1472237438000, 
-            "utc_offset": -14400000, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 32
-        }, 
-        {
-            "created": 1473454402000, 
-            "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/>Event Agenda\u00a0</p> <p><b>6:00PM:</b> Food and networking</p> <p><b>6:15PM:</b>\u00a0Brief Introduction -\u00a0About Tour De Code, WWC, AIGA\u00a0</p> <p><b>6:20PM:</b>\u00a0Panel Presentation, Q &amp; A with guest panelists:\u00a0</p> <p>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p><b>7:00PM:</b> Q&amp;A with panel presentation</p> <p><b>7:15PM:</b> Networking breakout; your opportunity to seek guidance on your developer or design portfolio</p> <p><b>8:30-9PM:</b> Networking and wrap-up</p> <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234005278/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "234005278", 
-            "maybe_rsvp_count": 0, 
-            "name": "Dev | Design : Harmony in the Digital Space", 
-            "rsvp_limit": 100, 
-            "status": "upcoming", 
-            "time": 1477346400000, 
-            "updated": 1477333462000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 46, 
-            "yes_rsvp_count": 100
-        }, 
-        {
-            "created": 1475170545000, 
-            "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>This week we'll have a special talk, here's the summary:</p> <p>Do you suffer from too much geographical data to handle? Ever wanted to round latitude and longitude to an arbitrary level of precision to make them easier to process but didn't know how? Fortunately, a solution is in sight: geohashing is a technique for compressing geo coordinates and simplify working with them. Join me, Mary Griffus, at Women Who Code: Algorithms on October 24th and you, too, will be able to geohash like a pro. We will discuss use cases for geohashing and the math behind how it works, and write a geohashing algorithm as a codealong (Python and Java will be provided for each step).\u00a0</p> <p>Find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.</p> <p>Please arrange to get your own food before the meetup today as there won't be any food provided for today.</p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234505323/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "234505323", 
-            "maybe_rsvp_count": 0, 
-            "name": "Algorithms Meetup", 
-            "rsvp_limit": 50, 
-            "status": "upcoming", 
-            "time": 1477348200000, 
-            "updated": 1475170545000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1005 7th St NW, Suite 100", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24427130, 
-                "lat": 38.903229000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.021629000000004, 
-                "name": "Contactually", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 43
-        }, 
-        {
             "created": 1476319672000, 
             "description": "<p>For our October Data Science DC Meetup, we are excited to have <b>Khuram Zaman</b>, CEO of Fifth Tribe, share with us techniques used to mine Twitter in an effort to find terrorists. As a special *bonus* after the talk,\u00a0we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online. Come prepared with your brilliant data scientist minds!</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022 8:15pm -- Challenge competition: Audience pitches and judging</p> <p><br/>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Data Mining 101: How to Use Twitter to Find Terrorists<br/></b></p> <p>First, we'll review how violent extremists like ISIS use social media to spread propaganda, drive recruitment, and communicate with supporters. Second, we'll discuss how we used open-source platforms to download ISIS fanboy tweets. Third, we'll review how data scientists on Kaggle used the data. Fourth, we'll discuss potential future applications in countering violent extremists online. Lastly, we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online.</p> <p><b>Bio:</b></p> <p><br/><b>Khuram Zaman</b></p> <p>Khuram Zaman is the CEO of Fifth Tribe, a leading digital agency serving the Washington DC Metropolitan Area based out of the 1776 Startup Accelerator. Upon graduating from Widener\u00a0University School of Law in Delaware, he went on to work in the non-profit\u00a0sector where he raised almost a million dollars online for various\u00a0charitable causes involving donors and volunteers from over 80 countries. In his\u00a0professional capacity, he has provided digital marketing services to clients as\u00a0diverse as the Department of Defense, the U.S. Air Force, Aetna Innovation\u00a0Health, Kaiser Permanente, Silatech, Oxfam, and The Hult Prize. His writing has\u00a0been featured in Entrepreneur.com, Business2Community, and LinkedIn Publisher. In 2016, his work in data science drew recognition when his anti-ISIS dataset became the #1 trending dataset on Kaggle \u2013 the largest online community of data scientists. He gave a keynote address entitled \u201cInnovation Culture: Multiplying Impact Across Sectors\u201d and also lead a plenary session entitled \u201cData Mining 101: How to Use Twitter to Find Terrorists\u201d at the Fall 2016 Business Analytics Form at the University of Tennessee, Knoxville. In 2015, his company was appointed to Private Sector Committee along with Goldman Sachs and IBM to the Global Community Engagement Resiliency Fund (GCERF). In December 2014, Khuram and his co-worker won 1st place at the Hedaya Hackathon during the Global CVE Expo where they developed and prototyped a crowdsourcing and social media platform to counter violent extremist messages.\u00a0He is the cofounder of Tekfeuds, an annual event that brings together big brands and passionate technologists to use Oxford-style to debate contemporary tech issues. He serves on the board of Project Katalyst, a non-profit whose mission is to use technology to help displaced and at-risk youth all over the world.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 10800000, 
@@ -311,7 +203,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 424
+            "yes_rsvp_count": 429
         }, 
         {
             "created": 1475597533000, 
@@ -352,7 +244,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 173
+            "yes_rsvp_count": 174
         }, 
         {
             "created": 1459265642000, 
@@ -734,7 +626,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1475704079000, 
@@ -773,7 +665,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 60
+            "yes_rsvp_count": 63
         }, 
         {
             "created": 1477082045000, 
@@ -814,6 +706,33 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 48
+        }, 
+        {
+            "created": 1477359443000, 
+            "description": "<p>New to data science? Development sprints are a great way to get more deeply involved in the community, become a contributor to an open source project, and get together face-to-face with others to support intensive learning, development and camaraderie. Newbies, students, experienced developers, and anyone in between are welcome to join. A tasty brunch will be provided!</p>", 
+            "duration": 18000000, 
+            "event_url": "http://www.meetup.com/Data-Innovation-DC/events/235094282/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Innovation-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "235094282", 
+            "maybe_rsvp_count": 0, 
+            "name": "Open Source Sprints & Data Science Brunch", 
+            "status": "upcoming", 
+            "time": 1478350800000, 
+            "updated": 1477360177000, 
+            "utc_offset": -14400000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457392514000, 
@@ -935,7 +854,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1460389774000, 
@@ -1029,6 +948,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1477354776000, 
+            "description": "<p>Join recent graduates from Georgetown University's Data Science Certificate Program who will be delivering lighting talks about their experience developing their capstone projects. After the talks, we'll do a happy hour and take open questions from the audience about how to get started on your first data science project!</p>", 
+            "event_url": "http://www.meetup.com/Data-Innovation-DC/events/235092916/", 
+            "group": {
+                "created": 1339111847000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.029998779296875, 
+                "id": 4028832, 
+                "join_mode": "open", 
+                "name": "Data Innovation DC", 
+                "urlname": "Data-Innovation-DC", 
+                "who": "Data-preneurs"
+            }, 
+            "headcount": 0, 
+            "id": "235092916", 
+            "maybe_rsvp_count": 0, 
+            "name": "Data Science Lightening Talks & Happy Hour", 
+            "status": "upcoming", 
+            "time": 1479254400000, 
+            "updated": 1477362459000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "2212 14th St NW, 20009", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24089410, 
+                "lat": 38.919674000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.032355999999993, 
+                "name": "Judy Restaurant", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1476369329000, 
@@ -1175,6 +1132,33 @@ calendar({
             "yes_rsvp_count": 23
         }, 
         {
+            "created": 1477363365000, 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Or are you someone looking to get into the tech field? Come brunch with us! The estimated cost for the brunch is between $10-15, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------<br/>Location TBD</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/235095324/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "235095324", 
+            "maybe_rsvp_count": 0, 
+            "name": "Professional Networking Brunch", 
+            "status": "upcoming", 
+            "time": 1479657600000, 
+            "updated": 1477363497000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1457965726000, 
             "description": "<p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\u00a0\u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\u00a0\u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\u00a0Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
             "duration": 612000000, 
@@ -1198,6 +1182,74 @@ calendar({
             "time": 1479771000000, 
             "updated": 1472237438000, 
             "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbdc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvpbdc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1479857400000, 
+            "updated": 1472237272000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1457212385000, 
+            "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/233475060/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "wqrfrlyvpblc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1480375800000, 
+            "updated": 1472237508000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1875 Connecticut Ave NW, Suite 715", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24555695, 
+                "lat": 38.915768, 
+                "localized_country_name": "USA", 
+                "lon": -77.046059, 
+                "name": "Socrata", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 8
