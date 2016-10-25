@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 26
         }, 
         {
             "announced": true, 
@@ -119,7 +119,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "announced": true, 
@@ -193,43 +193,44 @@ calendar({
             "yes_rsvp_count": 32
         }, 
         {
-            "created": 1475453045000, 
-            "description": "<p><img src=\"https://wclawyers.org/wp-content/uploads/2016/09/PBW16-Hackathon.png\" /></p> <p>Legal hackathons have been called \u201cinnovation labs for the legal industry.\u201d These increasingly popular meet-ups bring lawyers together with coders, developers, marketers, and sometimes entrepreneurs to design new technologies that address legal and social problems.</p> <p><br/>Learn more about how hackathons and technology more generally can shape the future of the legal industry and increase access to justice. Our panel describe the\u00a0technologies that they\u2019ve developed to help people and inspire you to use technology to solve your most vexing legal problems.</p> <p>Our featured presenters will include:</p> <p>\u2022 Briane Cornish (Clean Slate DC)<br/>\u2022 Keith Porcaro (SimLab)<br/>\u2022 DC Legal Hackers</p> <p><br/>The program will be moderated by our board member Paul Lee (Dechert).</p> <p>Pizza and drinks (as well as lots of useful information) will be provided.</p> <p><b>Please Register here to attend:\u00a0<a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour/\"><a href=\"https://wclawyers.org/dc-pro-bono-week-hacky-hour\" class=\"linkified\">https://wclawyers.org/dc-pro-bono-week-hacky-hour</a></a></b></p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/234580114/", 
+            "created": 1473454402000, 
+            "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/>Event Agenda\u00a0</p> <p><b>6:00PM:</b> Food and networking</p> <p><b>6:15PM:</b>\u00a0Brief Introduction -\u00a0About Tour De Code, WWC, AIGA\u00a0</p> <p><b>6:20PM:</b>\u00a0Panel Presentation, Q &amp; A with guest panelists:\u00a0</p> <p>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p><b>7:00PM:</b> Q&amp;A with panel presentation</p> <p><b>7:15PM:</b> Networking breakout; your opportunity to seek guidance on your developer or design portfolio</p> <p><b>8:30-9PM:</b> Networking and wrap-up</p> <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234005278/", 
             "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
                 "group_lon": -77.040000915527344, 
-                "id": 9201422, 
+                "id": 13508462, 
                 "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
             }, 
             "headcount": 0, 
-            "id": "234580114", 
+            "id": "234005278", 
             "maybe_rsvp_count": 0, 
-            "name": "Hacky Hour", 
+            "name": "Dev | Design : Harmony in the Digital Space", 
+            "rsvp_limit": 100, 
             "status": "upcoming", 
             "time": 1477346400000, 
-            "updated": 1475971916000, 
+            "updated": 1477333462000, 
             "utc_offset": -14400000, 
             "venue": {
-                "address_1": "1900 K Street NW", 
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
                 "city": "Washington", 
                 "country": "us", 
-                "id": 24822609, 
-                "lat": 38.902073000000001, 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
                 "localized_country_name": "USA", 
-                "lon": -77.043839000000006, 
-                "name": "Dechert LPP", 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
                 "repinned": false, 
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "waitlist_count": 46, 
+            "yes_rsvp_count": 100
         }, 
         {
             "created": 1475170545000, 
@@ -272,46 +273,6 @@ calendar({
             "yes_rsvp_count": 43
         }, 
         {
-            "created": 1473454402000, 
-            "description": "<p><i>As a part of DCFemTech's October Tour De Code and AIGA DC Design Week!</i></p> <p><b>Aspiring Developers:</b> Are you trying to get your portfolio started but don\u2019t know what the best colors and fonts are to make your website appealing to potential employers?\u00a0</p> <p><b>Professional Developers:</b> Are you a professional developer looking to learn how to discuss new features and whether or not they\u2019re feasible with the designers on your team?</p> <p><b>Aspiring Designers:</b> Do you want to showcase your best pieces but don\u2019t know what tools you need to get your work up on the Internet?\u00a0</p> <p><b>Professional Designers:</b> Are you a working designer looking to learn how to communicate the reasoning behind your designs better?</p> <p><br/><b>Anyone and everyone:</b> Do you have work you\u2019d like to showcase in a final portfolio but don\u2019t know how to get started? Are you working for a product development team and looking to get familiar with the lingo used by your colleagues to plan new products?</p> <p>If any of those questions apply to you, then come to our event <i>Dev | Design: Harmony in the Digital Space</i>. We\u2019ll start off with an interactive panel discussion, where developers and designers together will analyze existing designs and discuss their thoughts on the design; this discussion will present perspectives from both development and design backgrounds. Then we will break out into four roundtable discussion groups, each of which will discuss the following:</p> <p>- Getting started on creating your portfolio<br/>- Designers helping developers on the best way to design their portfolio<br/>- Developers helping designers get their portfolio up on the web<br/>- Creating accessible designs</p> <p>Throughout the event, there will be opportunities to network over food (gluten and vegetarian options available) and drink. A list of available resources related to these discussions will be placed in this Github repo after the event: <a href=\"https://github.com/womenwhocodedc/devdesign\" class=\"linkified\">https://github.com/womenwhocodedc/devdesign</a>\u00a0</p> <p><b>Come join us!</b></p> <p><br/>Event Agenda\u00a0</p> <p><b>6:00PM:</b> Food and networking</p> <p><b>6:15PM:</b>\u00a0Brief Introduction -\u00a0About Tour De Code, WWC, AIGA\u00a0</p> <p><b>6:20PM:</b>\u00a0Panel Presentation, Q &amp; A with guest panelists:\u00a0</p> <p>- Alexis Findiesen, Chief<br/>- Zaid White, Chief<br/>- Alisha Ramos, Vox Media<br/>- Ngan Hoang, Vox Media</p> <p><b>7:00PM:</b> Q&amp;A with panel presentation</p> <p><b>7:15PM:</b> Networking breakout; your opportunity to seek guidance on your developer or design portfolio</p> <p><b>8:30-9PM:</b> Networking and wrap-up</p> <p><b>NOTE:</b> This is a joint event that is part of <a href=\"https://dcfemtech.github.io/tourdecode.html\">DCFemTech Tour De Code</a> and AIGA DC Design week. Because this is an event in partnership with AIGA DC, <i>this particular meetup will be inclusive to all genders</i>.</p> <p><b>About DCFemTech</b><br/>DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. Bimonthly meetings are inclusive and open to any women in tech leaders.Members are affiliated with organizations with women attendance that is 50% or higher; who have a focus on technology; and have a primary focus in the mission statement about gender or women. Find out more about DCFemTech here:\u00a0<a href=\"https://dcfemtech.github.io/index.html\"><a href=\"https://dcfemtech.github.io/index.html\" class=\"linkified\">https://dcfemtech.github.io/index.html</a></a>\u00a0</p> <p><b>About AIGA DC </b><br/>The Washington DC chapter of AIGA is one of the biggest and most active in the country. Run by a volunteer board of directors, the organization celebrates design and provides unparalleled opportunities for networking within the local design community and a variety of resources to advance professionalism and broaden knowledge. AIGA DC\u2019s events stimulate discourse and enrich the collective experience of design. Find out more about AIGA here: <a href=\"http://dc.aiga.org/\" class=\"linkified\">http://dc.aiga.org/</a>\u00a0</p> <p><b>About Chief </b><br/>Shout out to our event host Chief, who is providing us with the venue and food/drinks for the event! Chief is a digital agency that works with organizations in the public and private sectors in the DC area. Find out more info about them here:<br/><a href=\"http://www.agencychief.com\">www.agencychief.com</a>\u00a0</p> <p><b>Directions:</b> Chief is located on Massachusetts Ave NW, directly off the southeast side of Dupont Circle. Our office is located nearest to the Dupont Circle Metro station south entrance. Parking is available on the street and in a garage under the building, accessible from 18th St, NW.</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234005278/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "234005278", 
-            "maybe_rsvp_count": 0, 
-            "name": "Dev | Design : Harmony in the Digital Space", 
-            "rsvp_limit": 100, 
-            "status": "upcoming", 
-            "time": 1477348200000, 
-            "updated": 1477320918000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 57, 
-            "yes_rsvp_count": 100
-        }, 
-        {
             "created": 1476319672000, 
             "description": "<p>For our October Data Science DC Meetup, we are excited to have <b>Khuram Zaman</b>, CEO of Fifth Tribe, share with us techniques used to mine Twitter in an effort to find terrorists. As a special *bonus* after the talk,\u00a0we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online. Come prepared with your brilliant data scientist minds!</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022 8:15pm -- Challenge competition: Audience pitches and judging</p> <p><br/>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Data Mining 101: How to Use Twitter to Find Terrorists<br/></b></p> <p>First, we'll review how violent extremists like ISIS use social media to spread propaganda, drive recruitment, and communicate with supporters. Second, we'll discuss how we used open-source platforms to download ISIS fanboy tweets. Third, we'll review how data scientists on Kaggle used the data. Fourth, we'll discuss potential future applications in countering violent extremists online. Lastly, we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online.</p> <p><b>Bio:</b></p> <p><br/><b>Khuram Zaman</b></p> <p>Khuram Zaman is the CEO of Fifth Tribe, a leading digital agency serving the Washington DC Metropolitan Area based out of the 1776 Startup Accelerator. Upon graduating from Widener\u00a0University School of Law in Delaware, he went on to work in the non-profit\u00a0sector where he raised almost a million dollars online for various\u00a0charitable causes involving donors and volunteers from over 80 countries. In his\u00a0professional capacity, he has provided digital marketing services to clients as\u00a0diverse as the Department of Defense, the U.S. Air Force, Aetna Innovation\u00a0Health, Kaiser Permanente, Silatech, Oxfam, and The Hult Prize. His writing has\u00a0been featured in Entrepreneur.com, Business2Community, and LinkedIn Publisher. In 2016, his work in data science drew recognition when his anti-ISIS dataset became the #1 trending dataset on Kaggle \u2013 the largest online community of data scientists. He gave a keynote address entitled \u201cInnovation Culture: Multiplying Impact Across Sectors\u201d and also lead a plenary session entitled \u201cData Mining 101: How to Use Twitter to Find Terrorists\u201d at the Fall 2016 Business Analytics Form at the University of Tennessee, Knoxville. In 2015, his company was appointed to Private Sector Committee along with Goldman Sachs and IBM to the Global Community Engagement Resiliency Fund (GCERF). In December 2014, Khuram and his co-worker won 1st place at the Hedaya Hackathon during the Global CVE Expo where they developed and prototyped a crowdsourcing and social media platform to counter violent extremist messages.\u00a0He is the cofounder of Tekfeuds, an annual event that brings together big brands and passionate technologists to use Oxford-style to debate contemporary tech issues. He serves on the board of Project Katalyst, a non-profit whose mission is to use technology to help displaced and at-risk youth all over the world.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
             "duration": 10800000, 
@@ -350,7 +311,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 395
+            "yes_rsvp_count": 424
         }, 
         {
             "created": 1475597533000, 
@@ -391,7 +352,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 158
+            "yes_rsvp_count": 173
         }, 
         {
             "created": 1459265642000, 
@@ -431,7 +392,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1476733076000, 
@@ -537,7 +498,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1477323682000, 
@@ -577,7 +538,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1470699270000, 
@@ -655,7 +616,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1452612310000, 
@@ -734,7 +695,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1326383071000, 
@@ -773,11 +734,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -796,7 +757,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1476844806000, 
+            "updated": 1477338391000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -812,7 +773,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1477082045000, 
@@ -852,7 +813,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1457392514000, 
@@ -892,7 +853,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1459265642000, 
@@ -1039,7 +1000,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1459265642000, 
@@ -1211,7 +1172,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457965726000, 
