@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 28
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -234,7 +234,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 429
+  yes_rsvp_count: 434
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -370,7 +370,7 @@ other:
     name: WeWork, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1468853724000
   description: "<p>We will build a simple Todo list application using Rails. We will\
     \ learn how to start a Rails application, make basic updates to the MVC framework\
@@ -447,7 +447,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 44
 - created: 1477323682000
   description: "<p><b>Happy Halloween!</b> Come code with us in your Halloween costume\
     \ (highly encouraged but not required)! No tricks, and treats will be provided.</p>\
@@ -457,13 +457,13 @@ other:
     \ all levels and encourage those with more experience to help out those that are\
     \ just starting. There's always at least one mentor or leader present to help\
     \ you with best practices or to guide you through if you are stuck with a nasty\
-    \ problem! Laptops</p> <p>In order to maximize your benefits from FEHN, please\
-    \ bring your laptop. Extra computers will not be available at the event. Even\
-    \ if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda\
-    \ Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p>\
-    \ <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm -\
-    \ Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn\
-    \ more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
+    \ problem!\_</p> <p>Laptops</p> <p>In order to maximize your benefits from FEHN,\
+    \ please bring your laptop. Extra computers will not be available at the event.\
+    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
+    \ Agenda Every study group will have the following format:<br/>\u2022 6:30pm -\
+    \ Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 -\
+    \ 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To\
+    \ learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
     \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
     \ Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\"\
     \ class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study\
@@ -489,7 +489,7 @@ other:
   rsvp_limit: 40
   status: upcoming
   time: 1477953000000
-  updated: 1477323707000
+  updated: 1477403653000
   utc_offset: -14400000
   venue: {address_1: '1919 N. Lynn Street. Arlington, VA 22209', city: Arlington,
     country: us, id: 24401587, lat: 38.897694000000001, localized_country_name: USA,
@@ -652,7 +652,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -681,7 +681,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - created: 1475704079000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork\
@@ -731,7 +731,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 65
 - created: 1477082045000
   description: <p>Have you considered attending a technology bootcamp? Are you currently
     attending one? Join a panel of alumnae from various schools and immersive courses
@@ -756,7 +756,7 @@ other:
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1477359443000
   description: <p>New to data science? Development sprints are a great way to get
     more deeply involved in the community, become a contributor to an open source
@@ -778,7 +778,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -828,7 +828,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -913,7 +913,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -1018,11 +1018,15 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1477354776000
-  description: <p>Join recent graduates from Georgetown University's Data Science
-    Certificate Program who will be delivering lighting talks about their experience
-    developing their capstone projects. After the talks, we'll do a happy hour and
-    take open questions from the audience about how to get started on your first data
-    science project!</p>
+  description: "<p>Join recent graduates from Georgetown University's Data Science\
+    \ Certificate Program who will be delivering lighting talks about their experience\
+    \ developing their capstone projects. After the talks, we'll do a happy hour and\
+    \ take open questions from the audience about how to get started on your first\
+    \ data science project!\_</p> <p>Teams and Projects:</p> <p><b>Team Neighborhood</b><br/>Urban\
+    \ Home Finder -\_Helping Millennials Choose Their Next Metropolitan Home</p> <p><br/><b>Team\
+    \ Buzzfeed</b><br/>Buzzfeed: The Trend Behind What's Trending</p> <p><br/><b>Team\
+    \ Originalists</b><br/>Predicting WMATA\_Train Delay Probabilities and Improving\
+    \ Station-to-Station Trip Length\_Predictions</p>"
   event_url: http://www.meetup.com/Data-Innovation-DC/events/235092916/
   group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Innovation-DC,
@@ -1033,14 +1037,14 @@ other:
   name: Data Science Lightening Talks & Happy Hour
   status: upcoming
   time: 1479254400000
-  updated: 1477362459000
+  updated: 1477405451000
   utc_offset: -18000000
   venue: {address_1: '2212 14th St NW, 20009', city: Washington, country: us, id: 24089410,
     lat: 38.919674000000001, localized_country_name: USA, lon: -77.032355999999993,
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1108,7 +1112,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1467704208000
   description: "<p>NOTE: You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
     >Eventbrite</a>.\_</p> <p><br/><b>== MavenMini: Association Web Mini-Conference\
@@ -1210,7 +1214,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
