@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }, 
         {
             "announced": true, 
@@ -165,128 +165,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1476319672000, 
-            "description": "<p>For our October Data Science DC Meetup, we are excited to have <b>Khuram Zaman</b>, CEO of Fifth Tribe, share with us techniques used to mine Twitter in an effort to find terrorists. As a special *bonus* after the talk,\u00a0we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online. Come prepared with your brilliant data scientist minds!</p> <p>----------------------------\u00a0</p> <p><br/>Sponsored by <b>Statistics.com</b>\u00a0-- Learn new skills in Data Science, Analytics, and Statistics!\u00a0Four-week online courses at all levels, world-class instructors, private discussion boards.\u00a0<a href=\"http://www.statistics.com/?utm_source=dsdc-meetup&amp;utm_medium=meetup&amp;utm_campaign=DSDC2016\">Save 30% with code DSDC2016</a>.</p> <p>----------------------------</p> <p><b>Agenda:</b></p> <p>\u2022\u00a06:30pm -- Networking, Empanadas, and Refreshments</p> <p>\u2022\u00a07:00pm -- Introduction, Announcements</p> <p>\u2022\u00a07:15pm -- Presentation and Discussion</p> <p>\u2022 8:15pm -- Challenge competition: Audience pitches and judging</p> <p><br/>\u2022\u00a08:30pm -- Data Drinks (Tonic ,\u00a02036 G St NW)</p> <p><b>Abstract:</b></p> <p><b>Data Mining 101: How to Use Twitter to Find Terrorists<br/></b></p> <p>First, we'll review how violent extremists like ISIS use social media to spread propaganda, drive recruitment, and communicate with supporters. Second, we'll discuss how we used open-source platforms to download ISIS fanboy tweets. Third, we'll review how data scientists on Kaggle used the data. Fourth, we'll discuss potential future applications in countering violent extremists online. Lastly, we'll open a challenge competition wherein several audience members will be given the opportunity to win $500 to present a digital strategy, tool, or campaign to counter ISIS online.</p> <p><b>Bio:</b></p> <p><br/><b>Khuram Zaman</b></p> <p>Khuram Zaman is the CEO of Fifth Tribe, a leading digital agency serving the Washington DC Metropolitan Area based out of the 1776 Startup Accelerator. Upon graduating from Widener\u00a0University School of Law in Delaware, he went on to work in the non-profit\u00a0sector where he raised almost a million dollars online for various\u00a0charitable causes involving donors and volunteers from over 80 countries. In his\u00a0professional capacity, he has provided digital marketing services to clients as\u00a0diverse as the Department of Defense, the U.S. Air Force, Aetna Innovation\u00a0Health, Kaiser Permanente, Silatech, Oxfam, and The Hult Prize. His writing has\u00a0been featured in Entrepreneur.com, Business2Community, and LinkedIn Publisher. In 2016, his work in data science drew recognition when his anti-ISIS dataset became the #1 trending dataset on Kaggle \u2013 the largest online community of data scientists. He gave a keynote address entitled \u201cInnovation Culture: Multiplying Impact Across Sectors\u201d and also lead a plenary session entitled \u201cData Mining 101: How to Use Twitter to Find Terrorists\u201d at the Fall 2016 Business Analytics Form at the University of Tennessee, Knoxville. In 2015, his company was appointed to Private Sector Committee along with Goldman Sachs and IBM to the Global Community Engagement Resiliency Fund (GCERF). In December 2014, Khuram and his co-worker won 1st place at the Hedaya Hackathon during the Global CVE Expo where they developed and prototyped a crowdsourcing and social media platform to counter violent extremist messages.\u00a0He is the cofounder of Tekfeuds, an annual event that brings together big brands and passionate technologists to use Oxford-style to debate contemporary tech issues. He serves on the board of Project Katalyst, a non-profit whose mission is to use technology to help displaced and at-risk youth all over the world.</p> <p><b>Sponsors:</b></p> <p>This event is sponsored by the <a href=\"http://business.gwu.edu/programs/specialized-masters/m-s-in-business-analytics/academic-program/\">George Washington Business School MS in Business Analytics Program</a>,\u00a0<a href=\"http://bit.ly/12YljkP\">Statistics.com</a>,\u00a0<a href=\"http://datamininglab.com/\">Elder Research</a>, <a href=\"https://www.novetta.com/\">Novetta</a>,\u00a0<a href=\"http://www.predictiveanalyticsworld.com/gov/2016/\">PAWGOV</a>, <a href=\"http://www.oreilly.com/\">O'Reilly</a>,\u00a0<a href=\"https://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science\">Booz Allen Hamilton</a>, and\u00a0<a href=\"http://engineering.aol.com/\">AOL</a>.\u00a0(Would your organization like to sponsor too? Please get in touch!)\u00a0</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/Data-Science-DC/events/234817674/", 
-            "group": {
-                "created": 1311348860000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 2215331, 
-                "join_mode": "open", 
-                "name": "Data Science DC", 
-                "urlname": "Data-Science-DC", 
-                "who": "Data Scientists"
-            }, 
-            "headcount": 0, 
-            "id": "234817674", 
-            "maybe_rsvp_count": 0, 
-            "name": "Data Mining 101: How to Use Twitter to Find Terrorists", 
-            "rsvp_limit": 500, 
-            "status": "upcoming", 
-            "time": 1477434600000, 
-            "updated": 1476322677000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2201 G St. NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 13300352, 
-                "lat": 38.898952000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.048942999999994, 
-                "name": "GWU, Funger Hall, Room 108", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20052"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 435
-        }, 
-        {
-            "created": 1475597533000, 
-            "description": "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\" /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief (1800 Massachusetts Ave NW) for \"Facing\" Artificial Intelligence. Just in time for Halloween, Michael Flynn showcases his graduate research on neural networks and facial recognition to D.C.\u2019s Data Community \u2013 be amazed as machine learning algorithms allow a computer to display any human emotion on a digital face, be astonished by the dark magic of decompression algorithms applied to machine vision, be spellbound as Michael uses his coding sorcery to transform pixelated blobs into PEOPLE!! \u00a0</p> <p><br/>Were these initial ghostly images output of a partially trained Neural Network, or something more?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/sgd.jpg\" /></p> <p>Was the Neural Network learning, or was there a \"deeper\" connection to another dimension?</p> <p><img src=\"https://zo7.github.io/img/2016-09-25-generating-faces/random-2.jpg\" /></p> <p>Read all about Michael's accounts in his <a href=\"https://zo7.github.io/blog/2016/09/25/generating-faces.html\">blog on generating faces</a>.\u00a0</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:20 \u2013 Michael Flynn</p> <p>8:20 - 8:40 \u2013 Q &amp; A\u00a0</p> <p>8:40 - Data Drinks</p> <p><br/><b>More about Michael Flynn</b></p> <p>In addition to being a Mad Data Scientist \u2013 Michael Flynn is a graduate student at Johns Hopkins University researching computer vision models for intelligent video processing. A musician-turned-electrical-engineer-turned-computer-scientist, he is interested in discovering how we can exploit advancements in deep learning and computer vision to create compelling artwork and develop a more intuitive sense for how these complex systems work. Prior to moving to Baltimore, Flynn lived in Richmond, Virginia where he worked for several local startups as a software developer and studied electrical engineering at Virginia Commonwealth University.</p> <p><br/><b>Sponsor Announcements: </b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/57a89d6be58c62866cd497b4/57d2e95629687f368b627531/1473440123365/data-society-logo2.png\" /></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/7/6/0/0/600_452550208.jpeg\" /></p> <p><img src=\"http://photos4.meetupstatic.com/photos/event/1/9/5/7/600_454806487.jpeg\" /></p> <p><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww?\"><a href=\"https://gtcdc.smarteventscloud.com/portal/createAccount.ww\" class=\"linkified\">https://gtcdc.smarteventscloud.com/portal/createAccount.ww</a>?</a></p> <p><br/>20% off with code: FFRZ20</p> <p>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</p>", 
-            "duration": 9000000, 
-            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/234619258/", 
-            "group": {
-                "created": 1359639162000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.019996643066406, 
-                "id": 6957082, 
-                "join_mode": "open", 
-                "name": "Data Visualization DC", 
-                "urlname": "Data-Visualization-DC", 
-                "who": "Data Visualizers"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "2nd Floor. Ask the guard to let you up.", 
-            "id": "234619258", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ghosts of Artificial Intelligence", 
-            "rsvp_limit": 200, 
-            "status": "upcoming", 
-            "time": 1477434600000, 
-            "updated": 1475865691000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24185893, 
-                "lat": 38.908957999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.042197999999999, 
-                "name": "CHIEF", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 169
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p>Join us this week in a java review for android.We'll review some java foundations and work through some exercises.</p> <p>Resources</p> <p>Beginners should check out our Android Getting Started Guide (<a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\" class=\"linkified\">https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md</a>). It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our Slack (<a href=\"http://bit.ly/womenwhocodedcslack\" class=\"linkified\">http://bit.ly/womenwhocodedcslack</a>) group to talk about all things Android.</p>", 
-            "duration": 5400000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234318392/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvnbhc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab : Java Review for Android ", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1477436400000, 
-            "updated": 1476541479000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "Virtual (Google Hangouts)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 23694110, 
-                "lat": 38.875359000000003, 
-                "localized_country_name": "USA", 
-                "lon": -76.994972000000004, 
-                "name": "Virtual (Google Hangouts)", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 13
-        }, 
-        {
             "created": 1476733076000, 
             "description": "<p><a href=\"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4\" class=\"linkified\">https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4</a></p> <p>In this new era of smartphones, personalization, and efficiency, it\u2019s becoming increasingly difficult for attorneys and law firms to give their clients the services that they demand. Experts point to the increasing price, the low accessibility, and the inconveniences of the current legal industry as reasons, but all of these aspects encompass a common core problem \u2013 a lack of client-driven technology solutions. Join our expert panel to see where the future of law is headed and explore new innovations that are available for attorneys to use to help their clients.</p> <p><br/>6:00 Demo Tables for Innovators &amp; Sponsors during Networking</p> <p>6:50 Welcome \u2013 Evolve Law</p> <p>7:00 Expert Panel: Client Driven Technology</p> <p>Moderator: Joel Mier,\u00a0<a href=\"https://www.contactually.com/\">Contactually</a></p> <p>Panelists:<br/>Abe Geiger,\u00a0<a href=\"https://www.legalshield.com/\">LegalShield</a><br/>Mary Juetten,\u00a0<a href=\"http://www.traklight.com/\">Traklight</a><br/>Tanina Rostain,\u00a0<a href=\"https://www.law.georgetown.edu/\">Georgetown Law</a></p> <p>8:00 Darwin Talk \u2013 Selling Simply, Jay Guiliano,\u00a0<a href=\"http://patdek.com/\">PatDek</a></p> <p>8:10 Networking &amp; Demo Tables</p> <p><b>Register Here:\u00a0<a href=\"https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463\"><a href=\"https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463\" class=\"linkified\">https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463</a></a></b></p>", 
             "duration": 10800000, 
@@ -390,7 +268,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1477323682000, 
@@ -430,7 +308,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1470699270000, 
@@ -547,7 +425,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1446219481000, 
@@ -626,7 +504,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1475704079000, 
@@ -665,7 +543,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1477082045000, 
@@ -705,7 +583,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1477436823000, 
@@ -746,7 +624,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 2
         }, 
         {
             "created": 1477359443000, 
@@ -773,7 +651,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1457392514000, 
@@ -813,7 +691,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1459265642000, 
@@ -841,7 +719,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1476369329000, 
@@ -868,7 +746,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1417881835000, 
@@ -1007,10 +885,10 @@ calendar({
             "headcount": 0, 
             "id": "235092916", 
             "maybe_rsvp_count": 0, 
-            "name": "Data Science Lightening Talks & Happy Hour", 
+            "name": "Data Science Lightning Talks & Happy Hour", 
             "status": "upcoming", 
             "time": 1479254400000, 
-            "updated": 1477428339000, 
+            "updated": 1477454938000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2212 14th St NW, 20009", 
@@ -1026,7 +904,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1476369329000, 
@@ -1170,7 +1048,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1477363365000, 
@@ -1294,6 +1172,34 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 8
+        }, 
+        {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbmc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvpbmc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1480462200000, 
+            "updated": 1472237272000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
         }, 
         {
             "created": 1476928965000, 
