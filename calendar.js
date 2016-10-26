@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "announced": true, 
@@ -203,7 +203,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 434
+            "yes_rsvp_count": 435
         }, 
         {
             "created": 1475597533000, 
@@ -244,7 +244,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 174
+            "yes_rsvp_count": 169
         }, 
         {
             "created": 1459265642000, 
@@ -284,7 +284,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1476733076000, 
@@ -350,7 +350,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1476814959000, 
@@ -390,7 +390,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1477323682000, 
@@ -587,7 +587,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1326383071000, 
@@ -626,7 +626,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1475704079000, 
@@ -665,7 +665,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1477082045000, 
@@ -705,7 +705,48 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 53
+        }, 
+        {
+            "created": 1477436823000, 
+            "description": "<p>Title:\u00a0#OnlineOffline - Developing Mobile Apps for Rural Africa</p> <p>Location:\u00a0<a href=\"https://maps.google.com/maps?q=1331%20L%20St%20NW%2C%20Washington%2C%20DC\">1331 L Street, NW, Washington DC 20005; 1st floor auditorium</a></p> <p>Agenda:</p> <p>6:00-6:30 pm - Check-In &amp; Networking (with Food/Drinks/Beer)</p> <p>6:30 pm - Nerd out with Annyce!</p> <p>8:00 pm - Q&amp;A/Networking/Socializing</p> <p>Parking: \u00a0There is some but you probably have to pay. Not sure, take the metro =)</p> <p>This event is Metro accessible, very close to McPherson Square metro stop:\u00a0</p> <p>Description:\u00a0At Off Grid Electric our mission is to power homes across rural Africa with affordable, solar energy. In order to do that we need to provide our employees with tools that work both on and offline. So how did we do it?</p> <p>In this talk, learn about the techniques we employed to provide a unique online-offline experience in our Android applications. We\u2019ll discuss the overall architecture, third party libraries used, and some of the challenges that we faced.</p> <p>As more and more users come online in various parts of the world it makes sense for companies to begin exploring how they can modify their applications to be more network-friendly. This talk will get you headed in the right direction!</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\" /></p> <p>Speaker:\u00a0<b>Annyce Davis</b> - Android Google Developer Expert @Off Grid Electric - She has been a developer in the tech industry for over a decade. In addition, she has spent the past 5 years developing applications for the Android ecosystem across multiple form factors. She is also a international conference speaker and author, sharing her knowledge of Android development with others. In addition, Annyce is active in the Washington, DC tech scene and assists with running a local meetup focused on Android development and design</p> <p><br/>Event Max: \u00a060</p>", 
+            "duration": 10800000, 
+            "event_url": "http://www.meetup.com/gdg-dc/events/235113803/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Android, Mobile, Google, IoS", 
+            "id": "235113803", 
+            "maybe_rsvp_count": 0, 
+            "name": "OnlineOffline - Developing Mobile Apps for Rural Africa (Partner Event)", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1478210400000, 
+            "updated": 1477436846000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1331 L St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 22187352, 
+                "lat": 38.903790000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.030403000000007, 
+                "name": "CoStar Group, Inc.", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1477359443000, 
@@ -732,7 +773,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1457392514000, 
@@ -969,7 +1010,7 @@ calendar({
             "name": "Data Science Lightening Talks & Happy Hour", 
             "status": "upcoming", 
             "time": 1479254400000, 
-            "updated": 1477405451000, 
+            "updated": 1477428339000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2212 14th St NW, 20009", 
@@ -985,7 +1026,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1476369329000, 
@@ -1052,7 +1093,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1467704208000, 

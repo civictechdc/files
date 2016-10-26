@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -234,7 +234,7 @@ other:
       Room 108', repinned: false, state: DC, zip: '20052'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 434
+  yes_rsvp_count: 435
 - created: 1475597533000
   description: "<p><img src=\"http://photos1.meetupstatic.com/photos/event/c/c/1/e/600_454852254.jpeg\"\
     \ /></p> <p>Join your fellow data visualizers on Tuesday October 25th at Chief\
@@ -295,7 +295,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 174
+  yes_rsvp_count: 169
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -330,7 +330,7 @@ other:
     name: Virtual (Google Hangouts), repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 13
 - created: 1476733076000
   description: "<p><a href=\"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4\"\
     \ class=\"linkified\">https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4</a></p>\
@@ -419,7 +419,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 20
 - created: 1476814959000
   description: "<p>Have you ever asked the question: \"How do I contribute to Open\
     \ Sourced Software (OSS) and projects?\"\_ This event is for you!</p> <p>This\
@@ -447,7 +447,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 43
 - created: 1477323682000
   description: "<p><b>Happy Halloween!</b> Come code with us in your Halloween costume\
     \ (highly encouraged but not required)! No tricks, and treats will be provided.</p>\
@@ -652,7 +652,7 @@ other:
     name: Fiscal Note, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 47
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -681,7 +681,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1475704079000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork\
@@ -731,7 +731,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 68
 - created: 1477082045000
   description: <p>Have you considered attending a technology bootcamp? Are you currently
     attending one? Join a panel of alumnae from various schools and immersive courses
@@ -756,7 +756,54 @@ other:
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 53
+- created: 1477436823000
+  description: "<p>Title:\_#OnlineOffline - Developing Mobile Apps for Rural Africa</p>\
+    \ <p>Location:\_<a href=\"https://maps.google.com/maps?q=1331%20L%20St%20NW%2C%20Washington%2C%20DC\"\
+    >1331 L Street, NW, Washington DC 20005; 1st floor auditorium</a></p> <p>Agenda:</p>\
+    \ <p>6:00-6:30 pm - Check-In &amp; Networking (with Food/Drinks/Beer)</p> <p>6:30\
+    \ pm - Nerd out with Annyce!</p> <p>8:00 pm - Q&amp;A/Networking/Socializing</p>\
+    \ <p>Parking: \_There is some but you probably have to pay. Not sure, take the\
+    \ metro =)</p> <p>This event is Metro accessible, very close to McPherson Square\
+    \ metro stop:\_</p> <p>Description:\_At Off Grid Electric our mission is to power\
+    \ homes across rural Africa with affordable, solar energy. In order to do that\
+    \ we need to provide our employees with tools that work both on and offline. So\
+    \ how did we do it?</p> <p>In this talk, learn about the techniques we employed\
+    \ to provide a unique online-offline experience in our Android applications. We\u2019\
+    ll discuss the overall architecture, third party libraries used, and some of the\
+    \ challenges that we faced.</p> <p>As more and more users come online in various\
+    \ parts of the world it makes sense for companies to begin exploring how they\
+    \ can modify their applications to be more network-friendly. This talk will get\
+    \ you headed in the right direction!</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\"\
+    \ /></p> <p>Speaker:\_<b>Annyce Davis</b> - Android Google Developer Expert @Off\
+    \ Grid Electric - She has been a developer in the tech industry for over a decade.\
+    \ In addition, she has spent the past 5 years developing applications for the\
+    \ Android ecosystem across multiple form factors. She is also a international\
+    \ conference speaker and author, sharing her knowledge of Android development\
+    \ with others. In addition, Annyce is active in the Washington, DC tech scene\
+    \ and assists with running a local meetup focused on Android development and design</p>\
+    \ <p><br/>Event Max: \_60</p>"
+  duration: 10800000
+  event_url: http://www.meetup.com/gdg-dc/events/235113803/
+  group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
+    id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
+    urlname: gdg-dc, who: Google Techies and Users}
+  headcount: 0
+  how_to_find_us: Android, Mobile, Google, IoS
+  id: '235113803'
+  maybe_rsvp_count: 0
+  name: OnlineOffline - Developing Mobile Apps for Rural Africa (Partner Event)
+  rsvp_limit: 40
+  status: upcoming
+  time: 1478210400000
+  updated: 1477436846000
+  utc_offset: -14400000
+  venue: {address_1: 1331 L St NW, city: Washington, country: us, id: 22187352, lat: 38.903790000000001,
+    localized_country_name: USA, lon: -77.030403000000007, name: 'CoStar Group, Inc.',
+    repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 1
 - created: 1477359443000
   description: <p>New to data science? Development sprints are a great way to get
     more deeply involved in the community, become a contributor to an open source
@@ -778,7 +825,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 8
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1037,14 +1084,14 @@ other:
   name: Data Science Lightening Talks & Happy Hour
   status: upcoming
   time: 1479254400000
-  updated: 1477405451000
+  updated: 1477428339000
   utc_offset: -18000000
   venue: {address_1: '2212 14th St NW, 20009', city: Washington, country: us, id: 24089410,
     lat: 38.919674000000001, localized_country_name: USA, lon: -77.032355999999993,
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 27
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1112,7 +1159,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1467704208000
   description: "<p>NOTE: You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
     >Eventbrite</a>.\_</p> <p><br/><b>== MavenMini: Association Web Mini-Conference\
