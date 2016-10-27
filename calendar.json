@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 37
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 36
         }, 
         {
             "announced": true, 
@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1468853724000, 
@@ -224,11 +224,23 @@
             "name": "Ruby on Rails: Build a To Do List App", 
             "status": "upcoming", 
             "time": 1477521000000, 
-            "updated": 1477012789000, 
+            "updated": 1477500346000, 
             "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "2 Wisconsin Circle", 
+                "city": "Chevy Chase", 
+                "country": "us", 
+                "id": 24686879, 
+                "lat": 38.961533000000003, 
+                "localized_country_name": "USA", 
+                "lon": -77.085402999999999, 
+                "name": "WeddingWire", 
+                "repinned": false, 
+                "state": "MD"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1476814959000, 
@@ -268,7 +280,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1477323682000, 
@@ -308,7 +320,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1470699270000, 
@@ -386,7 +398,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1452612310000, 
@@ -425,7 +437,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1446219481000, 
@@ -465,7 +477,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1326383071000, 
@@ -504,11 +516,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Joe Paolicelli will show how he built <a href=\"https://labs.missiondata.com/CapitalBikeshareML\">an API to predict</a> bike and dock space availability using machine learning and historical bikeshare and weather data.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -527,7 +539,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1477338391000, 
+            "updated": 1477500479000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -543,7 +555,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 73
         }, 
         {
             "created": 1477082045000, 
@@ -583,7 +595,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1477436823000, 
@@ -651,7 +663,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1457392514000, 
@@ -742,8 +754,21 @@
             "name": "Ruby on Rails", 
             "status": "upcoming", 
             "time": 1478734200000, 
-            "updated": 1476369469000, 
+            "updated": 1477494776000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1445 New York Ave NW,", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 6154072, 
+                "lat": 38.899357000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.033066000000005, 
+                "name": "Living Social", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
@@ -800,7 +825,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1466889219000, 
@@ -838,7 +863,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1459265642000, 
@@ -867,6 +892,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1477518097000, 
+            "description": "<p>NOTE: You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\">Eventbrite</a> to attend.</p> <p>Learn tips and tricks for automating your website, content and marketing processes.</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/235136229/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "235136229", 
+            "maybe_rsvp_count": 0, 
+            "name": "Put it on Auto: Automate Your Web Content and Marketing Channels", 
+            "status": "upcoming", 
+            "time": 1479252600000, 
+            "updated": 1477518097000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1203 19th St NW ", 
+                "city": "3rd floor", 
+                "country": "us", 
+                "id": 24145676, 
+                "lat": 38.905971999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043205, 
+                "name": "Canvas Co/work ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
         }, 
         {
             "created": 1477354776000, 
@@ -904,7 +967,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1476369329000, 
@@ -971,7 +1034,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1467704208000, 
@@ -1075,7 +1138,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1457965726000, 
@@ -1241,6 +1304,44 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 41
+        }, 
+        {
+            "created": 1477514397000, 
+            "description": "<p>We're having a very special holiday edition of the API Meetup! \u00a0Go ahead and mark your calendars for Tuesday Dec. 6th. \u00a0We'll come together to celebrate the last meetup of the year over tacos, special drinks, good cheer, and great presentations. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* RJ Heller - audioeye<br/>* Brian Derocher<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "event_url": "http://www.meetup.com/DC-Web-API-User-Group/events/235135088/", 
+            "group": {
+                "created": 1347647025000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.069999694824219, 
+                "id": 4930742, 
+                "join_mode": "open", 
+                "name": "DC Web API User Group", 
+                "urlname": "DC-Web-API-User-Group", 
+                "who": "API enthusiasts"
+            }, 
+            "headcount": 0, 
+            "id": "235135088", 
+            "maybe_rsvp_count": 0, 
+            "name": "DC API User Group - December Edition", 
+            "status": "upcoming", 
+            "time": 1481065200000, 
+            "updated": 1477514397000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 23841139, 
+                "lat": 38.908771999999999, 
+                "localized_country_name": "USA", 
+                "lon": -77.042266999999995, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1326383071000, 
