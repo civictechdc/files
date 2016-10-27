@@ -166,7 +166,7 @@ calendar({
     "other": [
         {
             "created": 1476814959000, 
-            "description": "<p>Have you ever asked the question: \"How do I contribute to Open Sourced Software (OSS) and projects?\"\u00a0 This event is for you!</p> <p>This workshop will focus on:</p> <p>- How to find OSS and projects to contribute to and where to go first</p> <p><br/>- How to contribute to those projects</p> <p>- Building your coding skills by working on OSS projects</p> <p>Join us at Socrata for this 2 hour presentation and workshop! Keep checking this page for more details before the event!</p>", 
+            "description": "<p>Have you ever asked the question: \"How do I contribute to Open Sourced Software (OSS) and projects?\"\u00a0 This event is for you!</p> <p>This workshop will focus on:</p> <p>- How to find OSS and projects to contribute to and where to go first</p> <p><br/>- How to contribute to those projects</p> <p>- Build your coding skills by working on OSS projects</p> <p>- Best practices for contributing to OSS</p> <p>To get the most of out this presentation please bring:</p> <p><br/>- Your computer</p> <p>- Install git (if you don't have it already) This tutorial is very helpful <a href=\"https://www.atlassian.com/git/tutorials/install-git/mac-os-x\" class=\"linkified\">https://www.atlassian.com/git/tutorials/install-git/mac-os-x</a></p> <p><br/>Join us at Socrata for this 2 hour presentation and workshop! Keep checking this page for more details before the event!</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234946374/", 
             "group": {
@@ -186,7 +186,7 @@ calendar({
             "rsvp_limit": 60, 
             "status": "upcoming", 
             "time": 1477607400000, 
-            "updated": 1476814959000, 
+            "updated": 1477583211000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1875 Connecticut Ave NW, Suite 715", 
@@ -202,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1477323682000, 
@@ -242,7 +242,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1470699270000, 
@@ -320,7 +320,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1452612310000, 
@@ -359,7 +359,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1446219481000, 
@@ -398,7 +398,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 0, 
+            "waitlist_count": 3, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -438,7 +438,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1475704079000, 
@@ -477,7 +477,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1477082045000, 
@@ -517,7 +517,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1477436823000, 
@@ -558,7 +558,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1477359443000, 
@@ -585,7 +585,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1457392514000, 
@@ -625,7 +625,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 48
         }, 
         {
             "created": 1459265642000, 
@@ -653,7 +653,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1476369329000, 
@@ -693,7 +693,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1417881835000, 
@@ -785,7 +785,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1459265642000, 
@@ -1290,7 +1290,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 34
         }, 
         {
             "created": 1326383071000, 
