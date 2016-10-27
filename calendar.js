@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 36
+            "yes_rsvp_count": 37
         }, 
         {
             "announced": true, 
@@ -165,84 +165,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1476733076000, 
-            "description": "<p><a href=\"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4\" class=\"linkified\">https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21035127%2F145950207606%2F1%2Foriginal.jpg?w=800&amp;rect=50%2C0%2C600%2C300&amp;s=7135b577b8c970d813c239a256455cc4</a></p> <p>In this new era of smartphones, personalization, and efficiency, it\u2019s becoming increasingly difficult for attorneys and law firms to give their clients the services that they demand. Experts point to the increasing price, the low accessibility, and the inconveniences of the current legal industry as reasons, but all of these aspects encompass a common core problem \u2013 a lack of client-driven technology solutions. Join our expert panel to see where the future of law is headed and explore new innovations that are available for attorneys to use to help their clients.</p> <p><br/>6:00 Demo Tables for Innovators &amp; Sponsors during Networking</p> <p>6:50 Welcome \u2013 Evolve Law</p> <p>7:00 Expert Panel: Client Driven Technology</p> <p>Moderator: Joel Mier,\u00a0<a href=\"https://www.contactually.com/\">Contactually</a></p> <p>Panelists:<br/>Abe Geiger,\u00a0<a href=\"https://www.legalshield.com/\">LegalShield</a><br/>Mary Juetten,\u00a0<a href=\"http://www.traklight.com/\">Traklight</a><br/>Tanina Rostain,\u00a0<a href=\"https://www.law.georgetown.edu/\">Georgetown Law</a></p> <p>8:00 Darwin Talk \u2013 Selling Simply, Jay Guiliano,\u00a0<a href=\"http://patdek.com/\">PatDek</a></p> <p>8:10 Networking &amp; Demo Tables</p> <p><b>Register Here:\u00a0<a href=\"https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463\"><a href=\"https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463\" class=\"linkified\">https://www.eventbrite.com/e/washington-dc-technology-driven-client-solutions-tickets-25392771463</a></a></b></p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/DCLegalHackers/events/234924689/", 
-            "group": {
-                "created": 1372871984000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 9201422, 
-                "join_mode": "open", 
-                "name": "DCLegalHackers", 
-                "urlname": "DCLegalHackers", 
-                "who": "Legal Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "234924689", 
-            "maybe_rsvp_count": 0, 
-            "name": "Technology Driven Client Solutions presented by EvolveLaw", 
-            "status": "upcoming", 
-            "time": 1477519200000, 
-            "updated": 1476733214000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1875 K Street Northwest", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24851111, 
-                "lat": 38.902957999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.043036999999998, 
-                "name": "WeWork", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 8
-        }, 
-        {
-            "created": 1468853724000, 
-            "description": "<p>We will build a simple Todo list application using Rails. We will learn how to start a Rails application, make basic updates to the MVC framework and create associations between models.</p> <p>Please bring a laptop with Ruby on Rails installed (<a href=\"http://installrails.com/\">instructions</a>)\u00a0to the event so you can participate in the workshop!</p> <p>WeddingWire is located on the 3rd floor of the Chevy Chase Metro Building at 2 Wisconsin Circle. We will be in a conference room named \"Weddings\" - follow the Women Who Code signs to get to the conference room once you get to the 3rd floor. If you need assistance, please call or text Mary-Katherine at[masked]-7944.</p> <p>Looking for something else to work on?</p> <p>For those who are new to coding or new to Rails, we recommend Michael Hartl's Rails Tutorial. For those who have some experience already but are looking for projects, we recommend Mackenzie Child's 12 in 12 apps. You are always welcome to come and work on something else if you like.</p> <p>Contact policy at buildings that need access</p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.</p> <p>Want to be a Ruby on Rails Study Group leader?</p> <p>If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\">&lt;/a&gt;&lt;a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\"&gt;<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\">&lt;/a&gt;&lt;a href=\"http://bit.ly/wwcdcslack\"&gt;<a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234696135/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bmvvbmyvnbjc", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Build a To Do List App", 
-            "status": "upcoming", 
-            "time": 1477521000000, 
-            "updated": 1477500346000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2 Wisconsin Circle", 
-                "city": "Chevy Chase", 
-                "country": "us", 
-                "id": 24686879, 
-                "lat": 38.961533000000003, 
-                "localized_country_name": "USA", 
-                "lon": -77.085402999999999, 
-                "name": "WeddingWire", 
-                "repinned": false, 
-                "state": "MD"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 18
-        }, 
-        {
             "created": 1476814959000, 
             "description": "<p>Have you ever asked the question: \"How do I contribute to Open Sourced Software (OSS) and projects?\"\u00a0 This event is for you!</p> <p>This workshop will focus on:</p> <p>- How to find OSS and projects to contribute to and where to go first</p> <p><br/>- How to contribute to those projects</p> <p>- Building your coding skills by working on OSS projects</p> <p>Join us at Socrata for this 2 hour presentation and workshop! Keep checking this page for more details before the event!</p>", 
             "duration": 7200000, 
@@ -320,7 +242,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1470699270000, 
@@ -477,7 +399,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1326383071000, 
@@ -516,11 +438,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the new WeWork in Crystal City. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Joe Paolicelli will show how he built <a href=\"https://labs.missiondata.com/CapitalBikeshareML\">an API to predict</a> bike and dock space availability using machine learning and historical bikeshare and weather data.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at\u00a0<a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">WeWork</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">Crystal City WeWork</a>. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Joe Paolicelli will show how he built <a href=\"https://labs.missiondata.com/CapitalBikeshareML\">an API to predict</a> bike and dock space availability using machine learning and historical bikeshare and weather data.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at WeWork\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -539,7 +461,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1477500479000, 
+            "updated": 1477536983000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -555,7 +477,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1477082045000, 
@@ -798,7 +720,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1460389774000, 
@@ -863,7 +785,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1459265642000, 
@@ -895,7 +817,7 @@ calendar({
         }, 
         {
             "created": 1477518097000, 
-            "description": "<p>NOTE: You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\">Eventbrite</a> to attend.</p> <p>Learn tips and tricks for automating your website, content and marketing processes.</p>", 
+            "description": "<p>NOTE: You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\">Eventbrite</a> to attend.</p> <p>Work smarter not harder!</p> <p>Join us to learn tips and tricks for streamlining and automating your website's content and marketing processes.\u00a0</p> <p>Discussions include:<br/>- Planning a repeatable content creation lifecycle<br/>- Approaches to content reuse<br/>- Streamlining workflow for repetition<br/>- Marketing automation options including mass mailers and other tools</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/235136229/", 
             "group": {
                 "created": 1189804715000, 
@@ -913,7 +835,7 @@ calendar({
             "name": "Put it on Auto: Automate Your Web Content and Marketing Channels", 
             "status": "upcoming", 
             "time": 1479252600000, 
-            "updated": 1477518097000, 
+            "updated": 1477536021000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW ", 
@@ -1265,6 +1187,33 @@ calendar({
             "yes_rsvp_count": 4
         }, 
         {
+            "created": 1476369329000, 
+            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvpbnc/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bmvvbmyvpbnc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails", 
+            "status": "upcoming", 
+            "time": 1480548600000, 
+            "updated": 1476369469000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
+        }, 
+        {
             "created": 1476928965000, 
             "description": "<p>Please join us in November to hear how Apache Pirk enables users to generate and execute secure queries.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Scalable Private Information Retrieval \u2013 Introducing Apache Pirk (incubating) - Ellison Anne Williams</i></p> <p>9:00 PM -- Post event drinks.</p> <p><br/><b>Location</b></p> <p><b>Directions</b></p> <p><b>Talks</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/6/a/d/2/600_455247346.jpeg\" /></p> <p><i>Scalable Private Information Retrieval \u2013 Introducing Apache Pirk (incubating)</i></p> <p><br/>Querying information over TBs of data where no one can see what you query or the responses obtained? It sounds like science fiction, but it is actually the science of Private Information Retrieval (PIR). This talk will introduce Apache Pirk - a new incubating Apache project designed to provide a framework for scalable, distributed PIR. We will discuss the motivation for Apache Pirk, its distributed implementations in platforms such as Spark and Storm, it\u2019s current algorithms, the power of homomorphic encryption, and take a look at the path forward.</p> <p><br/><b>Speakers</b></p> <p>Ellison Anne Williams is a creator and PMC member of Apache Pirk, a pure mathematician by training, and a practical computer scientist in real life. She is Founder/CEO of Enveil, Inc. Her passion is doing cool stuff with massive amounts of data. Ellison can be contacted\u00a0<a href=\"mailto:[masked]\">[masked]</a></p>", 
             "duration": 5400000, 
@@ -1341,7 +1290,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1326383071000, 
