@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 38
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -118,7 +118,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -189,7 +189,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 40
 - created: 1477323682000
   description: "<p><b>Happy Halloween!</b> Come code with us in your Halloween costume\
     \ (highly encouraged but not required)! No tricks, and treats will be provided.</p>\
@@ -238,7 +238,7 @@ other:
     lon: -77.070335, name: Deloitte Digital - Rosslyn, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 20
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -362,7 +362,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 31
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -387,13 +387,13 @@ other:
   rsvp_limit: 50
   status: upcoming
   time: 1478125800000
-  updated: 1473865192000
+  updated: 1477597355000
   utc_offset: -14400000
-  venue: {address_1: 1 Thomas Circle, city: Washington, country: us, id: 24416213,
-    lat: 38.905323000000003, localized_country_name: USA, lon: -77.032700000000006,
-    name: Fiscal Note, repinned: false, state: DC}
+  venue: {address_1: '1133 15th Street NW Suite 200 ', city: Washington, country: us,
+    id: 24869770, lat: 38.904865000000001, localized_country_name: USA, lon: -77.033996999999999,
+    name: NYCDA, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 14
   yes_rsvp_count: 50
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
@@ -476,7 +476,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1477082045000
   description: <p>Have you considered attending a technology bootcamp? Are you currently
     attending one? Join a panel of alumnae from various schools and immersive courses
@@ -501,7 +501,7 @@ other:
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 69
 - created: 1477436823000
   description: "<p>Title:\_#OnlineOffline - Developing Mobile Apps for Rural Africa</p>\
     \ <p>Location:\_<a href=\"https://maps.google.com/maps?q=1331%20L%20St%20NW%2C%20Washington%2C%20DC\"\
@@ -548,7 +548,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 21
 - created: 1477359443000
   description: <p>New to data science? Development sprints are a great way to get
     more deeply involved in the community, become a contributor to an open source
@@ -620,7 +620,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -708,7 +708,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -750,7 +750,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1466889219000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -865,7 +865,7 @@ other:
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -933,7 +933,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1467704208000
   description: "<p>NOTE: You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
     >Eventbrite</a>.\_</p> <p><br/><b>== MavenMini: Association Web Mini-Conference\
@@ -1035,7 +1035,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1262,7 +1262,7 @@ other:
     name: Inovex Information Systems, repinned: false, state: MD, zip: '21076'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1477514397000
   description: "<p>We're having a very special holiday edition of the API Meetup!\
     \ \_Go ahead and mark your calendars for Tuesday Dec. 6th. \_We'll come together\
@@ -1289,7 +1289,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 34
+  yes_rsvp_count: 37
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1343,6 +1343,43 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 2
+- created: 1477600919000
+  description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
+    \ data visualizations.\_We are thrilled to be hosted by WMATA at Metro's headquarters.\
+    \ We'll be on the first floor; be sure to bring an ID in order to enter the building.\_\
+    Please arrive a bit early, as it will take a while to process everyone through\
+    \ the metal detectors and check IDs.</p> <p>Have you built a Metro-related app,\
+    \ hack, map or dataviz? Sign up for our show &amp; tell.</p> <p>To build your\
+    \ own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\_\
+    <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_tag,\
+    \ or use their\_<a href=\"https://developer.wmata.com/\">developer tools</a>.</p>\
+    \ <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\"\
+    \ /></p> <p>Many thanks to our sponsors at\_<a href=\"http://mobilitylab.org/\"\
+    >Mobility Lab</a>\_and <a href=\"http://www.wmata.com/\">WMATA</a>\_for making\
+    \ this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\"\
+    >Metro Hack Night V</a>?\_See\_<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\"\
+    >Crowd control: Simulating congestion in the D.C. Metro</a> and\_<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\"\
+    >MetroHackNight V</a>.</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\"\
+    >@techiesdc</a>\_for \"Transportation Techies\" updates. Use<a href=\"https://twitter.com/hashtag/metrohacknight\"\
+    >#metrohacknight</a>\_for your own tweets.\_</p>"
+  event_url: http://www.meetup.com/Transportation-Techies/events/235160988/
+  group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
+    id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
+    who: Techies}
+  headcount: 0
+  id: '235160988'
+  maybe_rsvp_count: 0
+  name: Metro Hack Night VI
+  status: upcoming
+  time: 1481756400000
+  updated: 1477603244000
+  utc_offset: -18000000
+  venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
+    id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
+    name: WMATA HQ, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
