@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 44
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -206,7 +206,7 @@ other:
     lon: -77.070335, name: Deloitte Digital - Rosslyn, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 22
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -253,7 +253,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 23
+  yes_rsvp_count: 24
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -286,7 +286,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -361,7 +361,7 @@ other:
     id: 24869770, lat: 38.904865000000001, localized_country_name: USA, lon: -77.033996999999999,
     name: NYCDA, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 21
+  waitlist_count: 22
   yes_rsvp_count: 50
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
@@ -396,10 +396,12 @@ other:
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"\
     https://www.wework.com/locations/washington-d-c/crystal-city\">Crystal City WeWork</a>.\
-    \ Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.</p>\
-    \ <p>\u2022\_Manuel Darveau will show the upcoming Apple Watch integration with\
-    \ <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\_Jon Wergin\
-    \ will show how he tracked CaBi riders with GPS to show\_<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\"\
+    \ Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30.\
+    \ This will be a BYOB event, if you want to bring a beer for yourself or to share\
+    \ (be prepared to show ID).</p> <p>\u2022\_Manuel Darveau will show the upcoming\
+    \ Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile\
+    \ app.</p> <p>\u2022\_Jon Wergin will show how he tracked CaBi riders with GPS\
+    \ to show\_<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\"\
     >where they actually go</a>\_and\_<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\"\
     >how often they use bike lanes</a>.</p> <p><br/>\u2022\_Andrew McGill will demo\
     \ a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare\
@@ -437,7 +439,7 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1478210400000
-  updated: 1477536983000
+  updated: 1477710970000
   utc_offset: -14400000
   venue: {address_1: 2221 SOUTH CLARK ST, city: Arlington, country: us, id: 24336429,
     lat: 38.853954000000002, localized_country_name: USA, lon: -77.051636000000002,
@@ -468,8 +470,8 @@ other:
     id: 24461952, lat: 38.902926999999998, localized_country_name: USA, lon: -77.030540000000002,
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 72
+  waitlist_count: 2
+  yes_rsvp_count: 75
 - created: 1477436823000
   description: "<p>Title:\_#OnlineOffline - Developing Mobile Apps for Rural Africa</p>\
     \ <p>Location:\_<a href=\"https://maps.google.com/maps?q=1331%20L%20St%20NW%2C%20Washington%2C%20DC\"\
@@ -749,7 +751,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -811,7 +813,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1477354776000
   description: "<p>Join recent graduates from Georgetown University's Data Science\
     \ Certificate Program who will be delivering lighting talks about their experience\
@@ -840,7 +842,7 @@ other:
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 47
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -908,7 +910,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1467704208000
   description: "<p>NOTE: You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
     >Eventbrite</a>.\_</p> <p><br/><b>== MavenMini: Association Web Mini-Conference\
@@ -1237,7 +1239,7 @@ other:
     name: Inovex Information Systems, repinned: false, state: MD, zip: '21076'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1314,7 +1316,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 40
+  yes_rsvp_count: 42
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1375,14 +1377,15 @@ other:
     Please arrive a bit early, as it will take a while to process everyone through\
     \ the metal detectors and check IDs.\_</p> <p>Have you built a Metro-related app,\
     \ hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p>\
-    \ <p>\u2022\_Ben Shepherd will show how he used the live train positions API to\
-    \ make\_<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>\u2022\
-    \_<a href=\"https://kwkelly.com/\">Keith Kelly</a> will show how he used historic\
-    \ data to visualize wait times.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/joe_haaga\"\
-    >Joe Haaga</a> will demo his project to compare\_indirect routes.</p> <p><br/>To\
-    \ build your own Metro apps, hacks, and visualizations, find WMATA's open data\
-    \ via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_\
-    tag, or use their\_<a href=\"https://developer.wmata.com/\">developer tools</a>.</p>\
+    \ <p>\u2022\_<a href=\"http://ben.somebody.io/\">Ben Shepherd</a> will show how\
+    \ he used the live train positions API to make\_<a href=\"https://dctraintracker.com/\"\
+    >dctraintracker.com</a>.</p> <p><br/>\u2022\_<a href=\"https://kwkelly.com/\"\
+    >Keith Kelly</a> will show how he used historic data to visualize wait times.</p>\
+    \ <p><br/>\u2022\_<a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will\
+    \ demo his project to compare\_indirect routes.</p> <p><br/>To build your own\
+    \ Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\_\
+    <a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_tag,\
+    \ or use their\_<a href=\"https://developer.wmata.com/\">developer tools</a>.</p>\
     \ <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\"\
     \ /></p> <p>Many thanks to our sponsors at\_<a href=\"http://mobilitylab.org/\"\
     >Mobility Lab</a>\_and <a href=\"http://www.wmata.com/\">WMATA</a>\_for making\
@@ -1390,7 +1393,7 @@ other:
     >Metro Hack Night V</a>?\_See\_<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\"\
     >Crowd control: Simulating congestion in the D.C. Metro</a> and\_<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\"\
     >MetroHackNight V</a>.</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\"\
-    >@techiesdc</a>\_for \"Transportation Techies\" updates. Use<a href=\"https://twitter.com/hashtag/metrohacknight\"\
+    >@techiesdc</a>\_for \"Transportation Techies\" updates. Use\_<a href=\"https://twitter.com/hashtag/metrohacknight\"\
     >#metrohacknight</a>\_for your own tweets.\_</p>"
   event_url: http://www.meetup.com/Transportation-Techies/events/235160988/
   group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
@@ -1403,14 +1406,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1481756400000
-  updated: 1477690074000
+  updated: 1477709951000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 14
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
@@ -1512,7 +1515,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
