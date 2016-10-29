@@ -240,7 +240,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
@@ -398,7 +398,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1475704079000, 
@@ -437,7 +437,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1477082045000, 
@@ -477,7 +477,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 71
+            "yes_rsvp_count": 72
         }, 
         {
             "created": 1477436823000, 
@@ -545,7 +545,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1457392514000, 
@@ -680,7 +680,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1460389774000, 
@@ -777,7 +777,7 @@ calendar({
         }, 
         {
             "created": 1477518097000, 
-            "description": "<p>NOTE: You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\">Eventbrite</a> to attend.</p> <p>Work smarter not harder!</p> <p>Join us to learn tips and tricks for streamlining and automating your website's content and marketing processes.\u00a0</p> <p>Discussions include:<br/>- Planning a repeatable content creation lifecycle<br/>- Approaches to content reuse<br/>- Streamlining workflow for repetition<br/>- Marketing automation options including mass mailers and other tools</p>", 
+            "description": "<p>(You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\">Eventbrite</a> to attend)</p> <p>Work smarter not harder! Join the Web Content Mavens for ideas and practical insights on digital content &amp; marketing automation. You'll learn tips and tricks for streamlining and automating your website's content and marketing processes.\u00a0</p> <p><b>Discussion Topics</b></p> <p>- Planning a repeatable content creation life-cycle\u00a0<br/>- Approaches to content reuse\u00a0<br/>- Streamlining workflow for repetition\u00a0<br/>- Marketing automation tools and options\u00a0<br/>- Distributing content through multiple channels</p> <p><b>Who Should Attend?</b></p> <p>Web, content and marketing managers will all gain insights as well as directors and VPs who are involved in the overall workflow for web and marketing projects.\u00a0</p> <p><b>Agenda</b></p> <p>6:20 - Registration opens<br/>6:30 - Networking over beer, wine, soda &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 \u00a0- Q &amp; A<br/>8:30 - More networking</p>", 
             "event_url": "http://www.meetup.com/webcontentmavens/events/235136229/", 
             "group": {
                 "created": 1189804715000, 
@@ -792,10 +792,10 @@ calendar({
             "headcount": 0, 
             "id": "235136229", 
             "maybe_rsvp_count": 0, 
-            "name": "Put it on Auto: Automate Your Web Content and Marketing Channels", 
+            "name": "Put it on Auto: Automate Your Web Content & Marketing Channels", 
             "status": "upcoming", 
             "time": 1479252600000, 
-            "updated": 1477536021000, 
+            "updated": 1477683000000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1203 19th St NW ", 
@@ -811,7 +811,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1477354776000, 
@@ -849,7 +849,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1476369329000, 
@@ -1371,7 +1371,7 @@ calendar({
         }, 
         {
             "created": 1477600919000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations.\u00a0We are thrilled to be hosted by WMATA at Metro's headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.</p> <p>Have you built a Metro-related app, hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p> <p>\u2022\u00a0Ben Shepherd will show how he used the live train positions API to make\u00a0<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"http://www.wmata.com/\">WMATA</a>\u00a0for making this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\">Metro Hack Night V</a>?\u00a0See\u00a0<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\">Crowd control: Simulating congestion in the D.C. Metro</a> and\u00a0<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\">MetroHackNight V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Use<a href=\"https://twitter.com/hashtag/metrohacknight\">#metrohacknight</a>\u00a0for your own tweets.\u00a0</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to return to WMATA headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.\u00a0</p> <p>Have you built a Metro-related app, hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p> <p>\u2022\u00a0Ben Shepherd will show how he used the live train positions API to make\u00a0<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://kwkelly.com/\">Keith Kelly</a> will show how he used historic data to visualize wait times.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will demo his project to compare\u00a0indirect routes.</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.</p> <p><br/><img src=\"http://photos1.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"http://www.wmata.com/\">WMATA</a>\u00a0for making this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\">Metro Hack Night V</a>?\u00a0See\u00a0<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\">Crowd control: Simulating congestion in the D.C. Metro</a> and\u00a0<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\">MetroHackNight V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Use<a href=\"https://twitter.com/hashtag/metrohacknight\">#metrohacknight</a>\u00a0for your own tweets.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/235160988/", 
             "group": {
                 "created": 1384372275000, 
@@ -1390,11 +1390,23 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1481756400000, 
-            "updated": 1477671184000, 
+            "updated": 1477690074000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "Jackson Graham Building, 600 5th St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24347865, 
+                "lat": 38.897846000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.019469999999998, 
+                "name": "WMATA HQ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 

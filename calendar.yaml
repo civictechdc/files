@@ -253,7 +253,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -391,7 +391,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 67
+  yes_rsvp_count: 68
 - created: 1475704079000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"\
@@ -444,7 +444,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 84
 - created: 1477082045000
   description: <p>Have you considered attending a technology bootcamp? Are you currently
     attending one? Join a panel of alumnae from various schools and immersive courses
@@ -469,7 +469,7 @@ other:
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 72
 - created: 1477436823000
   description: "<p>Title:\_#OnlineOffline - Developing Mobile Apps for Rural Africa</p>\
     \ <p>Location:\_<a href=\"https://maps.google.com/maps?q=1331%20L%20St%20NW%2C%20Washington%2C%20DC\"\
@@ -538,7 +538,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 16
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -676,7 +676,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -781,13 +781,19 @@ other:
   waitlist_count: 0
   yes_rsvp_count: 4
 - created: 1477518097000
-  description: "<p>NOTE: You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\"\
-    >Eventbrite</a> to attend.</p> <p>Work smarter not harder!</p> <p>Join us to learn\
-    \ tips and tricks for streamlining and automating your website's content and marketing\
-    \ processes.\_</p> <p>Discussions include:<br/>- Planning a repeatable content\
-    \ creation lifecycle<br/>- Approaches to content reuse<br/>- Streamlining workflow\
-    \ for repetition<br/>- Marketing automation options including mass mailers and\
-    \ other tools</p>"
+  description: "<p>(You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\"\
+    >Eventbrite</a> to attend)</p> <p>Work smarter not harder! Join the Web Content\
+    \ Mavens for ideas and practical insights on digital content &amp; marketing automation.\
+    \ You'll learn tips and tricks for streamlining and automating your website's\
+    \ content and marketing processes.\_</p> <p><b>Discussion Topics</b></p> <p>-\
+    \ Planning a repeatable content creation life-cycle\_<br/>- Approaches to content\
+    \ reuse\_<br/>- Streamlining workflow for repetition\_<br/>- Marketing automation\
+    \ tools and options\_<br/>- Distributing content through multiple channels</p>\
+    \ <p><b>Who Should Attend?</b></p> <p>Web, content and marketing managers will\
+    \ all gain insights as well as directors and VPs who are involved in the overall\
+    \ workflow for web and marketing projects.\_</p> <p><b>Agenda</b></p> <p>6:20\
+    \ - Registration opens<br/>6:30 - Networking over beer, wine, soda &amp; light\
+    \ appetizers<br/>7:00 - Presentations<br/>8:15 \_- Q &amp; A<br/>8:30 - More networking</p>"
   event_url: http://www.meetup.com/webcontentmavens/events/235136229/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
@@ -795,17 +801,17 @@ other:
   headcount: 0
   id: '235136229'
   maybe_rsvp_count: 0
-  name: 'Put it on Auto: Automate Your Web Content and Marketing Channels'
+  name: 'Put it on Auto: Automate Your Web Content & Marketing Channels'
   status: upcoming
   time: 1479252600000
-  updated: 1477536021000
+  updated: 1477683000000
   utc_offset: -18000000
   venue: {address_1: '1203 19th St NW ', city: 3rd floor, country: us, id: 24145676,
     lat: 38.905971999999998, localized_country_name: USA, lon: -77.043205, name: 'Canvas
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 3
 - created: 1477354776000
   description: "<p>Join recent graduates from Georgetown University's Data Science\
     \ Certificate Program who will be delivering lighting talks about their experience\
@@ -834,7 +840,7 @@ other:
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1364,13 +1370,16 @@ other:
   yes_rsvp_count: 2
 - created: 1477600919000
   description: "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and\
-    \ data visualizations.\_We are thrilled to be hosted by WMATA at Metro's headquarters.\
-    \ We'll be on the first floor; be sure to bring an ID in order to enter the building.\_\
+    \ data visualizations. We are thrilled to return to WMATA headquarters. We'll\
+    \ be on the first floor; be sure to bring an ID in order to enter the building.\_\
     Please arrive a bit early, as it will take a while to process everyone through\
-    \ the metal detectors and check IDs.</p> <p>Have you built a Metro-related app,\
+    \ the metal detectors and check IDs.\_</p> <p>Have you built a Metro-related app,\
     \ hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p>\
     \ <p>\u2022\_Ben Shepherd will show how he used the live train positions API to\
-    \ make\_<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>To\
+    \ make\_<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>\u2022\
+    \_<a href=\"https://kwkelly.com/\">Keith Kelly</a> will show how he used historic\
+    \ data to visualize wait times.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/joe_haaga\"\
+    >Joe Haaga</a> will demo his project to compare\_indirect routes.</p> <p><br/>To\
     \ build your own Metro apps, hacks, and visualizations, find WMATA's open data\
     \ via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_\
     tag, or use their\_<a href=\"https://developer.wmata.com/\">developer tools</a>.</p>\
@@ -1394,11 +1403,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1481756400000
-  updated: 1477671184000
+  updated: 1477690074000
   utc_offset: -18000000
+  venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
+    id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
+    name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
