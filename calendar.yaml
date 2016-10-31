@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -206,7 +206,7 @@ other:
     lon: -77.070335, name: Deloitte Digital - Rosslyn, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 28
 - created: 1470699270000
   description: "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\"\
     >Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for\
@@ -330,7 +330,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 39
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -470,7 +470,7 @@ other:
     id: 24461952, lat: 38.902926999999998, localized_country_name: USA, lon: -77.030540000000002,
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 9
   yes_rsvp_count: 75
 - created: 1477436823000
   description: "<p>Title:\_#OnlineOffline - Developing Mobile Apps for Rural Africa</p>\
@@ -518,7 +518,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 28
+  yes_rsvp_count: 29
 - created: 1477359443000
   description: <p>New to data science? Development sprints are a great way to get
     more deeply involved in the community, become a contributor to an open source
@@ -540,7 +540,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 24
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -590,7 +590,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 51
+  yes_rsvp_count: 54
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -659,7 +659,7 @@ other:
     name: Living Social, repinned: false, state: DC, zip: '20005'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 9
+  yes_rsvp_count: 10
 - created: 1417881835000
   description: <p><img src="http://photos2.meetupstatic.com/photos/event/8/e/b/c/600_432156540.jpeg"
     /></p>
@@ -678,7 +678,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 24
+  yes_rsvp_count: 25
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -720,7 +720,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 18
 - created: 1466889219000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -751,7 +751,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -864,7 +864,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvpbvb/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235224623/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -878,7 +878,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1446220217000
   description: "<p>We're a group of women who want to learn and develop our Python\
     \ scripting skills. Some of us are professional developers and data scientists,\
@@ -989,7 +989,7 @@ other:
     name: NAVA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 29
 - created: 1477363365000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -1012,7 +1012,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1184,7 +1184,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvpbnc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235224633/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1198,7 +1198,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 4
 - created: 1476928965000
   description: "<p>Please join us in November to hear how Apache Pirk enables users\
     \ to generate and execute secure queries.</p> <p><b>Agenda</b></p> <p>6:30 PM\
@@ -1239,7 +1239,7 @@ other:
     name: Inovex Information Systems, repinned: false, state: MD, zip: '21076'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1413,7 +1413,7 @@ other:
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
