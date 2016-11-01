@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 65
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "announced": true, 
@@ -200,7 +200,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1459265642000, 
@@ -240,7 +240,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1452612310000, 
@@ -279,7 +279,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1446219481000, 
@@ -318,7 +318,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 31, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -358,7 +358,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1475704079000, 
@@ -397,7 +397,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 88
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1477082045000, 
@@ -436,7 +436,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 13, 
+            "waitlist_count": 14, 
             "yes_rsvp_count": 75
         }, 
         {
@@ -478,7 +478,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1477359443000, 
@@ -505,7 +505,7 @@
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1457392514000, 
@@ -545,7 +545,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1459265642000, 
@@ -633,10 +633,10 @@
             "headcount": 0, 
             "id": "hffzclyvpbdb", 
             "maybe_rsvp_count": 0, 
-            "name": "Integrating Real-Time Data - Spark and Kafka for Video and Data-Stream Analysis", 
+            "name": "Integrating Real-Time Data - Spark and Kafka for Video and Data Stream Analysis", 
             "status": "upcoming", 
             "time": 1478734200000, 
-            "updated": 1477922748000, 
+            "updated": 1478018478000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2231 Crystal Drive, suite 401, 22202", 
@@ -652,7 +652,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 61
         }, 
         {
             "created": 1460389774000, 
@@ -717,7 +717,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1459265642000, 
@@ -929,7 +929,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1467704208000, 
@@ -967,7 +967,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1471280434000, 
@@ -1006,7 +1006,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1477363365000, 
@@ -1265,7 +1265,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1477514397000, 
@@ -1303,7 +1303,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 49
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1326383071000, 
@@ -1342,7 +1342,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1466889250000, 
@@ -1419,7 +1419,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1326383071000, 
