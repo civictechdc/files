@@ -165,46 +165,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1477323682000, 
-            "description": "<p><b>Happy Halloween!</b> Come code with us in your Halloween costume (highly encouraged but not required)! No tricks, and treats will be provided.</p> <p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p>Laptops</p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235080762/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "235080762", 
-            "maybe_rsvp_count": 0, 
-            "name": "Code + Costume: Front End Lab", 
-            "rsvp_limit": 40, 
-            "status": "upcoming", 
-            "time": 1477953000000, 
-            "updated": 1477403653000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1919 N. Lynn Street. Arlington, VA 22209", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24401587, 
-                "lat": 38.897694000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.070335, 
-                "name": "Deloitte Digital - Rosslyn", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 30
-        }, 
-        {
             "created": 1470699270000, 
             "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
             "event_url": "https://www.meetup.com/webcontentmavens/events/233220012/", 
@@ -280,7 +240,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1452612310000, 
@@ -319,7 +279,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1446219481000, 
@@ -358,7 +318,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 29, 
+            "waitlist_count": 31, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -398,7 +358,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 76
         }, 
         {
             "created": 1475704079000, 
@@ -437,7 +397,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 84
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1477082045000, 
@@ -476,7 +436,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 13, 
             "yes_rsvp_count": 75
         }, 
         {
@@ -518,7 +478,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1477359443000, 
@@ -545,7 +505,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 31
         }, 
         {
             "created": 1457392514000, 
@@ -585,7 +545,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1459265642000, 
@@ -692,7 +652,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1460389774000, 
@@ -757,13 +717,13 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
-            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbtb/", 
+            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235260151/", 
             "group": {
                 "created": 1395616294000, 
                 "group_lat": 38.909999847412109, 
@@ -823,7 +783,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1477354776000, 
@@ -969,7 +929,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1467704208000, 
@@ -1265,7 +1225,47 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 48
+        }, 
+        {
+            "created": 1457392514000, 
+            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/232450487/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "wskkxlyvqbhb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Lab - First Timer's Night", 
+            "status": "upcoming", 
+            "time": 1480980600000, 
+            "updated": 1472237526000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "641 S St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 9483992, 
+                "lat": 38.914549999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.021095000000003, 
+                "name": "iStrategyLabs", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20001"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1477514397000, 
@@ -1419,12 +1419,12 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
-            "event_url": "https://www.meetup.com/Geo-DC/events/dlcllcywcbgb/", 
+            "event_url": "https://www.meetup.com/Geo-DC/events/235258366/", 
             "group": {
                 "created": 1307975249000, 
                 "group_lat": 38.939998626708984, 
@@ -1831,6 +1831,45 @@ calendar({
             "name": "Monthly Meetup", 
             "status": "upcoming", 
             "time": 1507158000000, 
+            "updated": 1446214010000, 
+            "utc_offset": -14400000, 
+            "venue": {
+                "address_1": "1602 U St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24181227, 
+                "lat": 38.916733000000001, 
+                "localized_country_name": "USA", 
+                "lon": -77.037186000000005, 
+                "name": "Local 16", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1326383071000, 
+            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
+            "event_url": "https://www.meetup.com/Geo-DC/events/dlcllcywpbcb/", 
+            "group": {
+                "created": 1307975249000, 
+                "group_lat": 38.939998626708984, 
+                "group_lon": -77.05999755859375, 
+                "id": 2013511, 
+                "join_mode": "open", 
+                "name": "Geo DC", 
+                "urlname": "Geo-DC", 
+                "who": "Members"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Upstairs bar", 
+            "id": "dlcllcywpbcb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Monthly Meetup", 
+            "status": "upcoming", 
+            "time": 1509577200000, 
             "updated": 1446214010000, 
             "utc_offset": -14400000, 
             "venue": {
