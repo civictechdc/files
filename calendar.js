@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 61
+            "yes_rsvp_count": 63
         }, 
         {
             "announced": true, 
@@ -202,7 +202,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1470699270000, 
@@ -240,7 +240,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1459265642000, 
@@ -280,7 +280,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1452612310000, 
@@ -358,7 +358,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 27, 
+            "waitlist_count": 29, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -398,7 +398,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 73
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1475704079000, 
@@ -437,7 +437,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 85
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1477082045000, 
@@ -476,7 +476,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 12, 
             "yes_rsvp_count": 75
         }, 
         {
@@ -518,7 +518,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1477359443000, 
@@ -545,7 +545,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 28
         }, 
         {
             "created": 1457392514000, 
@@ -585,7 +585,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1459265642000, 
@@ -692,7 +692,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1460389774000, 
@@ -823,11 +823,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 5
         }, 
         {
             "created": 1477354776000, 
-            "description": "<p>Join recent graduates from Georgetown University's Data Science Certificate Program who will be delivering lighting talks about their experience developing their capstone projects. After the talks, we'll do a happy hour and take open questions from the audience about how to get started on your first data science project!\u00a0</p> <p>Teams and Projects:</p> <p><b>Team Neighborhood</b><br/>Urban Home Finder -\u00a0Helping Millennials Choose Their Next Metropolitan Home</p> <p><br/><b>Team Buzzfeed</b><br/>Buzzfeed: The Trend Behind What's Trending</p> <p><br/><b>Team Originalists</b><br/>Predicting WMATA\u00a0Train Delay Probabilities and Improving Station-to-Station Trip Length\u00a0Predictions</p> <p><br/><b>Team Zero</b><br/>Analyzing Airbnb Listings in DC and the Factors Fetching Top Prices</p>", 
+            "description": "<p>Join recent graduates from Georgetown University's Data Science Certificate Program who will be delivering lighting talks about their experience developing their capstone projects. After the talks, we'll do a happy hour and take open questions from the audience about how to get started on your first data science project!\u00a0</p> <p>Teams and Projects:</p> <p><b>Team Neighborhood</b><br/>Urban Home Finder -\u00a0Helping Millennials Choose Their Next Metropolitan Home</p> <p><br/><b>Team Buzzfeed</b><br/>Buzzfeed: The Trend Behind What's Trending</p> <p><br/><b>Team Originalists</b><br/>Predicting WMATA\u00a0Train Delay Probabilities and Improving Station-to-Station Trip Length\u00a0Predictions</p> <p><br/><b>Team Zero</b><br/>Analyzing Airbnb Listings in DC and the Factors Fetching Top Prices</p> <p><br/><b>Team P2P Lending</b><br/>Forecasting Peer-to-Peer Lending Risk</p>", 
             "event_url": "https://www.meetup.com/Data-Innovation-DC/events/235092916/", 
             "group": {
                 "created": 1339111847000, 
@@ -845,7 +845,7 @@ calendar({
             "name": "Data Science Lightning Talks & Happy Hour", 
             "status": "upcoming", 
             "time": 1479254400000, 
-            "updated": 1477663143000, 
+            "updated": 1477945834000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2212 14th St NW, 20009", 
@@ -928,7 +928,48 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
+        }, 
+        {
+            "created": 1477945072000, 
+            "description": "<p>Women Who Code is partnering with DC Media Innovations to host a trivia night!\u00a0</p> <p>Format: five rounds of ten questions each, plus two worksheet rounds and a puzzle round. Questions will span a variety of topics, including technology, movies, games, and more. No worries if you don't know anyone, teams will be formed onsite.</p> <p>Food/drinks will be available for purchase, but it's completely free to play!\u00a0</p> <p><b>Please also RSVP here</b>: <a href=\"http://www.meetup.com/DC-Media-Innovations/events/235240616/?gj=co2&amp;rv=co2\" class=\"linkified\">http://www.meetup.com/DC-Media-Innovations/events/235240616/?gj=co2&amp;rv=co2</a></p> <p>And check out <a href=\"https://www.meetup.com/DC-Media-Innovations/\">DCMI's meetup page</a>!</p>", 
+            "duration": 9000000, 
+            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235249717/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "We'll be in the back room downstairs. (If you have trouble finding us, ask a waiter or a bartender. The cell phone service back there is spotty.)", 
+            "id": "235249717", 
+            "maybe_rsvp_count": 0, 
+            "name": "Trivia Night! With DC Media Innovations", 
+            "status": "upcoming", 
+            "time": 1479340800000, 
+            "updated": 1477948655000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1523 22nd St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 12316412, 
+                "lat": 38.910224999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.048203000000001, 
+                "name": "Bier Baron Tavern", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20037"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1467704208000, 
@@ -1227,46 +1268,6 @@ calendar({
             "yes_rsvp_count": 47
         }, 
         {
-            "created": 1457392514000, 
-            "description": "<p>Learning to code for the first time with us! We will be going over our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's Guide</a> in a casual workshop setting. We offer both a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">HTML &amp; CSS guide</a> as well as a first timer's <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">JavaScript guide</a>.</p> <p><br/>Front End Hack Night (FEHN) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!\u00a0</p> <p><b>Laptop Policy</b></p> <p>In order to maximize your benefits from FEHN, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEHN!</p> <p><b>Agenda\u00a0</b></p> <p>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Split into HTML/CSS and JavaScript First Timer's Guide Workshops</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p><b>Resources</b></p> <p>To learn more about us please visit <a href=\"https://github.com/womenwhocodedc/front-end-community\">our Github repository</a>.</p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\">First Timer's HTML &amp; CSS Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md\">First Timer's JavaScript Guide</a></p> <p><br/>\u2022\u00a0<a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md\">HTML Study Guide</a></p> <p>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md\">CSS Study Guide</a></p> <p><br/>\u2022 <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md\">JavaScript Study Guide</a></p> <p><b>Building Access</b></p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p><b>Welcome</b>\u00a0</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/232450487/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "wskkxlyvqbhb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Front End Lab - First Timer's Night", 
-            "status": "upcoming", 
-            "time": 1480980600000, 
-            "updated": 1472237526000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "641 S St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 9483992, 
-                "lat": 38.914549999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.021095000000003, 
-                "name": "iStrategyLabs", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20001"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 11
-        }, 
-        {
             "created": 1477514397000, 
             "description": "<p>We're having a very special holiday edition of the API Meetup! \u00a0Go ahead and mark your calendars for Tuesday Dec. 6th. \u00a0We'll come together to celebrate the last meetup of the year over tacos, special drinks, good cheer, and great presentations. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* RJ Heller - audioeye<br/>* Brian Derocher<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "https://www.meetup.com/DC-Web-API-User-Group/events/235135088/", 
@@ -1302,7 +1303,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 47
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1326383071000, 
@@ -1418,7 +1419,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1326383071000, 
