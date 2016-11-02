@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 69
         }, 
         {
             "announced": true, 
@@ -165,84 +165,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1470699270000, 
-            "description": "<p>You must register on <a href=\"http://wcm-networking.eventbrite.com\">Eventbrite</a>. Use the code WCM for $5 off.</p> <p>Networking isn't just for jobs. It's for helping you with sales, funding, ideas and support. It's for the long-term relationships that remind someone of you when they have a position or allow you to reach out when you need an introduction. It's about building professional connections that create value for you and for them. And sometimes it's about building friendships.</p> <p>And if you aren't networking or aren't doing it effectively...this class is for you.</p> <p><b>You should join us...</b></p> <p><br/>- If you've ever felt awkward at a conference or a party, wondered how to break into a conversation pod, pretended to be busy on your phone to hide your shyness or otherwise wondered how to network in person</p> <p>- If you're comfortable with people but never seem to close any deals or develop relationships out of events</p> <p>- If you are considering a career change and need a refresher</p> <p><i><b>**PLUS:\u00a0</b></i>we have a practice session over food &amp; drinks! <b>**</b></p> <p><b>How it works</b></p> <p>We start with class, have a practice break with drinks &amp; food, unpack the experience in the 2nd session and then hang out after to further sharpen skills.</p> <p><b>What we'll cover</b></p> <p><i>Gearing up</i>: finding good networking opportunities, creating an introduction and networking pitch, pre-event planning.</p> <p><i>Mechanics</i>: how to enter &amp; exit conversations, where to stand for maximum value,\u00a0</p> <p><i>Handling Challenges</i>:\u00a0how to deal with challenging people, dealing with shyness and other quirks</p> <p><i>Effective follow up and how to maximize your networking reach</i>: email followup, twitter and other social media rules, ideas for staying visible without being annoying</p> <p>After the workshop there will be optional practice networking so you can put what you've learned to the test!</p> <p><b>Instructor</b></p> <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"http://www.webmavensdc.com\">www.webmavensdc.com</a></p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/233220012/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "233220012", 
-            "maybe_rsvp_count": 0, 
-            "name": "Work The Room: Networking in the Wild", 
-            "status": "upcoming", 
-            "time": 1478037600000, 
-            "updated": 1477315219000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St NW (2th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24803402, 
-                "lat": 38.919181999999999, 
-                "localized_country_name": "USA", 
-                "lon": -76.982039999999998, 
-                "name": "NYCDA", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 32
-        }, 
-        {
-            "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234778839/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "pjkzrlyvpbcb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Android Lab: Beginner's Night", 
-            "rsvp_limit": 25, 
-            "status": "upcoming", 
-            "time": 1478039400000, 
-            "updated": 1477099265000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1341 G St NW, Floor 2", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24831225, 
-                "lat": 38.898601999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.031516999999994, 
-                "name": "The Iron Yard", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 21
-        }, 
-        {
             "created": 1452612310000, 
             "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"http://bit.ly/wwcrailsguide\"><a href=\"http://bit.ly/wwcrailsguide\" class=\"linkified\">http://bit.ly/wwcrailsguide</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/organization/blob/master/learning-resources/ruby-on-rails/rails_guide.md</a></a></p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
             "duration": 7200000, 
@@ -318,7 +240,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 40, 
+            "waitlist_count": 39, 
             "yes_rsvp_count": 50
         }, 
         {
@@ -358,7 +280,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 86
         }, 
         {
             "created": 1475704079000, 
@@ -436,7 +358,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 75
         }, 
         {
@@ -478,7 +400,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 38
         }, 
         {
             "created": 1477359443000, 
@@ -505,7 +427,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 35
         }, 
         {
             "created": 1457392514000, 
@@ -545,7 +467,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1459265642000, 
@@ -652,7 +574,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1460389774000, 
@@ -679,7 +601,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1466889219000, 
@@ -784,6 +706,46 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
+        }, 
+        {
+            "created": 1478047627000, 
+            "description": "<p>Want to come to more Women Who Code meetups but live in Northern Virginia and not near Metro? We\u2019ve got you covered! We\u2019re continuing our meetups for the Northern Virginia area with some serendipitous synergy (not to mention awkward alliteration) by combining our meetup with <a href=\"https://world.phparch.com/\">PHP[World] 2016</a>, being held Monday, November 14 - Friday, November 18 at the Sheraton Premiere at Tyson\u2019s Corner.</p> <p>We've arranged to hold our meetup in the evening at the conference hotel and will feature a presentation by conference speaker Samantha Qui\u00f1ones titled, \"Hacking the Human Interface.\" The meetup is free and open to all, however please be sure to <a href=\"https://world.phparch.com/register/\">register for a free ticket</a>. (See details below for more info.) We will be meeting in room <b>Ash Grove A</b>.</p> <p><i>About Samantha Qui\u00f1ones:</i><br/>Samantha Qui\u00f1ones is a polyglot hacker and Principal Software Engineer at AOL. Over the course of her career, she has built software and led teams for some of the largest names in technology. Samantha is a frequent speaker at technology conferences and events around the world and serves as a secretary of the PHP FIG. She has been recognized by the Huffington Post as one of the top Latin Americans in Media and is a 2015 recipient of the DCFT Powerful Female Programmers Award.</p> <p><i>About PHP[World]:</i><br/>\"[Created by] ... the team behind php[architect] magazine, ...php[world] is designed to bring the entire world of PHP together in one place, to encourage cross-pollination of ideas and sharing of ideals. We want to have a conference that has tracks designed to appeal to Drupal, WordPress, Joomla, and Magento developers, as much as the Zend Framework, Symfony, CakePHP, and Laravel communities, as well as to PHP developers everywhere.\"</p> <p><i><br/></i></p> <p><i>Free Tickets:</i></p> <p><b>If you are planning to attend, be sure to register for a free ticket! Register at the following link:</b></p> <p><a href=\"https://world.phparch.com/register/\" class=\"linkified\">https://world.phparch.com/register/</a></p> <p>Scroll all the way to the bottom to find the \"<b>Meetups</b>\" section, and look for the \"<b>Women Who Code NOVA User Group Meeting</b>.\"</p> <p>The meetup will be held in room <b>Ash Grove A</b>.</p> <p>\n\n\nSee you there!</p> <p>This event will be open to all who wish to attend.\u00a0</p> <p>Can't attend this event, but want to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\">Slack group</a>!</p>", 
+            "duration": 3600000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/235281223/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "235281223", 
+            "maybe_rsvp_count": 0, 
+            "name": "NoVa Edition: Hacking the Human Interface @ PHP[World]", 
+            "status": "upcoming", 
+            "time": 1479254400000, 
+            "updated": 1478048490000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "8661 Leesburg Pike", 
+                "city": "Vienna", 
+                "country": "us", 
+                "id": 917567, 
+                "lat": 38.928303, 
+                "localized_country_name": "USA", 
+                "lon": -77.241337000000001, 
+                "name": "Sheraton Premiere at Tysons Corner", 
+                "repinned": false, 
+                "state": "VA", 
+                "zip": "22185"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1477354776000, 
@@ -1225,7 +1187,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1457392514000, 
@@ -1380,7 +1342,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 2
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1477600919000, 
@@ -1419,7 +1381,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 31
+            "yes_rsvp_count": 32
         }, 
         {
             "created": 1326383071000, 
