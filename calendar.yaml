@@ -22,7 +22,7 @@ codefordc:
     https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\"\
     >https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>"
   duration: 9900000
-  event_url: https://www.meetup.com/Code-for-DC/events/234934608/
+  event_url: http://www.meetup.com/Code-for-DC/events/234934608/
   group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
       Hackers}
@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 67
 - announced: true
   created: 1474863259000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -60,7 +60,7 @@ codefordc:
     >Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\_and\
     \ this Meetup group to stay in the loop.</p>"
   duration: 9900000
-  event_url: https://www.meetup.com/Code-for-DC/events/234407044/
+  event_url: http://www.meetup.com/Code-for-DC/events/234407044/
   group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
       Hackers}
@@ -77,7 +77,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -101,7 +101,7 @@ codefordc:
     https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\"\
     >https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>"
   duration: 9900000
-  event_url: https://www.meetup.com/Code-for-DC/events/234934622/
+  event_url: http://www.meetup.com/Code-for-DC/events/234934622/
   group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
       Hackers}
@@ -139,7 +139,7 @@ codefordc:
     >Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\_and\
     \ this Meetup group to stay in the loop.</p>"
   duration: 9900000
-  event_url: https://www.meetup.com/Code-for-DC/events/234407057/
+  event_url: http://www.meetup.com/Code-for-DC/events/234407057/
   group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 9724492, join_mode: open, name: Code for DC, urlname: Code-for-DC, who: Civic
       Hackers}
@@ -187,7 +187,7 @@ other:
     \ <p>Jasmine Sante, Founder, Sante Strategies &amp; Web Content Mavens<br/><a\
     \ href=\"http://www.santestrategies.com\">www.santestrategies.com</a><br/><a href=\"\
     http://www.webmavensdc.com\">www.webmavensdc.com</a></p>"
-  event_url: https://www.meetup.com/webcontentmavens/events/233220012/
+  event_url: http://www.meetup.com/webcontentmavens/events/233220012/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
     who: People interested in CMS}
@@ -204,7 +204,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -219,7 +219,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/234778839/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234778839/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -237,7 +237,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
@@ -264,7 +264,7 @@ other:
     \ <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\"\
     \ class=\"linkified\">http://installrails.com/</a></a>\_</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/228457076/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/228457076/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -281,7 +281,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 37
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -295,7 +295,7 @@ other:
     event!</p> <p>This Women Who Code DC event is intended to be exclusively open
     for women; we are trans* friendly.</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/227387932/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227387932/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -312,7 +312,7 @@ other:
     id: 24869770, lat: 38.904865000000001, localized_country_name: USA, lon: -77.033996999999999,
     name: NYCDA, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 39
+  waitlist_count: 40
   yes_rsvp_count: 50
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
@@ -325,7 +325,7 @@ other:
     from (potential, future VP) Tim Kaine's Senatorial Office will be discussing mapping
     for constituents in VA.</p> <p><br/>Got any announcements but unable to attend?
     Let us know by shooting us a message.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/232624329/
+  event_url: http://www.meetup.com/Geo-DC/events/232624329/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -342,7 +342,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 82
 - created: 1475704079000
   description: "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations\
     \ about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"\
@@ -379,7 +379,7 @@ other:
     <a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\_\
     As always, stay tuned to\_<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\_\
     for updates.\_</p>"
-  event_url: https://www.meetup.com/Transportation-Techies/events/234652961/
+  event_url: http://www.meetup.com/Transportation-Techies/events/234652961/
   group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
     id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
     who: Techies}
@@ -397,7 +397,7 @@ other:
     name: WeWork Crystal City, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 93
 - created: 1477082045000
   description: "<p>Have you considered attending a technology bootcamp? Are you currently\
     \ attending one? Join a panel of alumnae from various schools and immersive courses\
@@ -405,7 +405,7 @@ other:
     \ what it's like to work in tech as a bootcamp graduate.</p> <p><br/>Appetizers\
     \ will be provided. \_Please bring a photo ID for the lobby security.\_</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235025649/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235025649/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -422,7 +422,7 @@ other:
     id: 24875201, lat: 38.907192000000002, localized_country_name: USA, lon: -77.036873,
     name: The Washington Post, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 14
+  waitlist_count: 17
   yes_rsvp_count: 75
 - created: 1477436823000
   description: "<p>Title:\_#OnlineOffline - Developing Mobile Apps for Rural Africa</p>\
@@ -451,7 +451,7 @@ other:
     \ and assists with running a local meetup focused on Android development and design</p>\
     \ <p><br/>Event Max: \_60</p>"
   duration: 10800000
-  event_url: https://www.meetup.com/gdg-dc/events/235113803/
+  event_url: http://www.meetup.com/gdg-dc/events/235113803/
   group: {created: 1268219647000, group_lat: 38.930000305175781, group_lon: -77.400001525878906,
     id: 1612017, join_mode: open, name: Google Developer Group - Washington DC (GDG-DC),
     urlname: gdg-dc, who: Google Techies and Users}
@@ -478,7 +478,7 @@ other:
     development and camaraderie. Newbies, students, experienced developers, and anyone
     in between are welcome to join. A tasty brunch will be provided!</p>
   duration: 18000000
-  event_url: https://www.meetup.com/Data-Innovation-DC/events/235094282/
+  event_url: http://www.meetup.com/Data-Innovation-DC/events/235094282/
   group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Innovation-DC,
     who: Data-preneurs}
@@ -492,7 +492,7 @@ other:
   utc_offset: -14400000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -525,7 +525,7 @@ other:
     </p> <p>This event is intended to be exclusively open for women; we are trans*\
     \ friendly.</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/232450360/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232450360/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -542,7 +542,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -557,7 +557,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/234927508/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234927508/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -594,7 +594,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/234927519/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/234927519/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -632,7 +632,7 @@ other:
     \ product knowledge and industry experience to solve the challenges faced by Talend\u2019\
     s clients as they strive to become data driven enterprises.</p>"
   duration: 9000000
-  event_url: https://www.meetup.com/Data-Wranglers-DC/events/227244151/
+  event_url: http://www.meetup.com/Data-Wranglers-DC/events/227244151/
   group: {created: 1384378071000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 11094242, join_mode: open, name: Data Wranglers DC, urlname: Data-Wranglers-DC,
     who: Data Wranglers}
@@ -649,7 +649,7 @@ other:
     name: ByteCubed, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 61
+  yes_rsvp_count: 63
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -677,7 +677,7 @@ other:
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/233867379/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233867379/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -705,7 +705,7 @@ other:
     \ <p><br/>See you at the meetup, at WeWork Chinatown. We try to start on-time\
     \ at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting\
     \ us! We love WeWork! We love you! We love hacks! &lt;3</p>"
-  event_url: https://www.meetup.com/DC-Hack-and-Tell/events/232161094/
+  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/232161094/
   group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
     id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
     who: Hackers}
@@ -722,7 +722,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -737,7 +737,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235260151/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235260151/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -767,7 +767,7 @@ other:
     \ workflow for web and marketing projects.\_</p> <p><b>Agenda</b></p> <p>6:20\
     \ - Registration opens<br/>6:30 - Networking over beer, wine, soda &amp; light\
     \ appetizers<br/>7:00 - Presentations<br/>8:15 \_- Q &amp; A<br/>8:30 - More networking</p>"
-  event_url: https://www.meetup.com/webcontentmavens/events/235136229/
+  event_url: http://www.meetup.com/webcontentmavens/events/235136229/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
     who: People interested in CMS}
@@ -797,7 +797,7 @@ other:
     \ Station-to-Station Trip Length\_Predictions</p> <p><br/><b>Team Zero</b><br/>Analyzing\
     \ Airbnb Listings in DC and the Factors Fetching Top Prices</p> <p><br/><b>Team\
     \ P2P Lending</b><br/>Forecasting Peer-to-Peer Lending Risk</p>"
-  event_url: https://www.meetup.com/Data-Innovation-DC/events/235092916/
+  event_url: http://www.meetup.com/Data-Innovation-DC/events/235092916/
   group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
     id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Innovation-DC,
     who: Data-preneurs}
@@ -814,7 +814,7 @@ other:
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 49
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -836,7 +836,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235224623/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235224623/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -864,7 +864,7 @@ other:
     \ This Women Who Code DC event is intended to be exclusively open for women and\
     \ nonbinary individuals. \_We are trans and genderqueer friendly.\_</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/227736620/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/227736620/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -895,7 +895,7 @@ other:
     \ <p>And check out <a href=\"https://www.meetup.com/DC-Media-Innovations/\">DCMI's\
     \ meetup page</a>!</p>"
   duration: 9000000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235249717/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235249717/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -914,7 +914,7 @@ other:
     name: Bier Baron Tavern, repinned: false, state: DC, zip: '20037'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 10
 - created: 1467704208000
   description: "<p>NOTE: You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
     >Eventbrite</a>.\_</p> <p><br/><b>== MavenMini: Association Web Mini-Conference\
@@ -947,7 +947,7 @@ other:
     \ information on your background and where you might be a fit for the discussion.\_\
     </i></p> <p><b>Sponsoring the Event</b></p> <p>We are looking for event sponsors.\
     \ Email [masked] for more information.</p>"
-  event_url: https://www.meetup.com/webcontentmavens/events/232383194/
+  event_url: http://www.meetup.com/webcontentmavens/events/232383194/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
     who: People interested in CMS}
@@ -976,7 +976,7 @@ other:
     \ <p>Lindsey Dragun is a full-stack developer at PBS and part of a team that advocates\
     \ for and educates on accessibility.\_</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/233373539/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233373539/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -993,7 +993,7 @@ other:
     name: NAVA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1477363365000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -1002,7 +1002,7 @@ other:
     which you will pay directly to them. (We will not be taking any payments from
     you).</p> <p>-----------------------------<br/>Location TBD</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235095324/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235095324/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1044,7 +1044,7 @@ other:
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
   duration: 612000000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/233677405/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233677405/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1074,7 +1074,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbdc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbdc/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1118,7 +1118,7 @@ other:
     \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
     \ we are trans* friendly.</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/233475060/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/233475060/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1151,7 +1151,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbmc/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbmc/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1188,7 +1188,7 @@ other:
     \ for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\"\
     \ class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235224633/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/235224633/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1225,7 +1225,7 @@ other:
     \ of Enveil, Inc. Her passion is doing cool stuff with massive amounts of data.\
     \ Ellison can be contacted\_<a href=\"mailto:[masked]\">[masked]</a></p>"
   duration: 5400000
-  event_url: https://www.meetup.com/Data-Science-MD/events/234983130/
+  event_url: http://www.meetup.com/Data-Science-MD/events/234983130/
   group: {created: 1355196079000, group_lat: 39.270000457763672, group_lon: -76.629997253417969,
     id: 6195792, join_mode: open, name: Data Science MD, urlname: Data-Science-MD,
     who: Data Enthusiasts}
@@ -1276,7 +1276,7 @@ other:
     </p> <p>This event is intended to be exclusively open for women; we are trans*\
     \ friendly.</p>"
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/232450487/
+  event_url: http://www.meetup.com/Women-Who-Code-DC/events/232450487/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -1303,7 +1303,7 @@ other:
     \ <p>* RJ Heller - audioeye<br/>* Brian Derocher<br/>* TBA</p> <p>7:55pm - 8:00pm\
     \ Refill your beverage\_<br/>8:00pm - 8:30pm Panel discussions\_<br/>8:30pm -\
     \ 9:00pm Networking</p>"
-  event_url: https://www.meetup.com/DC-Web-API-User-Group/events/235135088/
+  event_url: http://www.meetup.com/DC-Web-API-User-Group/events/235135088/
   group: {created: 1347647025000, group_lat: 38.909999847412109, group_lon: -77.069999694824219,
     id: 4930742, join_mode: open, name: DC Web API User Group, urlname: DC-Web-API-User-Group,
     who: API enthusiasts}
@@ -1325,7 +1325,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/234638938/
+  event_url: http://www.meetup.com/Geo-DC/events/234638938/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1356,7 +1356,7 @@ other:
     \ <p><br/>See you at the meetup, at WeWork Chinatown. We try to start on-time\
     \ at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting\
     \ us! We love WeWork! We love you! We love hacks! &lt;3</p>"
-  event_url: https://www.meetup.com/DC-Hack-and-Tell/events/232161101/
+  event_url: http://www.meetup.com/DC-Hack-and-Tell/events/232161101/
   group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
     id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
     who: Hackers}
@@ -1383,7 +1383,9 @@ other:
     \ hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p>\
     \ <p>\u2022\_<a href=\"http://ben.somebody.io/\">Ben Shepherd</a> will show how\
     \ he used the live train positions API to make\_<a href=\"https://dctraintracker.com/\"\
-    >dctraintracker.com</a>.</p> <p><br/>\u2022\_<a href=\"https://samwnwrd.squarespace.com/\"\
+    >dctraintracker.com</a>.</p> <p><br/>\u2022\_Andrew Schmadel will share his script\
+    \ for recording\_<a href=\"http://www.opendatadc.org/dataset/wmata-disruption-reports\"\
+    >WMATA Disruption Reports</a>.</p> <p><br/>\u2022\_<a href=\"https://samwnwrd.squarespace.com/\"\
     >Sam Winward</a> will display his research into peak and off-peak fares and their\
     \ hidden influence over ridership decisions.\_</p> <p><br/>\u2022\_<a href=\"\
     https://kwkelly.com/\">Keith Kelly</a> will show how he used historic data to\
@@ -1401,7 +1403,7 @@ other:
     >MetroHackNight V</a>.</p> <p>Follow\_<a href=\"https://twitter.com/techiesdc\"\
     >@techiesdc</a>\_for \"Transportation Techies\" updates. Use\_<a href=\"https://twitter.com/hashtag/metrohacknight\"\
     >#metrohacknight</a>\_for your own tweets.\_</p>"
-  event_url: https://www.meetup.com/Transportation-Techies/events/235160988/
+  event_url: http://www.meetup.com/Transportation-Techies/events/235160988/
   group: {created: 1384372275000, group_lat: 38.860000610351562, group_lon: -77.05999755859375,
     id: 11092702, join_mode: open, name: "Transportation Techies \U0001F680", urlname: Transportation-Techies,
     who: Techies}
@@ -1412,19 +1414,19 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1481756400000
-  updated: 1477930217000
+  updated: 1478033216000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 31
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/235258366/
+  event_url: http://www.meetup.com/Geo-DC/events/235258366/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1446,7 +1448,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywdbcb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywdbcb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1504,7 +1506,7 @@ other:
     \ and governance, persuading leadership, etc.</p> <p>For more information on speaking,\
     \ email [masked]. Please include a topic sentence (or topic idea/ideas) and a\
     \ brief background. If you have several ideas/topics, share them all!</p>"
-  event_url: https://www.meetup.com/webcontentmavens/events/232424128/
+  event_url: http://www.meetup.com/webcontentmavens/events/232424128/
   group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
     id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
     who: People interested in CMS}
@@ -1526,7 +1528,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywfbcb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywfbcb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1548,7 +1550,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywgbhb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywgbhb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1570,7 +1572,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/230884153/
+  event_url: http://www.meetup.com/Geo-DC/events/230884153/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1592,7 +1594,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywjbkb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywjbkb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1614,7 +1616,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywkbhb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywkbhb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1636,7 +1638,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywlbdb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywlbdb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1658,7 +1660,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywmbjb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywmbjb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1680,7 +1682,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywnbgb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywnbgb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
@@ -1702,7 +1704,7 @@ other:
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
     more.</p>
-  event_url: https://www.meetup.com/Geo-DC/events/dlcllcywpbcb/
+  event_url: http://www.meetup.com/Geo-DC/events/dlcllcywpbcb/
   group: {created: 1307975249000, group_lat: 38.939998626708984, group_lon: -77.05999755859375,
     id: 2013511, join_mode: open, name: Geo DC, urlname: Geo-DC, who: Members}
   headcount: 0
