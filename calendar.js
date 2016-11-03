@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 73
         }, 
         {
             "announced": true, 
@@ -165,123 +165,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1452612310000, 
-            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p><br/>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228457076/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "cjdtnlyvpbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Beginners Night!", 
-            "status": "upcoming", 
-            "time": 1478125800000, 
-            "updated": 1478129589000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1341 G St NW Washington, DC 20005", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24728607, 
-                "lat": 38.898578999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.031531999999999, 
-                "name": "The Iron Yard", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 33
-        }, 
-        {
-            "created": 1446219481000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)</p> <p><br/>There will be food at this event!</p> <p>This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227387932/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "gqfsxlyvpbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python Beginners Night", 
-            "status": "upcoming", 
-            "time": 1478125800000, 
-            "updated": 1478104653000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th Street NW Suite 200 ", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24869770, 
-                "lat": 38.904865000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.033996999999999, 
-                "name": "NYCDA", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 79
-        }, 
-        {
-            "created": 1326383071000, 
-            "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p> <p>With the election less than a week away, this month we are focusing on election mapping!</p> <p><a href=\"https://twitter.com/dereklieu\">Derek Lieu</a> from Development Seed will be giving a talk entitled \"<i>Election Mapping in the Open Source Era</i>,\" discussing his role in creating the election maps for the Washington Post and the impact on the Open Source community.</p> <p>Michelle Kinzer from (potential, future VP) Tim Kaine's Senatorial Office will be discussing Mapping Virginia for Sen. Tim Kaine.</p> <p><br/>Got any announcements but unable to attend? Let us know by shooting us a message.</p>", 
-            "event_url": "http://www.meetup.com/Geo-DC/events/232624329/", 
-            "group": {
-                "created": 1307975249000, 
-                "group_lat": 38.939998626708984, 
-                "group_lon": -77.05999755859375, 
-                "id": 2013511, 
-                "join_mode": "open", 
-                "name": "Geo DC", 
-                "urlname": "Geo-DC", 
-                "who": "Members"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Upstairs bar", 
-            "id": "dlcllcyvpbdb", 
-            "maybe_rsvp_count": 0, 
-            "name": "November GeoDC: Election 2016 Edition!", 
-            "status": "upcoming", 
-            "time": 1478127600000, 
-            "updated": 1478097846000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1602 U St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24181227, 
-                "lat": 38.916733000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.037186000000005, 
-                "name": "Local 16", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 89
-        }, 
-        {
             "created": 1475704079000, 
             "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">Crystal City WeWork</a>. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30. This will be a BYOB event, if you want to bring a beer for yourself or to share (be prepared to show ID).</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Joe Paolicelli will show how he built <a href=\"https://labs.missiondata.com/CapitalBikeshareML\">an API to predict</a> bike and dock space availability using machine learning and historical bikeshare and weather data.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at WeWork\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
@@ -318,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 97
         }, 
         {
             "created": 1477082045000, 
@@ -357,7 +240,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 26, 
             "yes_rsvp_count": 75
         }, 
         {
@@ -399,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }, 
         {
             "created": 1477359443000, 
@@ -426,7 +309,7 @@ calendar({
             "utc_offset": -14400000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1457392514000, 
@@ -494,7 +377,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1476369329000, 
@@ -573,7 +456,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1460389774000, 
@@ -600,7 +483,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1466889219000, 
@@ -638,7 +521,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 50
+            "yes_rsvp_count": 51
         }, 
         {
             "created": 1459265642000, 
@@ -744,7 +627,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1477354776000, 
@@ -782,7 +665,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1476369329000, 
@@ -848,7 +731,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 27
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1477945072000, 
@@ -927,7 +810,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1471280434000, 
@@ -966,7 +849,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 39
         }, 
         {
             "created": 1477363365000, 
@@ -993,7 +876,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1457965726000, 
@@ -1021,7 +904,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1459265642000, 
@@ -1089,7 +972,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1459265642000, 
@@ -1225,7 +1108,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1477514397000, 
@@ -1266,6 +1149,73 @@ calendar({
             "yes_rsvp_count": 52
         }, 
         {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvqbjb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvqbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1481067000000, 
+            "updated": 1472237272000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1452612310000, 
+            "description": "<p>Interested in learning Ruby and Rails with an awesome group of women? Looking to build your first web app, learn more about coding, or build on existing skills?</p> <p>Come to our\u00a0First Timer's Night\u00a0Ruby on Rails(ROR) Study Group. This event is intended for those new to programming and/or ROR (but we welcome people of all levels to attend and help out)! The agenda will include a lecture that covers Ruby and Rails and an installfest to help you set up Rails on your own computer.</p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Please bring a laptop to the event so you can participate in\u00a0the installfest!</p> <p>Check out our ROR guide for more info about what we will be covering on Wednesday:\u00a0<a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p>Meetup Agenda</p> <p>\u2022\u00a06:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 7:10pm - Introduction talk to Ruby and Rails\u00a0</p> <p>\u2022 7:10 - 8:10pm - Install necessary software following the\u00a0<a href=\"http://installrails.com/\">InstallRails</a>\u00a0guide.\u00a0</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>RESOURCES</p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>Request to join our Slack channel for communication:</p> <p><br/><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p>Install Guide:</p> <p><a href=\"http://installrails.com/\"><a href=\"http://installrails.com/\" class=\"linkified\">http://installrails.com/</a></a>\u00a0</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/228457078/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "cjdtnlyvqbkb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails: Beginners Night!", 
+            "status": "upcoming", 
+            "time": 1481153400000, 
+            "updated": 1478130019000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1341 G St NW Washington, DC 20005", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24728607, 
+                "lat": 38.898578999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.031531999999999, 
+                "name": "The Iron Yard", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 7
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/234638938/", 
@@ -1302,7 +1252,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1466889250000, 
