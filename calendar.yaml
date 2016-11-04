@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 47
+  yes_rsvp_count: 50
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -77,7 +77,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 22
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -115,7 +115,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 other:
 - created: 1477359443000
   description: "<p>New to data science? Development sprints are a great way to get\
@@ -164,7 +164,7 @@ other:
     name: '1776, Boardroom, 12th Floor Penthouse', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 36
+  yes_rsvp_count: 37
 - created: 1478188926000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -193,7 +193,7 @@ other:
     name: ' New America', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 23
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -243,7 +243,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 74
+  yes_rsvp_count: 81
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -350,7 +350,7 @@ other:
     name: ByteCubed, repinned: false, state: VA}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 92
+  yes_rsvp_count: 99
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -701,7 +701,7 @@ other:
     name: Town Danceboutique, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 13
 - created: 1467704208000
   description: "<p>NOTE: You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
     >Eventbrite</a>.\_</p> <p><br/><b>== MavenMini: Association Web Mini-Conference\
@@ -780,7 +780,7 @@ other:
     name: NAVA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 55
+  yes_rsvp_count: 57
 - created: 1477363365000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -803,7 +803,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 10
+  yes_rsvp_count: 12
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1159,7 +1159,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1466889250000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -1207,11 +1207,12 @@ other:
     \ hidden influence over ridership decisions.\_</p> <p><br/>\u2022\_<a href=\"\
     https://kwkelly.com/\">Keith Kelly</a> will show how he used historic data to\
     \ visualize wait times.</p> <p><br/>\u2022\_<a href=\"https://twitter.com/joe_haaga\"\
-    >Joe Haaga</a> will demo his project to compare\_indirect routes.</p> <p><br/>To\
-    \ build your own Metro apps, hacks, and visualizations, find WMATA's open data\
-    \ via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\_\
-    tag, or use their\_<a href=\"https://developer.wmata.com/\">developer tools</a>.</p>\
-    \ <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\"\
+    >Joe Haaga</a> will demo his project to compare\_indirect routes.</p> <p><br/>\u2022\
+    \_Sanghong Yoo will present Metroview, WMATA's own internal tool for non-GIS users.</p>\
+    \ <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's\
+    \ open data via PlanItMetro's\_<a href=\"http://planitmetro.com/tag/data-download/\"\
+    >data-download</a>\_tag, or use their\_<a href=\"https://developer.wmata.com/\"\
+    >developer tools</a>.</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\"\
     \ /></p> <p>Many thanks to our sponsors at\_<a href=\"http://mobilitylab.org/\"\
     >Mobility Lab</a>\_and <a href=\"http://www.wmata.com/\">WMATA</a>\_for making\
     \ this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\"\
@@ -1231,14 +1232,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1481756400000
-  updated: 1478033216000
+  updated: 1478269876000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 48
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
