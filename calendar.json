@@ -3,7 +3,7 @@
         {
             "announced": true, 
             "created": 1476764652000, 
-            "description": "<p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\u00a0<a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\"><a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>", 
+            "description": "<p>The hackpad! <a href=\"https://hackpad.com/Code-for-DC-Hacknight-113-6aTdsyzYnqt\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-113-6aTdsyzYnqt</a></p> <p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
             "duration": 9900000, 
             "event_url": "http://www.meetup.com/Code-for-DC/events/234934608/", 
             "group": {
@@ -22,7 +22,7 @@
             "name": "Civic Hacknight", 
             "status": "upcoming", 
             "time": 1478212200000, 
-            "updated": 1476764652000, 
+            "updated": 1478198712000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1325 G Street, NW, 3rd Floor", 
@@ -38,7 +38,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 73
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 45
         }, 
         {
             "announced": true, 
@@ -166,7 +166,7 @@
     "other": [
         {
             "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">Crystal City WeWork</a>. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30. This will be a BYOB event, if you want to bring a beer for yourself or to share (be prepared to show ID).</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Joe Paolicelli will show how he built <a href=\"https://labs.missiondata.com/CapitalBikeshareML\">an API to predict</a> bike and dock space availability using machine learning and historical bikeshare and weather data.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at WeWork\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>.\u00a0As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
+            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">Crystal City WeWork</a>. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30. This will be a BYOB event, if you want to bring a beer for yourself or to share (be prepared to show ID).</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Joe Paolicelli will show how he built <a href=\"https://labs.missiondata.com/CapitalBikeshareML\">an API to predict</a> bike and dock space availability using machine learning and historical bikeshare and weather data.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at WeWork\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>. Speakers' Twitter handles are <a href=\"http://mvjantzen.com/meetup/cabihacknight6.html\">here</a>. As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
             "group": {
                 "created": 1384372275000, 
@@ -181,11 +181,11 @@
             "headcount": 0, 
             "id": "234652961", 
             "maybe_rsvp_count": 0, 
-            "name": "CaBi Hack Night VI \ud83d\udeb2", 
+            "name": "CaBi Hack Night VI", 
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1478210400000, 
-            "updated": 1477710970000, 
+            "updated": 1478201605000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "2221 SOUTH CLARK ST", 
@@ -240,7 +240,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 25, 
+            "waitlist_count": 22, 
             "yes_rsvp_count": 75
         }, 
         {
@@ -282,11 +282,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1477359443000, 
-            "description": "<p>New to data science? Development sprints are a great way to get more deeply involved in the community, become a contributor to an open source project, and get together face-to-face with others to support intensive learning, development and camaraderie. Newbies, students, experienced developers, and anyone in between are welcome to join. A tasty brunch will be provided!</p>", 
+            "description": "<p>New to data science? Development sprints are a great way to get more deeply involved in the community, become a contributor to an open source project, and get together face-to-face with others to support intensive learning, development and camaraderie. Newbies, students, experienced developers, and anyone in between are welcome to join. A tasty brunch will be provided!</p> <p>\n\n\n\n<b>Recommended Prerequisites</b></p> <p>\u2022\u00a0Some experience programming in Python</p> <p>\u2022 A\u00a0<a href=\"https://github.com/join\">GitHub account</a></p> <p><br/>\u2022 A laptop with:\u00a0</p> <p>1. a distribution of\u00a0<a href=\"https://www.python.org/downloads/\">Python 3</a>\u00a0(<a href=\"https://www.continuum.io/downloads\">Anaconda</a>\u00a0is fine)</p> <p>2.\u00a0<a href=\"http://pip.readthedocs.org/en/latest/installing.html\">pip</a></p> <p>3. <a href=\"https://git-scm.com/downloads\">git</a>\u00a0</p> <p>\n\n\n<b>Recommended Preparations</b></p> <p>Check out the <a href=\"https://github.com/DistrictDataLabs\">District Data Labs organization</a> on GitHub, and look through the projects in active development (listed below). On Saturday, we'll be focusing on Yellowbrick, but you can fork and work on any that you like - or just come and work on your own project!</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/yellowbrick\">Yellowbrick</a>\u00a0-\u00a0A suite of visual analysis and diagnostic tools to facilitate feature selection, model selection, and parameter tuning for machine learning.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/cultivar\">Cultivar</a>\u00a0-\u00a0A multi-dimensional data management and visual exploration tool.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/baleen\">Baleen</a>\u00a0-\u00a0An automated ingestion service for blogs to construct a corpus for NLP research.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/partisan-discourse\">Partisan Discourse</a>\u00a0-\u00a0A web application that identifies party in political discourse and an example of operationalized machine learning.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/minimum-entropy\">Minimum Entropy</a>\u00a0-\u00a0A DDL-hosted question &amp; answer site for beginners who need answers to Data Science questions.</p>", 
             "duration": 18000000, 
             "event_url": "http://www.meetup.com/Data-Innovation-DC/events/235094282/", 
             "group": {
@@ -305,7 +305,7 @@
             "name": "Open Source Sprints & Data Science Brunch", 
             "status": "upcoming", 
             "time": 1478350800000, 
-            "updated": 1478183860000, 
+            "updated": 1478196702000, 
             "utc_offset": -14400000, 
             "venue": {
                 "address_1": "1133 15th St, NW", 
@@ -321,7 +321,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 38
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1478188926000, 
@@ -361,7 +361,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1457392514000, 
@@ -401,7 +401,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 75
+            "yes_rsvp_count": 74
         }, 
         {
             "created": 1459265642000, 
@@ -469,7 +469,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1417881835000, 
@@ -508,7 +508,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 80
+            "yes_rsvp_count": 82
         }, 
         {
             "created": 1460389774000, 
@@ -535,7 +535,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1466889219000, 
@@ -573,7 +573,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1459265642000, 
@@ -679,7 +679,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1477354776000, 
@@ -748,7 +748,7 @@
         }, 
         {
             "created": 1446220217000, 
-            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Most of us are beginners and some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>On the third Wed of each month,\u00a0 we will generally cover a Python fundamental topic and complete a mini-program based on what was presented. Perfect for those beginning coders.</p> <p>Please bring a laptop!</p> <p><br/><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women and nonbinary individuals. \u00a0We are trans and gender-queer friendly.\u00a0</p>", 
+            "description": "<p>Did you enjoy our Beginner Night on November 2nd? This class will be a great follow-up on how to use some of the free Python tools.</p> <p>Did you miss our beginner night but still want to come to this class? You should! Folks of all skill levels are welcome!</p> <p>Already a pro with the libraries? You should still come and code with fellow Python enthusiasts. Also, you can ask us for a mini project if you'd like to practice.</p> <p>Please bring a laptop and see you all there!</p> <p><br/><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women and nonbinary individuals. \u00a0We are trans and gender-queer friendly.\u00a0</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/227736620/", 
             "group": {
@@ -767,7 +767,7 @@
             "name": "Python - Hack Night using the Python Standard Library", 
             "status": "upcoming", 
             "time": 1479339000000, 
-            "updated": 1478116267000, 
+            "updated": 1478196536000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2100 M St NW", 
@@ -824,7 +824,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1478194724000, 
@@ -864,7 +864,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 1
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1467704208000, 
@@ -941,7 +941,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1477363365000, 
