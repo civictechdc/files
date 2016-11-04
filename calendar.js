@@ -2,46 +2,6 @@ calendar({
     "codefordc": [
         {
             "announced": true, 
-            "created": 1476764652000, 
-            "description": "<p>The hackpad! <a href=\"https://hackpad.com/Code-for-DC-Hacknight-113-6aTdsyzYnqt\" class=\"linkified\">https://hackpad.com/Code-for-DC-Hacknight-113-6aTdsyzYnqt</a></p> <p>Join us at Social Tables for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
-            "duration": 9900000, 
-            "event_url": "http://www.meetup.com/Code-for-DC/events/234934608/", 
-            "group": {
-                "created": 1375990708000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 9724492, 
-                "join_mode": "open", 
-                "name": "Code for DC", 
-                "urlname": "Code-for-DC", 
-                "who": "Civic Hackers"
-            }, 
-            "headcount": 0, 
-            "id": "234934608", 
-            "maybe_rsvp_count": 0, 
-            "name": "Civic Hacknight", 
-            "status": "upcoming", 
-            "time": 1478212200000, 
-            "updated": 1478198712000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1325 G Street, NW, 3rd Floor", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24266346, 
-                "lat": 38.898567, 
-                "localized_country_name": "USA", 
-                "lon": -77.031006000000005, 
-                "name": "Social Tables", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 73
-        }, 
-        {
-            "announced": true, 
             "created": 1474863259000, 
             "description": "<p>Join us at iStrategyLabs for more of that great civic hacking that you know and love.</p> <p>6:30 - 7:00\u00a0Participants arrive and socialize.\u00a0</p> <p><br/>7:00 - 7:15\u00a0Group introductions and announcements from participants and organizers.</p> <p>7:15 - 9:00 Hacking! Project teams break out to work. \u00a0If you are new, join the new member orientation.</p> <p>~7:30\u00a0Food delivered.\u00a0</p> <p>9:00 - 9:15 Everyone reconvenes and shares reactions to and progress made over the last two hours. Show and tell if time/resources allow it. Thank you and goodnight.</p> <p>9:15 We head out to happy hour.</p> <p>Notes:\u00a0</p> <p>\u2022\u00a0Bring cash for food and drink! Pay what you can.</p> <p>If you are new to Code for DC:\u00a0</p> <p>\u2022\u00a0Bring a laptop if you can (it\u2019s ok if you can\u2019t).</p> <p>\u2022 Take a look at\u00a0<a href=\"http://codefordc.org/projects\">our projects</a>.</p> <p>\u2022\u00a0Review the\u00a0<a href=\"http://codefordc.org/resources/codeofconduct.html\">Code for DC Code of Conduct</a>.</p> <p>\u2022 Feel free to\u00a0<a href=\"http://codefordc.org/contact.html\">contact us</a>\u00a0with any questions, concerns, etc.</p> <p>\u2022\u00a0If you had a good time, join\u00a0<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\">Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\u00a0and this Meetup group to stay in the loop.</p>", 
             "duration": 9900000, 
@@ -79,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 47
         }, 
         {
             "announced": true, 
@@ -119,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 20
         }, 
         {
             "announced": true, 
@@ -160,130 +120,10 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 31
         }
     ], 
     "other": [
-        {
-            "created": 1475704079000, 
-            "description": "<p>CaBi Hack Night is a show &amp; tell of apps and data visualizations about Capital Bikeshare. We'll be on the 12th-floor lounge of the <a href=\"https://www.wework.com/locations/washington-d-c/crystal-city\">Crystal City WeWork</a>. Doors open at 6:00 for pizza and soft drinks, with speakers starting at 6:30. This will be a BYOB event, if you want to bring a beer for yourself or to share (be prepared to show ID).</p> <p>\u2022\u00a0Manuel Darveau will show the upcoming Apple Watch integration with <a href=\"https://www.8d.com/\">8D</a>'s mobile app.</p> <p>\u2022\u00a0Jon Wergin will show how he tracked CaBi riders with GPS to show\u00a0<a href=\"http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/\">where they actually go</a>\u00a0and\u00a0<a href=\"http://mobilitylab.org/2016/06/22/capital-bikeshare-gps-riders-bike-lanes/\">how often they use bike lanes</a>.</p> <p><br/>\u2022\u00a0Andrew McGill will demo a <a href=\"https://github.com/arm5077/capital-bikeshare-pebble\">bikeshare app</a> he coded for his Pebble smartwatch.</p> <p>\u2022\u00a0Bob Kraig will share his demand prediction model for Capital Bikeshare.</p> <p><br/>\u2022\u00a0Joe Paolicelli will show how he built <a href=\"https://labs.missiondata.com/CapitalBikeshareML\">an API to predict</a> bike and dock space availability using machine learning and historical bikeshare and weather data.</p> <p><br/>\u2022\u00a0Alex Rixey and\u00a0Ranjani Prabhakar will share their study of CaBi trips and\u00a0Level\u00a0of Traffic Stress (LTS) measurements.\u00a0</p> <p>\u2022\u00a0<a href=\"https://www.linkedin.com/in/AyshaRuyaCohen\">Aysha R\u00fcya\u00a0Cohen</a> will share the dataviz and maps she made to support her\u00a0capstone project on \u201c<a href=\"http://www.lewis.ucla.edu/wp-content/uploads/sites/2/2016/09/2015-2016_Cohen_Equity-in-Motion_Edit_August2016.pdf\">Equity in Motion: Bikeshare in Low-Income Communities</a>.\u201d</p> <p><br/>Capital Bikeshare has a rich trove of <a href=\"http://www.capitalbikeshare.com/trip-history-data\">Trip History Data</a>.\u00a0Contact <a href=\"http://www.meetup.com/Transportation-Techies/members/10550542/\">Michael</a> if you have a CaBi project and want to be added to the agenda.</p> <p>Many thanks to our sponsors at WeWork\u00a0and\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0for making this event possible!</p> <p>Read about <a href=\"http://www.meetup.com/Transportation-Techies/events/229819688/\">CaBi Hack Night V</a>:\u00a0<a href=\"http://mobilitylab.org/2016/05/05/techies-bikeshare-stress-questions/\">How bikeshare should fit into a low-stress biking network</a>, and\u00a0<a href=\"http://mobilitylab.org/2016/05/04/new-bikeshare-data-standard-gbfs/\">New bikeshare data standard opens doors for apps and analysis</a>.</p> <p>Our hashtag is\u00a0<a href=\"https://twitter.com/search?q=%23cabihacknight\">#cabihacknight</a>. Speakers' Twitter handles are <a href=\"http://mvjantzen.com/meetup/cabihacknight6.html\">here</a>. As always, stay tuned to\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for updates.\u00a0</p>", 
-            "event_url": "http://www.meetup.com/Transportation-Techies/events/234652961/", 
-            "group": {
-                "created": 1384372275000, 
-                "group_lat": 38.860000610351562, 
-                "group_lon": -77.05999755859375, 
-                "id": 11092702, 
-                "join_mode": "open", 
-                "name": "Transportation Techies \ud83d\ude80", 
-                "urlname": "Transportation-Techies", 
-                "who": "Techies"
-            }, 
-            "headcount": 0, 
-            "id": "234652961", 
-            "maybe_rsvp_count": 0, 
-            "name": "CaBi Hack Night VI", 
-            "rsvp_limit": 120, 
-            "status": "upcoming", 
-            "time": 1478210400000, 
-            "updated": 1478201605000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "2221 SOUTH CLARK ST", 
-                "city": "Arlington", 
-                "country": "us", 
-                "id": 24336429, 
-                "lat": 38.853954000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.051636000000002, 
-                "name": "WeWork Crystal City", 
-                "repinned": false, 
-                "state": "VA"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 98
-        }, 
-        {
-            "created": 1477082045000, 
-            "description": "<p>Have you considered attending a technology bootcamp? Are you currently attending one? Join a panel of alumnae from various schools and immersive courses as they talk about getting through a bootcamp, searching for a tech job, and what it's like to work in tech as a bootcamp graduate.</p> <p><br/>Appetizers will be provided. \u00a0Please bring a photo ID for the lobby security.\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/235025649/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "235025649", 
-            "maybe_rsvp_count": 0, 
-            "name": "Bootcamp Survival Guide: How to Prosper and Find a Tech Job", 
-            "rsvp_limit": 75, 
-            "status": "upcoming", 
-            "time": 1478210400000, 
-            "updated": 1477920211000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1301 K Street NW (Penthouse)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24875201, 
-                "lat": 38.907192000000002, 
-                "localized_country_name": "USA", 
-                "lon": -77.036873, 
-                "name": "The Washington Post", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 22, 
-            "yes_rsvp_count": 75
-        }, 
-        {
-            "created": 1477436823000, 
-            "description": "<p>Title:\u00a0#OnlineOffline - Developing Mobile Apps for Rural Africa</p> <p>Location:\u00a0<a href=\"https://maps.google.com/maps?q=1331%20L%20St%20NW%2C%20Washington%2C%20DC\">1331 L Street, NW, Washington DC 20005; 1st floor auditorium</a></p> <p>Agenda:</p> <p>6:00-6:30 pm - Check-In &amp; Networking (with Food/Drinks/Beer)</p> <p>6:30 pm - Nerd out with Annyce!</p> <p>8:00 pm - Q&amp;A/Networking/Socializing</p> <p>Parking: \u00a0There is some but you probably have to pay. Not sure, take the metro =)</p> <p>This event is Metro accessible, very close to McPherson Square metro stop:\u00a0</p> <p>Description:\u00a0At Off Grid Electric our mission is to power homes across rural Africa with affordable, solar energy. In order to do that we need to provide our employees with tools that work both on and offline. So how did we do it?</p> <p>In this talk, learn about the techniques we employed to provide a unique online-offline experience in our Android applications. We\u2019ll discuss the overall architecture, third party libraries used, and some of the challenges that we faced.</p> <p>As more and more users come online in various parts of the world it makes sense for companies to begin exploring how they can modify their applications to be more network-friendly. This talk will get you headed in the right direction!</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/7/5/6/600_453241878.jpeg\" /></p> <p>Speaker:\u00a0<b>Annyce Davis</b> - Android Google Developer Expert @Off Grid Electric - She has been a developer in the tech industry for over a decade. In addition, she has spent the past 5 years developing applications for the Android ecosystem across multiple form factors. She is also a international conference speaker and author, sharing her knowledge of Android development with others. In addition, Annyce is active in the Washington, DC tech scene and assists with running a local meetup focused on Android development and design</p> <p><br/>Event Max: \u00a060</p>", 
-            "duration": 10800000, 
-            "event_url": "http://www.meetup.com/gdg-dc/events/235113803/", 
-            "group": {
-                "created": 1268219647000, 
-                "group_lat": 38.930000305175781, 
-                "group_lon": -77.400001525878906, 
-                "id": 1612017, 
-                "join_mode": "open", 
-                "name": "Google Developer Group - Washington DC (GDG-DC)", 
-                "urlname": "gdg-dc", 
-                "who": "Google Techies and Users"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "Android, Mobile, Google, IoS", 
-            "id": "235113803", 
-            "maybe_rsvp_count": 0, 
-            "name": "OnlineOffline - Developing Mobile Apps for Rural Africa (Partner Event)", 
-            "rsvp_limit": 60, 
-            "status": "upcoming", 
-            "time": 1478210400000, 
-            "updated": 1478106465000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1331 L St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 22187352, 
-                "lat": 38.903790000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.030403000000007, 
-                "name": "CoStar Group, Inc.", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 40
-        }, 
         {
             "created": 1477359443000, 
             "description": "<p>New to data science? Development sprints are a great way to get more deeply involved in the community, become a contributor to an open source project, and get together face-to-face with others to support intensive learning, development and camaraderie. Newbies, students, experienced developers, and anyone in between are welcome to join. A tasty brunch will be provided!</p> <p>\n\n\n\n<b>Recommended Prerequisites</b></p> <p>\u2022\u00a0Some experience programming in Python</p> <p>\u2022 A\u00a0<a href=\"https://github.com/join\">GitHub account</a></p> <p><br/>\u2022 A laptop with:\u00a0</p> <p>1. a distribution of\u00a0<a href=\"https://www.python.org/downloads/\">Python 3</a>\u00a0(<a href=\"https://www.continuum.io/downloads\">Anaconda</a>\u00a0is fine)</p> <p>2.\u00a0<a href=\"http://pip.readthedocs.org/en/latest/installing.html\">pip</a></p> <p>3. <a href=\"https://git-scm.com/downloads\">git</a>\u00a0</p> <p>\n\n\n<b>Recommended Preparations</b></p> <p>Check out the <a href=\"https://github.com/DistrictDataLabs\">District Data Labs organization</a> on GitHub, and look through the projects in active development (listed below). On Saturday, we'll be focusing on Yellowbrick, but you can fork and work on any that you like - or just come and work on your own project!</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/yellowbrick\">Yellowbrick</a>\u00a0-\u00a0A suite of visual analysis and diagnostic tools to facilitate feature selection, model selection, and parameter tuning for machine learning.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/cultivar\">Cultivar</a>\u00a0-\u00a0A multi-dimensional data management and visual exploration tool.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/baleen\">Baleen</a>\u00a0-\u00a0An automated ingestion service for blogs to construct a corpus for NLP research.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/partisan-discourse\">Partisan Discourse</a>\u00a0-\u00a0A web application that identifies party in political discourse and an example of operationalized machine learning.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/minimum-entropy\">Minimum Entropy</a>\u00a0-\u00a0A DDL-hosted question &amp; answer site for beginners who need answers to Data Science questions.</p>", 
@@ -321,7 +161,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1478188926000, 
@@ -361,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1457392514000, 
@@ -469,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1417881835000, 
@@ -508,7 +348,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 92
         }, 
         {
             "created": 1460389774000, 
@@ -573,7 +413,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 52
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1459265642000, 
@@ -679,7 +519,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1477354776000, 
@@ -717,7 +557,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1476369329000, 
@@ -783,7 +623,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 29
+            "yes_rsvp_count": 30
         }, 
         {
             "created": 1477945072000, 
@@ -864,7 +704,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1467704208000, 
@@ -941,7 +781,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1477363365000, 
@@ -1241,6 +1081,34 @@ calendar({
             "yes_rsvp_count": 52
         }, 
         {
+            "created": 1459265642000, 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "duration": 7200000, 
+            "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvqbjb/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "pjkzrlyvqbjb", 
+            "maybe_rsvp_count": 0, 
+            "name": "Android Lab", 
+            "rsvp_limit": 25, 
+            "status": "upcoming", 
+            "time": 1481067000000, 
+            "updated": 1472237272000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "http://www.meetup.com/Geo-DC/events/234638938/", 
@@ -1354,7 +1222,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 40
+            "yes_rsvp_count": 44
         }, 
         {
             "created": 1326383071000, 
