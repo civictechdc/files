@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 52
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -164,7 +164,7 @@ other:
     name: '1776, Boardroom, 12th Floor Penthouse', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 32
 - created: 1478188926000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -567,7 +567,7 @@ other:
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1107,7 +1107,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1240,7 +1240,7 @@ other:
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 50
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
