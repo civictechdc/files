@@ -201,7 +201,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1457392514000, 
@@ -241,7 +241,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 81
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1459265642000, 
@@ -309,7 +309,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1417881835000, 
@@ -413,7 +413,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1459265642000, 
@@ -1187,7 +1187,7 @@
         }, 
         {
             "created": 1477600919000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to return to WMATA headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.\u00a0</p> <p>Have you built a Metro-related app, hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p> <p>\u2022\u00a0<a href=\"http://ben.somebody.io/\">Ben Shepherd</a> will show how he used the live train positions API to make\u00a0<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>\u2022\u00a0Andrew Schmadel will share his script for recording\u00a0<a href=\"http://www.opendatadc.org/dataset/wmata-disruption-reports\">WMATA Disruption Reports</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://samwnwrd.squarespace.com/\">Sam Winward</a> will display his research into peak and off-peak fares and their hidden influence over ridership decisions.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://kwkelly.com/\">Keith Kelly</a> will show how he used historic data to visualize wait times.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will demo his project to compare\u00a0indirect routes.</p> <p><br/>\u2022\u00a0Sanghong Yoo will present Metroview, WMATA's own internal tool for non-GIS users.</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"http://www.wmata.com/\">WMATA</a>\u00a0for making this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\">Metro Hack Night V</a>?\u00a0See\u00a0<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\">Crowd control: Simulating congestion in the D.C. Metro</a> and\u00a0<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\">MetroHackNight V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Use\u00a0<a href=\"https://twitter.com/hashtag/metrohacknight\">#metrohacknight</a>\u00a0for your own tweets.\u00a0</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to return to WMATA headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.\u00a0</p> <p>Have you built a Metro-related app, hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p> <p>\u2022\u00a0<a href=\"http://ben.somebody.io/\">Ben Shepherd</a> will show how he used the live train positions API to make\u00a0<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>\u2022\u00a0Andrew Schmadel will share his script for recording\u00a0<a href=\"http://www.opendatadc.org/dataset/wmata-disruption-reports\">WMATA Disruption Reports</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://samwnwrd.squarespace.com/\">Sam Winward</a> will display his research into peak and off-peak fares and their hidden influence over ridership decisions.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://kwkelly.com/\">Keith Kelly</a> will show how he used historic data to visualize wait times.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will demo his project to compare\u00a0indirect routes.</p> <p><br/>\u2022\u00a0Sanghong Yoo will present Metroview, WMATA's own internal tool for non-GIS users.</p> <p><br/>\u2022 Michael Eichler will show he uses Tableau to <a href=\"https://public.tableau.com/profile/planitmetro#!/\">visualize WMATA stats</a>.</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"http://www.wmata.com/\">WMATA</a>\u00a0for making this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\">Metro Hack Night V</a>?\u00a0See\u00a0<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\">Crowd control: Simulating congestion in the D.C. Metro</a> and\u00a0<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\">MetroHackNight V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Use\u00a0<a href=\"https://twitter.com/hashtag/metrohacknight\">#metrohacknight</a>\u00a0for your own tweets.\u00a0</p>", 
             "event_url": "http://www.meetup.com/Transportation-Techies/events/235160988/", 
             "group": {
                 "created": 1384372275000, 
@@ -1206,7 +1206,7 @@
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1481756400000, 
-            "updated": 1478269876000, 
+            "updated": 1478284453000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -1222,7 +1222,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1326383071000, 
