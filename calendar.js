@@ -125,48 +125,9 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1477359443000, 
-            "description": "<p>New to data science? Development sprints are a great way to get more deeply involved in the community, become a contributor to an open source project, and get together face-to-face with others to support intensive learning, development and camaraderie. Newbies, students, experienced developers, and anyone in between are welcome to join. A tasty brunch will be provided!</p> <p>\n\n\n\n<b>Recommended Prerequisites</b></p> <p>\u2022\u00a0Some experience programming in Python</p> <p>\u2022 A\u00a0<a href=\"https://github.com/join\">GitHub account</a></p> <p><br/>\u2022 A laptop with:\u00a0</p> <p>1. a distribution of\u00a0<a href=\"https://www.python.org/downloads/\">Python 3</a>\u00a0(<a href=\"https://www.continuum.io/downloads\">Anaconda</a>\u00a0is fine)</p> <p>2.\u00a0<a href=\"http://pip.readthedocs.org/en/latest/installing.html\">pip</a></p> <p>3. <a href=\"https://git-scm.com/downloads\">git</a>\u00a0</p> <p>\n\n\n<b>Recommended Preparations</b></p> <p>Check out the <a href=\"https://github.com/DistrictDataLabs\">District Data Labs organization</a> on GitHub, and look through the projects in active development (listed below). On Saturday, we'll be focusing on Yellowbrick, but you can fork and work on any that you like - or just come and work on your own project!</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/yellowbrick\">Yellowbrick</a>\u00a0-\u00a0A suite of visual analysis and diagnostic tools to facilitate feature selection, model selection, and parameter tuning for machine learning.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/cultivar\">Cultivar</a>\u00a0-\u00a0A multi-dimensional data management and visual exploration tool.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/baleen\">Baleen</a>\u00a0-\u00a0An automated ingestion service for blogs to construct a corpus for NLP research.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/partisan-discourse\">Partisan Discourse</a>\u00a0-\u00a0A web application that identifies party in political discourse and an example of operationalized machine learning.</p> <p>\u2022\u00a0<a href=\"https://github.com/DistrictDataLabs/minimum-entropy\">Minimum Entropy</a>\u00a0-\u00a0A DDL-hosted question &amp; answer site for beginners who need answers to Data Science questions.</p>", 
-            "duration": 18000000, 
-            "event_url": "http://www.meetup.com/Data-Innovation-DC/events/235094282/", 
-            "group": {
-                "created": 1339111847000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.029998779296875, 
-                "id": 4028832, 
-                "join_mode": "open", 
-                "name": "Data Innovation DC", 
-                "urlname": "Data-Innovation-DC", 
-                "who": "Data-preneurs"
-            }, 
-            "headcount": 0, 
-            "id": "235094282", 
-            "maybe_rsvp_count": 0, 
-            "name": "Open Source Sprints & Data Science Brunch", 
-            "status": "upcoming", 
-            "time": 1478350800000, 
-            "updated": 1478196702000, 
-            "utc_offset": -14400000, 
-            "venue": {
-                "address_1": "1133 15th St, NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24600253, 
-                "lat": 38.904865000000001, 
-                "localized_country_name": "USA", 
-                "lon": -77.033996999999999, 
-                "name": "1776, Boardroom, 12th Floor Penthouse", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 33
-        }, 
-        {
             "created": 1478188926000, 
             "description": "<p>Interested in sharpening your problem solving skills and learning more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll update this post with the topics soon. In the meantime, find material from past algorithm meetups <a href=\"https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md\">here</a>.\u00a0</p> <p>Please arrange to get your own food before the meetup today as there won't be any food provided for today.</p> <p><br/>This event is intended to be exclusively open for women; we are trans* friendly.\u00a0</p> <p><br/>See you there!</p>", 
-            "duration": 871200000, 
+            "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/235326547/", 
             "group": {
                 "created": 1395616294000, 
@@ -185,7 +146,7 @@ calendar({
             "rsvp_limit": 50, 
             "status": "upcoming", 
             "time": 1478561400000, 
-            "updated": 1478188926000, 
+            "updated": 1478378085000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "740 15th St NW", 
@@ -201,7 +162,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 25
         }, 
         {
             "created": 1457392514000, 
@@ -241,11 +202,11 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 88
         }, 
         {
             "created": 1459265642000, 
-            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
+            "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><b>This Week in Android Labs</b>: This week we'll dive deeper into Android Activities. Activity.java files contain code that control the actions within your application. Join and learn more!!</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
             "duration": 7200000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234927508/", 
             "group": {
@@ -261,11 +222,11 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvpblb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Android Lab: Android Activities", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1478647800000, 
-            "updated": 1472237272000, 
+            "updated": 1478388742000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
@@ -309,7 +270,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1417881835000, 
@@ -348,7 +309,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 99
+            "yes_rsvp_count": 102
         }, 
         {
             "created": 1460389774000, 
@@ -523,7 +484,7 @@ calendar({
         }, 
         {
             "created": 1477354776000, 
-            "description": "<p>Join recent graduates from Georgetown University's Data Science Certificate Program who will be delivering lighting talks about their experience developing their capstone projects. After the talks, we'll do a happy hour and take open questions from the audience about how to get started on your first data science project!\u00a0</p> <p>Teams and Projects:</p> <p><b>Team Neighborhood</b><br/>Urban Home Finder -\u00a0Helping Millennials Choose Their Next Metropolitan Home</p> <p><br/><b>Team Buzzfeed</b><br/>Buzzfeed: The Trend Behind What's Trending</p> <p><br/><b>Team Originalists</b><br/>Predicting WMATA\u00a0Train Delay Probabilities and Improving Station-to-Station Trip Length\u00a0Predictions</p> <p><br/><b>Team Zero</b><br/>Analyzing Airbnb Listings in DC and the Factors Fetching Top Prices</p> <p><br/><b>Team P2P Lending</b><br/>Forecasting Peer-to-Peer Lending Risk</p>", 
+            "description": "<p>Join recent graduates from Georgetown University's Data Science Certificate Program who will be delivering lightning talks about their experience developing their capstone projects. After the talks, we'll do a happy hour and take open questions from the audience about how to get started on your first data science project!\u00a0</p> <p>Teams and Projects:</p> <p><b>Team Neighborhood</b><br/>Urban Home Finder -\u00a0Helping Millennials Choose Their Next Metropolitan Home</p> <p><br/><b>Team Buzzfeed</b><br/>Buzzfeed: The Trend Behind What's Trending</p> <p><br/><b>Team Originalists</b><br/>Predicting WMATA\u00a0Train Delay Probabilities and Improving Station-to-Station Trip Length\u00a0Predictions</p> <p><br/><b>Team Zero</b><br/>Analyzing Airbnb Listings in DC and the Factors Fetching Top Prices</p> <p><br/><b>Team P2P Lending</b><br/>Forecasting Peer-to-Peer Lending Risk</p>", 
             "event_url": "http://www.meetup.com/Data-Innovation-DC/events/235092916/", 
             "group": {
                 "created": 1339111847000, 
@@ -541,7 +502,7 @@ calendar({
             "name": "Data Science Lightning Talks & Happy Hour", 
             "status": "upcoming", 
             "time": 1479254400000, 
-            "updated": 1477945834000, 
+            "updated": 1478386242000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "2212 14th St NW, 20009", 
@@ -557,7 +518,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1476369329000, 
@@ -623,7 +584,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 30
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1477945072000, 
