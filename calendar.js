@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 56
         }, 
         {
             "announced": true, 
@@ -162,7 +162,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 24
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457392514000, 
@@ -202,12 +202,12 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 87
+            "yes_rsvp_count": 84
         }, 
         {
             "created": 1459265642000, 
             "description": "<p>Interested in learning how to build Android apps with an awesome group of women? Looking to build your first app or build on existing skills? Come to our weekly Android Lab! We welcome women with all levels of Android experience (including none). ***Please bring your laptop to this event as computers will not be provided.***</p> <p><b>This Week in Android Labs</b>: This week we'll dive deeper into Android Activities. Activity.java files contain code that control the actions within your application. Join and learn more!!</p> <p><br/>Resources</p> <p>Beginners should check out our <a href=\"https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md\">Android Getting Started Guide</a>. It's chock full of information to get you up and running. It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p> <p>All Women Welcome</p> <p>This event is intended to be exclusively open for women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in Touch?</p> <p>Please join our <a href=\"http://bit.ly/womenwhocodedcslack\">Slack</a> group to talk about all things Android.</p>", 
-            "duration": 7200000, 
+            "duration": 5400000, 
             "event_url": "http://www.meetup.com/Women-Who-Code-DC/events/234927508/", 
             "group": {
                 "created": 1395616294000, 
@@ -225,12 +225,24 @@ calendar({
             "name": "Android Lab: Android Activities", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
-            "time": 1478647800000, 
-            "updated": 1478388742000, 
+            "time": 1478649600000, 
+            "updated": 1478561309000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "The virtual event takes place on this meetup page.", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24250442, 
+                "lat": 38.907192000000002, 
+                "localized_country_name": "USA", 
+                "lon": -77.036873, 
+                "name": "This is a virtual meetup.", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 9
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1476369329000, 
@@ -270,7 +282,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1417881835000, 
@@ -309,7 +321,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 103
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1460389774000, 
@@ -405,44 +417,6 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
-            "created": 1477518097000, 
-            "description": "<p>(You must register on <a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\">Eventbrite</a> to attend)</p> <p>Work smarter not harder! Join the Web Content Mavens for ideas and practical insights on digital content &amp; marketing automation. You'll learn tips and tricks for streamlining and automating your website's content and marketing processes.\u00a0</p> <p><b>Discussion Topics</b></p> <p>- Planning a repeatable content creation life-cycle\u00a0<br/>- Approaches to content reuse\u00a0<br/>- Streamlining workflow for repetition\u00a0<br/>- Marketing automation tools and options\u00a0<br/>- Distributing content through multiple channels</p> <p><b>Who Should Attend?</b></p> <p>Web, content and marketing managers will all gain insights as well as directors and VPs who are involved in the overall workflow for web and marketing projects.\u00a0</p> <p><b>Agenda</b></p> <p>6:20 - Registration opens<br/>6:30 - Networking over beer, wine, soda &amp; light appetizers<br/>7:00 - Presentations<br/>8:15 \u00a0- Q &amp; A<br/>8:30 - More networking</p>", 
-            "event_url": "http://www.meetup.com/webcontentmavens/events/235136229/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "235136229", 
-            "maybe_rsvp_count": 0, 
-            "name": "Put it on Auto: Automate Your Web Content & Marketing Channels", 
-            "status": "upcoming", 
-            "time": 1479252600000, 
-            "updated": 1477683000000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1203 19th St NW ", 
-                "city": "3rd floor", 
-                "country": "us", 
-                "id": 24145676, 
-                "lat": 38.905971999999998, 
-                "localized_country_name": "USA", 
-                "lon": -77.043205, 
-                "name": "Canvas Co/work ", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
-        }, 
-        {
             "created": 1478047627000, 
             "description": "<p>Want to come to more Women Who Code meetups but live in Northern Virginia and not near Metro? We\u2019ve got you covered! We\u2019re continuing our meetups for the Northern Virginia area with some serendipitous synergy (not to mention awkward alliteration) by combining our meetup with <a href=\"https://world.phparch.com/\">PHP[World] 2016</a>, being held Monday, November 14 - Friday, November 18 at the Sheraton Premiere at Tyson\u2019s Corner.</p> <p>We've arranged to hold our meetup in the evening at the conference hotel and will feature a presentation by conference speaker Samantha Qui\u00f1ones titled, \"Hacking the Human Interface.\" The meetup is free and open to all, however please be sure to <a href=\"https://world.phparch.com/register/\">register for a free ticket</a>. (See details below for more info.) We will be meeting in room <b>Ash Grove A</b>.</p> <p><i>About Samantha Qui\u00f1ones:</i><br/>Samantha Qui\u00f1ones is a polyglot hacker and Principal Software Engineer at AOL. Over the course of her career, she has built software and led teams for some of the largest names in technology. Samantha is a frequent speaker at technology conferences and events around the world and serves as a secretary of the PHP FIG. She has been recognized by the Huffington Post as one of the top Latin Americans in Media and is a 2015 recipient of the DCFT Powerful Female Programmers Award.</p> <p><i>About PHP[World]:</i><br/>\"[Created by] ... the team behind php[architect] magazine, ...php[world] is designed to bring the entire world of PHP together in one place, to encourage cross-pollination of ideas and sharing of ideals. We want to have a conference that has tracks designed to appeal to Drupal, WordPress, Joomla, and Magento developers, as much as the Zend Framework, Symfony, CakePHP, and Laravel communities, as well as to PHP developers everywhere.\"</p> <p><i><br/></i></p> <p><i>Free Tickets:</i></p> <p><b>If you are planning to attend, be sure to register for a free ticket! Register at the following link:</b></p> <p><a href=\"https://world.phparch.com/register/\" class=\"linkified\">https://world.phparch.com/register/</a></p> <p>Scroll all the way to the bottom to find the \"<b>Meetups</b>\" section, and look for the \"<b>Women Who Code NOVA User Group Meeting</b>.\"</p> <p>The meetup will be held in room <b>Ash Grove A</b>.</p> <p>\n\n\nSee you there!</p> <p>This event will be open to all who wish to attend.\u00a0</p> <p>Can't attend this event, but want to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\">Slack group</a>!</p>", 
             "duration": 3600000, 
@@ -483,6 +457,44 @@ calendar({
             "yes_rsvp_count": 12
         }, 
         {
+            "created": 1478553089000, 
+            "description": "<p>(You must register on\u00a0<a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\">Eventbrite</a>\u00a0to attend)</p> <p>Analytics can help improve decisions through your website's life-cycle.</p> <p>You can use data to identify problems such as lagging website content and conversion funnel failures.\u00a0And then validate assumptions using that data to make sure you are fixing the right problems in the right way.</p> <p>Analytics can also help you engage with your users - discovering new user trends, understanding user journeys and testing user experience.</p> <p>And it guides your search and marketing efforts - telling you about issues with conversions on sign-up pages, identifying successful campaigns and highlighting failing ones.</p> <p>Join the Web Mavens as we discuss using website analytics to inform and enhance your decisions.</p> <p><b>Agenda<br/></b>6:20 - Registration opens\u00a0<br/>6:30 - Networking over beer, wine, soda &amp; light appetizers\u00a0<br/>7:00 - Presentations\u00a0<br/>8:15 \u00a0- Q &amp; A\u00a0<br/>8:30 - More networking</p>", 
+            "event_url": "http://www.meetup.com/webcontentmavens/events/235424844/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "235424844", 
+            "maybe_rsvp_count": 0, 
+            "name": "Unlocking Better Decisions with Web Analytics", 
+            "status": "upcoming", 
+            "time": 1479254400000, 
+            "updated": 1478554297000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1203 19th St NW ", 
+                "city": "3rd floor", 
+                "country": "us", 
+                "id": 24145676, 
+                "lat": 38.905971999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.043205, 
+                "name": "Canvas Co/work ", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
             "created": 1477354776000, 
             "description": "<p>Join recent graduates from Georgetown University's Data Science Certificate Program who will be delivering lightning talks about their experience developing their capstone projects. After the talks, we'll do a happy hour and take open questions from the audience about how to get started on your first data science project!\u00a0</p> <p>Teams and Projects:</p> <p><b>Team Neighborhood</b><br/>Urban Home Finder -\u00a0Helping Millennials Choose Their Next Metropolitan Home</p> <p><br/><b>Team Buzzfeed</b><br/>Buzzfeed: The Trend Behind What's Trending</p> <p><br/><b>Team Originalists</b><br/>Predicting WMATA\u00a0Train Delay Probabilities and Improving Station-to-Station Trip Length\u00a0Predictions</p> <p><br/><b>Team Zero</b><br/>Analyzing Airbnb Listings in DC and the Factors Fetching Top Prices</p> <p><br/><b>Team P2P Lending</b><br/>Forecasting Peer-to-Peer Lending Risk</p>", 
             "event_url": "http://www.meetup.com/Data-Innovation-DC/events/235092916/", 
@@ -518,7 +530,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1476369329000, 
@@ -665,7 +677,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1467704208000, 
@@ -742,7 +754,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 63
+            "yes_rsvp_count": 64
         }, 
         {
             "created": 1477363365000, 
@@ -797,7 +809,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1459265642000, 
@@ -826,6 +838,47 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1478562253000, 
+            "description": "<p><img src=\"http://photos4.meetupstatic.com/photos/event/d/a/b/5/600_455875989.jpeg\" /></p> <p><b>$75 First Prize</b></p> <p><b>$25 Runner Up</b></p> <p><b>Want to Compete?</b></p> <p>We're having a bit of fun this November and awarding $75 to the most popular lightning talk, and $25 to the runner up. If you'd like to join <a href=\"https://www.linkedin.com/in/david-clare-phd-pmp-7b842186\">David Clare</a> and <a href=\"https://www.linkedin.com/in/edavidaja\">David Aja</a> on stage and live on <a href=\"https://www.youtube.com/channel/UCaGyAbphxrkYIMOgTTFlcyQ\">YouTube</a> for a chance to win, send us a message here or on Twitter at @DataVizDC and we'll be in touch.</p> <p>You can vote at the event, by tweeting @DataVizDC, or commenting on the <a href=\"https://www.youtube.com/channel/UCaGyAbphxrkYIMOgTTFlcyQ\">YouTube livestream</a> (link TBA).</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:10 \u2013 Lightning Talks</p> <p>8:10 - 8:20 \u2013 Q&amp;A</p> <p>8:20 - 8:40\u00a0\u00a0\u2013 Voting &amp; Awards</p> <p>8:40 - Data Drinks</p> <p><b><br/></b></p> <p><b>Sponsor Data Community DC:</b></p> <p><a href=\"http://www.datacommunitydc.org/sponsor-us/\">Reach 500 Data Practitioners each month, and a growing video audience</a>.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/57a89d6be58c62866cd497b4/57d2e95629687f368b627531/1473440123365/data-society-logo2.png\" /></p>", 
+            "duration": 9000000, 
+            "event_url": "http://www.meetup.com/Data-Visualization-DC/events/235428059/", 
+            "group": {
+                "created": 1359639162000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 6957082, 
+                "join_mode": "open", 
+                "name": "Data Visualization DC", 
+                "urlname": "Data-Visualization-DC", 
+                "who": "Data Visualizers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "2nd Floor. Ask the guard to let you up.", 
+            "id": "235428059", 
+            "maybe_rsvp_count": 0, 
+            "name": "Lightning Awards", 
+            "rsvp_limit": 200, 
+            "status": "upcoming", 
+            "time": 1479857400000, 
+            "updated": 1478562253000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24185893, 
+                "lat": 38.908957999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.042197999999999, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1457212385000, 
@@ -1039,7 +1092,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 54
         }, 
         {
             "created": 1459265642000, 
@@ -1106,7 +1159,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1466889250000, 
@@ -1299,7 +1352,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 10
+            "yes_rsvp_count": 11
         }, 
         {
             "created": 1326383071000, 
