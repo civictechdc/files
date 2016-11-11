@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 68
+            "yes_rsvp_count": 72
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 28
         }, 
         {
             "announced": true, 
@@ -149,7 +149,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 40
         }, 
         {
             "created": 1466889219000, 
@@ -187,7 +187,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1459265642000, 
@@ -255,7 +255,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1478553089000, 
@@ -293,7 +293,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1477354776000, 
@@ -354,8 +354,20 @@
             "name": "Ruby on Rails", 
             "status": "upcoming", 
             "time": 1479339000000, 
-            "updated": 1478129963000, 
+            "updated": 1478888004000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "806 7th St NW #201", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24412919, 
+                "lat": 38.900185, 
+                "localized_country_name": "USA", 
+                "lon": -77.022148000000001, 
+                "name": "threespot", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 6
@@ -397,7 +409,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 44
+            "yes_rsvp_count": 46
         }, 
         {
             "created": 1477945072000, 
@@ -582,7 +594,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1457965726000, 
@@ -815,7 +827,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1457392514000, 
@@ -859,7 +871,7 @@
         }, 
         {
             "created": 1477514397000, 
-            "description": "<p>We're having a very special holiday edition of the API Meetup! \u00a0Go ahead and mark your calendars for Tuesday Dec. 6th. \u00a0We'll come together to celebrate the last meetup of the year over tacos, special drinks, good cheer, and great presentations. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* RJ Heller - audioeye<br/>* Brian Derocher<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
+            "description": "<p>We're having a very special holiday edition of the API Meetup! \u00a0Go ahead and mark your calendars for Tuesday Dec. 6th. \u00a0We'll come together to celebrate the last meetup of the year over tacos, special drinks, good cheer, and great presentations. \u00a0</p> <p>\n\n6:00pm - 6:45pm Food, drinks and networking\u00a0<br/>6:45pm - 6:55pm Introductions and Announcements\u00a0<br/>6:55pm - 8:00pm Presentations</p> <p>* RJ Heller - audioeye<br/>* Brian Derocher<br/>* Jamie Powers - Data Rights<br/>* TBA</p> <p>7:55pm - 8:00pm Refill your beverage\u00a0<br/>8:00pm - 8:30pm Panel discussions\u00a0<br/>8:30pm - 9:00pm Networking</p>", 
             "event_url": "https://www.meetup.com/DC-Web-API-User-Group/events/235135088/", 
             "group": {
                 "created": 1347647025000, 
@@ -877,7 +889,7 @@
             "name": "DC API User Group - December Edition", 
             "status": "upcoming", 
             "time": 1481065200000, 
-            "updated": 1477514397000, 
+            "updated": 1478880618000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -1092,7 +1104,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 5
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1459265642000, 
@@ -1159,7 +1171,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 92
+            "yes_rsvp_count": 93
         }, 
         {
             "created": 1326383071000, 
