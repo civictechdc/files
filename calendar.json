@@ -187,7 +187,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1459265642000, 
@@ -293,7 +293,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1477354776000, 
@@ -331,7 +331,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 74
+            "yes_rsvp_count": 75
         }, 
         {
             "created": 1476369329000, 
@@ -409,7 +409,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 47
         }, 
         {
             "created": 1477945072000, 
@@ -567,7 +567,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 68
         }, 
         {
             "created": 1477363365000, 
@@ -588,13 +588,14 @@
             "id": "235095324", 
             "maybe_rsvp_count": 0, 
             "name": "Professional Networking Brunch", 
+            "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1479657600000, 
-            "updated": 1477363497000, 
+            "updated": 1478912475000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1457965726000, 
@@ -905,7 +906,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 56
         }, 
         {
             "created": 1459265642000, 
@@ -1000,7 +1001,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 26
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1326383071000, 
