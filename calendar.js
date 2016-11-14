@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 89
+            "yes_rsvp_count": 90
         }, 
         {
             "announced": true, 
@@ -149,7 +149,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1466889219000, 
@@ -187,7 +187,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1459265642000, 
@@ -215,7 +215,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1478047627000, 
@@ -293,7 +293,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1477354776000, 
@@ -370,7 +370,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1446220217000, 
@@ -409,7 +409,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 48
+            "yes_rsvp_count": 50
         }, 
         {
             "created": 1477945072000, 
@@ -493,44 +493,6 @@ calendar({
             "yes_rsvp_count": 33
         }, 
         {
-            "created": 1467704208000, 
-            "description": "<p>NOTE: You must register on\u00a0<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\">Eventbrite</a>.\u00a0</p> <p><br/><b>== MavenMini: Association Web Mini-Conference ==</b></p> <p><br/>Five hours of presentations, discussions and networking focused on association websites and digital properties.</p> <p><b>&gt;</b> Meet your association peers and share stories over dinner, drinks and dessert.<br/><b>&gt;</b> Listen to sessions focused on the specific needs and interests of associations.<br/><b>&gt;</b> Hear talks from other association leaders, from experts in association websites and from thought leaders.<br/><b>&gt;</b> Follow-up with fellow attendees after the event.</p> <p><br/><b>AGENDA</b></p> <p><br/>4:00 - Registration and Networking\u00a0\u00a0</p> <p>4:30 - Session\u00a01:\u00a0Websites\u00a0</p> <p>Topics such as: redesigns, website tuning, responsive design, member-only areas, etc.</p> <p>5:30 - Networking and Light Dinner\u00a0\u00a0</p> <p>6:00 - Session 2: Digital Marketing\u00a0</p> <p>Topics such as newsletters, email marketing, integrated communications, advocacy, calls-to-action, etc.</p> <p>7:00 - Networking Over Cocktails\u00a0\u00a0</p> <p>7:30 - Session 3: Tools &amp; Management\u00a0</p> <p>Topics such as integrating external tools with web properties (AMS, eLearning, etc), website management and governance, etc.</p> <p>8:30 - Networking Over Coffee &amp; Dessert\u00a0</p> <p>9:00 - Adjourn</p> <p>\n\n<b>CALL FOR SPEAKERS\u00a0</b></p> <p><b>Association Staff</b></p> <p><br/>We are looking for association staff to share ideas and experiences. New speakers welcome.</p> <p>An ideal talk discusses new information, a unique approach to established techniques, presents a though-provoking idea (in an actionable context), a detailed overview of a complex element, etc.\u00a0</p> <p><br/>Talks should speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><br/><i>For more information, email [masked]. Please include your topic idea/ideas and background.</i></p> <p><b>Other Attendees</b></p> <p>For the most part, speaking slots will be filled by association staff and speakers provided by our event sponsors. However, there may be opportunities if we cannot find association staff to present.\u00a0</p> <p><i>Email [masked] with information on your background and where you might be a fit for the discussion.\u00a0</i></p> <p><b>Sponsoring the Event</b></p> <p>We are looking for event sponsors. Email [masked] for more information.</p>", 
-            "event_url": "https://www.meetup.com/webcontentmavens/events/232383194/", 
-            "group": {
-                "created": 1189804715000, 
-                "group_lat": 38.919998168945312, 
-                "group_lon": -77.040000915527344, 
-                "id": 685061, 
-                "join_mode": "open", 
-                "name": "Web Content Mavens", 
-                "urlname": "webcontentmavens", 
-                "who": "People interested in CMS"
-            }, 
-            "headcount": 0, 
-            "id": "232383194", 
-            "maybe_rsvp_count": 0, 
-            "name": "MavenMini: Association Web", 
-            "status": "upcoming", 
-            "time": 1479416400000, 
-            "updated": 1476825337000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1133 15th St NW (2th Floor)", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24803402, 
-                "lat": 38.919181999999999, 
-                "localized_country_name": "USA", 
-                "lon": -76.982039999999998, 
-                "name": "NYCDA", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 14
-        }, 
-        {
             "created": 1471280434000, 
             "description": "<p>Accessibility is more than alt tags and even major companies are failing at the most obvious code choices when it comes to doing more. This talk will cover topics from basic considerations to accessibility \u2018gotchas\u2019, the wide range of accessibility concerns, and simple ways to make huge improvements.\u00a0</p> <p>While much of what is talked about will be from a developer's perspective, designers, product managers, and others can benefit from understanding these concepts and what is and isn't possible from a development perspective.</p> <p>Lindsey Dragun is a full-stack developer at PBS and part of a team that advocates for and educates on accessibility.\u00a0</p>", 
             "duration": 7200000, 
@@ -568,6 +530,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 70
+        }, 
+        {
+            "created": 1479119582000, 
+            "description": "<p>[NOTE: You must be registered on <a href=\"https://www.eventbrite.com/e/technology-and-a-trump-presidency-tickets-29368690544\">Eventbrite</a> to attend]</p> <p>What impact will a Donald Trump presidency have on technology?</p> <p>Join the Web Content Mavens for a panel discussion on what we know, what we don't know and the possible impacts of a Trump administration on the technology industry broadly and on DC Tech in particular.</p> <p><b>SPEAKERS</b></p> <p>[Additional speakers will be announced as confirmed]</p> <p>\n\n\n<img src=\"https://cdn.evbuc.com/eventlogos/431300/1robpegoraroportraitwithcables.jpg\" /></p> <p><b>Rob Pegoraro<br/></b>Freelance Technology Journalist</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/431300/colindelany20161e1453487843615.jpg\" /></p> <p><b>Colin Delany<br/></b>Founder and Editor, Epolitics.com</p>", 
+            "event_url": "https://www.meetup.com/webcontentmavens/events/235569849/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "235569849", 
+            "maybe_rsvp_count": 0, 
+            "name": "Technology and a Trump Presidency", 
+            "status": "upcoming", 
+            "time": 1479425400000, 
+            "updated": 1479119582000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1133 15th St NW (2th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24803402, 
+                "lat": 38.919181999999999, 
+                "localized_country_name": "USA", 
+                "lon": -76.982039999999998, 
+                "name": "NYCDA", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 3
         }, 
         {
             "created": 1477363365000, 
@@ -623,7 +623,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 16
+            "yes_rsvp_count": 17
         }, 
         {
             "created": 1459265642000, 
@@ -692,7 +692,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 46
+            "yes_rsvp_count": 49
         }, 
         {
             "created": 1457212385000, 
@@ -732,7 +732,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1459265642000, 
@@ -868,7 +868,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 21
         }, 
         {
             "created": 1477514397000, 
@@ -1040,7 +1040,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1460389774000, 
@@ -1328,6 +1328,44 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1467704208000, 
+            "description": "<p>NOTES:<br/>- You must register on\u00a0<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\">Eventbrite</a>.\u00a0<br/>- The date is tentative</p> <p><b>== MavenMini: Association Web Mini-Conference ==</b></p> <p><br/>Five hours of presentations, discussions and networking focused on association websites and digital properties.</p> <p><b>&gt;</b> Meet your association peers and share stories over dinner, drinks and dessert.<br/><b>&gt;</b> Listen to sessions focused on the specific needs and interests of associations.<br/><b>&gt;</b> Hear talks from other association leaders, from experts in association websites and from thought leaders.<br/><b>&gt;</b> Follow-up with fellow attendees after the event.</p> <p><br/><b>AGENDA</b></p> <p><br/>4:00 - Registration and Networking\u00a0\u00a0</p> <p>4:30 - Session\u00a01:\u00a0Websites\u00a0</p> <p>Topics such as: redesigns, website tuning, responsive design, member-only areas, etc.</p> <p>5:30 - Networking and Light Dinner\u00a0\u00a0</p> <p>6:00 - Session 2: Digital Marketing\u00a0</p> <p>Topics such as newsletters, email marketing, integrated communications, advocacy, calls-to-action, etc.</p> <p>7:00 - Networking Over Cocktails\u00a0\u00a0</p> <p>7:30 - Session 3: Tools &amp; Management\u00a0</p> <p>Topics such as integrating external tools with web properties (AMS, eLearning, etc), website management and governance, etc.</p> <p>8:30 - Networking Over Coffee &amp; Dessert\u00a0</p> <p>9:00 - Adjourn</p> <p>\n\n<b>CALL FOR SPEAKERS\u00a0</b></p> <p><b>Association Staff</b></p> <p><br/>We are looking for association staff to share ideas and experiences. New speakers welcome.</p> <p>An ideal talk discusses new information, a unique approach to established techniques, presents a though-provoking idea (in an actionable context), a detailed overview of a complex element, etc.\u00a0</p> <p><br/>Talks should speak to our core audiences: web managers, front-end devs, designers, usability &amp; content strategists, etc.</p> <p><br/><i>For more information, email [masked]. Please include your topic idea/ideas and background.</i></p> <p><b>Other Attendees</b></p> <p>For the most part, speaking slots will be filled by association staff and speakers provided by our event sponsors. However, there may be opportunities if we cannot find association staff to present.\u00a0</p> <p><i>Email [masked] with information on your background and where you might be a fit for the discussion.\u00a0</i></p> <p><b>Sponsoring the Event</b></p> <p>We are looking for event sponsors. Email [masked] for more information.</p>", 
+            "event_url": "https://www.meetup.com/webcontentmavens/events/232383194/", 
+            "group": {
+                "created": 1189804715000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 685061, 
+                "join_mode": "open", 
+                "name": "Web Content Mavens", 
+                "urlname": "webcontentmavens", 
+                "who": "People interested in CMS"
+            }, 
+            "headcount": 0, 
+            "id": "232383194", 
+            "maybe_rsvp_count": 0, 
+            "name": "MavenMini: Association Web", 
+            "status": "upcoming", 
+            "time": 1489093200000, 
+            "updated": 1479119651000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1133 15th St NW (2th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24803402, 
+                "lat": 38.919181999999999, 
+                "localized_country_name": "USA", 
+                "lon": -76.982039999999998, 
+                "name": "NYCDA", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1326383071000, 

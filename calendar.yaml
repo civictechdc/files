@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 90
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -158,7 +158,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 42
+  yes_rsvp_count: 43
 - created: 1466889219000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -189,7 +189,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 77
+  yes_rsvp_count: 78
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -219,7 +219,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 7
+  yes_rsvp_count: 8
 - created: 1478047627000
   description: "<p>Want to come to more Women Who Code meetups but live in Northern\
     \ Virginia and not near Metro? We\u2019ve got you covered! We\u2019re continuing\
@@ -303,7 +303,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1477354776000
   description: "<p>Join recent graduates from Georgetown University's Data Science\
     \ Certificate Program who will be delivering lightning talks about their experience\
@@ -372,7 +372,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1446220217000
   description: "<p>Did you enjoy our Beginner Night on November 2nd? This class will\
     \ be a great follow-up on how to use some of the free Python tools.</p> <p>Did\
@@ -401,7 +401,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 48
+  yes_rsvp_count: 50
 - created: 1477945072000
   description: "<p>Women Who Code is partnering with DC Media Innovations to host\
     \ a trivia night!\_</p> <p>Format: five rounds of ten questions each, plus two\
@@ -471,56 +471,6 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 33
-- created: 1467704208000
-  description: "<p>NOTE: You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
-    >Eventbrite</a>.\_</p> <p><br/><b>== MavenMini: Association Web Mini-Conference\
-    \ ==</b></p> <p><br/>Five hours of presentations, discussions and networking focused\
-    \ on association websites and digital properties.</p> <p><b>&gt;</b> Meet your\
-    \ association peers and share stories over dinner, drinks and dessert.<br/><b>&gt;</b>\
-    \ Listen to sessions focused on the specific needs and interests of associations.<br/><b>&gt;</b>\
-    \ Hear talks from other association leaders, from experts in association websites\
-    \ and from thought leaders.<br/><b>&gt;</b> Follow-up with fellow attendees after\
-    \ the event.</p> <p><br/><b>AGENDA</b></p> <p><br/>4:00 - Registration and Networking\_\
-    \_</p> <p>4:30 - Session\_1:\_Websites\_</p> <p>Topics such as: redesigns, website\
-    \ tuning, responsive design, member-only areas, etc.</p> <p>5:30 - Networking\
-    \ and Light Dinner\_\_</p> <p>6:00 - Session 2: Digital Marketing\_</p> <p>Topics\
-    \ such as newsletters, email marketing, integrated communications, advocacy, calls-to-action,\
-    \ etc.</p> <p>7:00 - Networking Over Cocktails\_\_</p> <p>7:30 - Session 3: Tools\
-    \ &amp; Management\_</p> <p>Topics such as integrating external tools with web\
-    \ properties (AMS, eLearning, etc), website management and governance, etc.</p>\
-    \ <p>8:30 - Networking Over Coffee &amp; Dessert\_</p> <p>9:00 - Adjourn</p> <p>\n\
-    \n<b>CALL FOR SPEAKERS\_</b></p> <p><b>Association Staff</b></p> <p><br/>We are\
-    \ looking for association staff to share ideas and experiences. New speakers welcome.</p>\
-    \ <p>An ideal talk discusses new information, a unique approach to established\
-    \ techniques, presents a though-provoking idea (in an actionable context), a detailed\
-    \ overview of a complex element, etc.\_</p> <p><br/>Talks should speak to our\
-    \ core audiences: web managers, front-end devs, designers, usability &amp; content\
-    \ strategists, etc.</p> <p><br/><i>For more information, email [masked]. Please\
-    \ include your topic idea/ideas and background.</i></p> <p><b>Other Attendees</b></p>\
-    \ <p>For the most part, speaking slots will be filled by association staff and\
-    \ speakers provided by our event sponsors. However, there may be opportunities\
-    \ if we cannot find association staff to present.\_</p> <p><i>Email [masked] with\
-    \ information on your background and where you might be a fit for the discussion.\_\
-    </i></p> <p><b>Sponsoring the Event</b></p> <p>We are looking for event sponsors.\
-    \ Email [masked] for more information.</p>"
-  event_url: https://www.meetup.com/webcontentmavens/events/232383194/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '232383194'
-  maybe_rsvp_count: 0
-  name: 'MavenMini: Association Web'
-  status: upcoming
-  time: 1479416400000
-  updated: 1476825337000
-  utc_offset: -18000000
-  venue: {address_1: 1133 15th St NW (2th Floor), city: Washington, country: us, id: 24803402,
-    lat: 38.919181999999999, localized_country_name: USA, lon: -76.982039999999998,
-    name: NYCDA, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 14
 - created: 1471280434000
   description: "<p>Accessibility is more than alt tags and even major companies are\
     \ failing at the most obvious code choices when it comes to doing more. This talk\
@@ -550,6 +500,38 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 70
+- created: 1479119582000
+  description: '<p>[NOTE: You must be registered on <a href="https://www.eventbrite.com/e/technology-and-a-trump-presidency-tickets-29368690544">Eventbrite</a>
+    to attend]</p> <p>What impact will a Donald Trump presidency have on technology?</p>
+    <p>Join the Web Content Mavens for a panel discussion on what we know, what we
+    don''t know and the possible impacts of a Trump administration on the technology
+    industry broadly and on DC Tech in particular.</p> <p><b>SPEAKERS</b></p> <p>[Additional
+    speakers will be announced as confirmed]</p> <p>
+
+
+
+    <img src="https://cdn.evbuc.com/eventlogos/431300/1robpegoraroportraitwithcables.jpg"
+    /></p> <p><b>Rob Pegoraro<br/></b>Freelance Technology Journalist</p> <p><img
+    src="https://cdn.evbuc.com/eventlogos/431300/colindelany20161e1453487843615.jpg"
+    /></p> <p><b>Colin Delany<br/></b>Founder and Editor, Epolitics.com</p>'
+  event_url: https://www.meetup.com/webcontentmavens/events/235569849/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '235569849'
+  maybe_rsvp_count: 0
+  name: Technology and a Trump Presidency
+  status: upcoming
+  time: 1479425400000
+  updated: 1479119582000
+  utc_offset: -18000000
+  venue: {address_1: 1133 15th St NW (2th Floor), city: Washington, country: us, id: 24803402,
+    lat: 38.919181999999999, localized_country_name: USA, lon: -76.982039999999998,
+    name: NYCDA, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 3
 - created: 1477363365000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -616,7 +598,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 16
+  yes_rsvp_count: 17
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -691,7 +673,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 46
+  yes_rsvp_count: 49
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -738,7 +720,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 12
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -895,7 +877,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 20
+  yes_rsvp_count: 21
 - created: 1477514397000
   description: "<p>We're having a very special holiday edition of the API Meetup!\
     \ \_Go ahead and mark your calendars for Tuesday Dec. 6th. \_We'll come together\
@@ -1050,7 +1032,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1460389774000
   description: "<p>Front End Lab (FEL) is a study group where women can come together\
     \ and help each other learn and understand web development. We welcome devs of\
@@ -1329,6 +1311,56 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 1
+- created: 1467704208000
+  description: "<p>NOTES:<br/>- You must register on\_<a href=\"https://www.eventbrite.com/e/mavenmini-association-web-tickets-26417889619\"\
+    >Eventbrite</a>.\_<br/>- The date is tentative</p> <p><b>== MavenMini: Association\
+    \ Web Mini-Conference ==</b></p> <p><br/>Five hours of presentations, discussions\
+    \ and networking focused on association websites and digital properties.</p> <p><b>&gt;</b>\
+    \ Meet your association peers and share stories over dinner, drinks and dessert.<br/><b>&gt;</b>\
+    \ Listen to sessions focused on the specific needs and interests of associations.<br/><b>&gt;</b>\
+    \ Hear talks from other association leaders, from experts in association websites\
+    \ and from thought leaders.<br/><b>&gt;</b> Follow-up with fellow attendees after\
+    \ the event.</p> <p><br/><b>AGENDA</b></p> <p><br/>4:00 - Registration and Networking\_\
+    \_</p> <p>4:30 - Session\_1:\_Websites\_</p> <p>Topics such as: redesigns, website\
+    \ tuning, responsive design, member-only areas, etc.</p> <p>5:30 - Networking\
+    \ and Light Dinner\_\_</p> <p>6:00 - Session 2: Digital Marketing\_</p> <p>Topics\
+    \ such as newsletters, email marketing, integrated communications, advocacy, calls-to-action,\
+    \ etc.</p> <p>7:00 - Networking Over Cocktails\_\_</p> <p>7:30 - Session 3: Tools\
+    \ &amp; Management\_</p> <p>Topics such as integrating external tools with web\
+    \ properties (AMS, eLearning, etc), website management and governance, etc.</p>\
+    \ <p>8:30 - Networking Over Coffee &amp; Dessert\_</p> <p>9:00 - Adjourn</p> <p>\n\
+    \n<b>CALL FOR SPEAKERS\_</b></p> <p><b>Association Staff</b></p> <p><br/>We are\
+    \ looking for association staff to share ideas and experiences. New speakers welcome.</p>\
+    \ <p>An ideal talk discusses new information, a unique approach to established\
+    \ techniques, presents a though-provoking idea (in an actionable context), a detailed\
+    \ overview of a complex element, etc.\_</p> <p><br/>Talks should speak to our\
+    \ core audiences: web managers, front-end devs, designers, usability &amp; content\
+    \ strategists, etc.</p> <p><br/><i>For more information, email [masked]. Please\
+    \ include your topic idea/ideas and background.</i></p> <p><b>Other Attendees</b></p>\
+    \ <p>For the most part, speaking slots will be filled by association staff and\
+    \ speakers provided by our event sponsors. However, there may be opportunities\
+    \ if we cannot find association staff to present.\_</p> <p><i>Email [masked] with\
+    \ information on your background and where you might be a fit for the discussion.\_\
+    </i></p> <p><b>Sponsoring the Event</b></p> <p>We are looking for event sponsors.\
+    \ Email [masked] for more information.</p>"
+  event_url: https://www.meetup.com/webcontentmavens/events/232383194/
+  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
+    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
+    who: People interested in CMS}
+  headcount: 0
+  id: '232383194'
+  maybe_rsvp_count: 0
+  name: 'MavenMini: Association Web'
+  status: upcoming
+  time: 1489093200000
+  updated: 1479119651000
+  utc_offset: -18000000
+  venue: {address_1: 1133 15th St NW (2th Floor), city: Washington, country: us, id: 24803402,
+    lat: 38.919181999999999, localized_country_name: USA, lon: -76.982039999999998,
+    name: NYCDA, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 14
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
