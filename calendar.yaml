@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 90
+  yes_rsvp_count: 91
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -77,7 +77,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -158,7 +158,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 - created: 1466889219000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
@@ -189,7 +189,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 77
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -271,7 +271,7 @@ other:
       at Tysons Corner, repinned: false, state: VA, zip: '22185'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 14
 - created: 1478553089000
   description: "<p>(You must register on\_<a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\"\
     >Eventbrite</a>\_to attend)</p> <p>Analytics can help improve decisions through\
@@ -333,7 +333,7 @@ other:
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 78
+  yes_rsvp_count: 79
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -401,7 +401,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 50
+  yes_rsvp_count: 51
 - created: 1477945072000
   description: "<p>Women Who Code is partnering with DC Media Innovations to host\
     \ a trivia night!\_</p> <p>Format: five rounds of ten questions each, plus two\
@@ -470,7 +470,7 @@ other:
     name: Town Danceboutique, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 33
+  yes_rsvp_count: 34
 - created: 1471280434000
   description: "<p>Accessibility is more than alt tags and even major companies are\
     \ failing at the most obvious code choices when it comes to doing more. This talk\
@@ -499,7 +499,7 @@ other:
     name: NAVA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 70
+  yes_rsvp_count: 69
 - created: 1479119582000
   description: '<p>[NOTE: You must be registered on <a href="https://www.eventbrite.com/e/technology-and-a-trump-presidency-tickets-29368690544">Eventbrite</a>
     to attend]</p> <p>What impact will a Donald Trump presidency have on technology?</p>
@@ -531,7 +531,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 3
+  yes_rsvp_count: 8
 - created: 1477363365000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -554,7 +554,7 @@ other:
   updated: 1478912475000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 3
+  waitlist_count: 9
   yes_rsvp_count: 25
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -598,7 +598,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 18
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -673,7 +673,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 49
+  yes_rsvp_count: 51
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -720,7 +720,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 12
+  yes_rsvp_count: 13
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1186,7 +1186,7 @@ other:
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 96
+  yes_rsvp_count: 97
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
