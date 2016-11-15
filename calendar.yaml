@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 96
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -147,7 +147,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 76
+  yes_rsvp_count: 81
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -180,7 +180,7 @@ other:
     name: 'MLK Library, Digital Commons Room 5', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 8
+  yes_rsvp_count: 9
 - created: 1478047627000
   description: "<p>Want to come to more Women Who Code meetups but live in Northern\
     \ Virginia and not near Metro? We\u2019ve got you covered! We\u2019re continuing\
@@ -264,7 +264,7 @@ other:
       Co/work ', repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1477354776000
   description: "<p>Join recent graduates from Georgetown University's Data Science\
     \ Certificate Program who will be delivering lightning talks about their experience\
@@ -294,7 +294,7 @@ other:
     name: Judy Restaurant, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 82
+  yes_rsvp_count: 85
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -363,7 +363,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 53
+  yes_rsvp_count: 55
 - created: 1477945072000
   description: "<p>Women Who Code is partnering with DC Media Innovations to host\
     \ a trivia night!\_</p> <p>Format: five rounds of ten questions each, plus two\
@@ -395,7 +395,7 @@ other:
     name: Bier Baron Tavern, repinned: false, state: DC, zip: '20037'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 18
 - created: 1478194724000
   description: '<p>The Tech Innovation + Inclusion Summit (TechUp) will bring together
     thousands of leaders across all areas of technology. Topics &amp; activities include:
@@ -432,7 +432,7 @@ other:
     name: Town Danceboutique, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 37
+  yes_rsvp_count: 41
 - created: 1471280434000
   description: "<p>Accessibility is more than alt tags and even major companies are\
     \ failing at the most obvious code choices when it comes to doing more. This talk\
@@ -493,7 +493,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 11
+  yes_rsvp_count: 14
 - created: 1477363365000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -516,7 +516,7 @@ other:
   updated: 1478912475000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 10
+  waitlist_count: 11
   yes_rsvp_count: 25
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -635,7 +635,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 54
+  yes_rsvp_count: 55
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -713,6 +713,63 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1478871483000
+  description: "<p>Come join us for a <a href=\"http://www.meetup.com/stats-prog-dc/\"\
+    >Stats Programming</a> / <a href=\"http://www.meetup.com/Data-Science-DC/\">Data\
+    \ Science DC</a> joint event where Kirk Borne and Marck Vaisman will be exploring\
+    \ a couple of the newest and coolest Data Science technologies. \_</p> <p>Thanks\
+    \ to\_<a href=\"http://www.bah.com/\">Booz Allen Hamilton</a>\_for hosting us\
+    \ at\_<a href=\"http://www.boozallen.com/consulting/strategic-innovation/dcinnovationcenter\"\
+    >The Innovation Center</a>.\_</p> <p><br/><b>Agenda:</b></p> <p><br/>6:30 - 7:15\
+    \ \_ \_ Registration and Networking (Please bring photo ID for registration.)<br/>7:15\
+    \ - 7:30 \_ \_ Introductions and Announcements<br/>7:30 - 8:15 \_ \_ Presentations:<br/><i>Kirk\
+    \ Borne</i> - Machine Learning Fundamentals through the Lens of TensorFlow: A\
+    \ Calculus of Variations for Data Science \_\_<br/><i>Marck Vaisman</i> - SparklyR:\
+    \ Doing big data analysis with R and Spark<br/>8:15 - 8:45 \_ \_ Networking (continued)<br/>8:45ish\
+    \ \_ \_ \_ \_ \_Off to data drinks at a local bar</p> <p><br/><b>About the speakers:</b></p>\
+    \ <p><br/><a href=\"http://www.kirkborne.net/\">Dr. Kirk Borne</a> is the Principal\
+    \ Data Scientist for NextGen Analytics and Data Science in the Strategic Innovation\
+    \ Group at Booz Allen Hamilton. He previously spent 12 years as Professor of Astrophysics\
+    \ and Computational Science at George Mason University where he taught and advised\
+    \ students in the Data Science program. Before that, he worked 18 years on various\
+    \ NASA contracts, as research scientist and as manager on large data systems.\
+    \ He has been consultant and adviser to numerous agencies and firms, focusing\
+    \ on the use of data for discovery, decision support, and innovation across many\
+    \ different domains and industries. He is an active data science contributor on\
+    \ social media, where he has been named consistently among the top worldwide influencers\
+    \ in big data and data science. Follow him on Twitter at <a href=\"https://twitter.com/KirkDBorne\"\
+    >@KirkDBorne</a>.</p> <p><a href=\"http://www.linkedin.com/in/marckvaisman\">Marck\
+    \ Vaisman</a> is a Data Scientist at Booz Allen Hamilton and Co-Founder and Board\
+    \ Member of Data Community DC. He designs data-driven computing solutions to help\
+    \ clients make better business decisions, recognize opportunities, experiment,\
+    \ gain insights, and solve difficult problems using large datasets and a combination\
+    \ of tools. His experience pulls from multiple disciplines including Internet,\
+    \ telecommunications, and high tech. Marck is an experienced R programmer and\
+    \ advocate, and a contributing author to The Bad Data Handbook and Analyzing the\
+    \ Analyzers. He teaches graduate level classes at the George Washington University\
+    \ and Georgetown University.</p>"
+  duration: 7200000
+  event_url: https://www.meetup.com/stats-prog-dc/events/235510109/
+  group: {created: 1249911519000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 1503964, join_mode: open, name: Statistical Programming DC, urlname: stats-prog-dc,
+    who: dc-hackeRs}
+  headcount: 0
+  how_to_find_us: Enter the building lobby and walk to the end of the hall to the
+    Innovation Center
+  id: '235510109'
+  maybe_rsvp_count: 0
+  name: Exploring some of the latest and greatest tools in Data Science
+  rsvp_limit: 230
+  status: upcoming
+  time: 1480462200000
+  updated: 1479229976000
+  utc_offset: -18000000
+  venue: {address_1: 901 15th St NW, city: Washington`, country: us, id: 24895607,
+    lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
+    name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 43
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -866,7 +923,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 58
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1151,7 +1208,7 @@ other:
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 100
+  yes_rsvp_count: 103
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\

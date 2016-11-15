@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 96
         }, 
         {
             "announced": true, 
@@ -160,7 +160,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 76
+            "yes_rsvp_count": 81
         }, 
         {
             "created": 1459265642000, 
@@ -200,7 +200,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1478047627000, 
@@ -278,7 +278,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 17
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1477354776000, 
@@ -316,7 +316,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 82
+            "yes_rsvp_count": 85
         }, 
         {
             "created": 1476369329000, 
@@ -394,7 +394,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 53
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1477945072000, 
@@ -435,7 +435,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 19
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1478194724000, 
@@ -475,7 +475,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 37
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1471280434000, 
@@ -552,7 +552,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 11
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1477363365000, 
@@ -579,7 +579,7 @@ calendar({
             "updated": 1478912475000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 10, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -677,7 +677,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 54
+            "yes_rsvp_count": 55
         }, 
         {
             "created": 1457212385000, 
@@ -746,6 +746,47 @@ calendar({
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1478871483000, 
+            "description": "<p>Come join us for a <a href=\"http://www.meetup.com/stats-prog-dc/\">Stats Programming</a> / <a href=\"http://www.meetup.com/Data-Science-DC/\">Data Science DC</a> joint event where Kirk Borne and Marck Vaisman will be exploring a couple of the newest and coolest Data Science technologies. \u00a0</p> <p>Thanks to\u00a0<a href=\"http://www.bah.com/\">Booz Allen Hamilton</a>\u00a0for hosting us at\u00a0<a href=\"http://www.boozallen.com/consulting/strategic-innovation/dcinnovationcenter\">The Innovation Center</a>.\u00a0</p> <p><br/><b>Agenda:</b></p> <p><br/>6:30 - 7:15 \u00a0 \u00a0 Registration and Networking (Please bring photo ID for registration.)<br/>7:15 - 7:30 \u00a0 \u00a0 Introductions and Announcements<br/>7:30 - 8:15 \u00a0 \u00a0 Presentations:<br/><i>Kirk Borne</i> - Machine Learning Fundamentals through the Lens of TensorFlow: A Calculus of Variations for Data Science \u00a0\u00a0<br/><i>Marck Vaisman</i> - SparklyR: Doing big data analysis with R and Spark<br/>8:15 - 8:45 \u00a0 \u00a0 Networking (continued)<br/>8:45ish \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Off to data drinks at a local bar</p> <p><br/><b>About the speakers:</b></p> <p><br/><a href=\"http://www.kirkborne.net/\">Dr. Kirk Borne</a> is the Principal Data Scientist for NextGen Analytics and Data Science in the Strategic Innovation Group at Booz Allen Hamilton. He previously spent 12 years as Professor of Astrophysics and Computational Science at George Mason University where he taught and advised students in the Data Science program. Before that, he worked 18 years on various NASA contracts, as research scientist and as manager on large data systems. He has been consultant and adviser to numerous agencies and firms, focusing on the use of data for discovery, decision support, and innovation across many different domains and industries. He is an active data science contributor on social media, where he has been named consistently among the top worldwide influencers in big data and data science. Follow him on Twitter at <a href=\"https://twitter.com/KirkDBorne\">@KirkDBorne</a>.</p> <p><a href=\"http://www.linkedin.com/in/marckvaisman\">Marck Vaisman</a> is a Data Scientist at Booz Allen Hamilton and Co-Founder and Board Member of Data Community DC. He designs data-driven computing solutions to help clients make better business decisions, recognize opportunities, experiment, gain insights, and solve difficult problems using large datasets and a combination of tools. His experience pulls from multiple disciplines including Internet, telecommunications, and high tech. Marck is an experienced R programmer and advocate, and a contributing author to The Bad Data Handbook and Analyzing the Analyzers. He teaches graduate level classes at the George Washington University and Georgetown University.</p>", 
+            "duration": 7200000, 
+            "event_url": "https://www.meetup.com/stats-prog-dc/events/235510109/", 
+            "group": {
+                "created": 1249911519000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.019996643066406, 
+                "id": 1503964, 
+                "join_mode": "open", 
+                "name": "Statistical Programming DC", 
+                "urlname": "stats-prog-dc", 
+                "who": "dc-hackeRs"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "Enter the building lobby and walk to the end of the hall to the Innovation Center", 
+            "id": "235510109", 
+            "maybe_rsvp_count": 0, 
+            "name": "Exploring some of the latest and greatest tools in Data Science", 
+            "rsvp_limit": 230, 
+            "status": "upcoming", 
+            "time": 1480462200000, 
+            "updated": 1479229976000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "901 15th St NW", 
+                "city": "Washington`", 
+                "country": "us", 
+                "id": 24895607, 
+                "lat": 38.901629999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.033028000000002, 
+                "name": "Booz Allen Hamilton - Innovation Center", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1476369329000, 
@@ -891,7 +932,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1459265642000, 
@@ -1157,7 +1198,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 103
         }, 
         {
             "created": 1476369329000, 
