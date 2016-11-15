@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 91
+            "yes_rsvp_count": 93
         }, 
         {
             "announced": true, 
@@ -187,7 +187,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 77
+            "yes_rsvp_count": 78
         }, 
         {
             "created": 1459265642000, 
@@ -207,12 +207,24 @@ calendar({
             "headcount": 0, 
             "id": "pjkzrlyvpbtb", 
             "maybe_rsvp_count": 0, 
-            "name": "Android Lab", 
+            "name": "Android Lab: Open Lab Night", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1479252600000, 
-            "updated": 1472237272000, 
+            "updated": 1479167087000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "9th and G St NW", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 16271902, 
+                "lat": 38.908141999999998, 
+                "localized_country_name": "USA", 
+                "lon": -77.023972000000001, 
+                "name": "MLK Library, Digital Commons Room 5", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 8
@@ -255,7 +267,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1478553089000, 
@@ -335,7 +347,7 @@ calendar({
         }, 
         {
             "created": 1476369329000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:00 pm</b>\u00a0- Tech Talk: Learn how to protect your Rails app from Cross Site Scripting (XSS) attacks using the sanitize helper</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235224623/", 
             "group": {
@@ -351,10 +363,10 @@ calendar({
             "headcount": 0, 
             "id": "bmvvbmyvpbvb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Ruby on Rails: Protect your app from XSS attacks with Sanitize", 
             "status": "upcoming", 
             "time": 1479339000000, 
-            "updated": 1478888004000, 
+            "updated": 1479159662000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "806 7th St NW #201", 
@@ -370,7 +382,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1446220217000, 
@@ -409,7 +421,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 51
+            "yes_rsvp_count": 53
         }, 
         {
             "created": 1477945072000, 
@@ -490,7 +502,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 34
+            "yes_rsvp_count": 36
         }, 
         {
             "created": 1471280434000, 
@@ -529,7 +541,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 70
         }, 
         {
             "created": 1479119582000, 
@@ -567,7 +579,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 10
         }, 
         {
             "created": 1477363365000, 
@@ -594,7 +606,7 @@ calendar({
             "updated": 1478912475000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 9, 
+            "waitlist_count": 10, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -623,7 +635,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1459265642000, 
@@ -828,7 +840,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1457392514000, 
@@ -868,7 +880,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1477514397000, 
@@ -906,7 +918,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 56
+            "yes_rsvp_count": 57
         }, 
         {
             "created": 1459265642000, 
@@ -1137,7 +1149,7 @@ calendar({
         }, 
         {
             "created": 1477600919000, 
-            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to return to WMATA headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.</p> <p>Courtesy of\u00a0<a href=\"http://www.urban-insights.com/\">Urban Insights</a>, we'll have food available at 6:00.</p> <p>The program will begin at 6:30. Have you built a Metro-related app, hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p> <p>\u2022\u00a0<a href=\"http://ben.somebody.io/\">Ben Shepherd</a> will show how he used the live train positions API to make\u00a0<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>\u2022\u00a0Andrew Schmadel will share his script for recording\u00a0<a href=\"http://www.opendatadc.org/dataset/wmata-disruption-reports\">WMATA Disruption Reports</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://samwnwrd.squarespace.com/\">Sam Winward</a> will display his research into peak and off-peak fares and their hidden influence over ridership decisions.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://kwkelly.com/\">Keith Kelly</a> will show how he used historic data to visualize wait times.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will demo his project to compare\u00a0indirect routes.</p> <p><br/>\u2022\u00a0Sanghong Yoo will present Metroview, WMATA's own internal tool for non-GIS users.</p> <p><br/>\u2022 Michael Eichler will show he uses Tableau to <a href=\"https://public.tableau.com/profile/planitmetro#!/\">visualize WMATA stats</a>.</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"http://www.wmata.com/\">WMATA</a>\u00a0for making this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\">Metro Hack Night V</a>?\u00a0See\u00a0<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\">Crowd control: Simulating congestion in the D.C. Metro</a> and\u00a0<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\">MetroHackNight V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Use\u00a0<a href=\"https://twitter.com/hashtag/metrohacknight\">#metrohacknight</a>\u00a0for your own tweets.\u00a0</p>", 
+            "description": "<p>Metro Hack Night is a show &amp; tell of Metro-related apps and data visualizations. We are thrilled to return to WMATA headquarters. We'll be on the first floor; be sure to bring an ID in order to enter the building.\u00a0Please arrive a bit early, as it will take a while to process everyone through the metal detectors and check IDs.</p> <p>Courtesy of\u00a0<a href=\"http://www.urban-insights.com/\">Urban Insights</a>, we'll have food available at 6:00.</p> <p>The program will begin at 6:30. Have you built a Metro-related app, hack, map or dataviz? Sign up for our show &amp; tell. Thus far we have:</p> <p>\u2022\u00a0<a href=\"http://ben.somebody.io/\">Ben Shepherd</a> will show how he used the live train positions API to make\u00a0<a href=\"https://dctraintracker.com/\">dctraintracker.com</a>.</p> <p><br/>\u2022\u00a0Andrew Schmadel will share his script for recording\u00a0<a href=\"http://www.opendatadc.org/dataset/wmata-disruption-reports\">WMATA Disruption Reports</a>.</p> <p><br/>\u2022\u00a0<a href=\"https://samwnwrd.squarespace.com/\">Sam Winward</a> will display his research into peak and off-peak fares and their hidden influence over ridership decisions.\u00a0</p> <p><br/>\u2022\u00a0<a href=\"https://kwkelly.com/\">Keith Kelly</a> will show how he used historic data to visualize wait times.</p> <p><br/>\u2022\u00a0<a href=\"https://twitter.com/joe_haaga\">Joe Haaga</a> will demo his project to compare\u00a0indirect routes.</p> <p><br/>\u2022 JP\u00a0will show how he used the\u00a0WMATA API to programmatically build a <a href=\"https://github.com/contractdesign/wmata/blob/master/doc/all.png\">track circuit\u00a0diagram</a>.</p> <p>\u2022\u00a0Sanghong Yoo will present Metroview, WMATA's own internal tool for non-GIS users.</p> <p><br/>\u2022 Michael Eichler will show he uses Tableau to <a href=\"https://public.tableau.com/profile/planitmetro#!/\">visualize WMATA stats</a>.</p> <p><br/>To build your own Metro apps, hacks, and visualizations, find WMATA's open data via PlanItMetro's\u00a0<a href=\"http://planitmetro.com/tag/data-download/\">data-download</a>\u00a0tag, or use their\u00a0<a href=\"https://developer.wmata.com/\">developer tools</a>.</p> <p><br/><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/b/b/6/600_446827094.jpeg\" /></p> <p>Many thanks to our sponsors at\u00a0<a href=\"http://mobilitylab.org/\">Mobility Lab</a>\u00a0and <a href=\"http://www.wmata.com/\">WMATA</a>\u00a0for making this meetup possible.</p> <p><br/>Want to see what happened at <a href=\"http://www.meetup.com/Transportation-Techies/events/231353360/\">Metro Hack Night V</a>?\u00a0See\u00a0<a href=\"http://mobilitylab.org/2016/07/05/crowd-control-simulating-congestion-d-c-metro/\">Crowd control: Simulating congestion in the D.C. Metro</a> and\u00a0<a href=\"https://blog.graystreetsolutions.com/metrohacknight-v-1a2cb810832b\">MetroHackNight V</a>.</p> <p>Follow\u00a0<a href=\"https://twitter.com/techiesdc\">@techiesdc</a>\u00a0for \"Transportation Techies\" updates. Use\u00a0<a href=\"https://twitter.com/hashtag/metrohacknight\">#metrohacknight</a>\u00a0for your own tweets.\u00a0</p>", 
             "event_url": "https://www.meetup.com/Transportation-Techies/events/235160988/", 
             "group": {
                 "created": 1384372275000, 
@@ -1156,7 +1168,7 @@ calendar({
             "rsvp_limit": 120, 
             "status": "upcoming", 
             "time": 1481756400000, 
-            "updated": 1478659404000, 
+            "updated": 1479166729000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -1172,7 +1184,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 98
         }, 
         {
             "created": 1326383071000, 
