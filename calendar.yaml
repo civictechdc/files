@@ -36,7 +36,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 95
+  yes_rsvp_count: 97
 - announced: true
   created: 1476764726000
   description: "<p>Join us at Social Tables for more of that great civic hacking that\
@@ -117,184 +117,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 35
 other:
-- created: 1466889219000
-  description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
-    \ The format is informal, engaging, and friendly: presenters have *5* minutes\
-    \ to show off their hack (it goes faster than you\u2019d expect) and then the\
-    \ audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.\
-    \ The hacks that people present are anything from how to train your dog to text\
-    \ you when it needs a walk to [something more serious... like blenders made out\
-    \ of artichokes]. Show us what you\u2019ve got! But remember: no startup pitches,\
-    \ no dull work projects, no deckware!</p> <p>\n\nPresentation signups are here:</p>\
-    \ <p><br/><a href=\"http://bit.ly/presentatdc\" class=\"linkified\">http://bit.ly/presentatdc</a></p>\
-    \ <p><br/>See you at the meetup, at WeWork Chinatown. We try to start on-time\
-    \ at 6:30. Sometimes we have free food (bonus!). Big thanks to WeWork for hosting\
-    \ us! We love WeWork! We love you! We love hacks! &lt;3</p>"
-  event_url: https://www.meetup.com/DC-Hack-and-Tell/events/232161094/
-  group: {created: 1361902062000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
-    id: 7361532, join_mode: open, name: DC Hack and Tell, urlname: DC-Hack-and-Tell,
-    who: Hackers}
-  headcount: 0
-  id: '232161094'
-  maybe_rsvp_count: 0
-  name: 'Round 38: Return of the Function'
-  status: upcoming
-  time: 1479252600000
-  updated: 1466889388000
-  utc_offset: -18000000
-  venue: {address_1: 718 7th St NW, city: Washington, country: us, id: 19047832, lat: 38.899109000000003,
-    localized_country_name: USA, lon: -77.022223999999994, name: WeWork Chinatown,
-    repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 80
-- created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
-    group of women? Looking to build your first app or build on existing skills? Come
-    to our weekly Android Lab! We welcome women with all levels of Android experience
-    (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
-    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
-    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
-  duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235260151/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: pjkzrlyvpbtb
-  maybe_rsvp_count: 0
-  name: 'Android Lab: Open Lab Night'
-  rsvp_limit: 25
-  status: upcoming
-  time: 1479252600000
-  updated: 1479167087000
-  utc_offset: -18000000
-  venue: {address_1: 9th and G St NW, city: Washington, country: us, id: 16271902,
-    lat: 38.908141999999998, localized_country_name: USA, lon: -77.023972000000001,
-    name: 'MLK Library, Digital Commons Room 5', repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 9
-- created: 1478047627000
-  description: "<p>Want to come to more Women Who Code meetups but live in Northern\
-    \ Virginia and not near Metro? We\u2019ve got you covered! We\u2019re continuing\
-    \ our meetups for the Northern Virginia area with some serendipitous synergy (not\
-    \ to mention awkward alliteration) by combining our meetup with <a href=\"https://world.phparch.com/\"\
-    >PHP[World] 2016</a>, being held Monday, November 14 - Friday, November 18 at\
-    \ the Sheraton Premiere at Tyson\u2019s Corner.</p> <p>We've arranged to hold\
-    \ our meetup in the evening at the conference hotel and will feature a presentation\
-    \ by conference speaker Samantha Qui\xF1ones titled, \"Hacking the Human Interface.\"\
-    \ The meetup is free and open to all, however please be sure to <a href=\"https://world.phparch.com/register/\"\
-    >register for a free ticket</a>. (See details below for more info.) We will be\
-    \ meeting in room <b>Ash Grove A</b>.</p> <p><i>About Samantha Qui\xF1ones:</i><br/>Samantha\
-    \ Qui\xF1ones is a polyglot hacker and Principal Software Engineer at AOL. Over\
-    \ the course of her career, she has built software and led teams for some of the\
-    \ largest names in technology. Samantha is a frequent speaker at technology conferences\
-    \ and events around the world and serves as a secretary of the PHP FIG. She has\
-    \ been recognized by the Huffington Post as one of the top Latin Americans in\
-    \ Media and is a 2015 recipient of the DCFT Powerful Female Programmers Award.</p>\
-    \ <p><i>About PHP[World]:</i><br/>\"[Created by] ... the team behind php[architect]\
-    \ magazine, ...php[world] is designed to bring the entire world of PHP together\
-    \ in one place, to encourage cross-pollination of ideas and sharing of ideals.\
-    \ We want to have a conference that has tracks designed to appeal to Drupal, WordPress,\
-    \ Joomla, and Magento developers, as much as the Zend Framework, Symfony, CakePHP,\
-    \ and Laravel communities, as well as to PHP developers everywhere.\"</p> <p><i><br/></i></p>\
-    \ <p><i>Free Tickets:</i></p> <p><b>If you are planning to attend, be sure to\
-    \ register for a free ticket! Register at the following link:</b></p> <p><a href=\"\
-    https://world.phparch.com/register/\" class=\"linkified\">https://world.phparch.com/register/</a></p>\
-    \ <p>Scroll all the way to the bottom to find the \"<b>Meetups</b>\" section,\
-    \ and look for the \"<b>Women Who Code NOVA User Group Meeting</b>.\"</p> <p>The\
-    \ meetup will be held in room <b>Ash Grove A</b>.</p> <p>\n\n\nSee you there!</p>\
-    \ <p>This event will be open to all who wish to attend.\_</p> <p>Can't attend\
-    \ this event, but want to stay in touch?</p> <p>Join our <a href=\"http://bit.ly/wwcdcslack\"\
-    >Slack group</a>!</p>"
-  duration: 3600000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235281223/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '235281223'
-  maybe_rsvp_count: 0
-  name: 'NoVa Edition: Hacking the Human Interface @ PHP[World]'
-  status: upcoming
-  time: 1479254400000
-  updated: 1478048490000
-  utc_offset: -18000000
-  venue: {address_1: 8661 Leesburg Pike, city: Vienna, country: us, id: 917567, lat: 38.928303,
-    localized_country_name: USA, lon: -77.241337000000001, name: Sheraton Premiere
-      at Tysons Corner, repinned: false, state: VA, zip: '22185'}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 15
-- created: 1478553089000
-  description: "<p>(You must register on\_<a href=\"https://www.eventbrite.com/e/put-it-on-auto-automate-your-web-content-and-marketing-channels-tickets-28900496162\"\
-    >Eventbrite</a>\_to attend)</p> <p>Analytics can help improve decisions through\
-    \ your website's life-cycle.</p> <p>You can use data to identify problems such\
-    \ as lagging website content and conversion funnel failures.\_And then validate\
-    \ assumptions using that data to make sure you are fixing the right problems in\
-    \ the right way.</p> <p>Analytics can also help you engage with your users - discovering\
-    \ new user trends, understanding user journeys and testing user experience.</p>\
-    \ <p>And it guides your search and marketing efforts - telling you about issues\
-    \ with conversions on sign-up pages, identifying successful campaigns and highlighting\
-    \ failing ones.</p> <p>Join the Web Mavens as we discuss using website analytics\
-    \ to inform and enhance your decisions.</p> <p><b>Agenda<br/></b>6:20 - Registration\
-    \ opens\_<br/>6:30 - Networking over beer, wine, soda &amp; light appetizers\_\
-    <br/>7:00 - Presentations\_<br/>8:15 \_- Q &amp; A\_<br/>8:30 - More networking</p>"
-  event_url: https://www.meetup.com/webcontentmavens/events/235424844/
-  group: {created: 1189804715000, group_lat: 38.919998168945312, group_lon: -77.040000915527344,
-    id: 685061, join_mode: open, name: Web Content Mavens, urlname: webcontentmavens,
-    who: People interested in CMS}
-  headcount: 0
-  id: '235424844'
-  maybe_rsvp_count: 0
-  name: Unlocking Better Decisions with Web Analytics
-  status: upcoming
-  time: 1479254400000
-  updated: 1478554297000
-  utc_offset: -18000000
-  venue: {address_1: '1203 19th St NW ', city: 3rd floor, country: us, id: 24145676,
-    lat: 38.905971999999998, localized_country_name: USA, lon: -77.043205, name: 'Canvas
-      Co/work ', repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 21
-- created: 1477354776000
-  description: "<p>Join recent graduates from Georgetown University's Data Science\
-    \ Certificate Program who will be delivering lightning talks about their experience\
-    \ developing their capstone projects. After the talks, we'll do a happy hour and\
-    \ take open questions from the audience about how to get started on your first\
-    \ data science project!\_</p> <p>Teams and Projects:</p> <p><b>Team Neighborhood</b><br/>Urban\
-    \ Home Finder -\_Helping Millennials Choose Their Next Metropolitan Home</p> <p><br/><b>Team\
-    \ Buzzfeed</b><br/>Buzzfeed: The Trend Behind What's Trending</p> <p><br/><b>Team\
-    \ Originalists</b><br/>Predicting WMATA\_Train Delay Probabilities and Improving\
-    \ Station-to-Station Trip Length\_Predictions</p> <p><br/><b>Team Zero</b><br/>Analyzing\
-    \ Airbnb Listings in DC and the Factors Fetching Top Prices</p> <p><br/><b>Team\
-    \ P2P Lending</b><br/>Forecasting Peer-to-Peer Lending Risk</p>"
-  event_url: https://www.meetup.com/Data-Innovation-DC/events/235092916/
-  group: {created: 1339111847000, group_lat: 38.909999847412109, group_lon: -77.029998779296875,
-    id: 4028832, join_mode: open, name: Data Innovation DC, urlname: Data-Innovation-DC,
-    who: Data-preneurs}
-  headcount: 0
-  id: '235092916'
-  maybe_rsvp_count: 0
-  name: Data Science Lightning Talks & Happy Hour
-  status: upcoming
-  time: 1479254400000
-  updated: 1478386242000
-  utc_offset: -18000000
-  venue: {address_1: '2212 14th St NW, 20009', city: Washington, country: us, id: 24089410,
-    lat: 38.919674000000001, localized_country_name: USA, lon: -77.032355999999993,
-    name: Judy Restaurant, repinned: false, state: DC}
-  visibility: public
-  waitlist_count: 0
-  yes_rsvp_count: 85
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -432,7 +254,7 @@ other:
     name: Town Danceboutique, repinned: false, state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 - created: 1471280434000
   description: "<p>Accessibility is more than alt tags and even major companies are\
     \ failing at the most obvious code choices when it comes to doing more. This talk\
@@ -461,7 +283,7 @@ other:
     name: NAVA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 71
+  yes_rsvp_count: 70
 - created: 1479119582000
   description: '<p>[NOTE: You must be registered on <a href="https://www.eventbrite.com/e/technology-and-a-trump-presidency-tickets-29368690544">Eventbrite</a>
     to attend]</p> <p>What impact will a Donald Trump presidency have on technology?</p>
@@ -493,7 +315,7 @@ other:
     name: NYCDA, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 14
+  yes_rsvp_count: 15
 - created: 1477363365000
   description: <p>Are you a professional developer, designer, sysadmin, or working
     in a field somehow related to code? Or are you someone looking to get into the
@@ -683,6 +505,68 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 13
+- created: 1479186613000
+  description: "<p><b>Note: This is a special Stats Programming / Data Science DC\
+    \ joint event. Please RSVP on the Stats Programming DC event page:\_<a href=\"\
+    https://www.meetup.com/stats-prog-dc/events/235510109/\"><a href=\"https://www.meetup.com/stats-prog-dc/events/235510109/\"\
+    \ class=\"linkified\">https://www.meetup.com/stats-prog-dc/events/235510109/</a></a>\_\
+    to get an accurate count for food and drinks.\_FYI - The RSVP limit here is 0\
+    \ (zero). Thank You.</b></p> <p>Come join us for a <a href=\"http://www.meetup.com/stats-prog-dc/\"\
+    >Stats Programming</a> / <a href=\"https://www.meetup.com/Data-Science-DC/\">Data\
+    \ Science DC</a> joint event where Kirk Borne and Marck Vaisman will be exploring\
+    \ a couple of the newest and coolest Data Science technologies. \_</p> <p>Thanks\
+    \ to\_<a href=\"http://www.bah.com/\">Booz Allen Hamilton</a>\_for hosting us\
+    \ at\_<a href=\"http://www.boozallen.com/consulting/strategic-innovation/dcinnovationcenter\"\
+    >The Innovation Center</a>.\_</p> <p><br/><b>Agenda:</b></p> <p>6:30 - 7:15 -\
+    \ Registration and Networking (Please bring photo ID for registration.)<br/>7:15\
+    \ - 7:30 - Intros and announcements<br/>7:30 - 8:15 - Presentations<br/><i>Kirk\
+    \ Borne</i> - Machine Learning Fundamentals through the Lens of TensorFlow: A\
+    \ Calculus of Variations for Data Science<br/><i>Marck Vaisman</i> - SparklyR:\
+    \ Doing big data analysis with R and Spark<br/>8:15 - 8:45 - Networking (continued)<br/>8:45ish\
+    \ - Off to data drinks at a local bar</p> <p><b>About the speakers:</b></p> <p><a\
+    \ href=\"http://www.kirkborne.net/\">Dr. Kirk Borne</a> is the Principal Data\
+    \ Scientist for NextGen Analytics and Data Science in the Strategic Innovation\
+    \ Group at Booz Allen Hamilton. He previously spent 12 years as Professor of Astrophysics\
+    \ and Computational Science at George Mason University where he taught and advised\
+    \ students in the Data Science program. Before that, he worked 18 years on various\
+    \ NASA contracts, as research scientist and as manager on large data systems.\
+    \ He has been consultant and adviser to numerous agencies and firms, focusing\
+    \ on the use of data for discovery, decision support, and innovation across many\
+    \ different domains and industries. He is an active data science contributor on\
+    \ social media, where he has been named consistently among the top worldwide influencers\
+    \ in big data and data science. Follow him on Twitter at <a href=\"https://twitter.com/kirkdborne\"\
+    >@KirkDBorne</a>.</p> <p><a href=\"http://www.linkedin.com/in/marckvaisman\">Marck\
+    \ Vaisman</a> is a Data Scientist at Booz Allen Hamilton and Co-Founder and Board\
+    \ Member of Data Community DC. He designs data-driven computing solutions to help\
+    \ clients make better business decisions, recognize opportunities, experiment,\
+    \ gain insights, and solve difficult problems using large datasets and a combination\
+    \ of tools. His experience pulls from multiple disciplines including Internet,\
+    \ telecommunications, and high tech. Marck is an experienced R programmer and\
+    \ advocate, and a contributing author to The Bad Data Handbook and Analyzing the\
+    \ Analyzers. He teaches graduate level classes at the George Washington University\
+    \ and Georgetown University.</p>"
+  duration: 7200000
+  event_url: https://www.meetup.com/Data-Science-DC/events/235591182/
+  group: {created: 1311348860000, group_lat: 38.909999847412109, group_lon: -77.019996643066406,
+    id: 2215331, join_mode: open, name: Data Science DC, urlname: Data-Science-DC,
+    who: Data Scientists}
+  headcount: 0
+  how_to_find_us: Enter the building lobby and walk to the end of the hall to the
+    Innovation Center
+  id: '235591182'
+  maybe_rsvp_count: 0
+  name: Special Event - Exploring some of the latest and greatest tools in Data Science
+  rsvp_limit: 7
+  status: upcoming
+  time: 1480462200000
+  updated: 1479279748000
+  utc_offset: -18000000
+  venue: {address_1: 901 15th St NW, city: Washington`, country: us, id: 24895607,
+    lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
+    name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
+  visibility: public
+  waitlist_count: 20
+  yes_rsvp_count: 7
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -769,7 +653,7 @@ other:
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 66
+  yes_rsvp_count: 95
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -805,7 +689,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1476928965000
   description: "<p>Please join us in November to hear how Apache Pirk enables users\
     \ to generate and execute secure queries.</p> <p><b>Agenda</b></p> <p>6:30 PM\
@@ -846,7 +730,7 @@ other:
     name: Inovex Information Systems, repinned: false, state: MD, zip: '21076'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 57
+  yes_rsvp_count: 59
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -1124,7 +1008,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 12
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -1178,7 +1062,11 @@ other:
     \ diagram</a>.</p> <p>\u2022\_<a href=\"https://christopherrung.com/\">Christopher\
     \ Rung</a> will\_show how he built his\_<a href=\"https://github.com/clrung/WMATAFetcher\"\
     >WMATAFetcher Swift Cocoapod</a>\_and\_<a href=\"https://github.com/clrung/DCMetroWidget\"\
-    >DC Metro macOS Today Extension</a>.</p> <p><br/>\u2022\_Sanghong Yoo will present\
+    >DC Metro macOS Today Extension</a>.</p> <p><br/>\u2022\_<a href=\"https://uncompiled.github.io/\"\
+    >Chris Nguyen</a> will demo his \"<a href=\"https://github.com/uncompiled/alexa-metro-status\"\
+    >DC Metro Status</a>\" Alexa Flash Briefing skill.</p> <p><br/>\u2022\_<a href=\"\
+    http://danielanoir.com/\">Daniela Noir</a> will demo her\_<a href=\"https://metrodc.herokuapp.com/\"\
+    >Metro pricing comparison map</a>.</p> <p><br/>\u2022\_Sanghong Yoo will present\
     \ Metroview, WMATA's own internal tool for non-GIS users.</p> <p><br/>\u2022 Michael\
     \ Eichler will show he uses Tableau to <a href=\"https://public.tableau.com/profile/planitmetro#!/\"\
     >visualize WMATA stats</a>.</p> <p><br/>To build your own Metro apps, hacks, and\
@@ -1204,14 +1092,14 @@ other:
   rsvp_limit: 120
   status: upcoming
   time: 1481756400000
-  updated: 1479251673000
+  updated: 1479264892000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 105
+  yes_rsvp_count: 106
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1248,6 +1136,79 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 4
+- created: 1457965726000
+  description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
+    \ together and help each other learn and understand web development. We welcome\
+    \ devs of all levels and encourage those with more experience to help out those\
+    \ that are just starting. There's always at least one mentor or leader present\
+    \ to help you with best practices or to guide you through if you are stuck with\
+    \ a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEHN,\
+    \ please bring your laptop. Extra computers will not be available at the event.\
+    \ Even if you have never coded before, you will be coding at FEHN!</p> <p>Meetup\
+    \ Agenda Every study group will have the following format:<br/>\u2022 6:30pm -\
+    \ Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 -\
+    \ 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To\
+    \ learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\"\
+    \ class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First\
+    \ Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\"\
+    \ class=\"linkified\">http://bit.ly/fehn-first-timers</a></a>\_\u2022 HTML Study\
+    \ Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\"\
+    \ class=\"linkified\">http://bit.ly/fehn-html-guide</a></a>\_\u2022 JavaScript\
+    \ Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\"\
+    \ class=\"linkified\">http://bit.ly/fehn-js-guide</a></a>\_Building Access</p>\
+    \ <p>Certain building management companies require Meetup hosts to let people\
+    \ in and do not encourage them being contacted. Please respect the policy. In\
+    \ case the location requires access to the building, contact the group lead if\
+    \ information is provided or drop a comment on the Meetup page. We'll come and\
+    \ get you.</p> <p>Welcome This event is intended to be exclusively open for women;\
+    \ we are trans* friendly.</p>"
+  duration: 612000000
+  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235296534/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: rzpmrlyvqbzb
+  maybe_rsvp_count: 0
+  name: Front End Lab
+  rsvp_limit: 40
+  status: upcoming
+  time: 1482190200000
+  updated: 1478095072000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235311270/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlyvqbbc
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1482276600000
+  updated: 1472237272000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 5
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
