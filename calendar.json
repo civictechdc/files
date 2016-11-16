@@ -79,7 +79,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 33
+            "yes_rsvp_count": 34
         }, 
         {
             "announced": true, 
@@ -281,7 +281,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 42
+            "yes_rsvp_count": 43
         }, 
         {
             "created": 1471280434000, 
@@ -320,11 +320,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 70
+            "yes_rsvp_count": 69
         }, 
         {
             "created": 1479119582000, 
-            "description": "<p>[NOTE: You must be registered on <a href=\"https://www.eventbrite.com/e/technology-and-a-trump-presidency-tickets-29368690544\">Eventbrite</a> to attend]</p> <p>What impact will a Donald Trump presidency have on technology?</p> <p>Join the Web Content Mavens for a panel discussion on what we know, what we don't know and the possible impacts of a Trump administration on the technology industry broadly and on DC Tech in particular.</p> <p><b>SPEAKERS</b></p> <p>[Additional speakers will be announced as confirmed]</p> <p>\n\n\n<img src=\"https://cdn.evbuc.com/eventlogos/431300/1robpegoraroportraitwithcables.jpg\" /></p> <p><b>Rob Pegoraro<br/></b>Freelance Technology Journalist</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/431300/colindelany20161e1453487843615.jpg\" /></p> <p><b>Colin Delany<br/></b>Founder and Editor, Epolitics.com</p>", 
+            "description": "<p>What impact will a Donald Trump presidency have on technology?</p> <p>Join the Web Content Mavens for a panel discussion on what we know, what we don't know and the possible impacts of a Trump administration on the technology industry broadly and on DC Tech in particular.</p> <p>Our panelists will be asked to discuss a mix of these items:\u00a0<br/>- what we do know about Trumps approach to tech policy<br/>- what we don't know and how we find out more\u00a0<br/>- projects that might be relevant to technology (like infrastructure)\u00a0<br/>- changes that might directly affect DC Tech (i.e. are there areas of growth or contraction)</p> <p>NOTE: This is not a political event. This is discussion about the practicalities of the incoming administration. Please come prepared to listen and participate respectfully.</p> <p><b>== SPEAKERS ==</b></p> <p><br/><b>MODERATOR</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/431300/adamz.jpg\" /></p> <p><b>Adam Zuckerman</b></p> <p>Founder, Foster.ly</p> <p><b>PANELISTS</b></p> <p><img src=\"https://cdn.evbuc.com/eventlogos/431300/colindelany20161e1453487843615.jpg\" /></p> <p><b>Colin Delany</b></p> <p>Founder and Editor, Epolitics.com</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/431300/krystalheadshot.jpg\" /></p> <p><b>Krystal Atha</b></p> <p>Co-founder, CommunityRED</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/431300/laurenga.jpg\" /></p> <p><b>Lauren Jacobson</b></p> <p>Education Coordinator, General Assembly and Director, Women Who Code DC</p> <p><img src=\"https://cdn.evbuc.com/eventlogos/431300/1robpegoraroportraitwithcables.jpg\" /></p> <p><b>Rob Pegoraro</b></p> <p>Freelance Technology Journalist</p>", 
             "event_url": "https://www.meetup.com/webcontentmavens/events/235569849/", 
             "group": {
                 "created": 1189804715000, 
@@ -342,7 +342,7 @@
             "name": "Technology and a Trump Presidency", 
             "status": "upcoming", 
             "time": 1479425400000, 
-            "updated": 1479119582000, 
+            "updated": 1479319779000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th St NW (2th Floor)", 
@@ -358,11 +358,11 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 18
         }, 
         {
             "created": 1477363365000, 
-            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Or are you someone looking to get into the tech field? Come brunch with us! The estimated cost for the brunch is between $10-15, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------<br/>Location TBD</p>", 
+            "description": "<p>Are you a professional developer, designer, sysadmin, or working in a field somehow related to code? Or are you someone looking to get into the tech field? Come brunch with us! The estimated cost for the brunch is between $10-15, but the final cost will be whatever you owe the restaurant for your order, which you will pay directly to them. (We will not be taking any payments from you).</p> <p>-----------------------------<br/><a href=\"http://www.lepainquotidien.com/store/penn-quarter-carroll-square/#.WCymkOErJXs\">Le Pain Quotidien</a> located in Penn Quarter<br/>975 F Street, NW<br/>Washington, DC 20004</p> <p>Metro accessible: a short walk from Metro Center, Chinatown</p>", 
             "duration": 7200000, 
             "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235095324/", 
             "group": {
@@ -382,7 +382,7 @@
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1479657600000, 
-            "updated": 1478912475000, 
+            "updated": 1479321334000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 12, 
@@ -414,7 +414,7 @@
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
@@ -483,7 +483,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 57
+            "yes_rsvp_count": 58
         }, 
         {
             "created": 1457212385000, 
@@ -563,7 +563,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 20, 
+            "waitlist_count": 69, 
             "yes_rsvp_count": 7
         }, 
         {
@@ -633,7 +633,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 95
+            "yes_rsvp_count": 134
         }, 
         {
             "created": 1476369329000, 
@@ -877,6 +877,48 @@
             "yes_rsvp_count": 28
         }, 
         {
+            "created": 1479320238000, 
+            "description": "<p>Come and enjoy the technical debate\u00a0</p> <p>Dec 7, Wed 6:30 PM to 8:30 PM</p> <p>Location:[masked]th Street, NW (12th Floor), Washington, DC</p> <p>Cost : $15 - Register at\u00a0<a href=\"http://www.eventzin.com/techdebate/\"><a href=\"http://www.eventzin.com/techdebate/\" class=\"linkified\">http://www.eventzin.com/techdebate/</a></a></p> <p>Two teams of skilled developers will will discuss why they feel their framework is better for the following areas: Use by companies, use by programmers, and ease of implementation &amp; scalability.</p> <p><a href=\"https://angularjs.org/\">AngularJS</a> Vs <a href=\"https://facebook.github.io/react/\">React</a>\u00a0</p> <p>Witness a battle between passionate engineers making their case as to which is the better Javascript Framework</p> <p>Register at\u00a0<a href=\"http://www.eventzin.com/techdebate/\">the external site</a>&lt;a href=\"http://www.eventzin.com/techdebate/\"&gt;&lt;/a&gt; Site</p> <p>-- See you there --</p> <p>Sponsors:</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/1/8/a/0/600_456126304.jpeg\" /></p>", 
+            "duration": 7200000, 
+            "event_url": "https://www.meetup.com/gdg-dc/events/235626200/", 
+            "group": {
+                "created": 1268219647000, 
+                "group_lat": 38.930000305175781, 
+                "group_lon": -77.400001525878906, 
+                "id": 1612017, 
+                "join_mode": "open", 
+                "name": "Google Developer Group - Washington DC (GDG-DC)", 
+                "urlname": "gdg-dc", 
+                "who": "Google Techies and Users"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "AngularJS, React, Google, Javascript, Java, Startups,", 
+            "id": "235626200", 
+            "maybe_rsvp_count": 0, 
+            "name": "TechDebate: Battle Of The Application Frameworks - AngularJS Vs React", 
+            "rsvp_limit": 1, 
+            "status": "upcoming", 
+            "time": 1481153400000, 
+            "updated": 1479320743000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1133 15th Street, NW (12th Floor)", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 16254252, 
+                "lat": 38.904854, 
+                "localized_country_name": "USA", 
+                "lon": -77.034003999999996, 
+                "name": "General Assembly @ 1776", 
+                "repinned": false, 
+                "state": "DC", 
+                "zip": "20005"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 4, 
+            "yes_rsvp_count": 1
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "https://www.meetup.com/Geo-DC/events/234638938/", 
@@ -1045,7 +1087,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 106
+            "yes_rsvp_count": 107
         }, 
         {
             "created": 1476369329000, 
