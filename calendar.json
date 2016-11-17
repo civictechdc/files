@@ -39,7 +39,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 97
+            "yes_rsvp_count": 100
         }, 
         {
             "announced": true, 
@@ -161,7 +161,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1446220217000, 
@@ -200,7 +200,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 55
+            "yes_rsvp_count": 52
         }, 
         {
             "created": 1477945072000, 
@@ -241,7 +241,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1478194724000, 
@@ -281,7 +281,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 43
+            "yes_rsvp_count": 45
         }, 
         {
             "created": 1471280434000, 
@@ -320,7 +320,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 69
+            "yes_rsvp_count": 67
         }, 
         {
             "created": 1479119582000, 
@@ -381,11 +381,11 @@
             "name": "Professional Networking Brunch", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
-            "time": 1479657600000, 
-            "updated": 1479321334000, 
+            "time": 1479654000000, 
+            "updated": 1479328320000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 17, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -446,7 +446,7 @@
         }, 
         {
             "created": 1478562253000, 
-            "description": "<p><img src=\"http://photos4.meetupstatic.com/photos/event/d/a/b/5/600_455875989.jpeg\" /></p> <p><b>$75 First Prize</b></p> <p><b>$25 Runner Up</b></p> <p><b>Want to Compete?</b></p> <p>We're having a bit of fun this November and awarding $75 to the most popular lightning talk, and $25 to the runner up. If you'd like to join <a href=\"https://www.linkedin.com/in/david-clare-phd-pmp-7b842186\">David Clare</a> and <a href=\"https://www.linkedin.com/in/edavidaja\">David Aja</a> on stage and live on <a href=\"https://www.youtube.com/channel/UCaGyAbphxrkYIMOgTTFlcyQ\">YouTube</a> for a chance to win, send us a message here or on Twitter at @DataVizDC and we'll be in touch.</p> <p>You can vote at the event, by tweeting @DataVizDC, or commenting on the <a href=\"https://www.youtube.com/channel/UCaGyAbphxrkYIMOgTTFlcyQ\">YouTube livestream</a> (link TBA).</p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:10 \u2013 Lightning Talks</p> <p>8:10 - 8:20 \u2013 Q&amp;A</p> <p>8:20 - 8:40\u00a0\u00a0\u2013 Voting &amp; Awards</p> <p>8:40 - Data Drinks</p> <p><b><br/></b></p> <p><b>Sponsor Data Community DC:</b></p> <p><a href=\"http://www.datacommunitydc.org/sponsor-us/\">Reach 500 Data Practitioners each month, and a growing video audience</a>.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/57a89d6be58c62866cd497b4/57d2e95629687f368b627531/1473440123365/data-society-logo2.png\" /></p>", 
+            "description": "<p><b>$75 First Prize</b></p> <p><br/><b>$25 Runner Up</b></p> <p><b>Want to Compete?</b></p> <p>We're having a bit of fun this November and awarding $75 to the most popular lightning talk, and $25 to the runner up. If you'd like to join <a href=\"https://www.linkedin.com/in/kate-rabinowitz-168b303b\">Kate Rabinowitz</a>,\u00a0<a href=\"https://www.linkedin.com/in/david-clare-phd-pmp-7b842186\">David Clare</a>, and <a href=\"https://www.linkedin.com/in/edavidaja\">David Aja</a> on stage and live on <a href=\"https://www.youtube.com/channel/UCaGyAbphxrkYIMOgTTFlcyQ\">YouTube</a> for a chance to win, send us a message here or on Twitter at @DataVizDC and we'll be in touch.</p> <p>You can vote at the event, by tweeting @DataVizDC, or commenting on the <a href=\"https://www.youtube.com/channel/UCaGyAbphxrkYIMOgTTFlcyQ\">YouTube livestream</a> (link TBA). Here are the presentation details:</p> <p><b>DC Women in Data Viz: Their Work, Absence from the Meetup Scene, and Solutions</b></p> <p><img src=\"https://ci5.googleusercontent.com/proxy/FUyCcL7QItImf9T92qkkReDENhOZBq0Y8v8WOmaKcazzG6R4j1sdZuKOZ6m0q-B8bM_nz-7ptEealbOOVRZQo_tLy5Nonl7QTe5WGYSlX-WLJ6C8l1bNuYLGPNCOHxg=s0-d-e1-ft#http://photos2.meetupstatic.com/photos/event/2/2/1/1/event_456128721.jpeg\" /></p> <p>Kate will be presenting her analysis of the startling gender speaker gap at local tech and data meetup events. She will also discuss ways forward and highlight some fantastic data visualization work from area women, including her own site DataLensDC. \u00a0 \u00a0</p> <p><br/>Creator of\u00a0<a href=\"http://www.datalensdc.com/\">DataLensDC</a>, Data Lead for\u00a0<a href=\"http://codefordc.org/\">Code for DC</a>, co-organizer of\u00a0<a href=\"http://techladyhackathon.org/\">Tech Lady Hackathon</a>, civil servant. 5+ years professional experience in data mining, modeling, and visualization. Kate has a passion for data, civic tech, healthy skepticism, and board games.</p> <p>\n\n\n<b>Trump Administration Transition &amp; Change Management</b></p> <p><img src=\"https://ci4.googleusercontent.com/proxy/-pgHYkAW9dZ3Wf5ssxVtoXqQsOc-oPm40GZgZkBPOAipzr7O41-kKY2sjpIdfQu9QVQgW0WlMXOiRG8NMtxXTdyB8ES_XX17scUvnUx7jU9l8T2WPKjmPfQgiiVCJG4=s0-d-e1-ft#http://photos2.meetupstatic.com/photos/event/2/1/f/9/event_456128697.jpeg\" /></p> <p>David Clare will be focusing on a series of\u00a0<a href=\"https://about.bgov.com/blog/trump-daunting-change-management-challenge/\">Bloomberg Government articles about change management</a>\u00a0and the transition of administrations.</p> <p><b><br/></b></p> <p><b>Understanding Government Employee Feedback</b></p> <p><img src=\"https://ci5.googleusercontent.com/proxy/N05MirEYYM9PkMYoZnK3IQfTRN4mOYyN_9I0B3Hayyk1QIbrQu8j9nT4T987N2b_4M8Y6duUV72kijjXcDH8-rxvVvHRRddTGQ_p77SQ8sdd51Zpr96w6W0YkrBxWWg=s0-d-e1-ft#http://photos3.meetupstatic.com/photos/event/2/1/f/c/event_456128700.jpeg\" /></p> <p>Join your fellow data visualizers\u00a0for David Aja\u2019s presentation of the EFS Dashboard \u2013 a dash boarding and analytics tool he\u00a0coded and designed himself in Shiny.\u00a0David designed EFS to help simplify the process of analyzing the results\u00a0of GAO\u2019s annual employee feedback survey. David says that goal of EFS is t to reduce the\u00a0amount of labor required to get to survey graphs- through building a cloud cloud-based way to\u00a0collect and analyze survey results.</p> <p>RStudio developed Shiny as a\u00a0web application framework for\u00a0R, designed to turn your analyses into interactive web applications. No HTML, CSS, or JavaScript knowledge required.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/6/d/e/b/600_453868139.jpeg\" /></p> <p><b>Check out our\u00a0<a href=\"http://www.datacommunitydc.org/discounts-and-promotions/\">Benefits for Members</a>!</b></p> <p><b>Hiring? Job Seeking? <a href=\"http://www.datacommunitydc.org/datable-process/\">Are you Datable</a>?</b></p> <p><b>Need a Venue for your event? <a href=\"http://venues.datacommunitydc.org/\">We can help</a>.</b></p> <p><b><br/></b></p> <p><b>Agenda</b></p> <p>6:30 - 7:10 - Networking</p> <p>7:10 \u2013 7:20 \u2013 Introductions and Sponsors</p> <p>7:20 \u2013 8:10 \u2013 Lightning Talks</p> <p>8:10 - 8:20 \u2013 Q&amp;A</p> <p>8:20 - 8:40\u00a0\u00a0\u2013 Voting &amp; Awards</p> <p>8:40 - Data Drinks</p> <p><b><br/></b></p> <p><b>Sponsor Data Community DC:</b></p> <p><a href=\"http://www.datacommunitydc.org/sponsor-us/\">Reach 500 Data Practitioners each month, and a growing video audience</a>.</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/6/e/2/4/600_453868196.jpeg\" /></p> <p><img src=\"https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/57a89d6be58c62866cd497b4/57d2e95629687f368b627531/1473440123365/data-society-logo2.png\" /></p>", 
             "duration": 9000000, 
             "event_url": "https://www.meetup.com/Data-Visualization-DC/events/235428059/", 
             "group": {
@@ -467,7 +467,7 @@
             "rsvp_limit": 200, 
             "status": "upcoming", 
             "time": 1479857400000, 
-            "updated": 1478562253000, 
+            "updated": 1479331362000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1800 Massachusetts Ave NW, 2nd Floor", 
@@ -483,7 +483,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 58
+            "yes_rsvp_count": 65
         }, 
         {
             "created": 1457212385000, 
@@ -548,7 +548,7 @@
             "rsvp_limit": 7, 
             "status": "upcoming", 
             "time": 1480462200000, 
-            "updated": 1479279748000, 
+            "updated": 1479324646000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "901 15th St NW", 
@@ -563,7 +563,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 69, 
+            "waitlist_count": 66, 
             "yes_rsvp_count": 7
         }, 
         {
@@ -633,7 +633,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 134
+            "yes_rsvp_count": 168
         }, 
         {
             "created": 1476369329000, 
@@ -701,7 +701,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 59
+            "yes_rsvp_count": 60
         }, 
         {
             "created": 1457392514000, 
@@ -741,7 +741,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1477514397000, 
@@ -915,7 +915,7 @@
                 "zip": "20005"
             }, 
             "visibility": "public", 
-            "waitlist_count": 4, 
+            "waitlist_count": 11, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -1020,7 +1020,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1459265642000, 
@@ -1087,7 +1087,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 107
+            "yes_rsvp_count": 108
         }, 
         {
             "created": 1476369329000, 
@@ -1210,6 +1210,47 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 1
+        }, 
+        {
+            "created": 1479334537000, 
+            "description": "<p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/2/7/1/3/600_456130003.jpeg\" /></p> <p>It's that time of year again! Let's celebrate the best legal hacking of 2016!</p> <p><br/>Please <b>RSVP here</b>; fancy splashthat page to come. Also, check out our past winners!</p> <p>\u2022 <a href=\"http://technical.ly/dc/2014/12/08/dc-legal-hackers-hackie-awards/\">2014 Le Hackie winners</a></p> <p>\u2022 <a href=\"https://technical.ly/dc/2016/01/07/le-hackies-celebrates-another-year-legal-hacking/\">2015 Le Hackie winners</a></p> <p><br/><img src=\"http://photos3.meetupstatic.com/photos/event/2/8/0/3/600_456130243.jpeg\" /></p> <p>Want to sponsor? Nominate a winner? Get in touch: @DCLegalHackers, alan@dclegalhackers.org, rebecca@dclegalhackers.org\u00a0</p>", 
+            "duration": 10800000, 
+            "event_url": "https://www.meetup.com/DCLegalHackers/events/235631486/", 
+            "group": {
+                "created": 1372871984000, 
+                "group_lat": 38.919998168945312, 
+                "group_lon": -77.040000915527344, 
+                "id": 9201422, 
+                "join_mode": "open", 
+                "name": "DCLegalHackers", 
+                "urlname": "DCLegalHackers", 
+                "who": "Legal Hackers"
+            }, 
+            "headcount": 0, 
+            "how_to_find_us": "2nd Floor, check in at front desk", 
+            "id": "235631486", 
+            "maybe_rsvp_count": 0, 
+            "name": "Le Hackie Awards and Holiday Party #3", 
+            "rsvp_limit": 120, 
+            "status": "upcoming", 
+            "time": 1484089200000, 
+            "updated": 1479335545000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1800 Massachusetts Ave NW, 2nd Flooor", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24904991, 
+                "lat": 38.908755999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.042252000000005, 
+                "name": "CHIEF", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 12
         }, 
         {
             "created": 1326383071000, 
