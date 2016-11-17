@@ -39,7 +39,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 100
+            "yes_rsvp_count": 103
         }, 
         {
             "announced": true, 
@@ -125,125 +125,6 @@ calendar({
     ], 
     "other": [
         {
-            "created": 1476369329000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:00 pm</b>\u00a0- Tech Talk: Learn how to protect your Rails app from Cross Site Scripting (XSS) attacks using the sanitize helper</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
-            "duration": 7200000, 
-            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235224623/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "bmvvbmyvpbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails: Protect your app from XSS attacks with Sanitize", 
-            "status": "upcoming", 
-            "time": 1479339000000, 
-            "updated": 1479159662000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "806 7th St NW #201", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24412919, 
-                "lat": 38.900185, 
-                "localized_country_name": "USA", 
-                "lon": -77.022148000000001, 
-                "name": "threespot", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 7
-        }, 
-        {
-            "created": 1446220217000, 
-            "description": "<p>Did you enjoy our Beginner Night on November 2nd? This class will be a great follow-up on how to use some of the free Python tools.</p> <p>Did you miss our beginner night but still want to come to this class? You should! Folks of all skill levels are welcome!</p> <p>Already a pro with the libraries? You should still come and code with fellow Python enthusiasts. Also, you can ask us for a mini project if you'd like to practice.</p> <p>Please bring a laptop and see you all there!</p> <p><br/><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women and nonbinary individuals. \u00a0We are trans and gender-queer friendly.\u00a0</p>", 
-            "duration": 7200000, 
-            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/227736620/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "id": "jvtvbmyvpbvb", 
-            "maybe_rsvp_count": 0, 
-            "name": "Python - Hack Night using the Python Standard Library", 
-            "status": "upcoming", 
-            "time": 1479339000000, 
-            "updated": 1478196536000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "2100 M St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 24775651, 
-                "lat": 38.904888, 
-                "localized_country_name": "USA", 
-                "lon": -77.047081000000006, 
-                "name": "Urban Institute", 
-                "repinned": false, 
-                "state": "DC"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 52
-        }, 
-        {
-            "created": 1477945072000, 
-            "description": "<p>Women Who Code is partnering with DC Media Innovations to host a trivia night!\u00a0</p> <p>Format: five rounds of ten questions each, plus two worksheet rounds and a puzzle round. Questions will span a variety of topics, including technology, movies, games, and more. No worries if you don't know anyone, teams will be formed onsite.</p> <p>Food/drinks will be available for purchase, but it's completely free to play!\u00a0</p> <p><b>Please also RSVP here</b>: <a href=\"http://www.meetup.com/DC-Media-Innovations/events/235240616/?gj=co2&amp;rv=co2\" class=\"linkified\">http://www.meetup.com/DC-Media-Innovations/events/235240616/?gj=co2&amp;rv=co2</a></p> <p>And check out <a href=\"https://www.meetup.com/DC-Media-Innovations/\">DCMI's meetup page</a>!</p>", 
-            "duration": 9000000, 
-            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235249717/", 
-            "group": {
-                "created": 1395616294000, 
-                "group_lat": 38.909999847412109, 
-                "group_lon": -77.040000915527344, 
-                "id": 13508462, 
-                "join_mode": "open", 
-                "name": "Women Who Code DC", 
-                "urlname": "Women-Who-Code-DC", 
-                "who": "Coders"
-            }, 
-            "headcount": 0, 
-            "how_to_find_us": "We'll be in the back room downstairs. (If you have trouble finding us, ask a waiter or a bartender. The cell phone service back there is spotty.)", 
-            "id": "235249717", 
-            "maybe_rsvp_count": 0, 
-            "name": "Trivia Night! With DC Media Innovations", 
-            "status": "upcoming", 
-            "time": 1479340800000, 
-            "updated": 1477948655000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "1523 22nd St NW", 
-                "city": "Washington", 
-                "country": "us", 
-                "id": 12316412, 
-                "lat": 38.910224999999997, 
-                "localized_country_name": "USA", 
-                "lon": -77.048203000000001, 
-                "name": "Bier Baron Tavern", 
-                "repinned": false, 
-                "state": "DC", 
-                "zip": "20037"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 15
-        }, 
-        {
             "created": 1478194724000, 
             "description": "<p>The Tech Innovation + Inclusion Summit (TechUp) will bring together thousands of leaders across all areas of technology. Topics &amp; activities include: Civic Tech, Cybersecurity, Entrepreneurship, Diversity &amp; Inclusion,The Future of Education and more. There will also be music, after-parties, speed mentoring, technology demos, high-fives, networking that does not suck, workshops that focus on leadership and more.</p> <p>TechUp is providing WWC DC members with FREE tickets to attend any part of this day-long event with participation in their speed mentoring event! What is speed mentoring? Speed mentoring = networking that doesn't suck. It's a great way to build relationships quickly, learn something new and expand your network. Simply tell us what skills you have or want to learn and we will match you with someone that has or wants that skill too. To sign up for speed mentoring please fill out this form: bit.ly/TECHUPDC-SPEEDMENTORING</p> <p><br/>To access your comp Summit ticket, please follow these instructions:<br/>- Go here to register: <a href=\"https://www.eventbrite.com/e/tech-innovation-inclusion-summit-dc-tickets-27637152467\" class=\"linkified\">https://www.eventbrite.com/e/tech-innovation-inclusion-summit-dc-tickets-27637152467</a><br/>Enter the code: DCTECHUPWWCDCCOMP for your FREE ticket!</p> <p><br/>More information about TechUp can be found here: <a href=\"https://wetechup.com/dc/\" class=\"linkified\">https://wetechup.com/dc/</a></p>", 
             "duration": 43200000, 
@@ -320,7 +201,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 67
+            "yes_rsvp_count": 66
         }, 
         {
             "created": 1479119582000, 
@@ -358,7 +239,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 18
+            "yes_rsvp_count": 19
         }, 
         {
             "created": 1477363365000, 
@@ -385,7 +266,7 @@ calendar({
             "updated": 1479328320000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 25
         }, 
         {
@@ -483,7 +364,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 65
+            "yes_rsvp_count": 71
         }, 
         {
             "created": 1457212385000, 
@@ -633,7 +514,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 168
+            "yes_rsvp_count": 175
         }, 
         {
             "created": 1476369329000, 
@@ -915,7 +796,7 @@ calendar({
                 "zip": "20005"
             }, 
             "visibility": "public", 
-            "waitlist_count": 11, 
+            "waitlist_count": 15, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -1020,7 +901,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 14
+            "yes_rsvp_count": 15
         }, 
         {
             "created": 1459265642000, 
@@ -1173,6 +1054,101 @@ calendar({
             "yes_rsvp_count": 5
         }, 
         {
+            "created": 1476369329000, 
+            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "duration": 7200000, 
+            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235225981/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "bmvvbmyvqbcc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Ruby on Rails", 
+            "status": "upcoming", 
+            "time": 1482363000000, 
+            "updated": 1478130076000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 4
+        }, 
+        {
+            "created": 1446220217000, 
+            "description": "<p>We're a group of women who want to learn and develop our Python scripting skills. Some of us are professional developers and data scientists, others are hobbyists, and some are just beginning. The study group is intended for everyone who wishes to learn more about the Python programming language. Folks of all skill levels are welcome!</p> <p><br/>We host beginners night on the first Wednesday of every month, which caters especially for absolute beginners and people with basic familiarity.</p> <p>All other study group nights will generally cover more advanced topics and work on projects more in depth, according to everyone's interests.</p> <p>(Please bring a laptop!)\u00a0</p> <p><b>Note:</b> This Women Who Code DC event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/227736619/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "jvtvbmyvqbcc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Python - Hack Night", 
+            "rsvp_limit": 50, 
+            "status": "upcoming", 
+            "time": 1482363000000, 
+            "updated": 1478116227000, 
+            "utc_offset": -18000000, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
+        }, 
+        {
+            "created": 1457212385000, 
+            "description": "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study group where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor or leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Laptops</p> <p>In order to maximize your benefits from FEL, please bring your laptop. Extra computers will not be available at the event. Even if you have never coded before, you will be coding at FEL!</p> <p>Meetup Agenda Every study group will have the following format:<br/>\u2022 6:30pm - Setup</p> <p>\u2022 6:40 - 6:50pm - Quick introductions</p> <p>\u2022 6:50 - 8:15pm - Code!</p> <p>\u2022 8:15 - 8:30pm - Wrap Up</p> <p>Resources</p> <p>To learn more about us please visit our Github page - <a href=\"http://bit.ly/frontendhacknight\" class=\"linkified\">http://bit.ly/frontendhacknight</a></p> <p>\u2022 First Timer's Guide: <a href=\"http://bit.ly/fehn-first-timers\"><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\">http://bit.ly/fehn-first-timers</a></a> \u2022 HTML Study Guide: <a href=\"http://bit.ly/fehn-html-guide\"><a href=\"http://bit.ly/fehn-html-guide\" class=\"linkified\">http://bit.ly/fehn-html-guide</a></a> \u2022 JavaScript Study Guide: <a href=\"http://bit.ly/fehn-js-guide\"><a href=\"http://bit.ly/fehn-js-guide\" class=\"linkified\">http://bit.ly/fehn-js-guide</a></a> Building Access</p> <p>Certain building management companies require Meetup hosts to let people in and do not encourage them being contacted. Please respect the policy. In case the location requires access to the building, contact the group lead if information is provided or drop a comment on the Meetup page. We'll come and get you.</p> <p>Welcome This event is intended to be exclusively open for women; we are trans* friendly.</p>", 
+            "duration": 7200000, 
+            "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/233475064/", 
+            "group": {
+                "created": 1395616294000, 
+                "group_lat": 38.909999847412109, 
+                "group_lon": -77.040000915527344, 
+                "id": 13508462, 
+                "join_mode": "open", 
+                "name": "Women Who Code DC", 
+                "urlname": "Women-Who-Code-DC", 
+                "who": "Coders"
+            }, 
+            "headcount": 0, 
+            "id": "wqrfrlyvqbjc", 
+            "maybe_rsvp_count": 0, 
+            "name": "Front End Hack Night", 
+            "rsvp_limit": 40, 
+            "status": "upcoming", 
+            "time": 1482795000000, 
+            "updated": 1478095126000, 
+            "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "1875 Connecticut Ave NW, Suite 715", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24555695, 
+                "lat": 38.915768, 
+                "localized_country_name": "USA", 
+                "lon": -77.046059, 
+                "name": "Socrata", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
+            "visibility": "public", 
+            "waitlist_count": 0, 
+            "yes_rsvp_count": 5
+        }, 
+        {
             "created": 1326383071000, 
             "description": "<p>On the first Wednesday of the month, we'll gather to socialize, network, and hear about the work people are doing with maps, GIS, geodata, and more.</p>", 
             "event_url": "https://www.meetup.com/Geo-DC/events/235258366/", 
@@ -1250,7 +1226,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 12
+            "yes_rsvp_count": 13
         }, 
         {
             "created": 1326383071000, 
