@@ -103,7 +103,7 @@ other:
   updated: 1479328320000
   utc_offset: -18000000
   visibility: public
-  waitlist_count: 21
+  waitlist_count: 20
   yes_rsvp_count: 25
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -147,7 +147,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1478562253000
   description: "<p><b>$75 First Prize</b></p> <p><br/><b>$25 Runner Up</b></p> <p><b>Want\
     \ to Compete?</b></p> <p>We're having a bit of fun this November and awarding\
@@ -217,7 +217,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 85
+  yes_rsvp_count: 86
 - created: 1479392485000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -442,7 +442,7 @@ other:
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 219
+  yes_rsvp_count: 224
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -1233,7 +1233,7 @@ other:
     state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 1
+  yes_rsvp_count: 2
 - created: 1479334537000
   description: "<p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/2/7/1/3/600_456130003.jpeg\"\
     \ /></p> <p>It's that time of year again! Let's celebrate the best legal hacking\
