@@ -39,7 +39,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 44
+  yes_rsvp_count: 45
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -79,32 +79,6 @@ codefordc:
   waitlist_count: 0
   yes_rsvp_count: 41
 other:
-- created: 1477363365000
-  description: '<p>Are you a professional developer, designer, sysadmin, or working
-    in a field somehow related to code? Or are you someone looking to get into the
-    tech field? Come brunch with us! The estimated cost for the brunch is between
-    $10-15, but the final cost will be whatever you owe the restaurant for your order,
-    which you will pay directly to them. (We will not be taking any payments from
-    you).</p> <p>-----------------------------<br/><a href="http://www.lepainquotidien.com/store/penn-quarter-carroll-square/#.WCymkOErJXs">Le
-    Pain Quotidien</a> located in Penn Quarter<br/>975 F Street, NW<br/>Washington,
-    DC 20004</p> <p>Metro accessible: a short walk from Metro Center, Chinatown</p>'
-  duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235095324/
-  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
-    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
-    who: Coders}
-  headcount: 0
-  id: '235095324'
-  maybe_rsvp_count: 0
-  name: Professional Networking Brunch
-  rsvp_limit: 25
-  status: upcoming
-  time: 1479654000000
-  updated: 1479328320000
-  utc_offset: -18000000
-  visibility: public
-  waitlist_count: 12
-  yes_rsvp_count: 25
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -147,7 +121,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1478562253000
   description: "<p><b>$75 First Prize</b></p> <p><br/><b>$25 Runner Up</b></p> <p><b>Want\
     \ to Compete?</b></p> <p>We're having a bit of fun this November and awarding\
@@ -217,7 +191,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 87
+  yes_rsvp_count: 89
 - created: 1479392485000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -246,7 +220,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 15
+  yes_rsvp_count: 16
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -442,7 +416,7 @@ other:
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 228
+  yes_rsvp_count: 229
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
     \ and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p>\
@@ -569,7 +543,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 29
+  yes_rsvp_count: 30
 - created: 1477514397000
   description: "<p>We're having a very special holiday edition of the API Meetup!\
     \ \_Go ahead and mark your calendars for Tuesday Dec. 6th. \_We'll come together\
@@ -1212,6 +1186,36 @@ other:
   visibility: public
   waitlist_count: 0
   yes_rsvp_count: 3
+- created: 1459265642000
+  description: <p>Interested in learning how to build Android apps with an awesome
+    group of women? Looking to build your first app or build on existing skills? Come
+    to our weekly Android Lab! We welcome women with all levels of Android experience
+    (including none). ***Please bring your laptop to this event as computers will
+    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
+    Getting Started Guide</a>. It's chock full of information to get you up and running.
+    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
+    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
+    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>
+  duration: 7200000
+  event_url: https://www.meetup.com/Women-Who-Code-DC/events/233363907/
+  group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
+    id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
+    who: Coders}
+  headcount: 0
+  id: pjkzrlywcbfb
+  maybe_rsvp_count: 0
+  name: Android Lab
+  rsvp_limit: 25
+  status: upcoming
+  time: 1483486200000
+  updated: 1472237272000
+  utc_offset: -18000000
+  visibility: public
+  waitlist_count: 0
+  yes_rsvp_count: 4
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
     network, and hear about the work people are doing with maps, GIS, geodata, and
