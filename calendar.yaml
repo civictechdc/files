@@ -121,7 +121,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 30
+  yes_rsvp_count: 32
 - created: 1478562253000
   description: "<p><b>$75 First Prize</b></p> <p><br/><b>$25 Runner Up</b></p> <p><b>Want\
     \ to Compete?</b></p> <p>We're having a bit of fun this November and awarding\
@@ -191,7 +191,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 89
+  yes_rsvp_count: 94
 - created: 1479392485000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -220,7 +220,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 17
+  yes_rsvp_count: 19
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -331,18 +331,20 @@ other:
   waitlist_count: 66
   yes_rsvp_count: 7
 - created: 1459265642000
-  description: <p>Interested in learning how to build Android apps with an awesome
+  description: '<p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
     to our weekly Android Lab! We welcome women with all levels of Android experience
     (including none). ***Please bring your laptop to this event as computers will
-    not be provided.***</p> <p><br/>Resources</p> <p>Beginners should check out our
+    not be provided.***</p> <p>This Week: We will be working through a tutorial to
+    build your own forget me not app as a group. All experience levels are welcome.Hope
+    to see you there!!</p> <p><br/>Resources</p> <p>Beginners should check out our
     <a href="https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md">Android
-    Getting Started Guide</a>. It's chock full of information to get you up and running.
-    It is a work in progress and we'll be adding as we go. Suggestions welcomed!</p>
+    Getting Started Guide</a>. It''s chock full of information to get you up and running.
+    It is a work in progress and we''ll be adding as we go. Suggestions welcomed!</p>
     <p>All Women Welcome</p> <p>This event is intended to be exclusively open for
-    women; we are trans* friendly.</p> <p>Can't Come This Week, but Want to Stay in
-    Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
-    group to talk about all things Android.</p>
+    women; we are trans* friendly.</p> <p>Can''t Come This Week, but Want to Stay
+    in Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
+    group to talk about all things Android.</p>'
   duration: 7200000
   event_url: https://www.meetup.com/Women-Who-Code-DC/events/235718817/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -351,15 +353,15 @@ other:
   headcount: 0
   id: pjkzrlyvpbmc
   maybe_rsvp_count: 0
-  name: Android Lab
+  name: 'Android Lab: Build Forget Me Not App'
   rsvp_limit: 25
   status: upcoming
   time: 1480462200000
-  updated: 1472237272000
+  updated: 1479730840000
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 5
+  yes_rsvp_count: 6
 - created: 1478871483000
   description: "<p>Come join us for a <a href=\"http://www.meetup.com/stats-prog-dc/\"\
     >Stats Programming</a> / <a href=\"http://www.meetup.com/Data-Science-DC/\">Data\
@@ -415,7 +417,7 @@ other:
     lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 5
+  waitlist_count: 8
   yes_rsvp_count: 230
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
@@ -570,7 +572,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 62
+  yes_rsvp_count: 63
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -676,7 +678,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 31
+  yes_rsvp_count: 32
 - created: 1479320238000
   description: "<p>Come and enjoy the technical debate\_</p> <p>Dec 7, Wed 6:30 PM\
     \ to 8:30 PM</p> <p>Location:[masked]th Street, NW (12th Floor), Washington, DC</p>\
