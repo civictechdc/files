@@ -17,10 +17,8 @@ codefordc:
     >contact us</a>\_with any questions, concerns, etc.</p> <p>\u2022\_If you had\
     \ a good time, join\_<a href=\"http://groups.google.com/forum/#!forum/dc-cfa-brigade\"\
     >Google Group</a>, <a href=\"https://codefordc.org/joinslack\">Slack</a>,\_and\
-    \ this Meetup group to stay in the loop.</p> <p>\n\n\nHackpad for the event:\_\
-    <a href=\"https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\"><a href=\"\
-    https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM\" class=\"linkified\"\
-    >https://hackpad.com/Code-for-DC-Hacknight-105-BhgHaiXo3WM</a></a></p>"
+    \ this Meetup group to stay in the loop.</p> <p>\n\n\n<a href=\"https://hackpad.com/Code-for-DC-Hacknight-127-suD9h4L8Dsa\"\
+    >Hackpad for the event</a></p>"
   duration: 9900000
   event_url: https://www.meetup.com/Code-for-DC/events/234934622/
   group: {created: 1375990708000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
@@ -32,7 +30,7 @@ codefordc:
   name: Civic Hacknight
   status: upcoming
   time: 1481153400000
-  updated: 1476764726000
+  updated: 1479750983000
   utc_offset: -18000000
   venue: {address_1: '1325 G Street, NW, 3rd Floor', city: Washington, country: us,
     id: 24266346, lat: 38.898567, localized_country_name: USA, lon: -77.031006000000005,
@@ -121,7 +119,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 35
 - created: 1478562253000
   description: "<p><b>$75 First Prize</b></p> <p><br/><b>$25 Runner Up</b></p> <p><b>Want\
     \ to Compete?</b></p> <p>We're having a bit of fun this November and awarding\
@@ -191,7 +189,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 94
+  yes_rsvp_count: 98
 - created: 1479392485000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -220,7 +218,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 19
+  yes_rsvp_count: 21
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -267,7 +265,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 18
+  yes_rsvp_count: 20
 - created: 1479186613000
   description: "<p><b>Note: This is a special Stats Programming / Data Science DC\
     \ joint event. Please RSVP on the Stats Programming DC event page:\_<a href=\"\
@@ -361,7 +359,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 9
 - created: 1478871483000
   description: "<p>Come join us for a <a href=\"http://www.meetup.com/stats-prog-dc/\"\
     >Stats Programming</a> / <a href=\"http://www.meetup.com/Data-Science-DC/\">Data\
@@ -417,7 +415,7 @@ other:
     lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 8
+  waitlist_count: 12
   yes_rsvp_count: 230
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
@@ -572,7 +570,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 63
+  yes_rsvp_count: 64
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -649,7 +647,7 @@ other:
     name: The Iron Yard, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1446219481000
   description: <p>We're a group of women who want to learn and develop our Python
     scripting skills. Some of us are professional developers and data scientists,
@@ -713,7 +711,7 @@ other:
     id: 16254252, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
     name: General Assembly @ 1776, repinned: false, state: DC, zip: '20005'}
   visibility: public
-  waitlist_count: 16
+  waitlist_count: 17
   yes_rsvp_count: 1
 - created: 1326383071000
   description: <p>On the first Wednesday of the month, we'll gather to socialize,
@@ -778,7 +776,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1466889250000
   description: "<p>Everyone is looking forward to hearing about *your* cool hack.\
     \ The format is informal, engaging, and friendly: presenters have *5* minutes\
