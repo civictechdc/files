@@ -109,7 +109,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 35
+            "yes_rsvp_count": 37
         }, 
         {
             "created": 1478562253000, 
@@ -150,7 +150,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 98
+            "yes_rsvp_count": 105
         }, 
         {
             "created": 1479392485000, 
@@ -190,7 +190,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 21
+            "yes_rsvp_count": 20
         }, 
         {
             "created": 1457212385000, 
@@ -339,7 +339,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 12, 
+            "waitlist_count": 16, 
             "yes_rsvp_count": 230
         }, 
         {
@@ -622,7 +622,7 @@ calendar({
                 "zip": "20005"
             }, 
             "visibility": "public", 
-            "waitlist_count": 17, 
+            "waitlist_count": 19, 
             "yes_rsvp_count": 1
         }, 
         {
@@ -662,7 +662,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 15
+            "yes_rsvp_count": 16
         }, 
         {
             "created": 1460389774000, 
@@ -727,7 +727,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 20
+            "yes_rsvp_count": 22
         }, 
         {
             "created": 1459265642000, 
@@ -775,10 +775,10 @@ calendar({
             "id": "235160988", 
             "maybe_rsvp_count": 0, 
             "name": "Metro Hack Night VI", 
-            "rsvp_limit": 120, 
+            "rsvp_limit": 130, 
             "status": "upcoming", 
             "time": 1481756400000, 
-            "updated": 1479264892000, 
+            "updated": 1479762181000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "Jackson Graham Building, 600 5th St NW", 
@@ -794,7 +794,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 111
+            "yes_rsvp_count": 112
         }, 
         {
             "created": 1476369329000, 
