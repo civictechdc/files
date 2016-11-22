@@ -189,7 +189,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 107
+  yes_rsvp_count: 109
 - created: 1479392485000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -218,7 +218,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 21
+  yes_rsvp_count: 23
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -265,7 +265,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 25
 - created: 1479186613000
   description: "<p><b>Note: This is a special Stats Programming / Data Science DC\
     \ joint event. Please RSVP on the Stats Programming DC event page:\_<a href=\"\
@@ -415,7 +415,7 @@ other:
     lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 20
+  waitlist_count: 23
   yes_rsvp_count: 230
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
@@ -493,7 +493,7 @@ other:
     name: Inovex Information Systems, repinned: false, state: MD, zip: '21076'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 65
+  yes_rsvp_count: 66
 - created: 1457392514000
   description: "<p>Learning to code for the first time with us! We will be going over\
     \ our <a href=\"https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md\"\
@@ -543,7 +543,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1477514397000
   description: "<p>We're having a very special holiday edition of the API Meetup!\
     \ \_Go ahead and mark your calendars for Tuesday Dec. 6th. \_We'll come together\
@@ -570,7 +570,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 64
+  yes_rsvp_count: 65
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come
@@ -585,7 +585,7 @@ other:
     Touch?</p> <p>Please join our <a href="http://bit.ly/womenwhocodedcslack">Slack</a>
     group to talk about all things Android.</p>
   duration: 7200000
-  event_url: https://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvqbjb/
+  event_url: https://www.meetup.com/Women-Who-Code-DC/events/235760786/
   group: {created: 1395616294000, group_lat: 38.909999847412109, group_lon: -77.040000915527344,
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
@@ -600,7 +600,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 4
+  yes_rsvp_count: 5
 - created: 1452612310000
   description: "<p>Interested in learning Ruby and Rails with an awesome group of\
     \ women? Looking to build your first web app, learn more about coding, or build\
