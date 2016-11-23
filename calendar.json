@@ -149,7 +149,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 27
         }, 
         {
             "created": 1457212385000, 
@@ -189,7 +189,7 @@
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 28
+            "yes_rsvp_count": 29
         }, 
         {
             "created": 1479186613000, 
@@ -298,7 +298,7 @@
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 29, 
+            "waitlist_count": 31, 
             "yes_rsvp_count": 230
         }, 
         {
@@ -327,47 +327,6 @@
             "visibility": "public", 
             "waitlist_count": 0, 
             "yes_rsvp_count": 9
-        }, 
-        {
-            "created": 1476928965000, 
-            "description": "<p>Please join us in November to hear how Apache Pirk enables users to generate and execute secure queries.</p> <p><b>Agenda</b></p> <p>6:30 PM -- Networking &amp; Food\u00a0</p> <p>6:55 PM -- Greetings &amp; Prizes</p> <p>7:00 PM -- <i>Scalable Private Information Retrieval \u2013 Introducing Apache Pirk (incubating) - Ellison Anne Williams</i></p> <p>9:00 PM -- Post event drinks.</p> <p><br/><b>Location</b></p> <p><b>Directions</b></p> <p><b>Talks</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/6/a/d/2/600_455247346.jpeg\" /></p> <p><i>Scalable Private Information Retrieval \u2013 Introducing Apache Pirk (incubating)</i></p> <p><br/>Querying information over TBs of data where no one can see what you query or the responses obtained? It sounds like science fiction, but it is actually the science of Private Information Retrieval (PIR). This talk will introduce Apache Pirk - a new incubating Apache project designed to provide a framework for scalable, distributed PIR. We will discuss the motivation for Apache Pirk, its distributed implementations in platforms such as Spark and Storm, it\u2019s current algorithms, the power of homomorphic encryption, and take a look at the path forward.</p> <p><br/><b>Speakers</b></p> <p>Ellison Anne Williams is a creator and PMC member of Apache Pirk, a pure mathematician by training, and a practical computer scientist in real life. She is Founder/CEO of Enveil, Inc. Her passion is doing cool stuff with massive amounts of data. Ellison can be contacted\u00a0<a href=\"mailto:[masked]\">[masked]</a></p>", 
-            "duration": 5400000, 
-            "event_url": "https://www.meetup.com/Data-Science-MD/events/234983130/", 
-            "group": {
-                "created": 1355196079000, 
-                "group_lat": 39.270000457763672, 
-                "group_lon": -76.629997253417969, 
-                "id": 6195792, 
-                "join_mode": "open", 
-                "name": "Data Science MD", 
-                "urlname": "Data-Science-MD", 
-                "who": "Data Enthusiasts"
-            }, 
-            "headcount": 0, 
-            "id": "234983130", 
-            "maybe_rsvp_count": 0, 
-            "name": "Secure Queries with Apache Pirk", 
-            "rsvp_limit": 125, 
-            "status": "upcoming", 
-            "time": 1480548600000, 
-            "updated": 1476930043000, 
-            "utc_offset": -18000000, 
-            "venue": {
-                "address_1": "7240 Parkway Drive, Suite 140", 
-                "city": "Hanover", 
-                "country": "us", 
-                "id": 11198562, 
-                "lat": 39.175232000000001, 
-                "localized_country_name": "USA", 
-                "lon": -76.733947999999998, 
-                "name": "Inovex Information Systems", 
-                "repinned": false, 
-                "state": "MD", 
-                "zip": "21076"
-            }, 
-            "visibility": "public", 
-            "waitlist_count": 0, 
-            "yes_rsvp_count": 66
         }, 
         {
             "created": 1457392514000, 
