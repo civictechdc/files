@@ -37,7 +37,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 45
+  yes_rsvp_count: 46
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -75,7 +75,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 41
+  yes_rsvp_count: 42
 other:
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -189,7 +189,7 @@ other:
     name: CHIEF, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 109
+  yes_rsvp_count: 110
 - created: 1479392485000
   description: "<p>Interested in sharpening your problem solving skills and learning\
     \ more about algorithms? Come to our bi-weekly algorithms meetup!</p> <p>We'll\
@@ -265,7 +265,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 25
+  yes_rsvp_count: 26
 - created: 1479186613000
   description: "<p><b>Note: This is a special Stats Programming / Data Science DC\
     \ joint event. Please RSVP on the Stats Programming DC event page:\_<a href=\"\
@@ -415,7 +415,7 @@ other:
     lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 23
+  waitlist_count: 25
   yes_rsvp_count: 230
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
@@ -676,11 +676,11 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 32
+  yes_rsvp_count: 33
 - created: 1479320238000
   description: "<p>Come and enjoy the technical debate\_</p> <p>Dec 7, Wed 6:30 PM\
     \ to 8:30 PM</p> <p>Location:[masked]th Street, NW (12th Floor), Washington, DC</p>\
-    \ <p>Cost : $15 - Register at\_<a href=\"http://www.eventzin.com/techdebate/\"\
+    \ <p>Cost : Free - Register at\_<a href=\"http://www.eventzin.com/techdebate/\"\
     ><a href=\"http://www.eventzin.com/techdebate/\" class=\"linkified\">http://www.eventzin.com/techdebate/</a></a></p>\
     \ <p>Two teams of skilled developers will will discuss why they feel their framework\
     \ is better for the following areas: Use by companies, use by programmers, and\
@@ -705,7 +705,7 @@ other:
   rsvp_limit: 1
   status: upcoming
   time: 1481153400000
-  updated: 1479320743000
+  updated: 1479851800000
   utc_offset: -18000000
   venue: {address_1: '1133 15th Street, NW (12th Floor)', city: Washington, country: us,
     id: 16254252, lat: 38.904854, localized_country_name: USA, lon: -77.034003999999996,
@@ -807,7 +807,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 22
+  yes_rsvp_count: 23
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come

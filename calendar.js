@@ -38,7 +38,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 45
+            "yes_rsvp_count": 46
         }, 
         {
             "announced": true, 
@@ -79,7 +79,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 41
+            "yes_rsvp_count": 42
         }
     ], 
     "other": [
@@ -150,7 +150,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 109
+            "yes_rsvp_count": 110
         }, 
         {
             "created": 1479392485000, 
@@ -230,7 +230,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 25
+            "yes_rsvp_count": 26
         }, 
         {
             "created": 1479186613000, 
@@ -339,7 +339,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 23, 
+            "waitlist_count": 25, 
             "yes_rsvp_count": 230
         }, 
         {
@@ -581,11 +581,11 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 32
+            "yes_rsvp_count": 33
         }, 
         {
             "created": 1479320238000, 
-            "description": "<p>Come and enjoy the technical debate\u00a0</p> <p>Dec 7, Wed 6:30 PM to 8:30 PM</p> <p>Location:[masked]th Street, NW (12th Floor), Washington, DC</p> <p>Cost : $15 - Register at\u00a0<a href=\"http://www.eventzin.com/techdebate/\"><a href=\"http://www.eventzin.com/techdebate/\" class=\"linkified\">http://www.eventzin.com/techdebate/</a></a></p> <p>Two teams of skilled developers will will discuss why they feel their framework is better for the following areas: Use by companies, use by programmers, and ease of implementation &amp; scalability.</p> <p><a href=\"https://angularjs.org/\">AngularJS</a> Vs <a href=\"https://facebook.github.io/react/\">React</a>\u00a0</p> <p>Witness a battle between passionate engineers making their case as to which is the better Javascript Framework</p> <p>Register at\u00a0<a href=\"http://www.eventzin.com/techdebate/\">the external site</a>&lt;a href=\"http://www.eventzin.com/techdebate/\"&gt;&lt;/a&gt; Site</p> <p>-- See you there --</p> <p>Sponsors:</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/1/8/a/0/600_456126304.jpeg\" /></p>", 
+            "description": "<p>Come and enjoy the technical debate\u00a0</p> <p>Dec 7, Wed 6:30 PM to 8:30 PM</p> <p>Location:[masked]th Street, NW (12th Floor), Washington, DC</p> <p>Cost : Free - Register at\u00a0<a href=\"http://www.eventzin.com/techdebate/\"><a href=\"http://www.eventzin.com/techdebate/\" class=\"linkified\">http://www.eventzin.com/techdebate/</a></a></p> <p>Two teams of skilled developers will will discuss why they feel their framework is better for the following areas: Use by companies, use by programmers, and ease of implementation &amp; scalability.</p> <p><a href=\"https://angularjs.org/\">AngularJS</a> Vs <a href=\"https://facebook.github.io/react/\">React</a>\u00a0</p> <p>Witness a battle between passionate engineers making their case as to which is the better Javascript Framework</p> <p>Register at\u00a0<a href=\"http://www.eventzin.com/techdebate/\">the external site</a>&lt;a href=\"http://www.eventzin.com/techdebate/\"&gt;&lt;/a&gt; Site</p> <p>-- See you there --</p> <p>Sponsors:</p> <p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/c/5/d/600_445643645.jpeg\" /></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/1/8/a/0/600_456126304.jpeg\" /></p>", 
             "duration": 7200000, 
             "event_url": "https://www.meetup.com/gdg-dc/events/235626200/", 
             "group": {
@@ -606,7 +606,7 @@ calendar({
             "rsvp_limit": 1, 
             "status": "upcoming", 
             "time": 1481153400000, 
-            "updated": 1479320743000, 
+            "updated": 1479851800000, 
             "utc_offset": -18000000, 
             "venue": {
                 "address_1": "1133 15th Street, NW (12th Floor)", 
@@ -727,7 +727,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 22
+            "yes_rsvp_count": 23
         }, 
         {
             "created": 1459265642000, 
