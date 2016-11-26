@@ -37,7 +37,7 @@ codefordc:
     name: Social Tables, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 52
+  yes_rsvp_count: 53
 - announced: true
   created: 1474863295000
   description: "<p>Join us at iStrategyLabs for more of that great civic hacking that\
@@ -75,7 +75,7 @@ codefordc:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 43
+  yes_rsvp_count: 44
 other:
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
@@ -148,7 +148,7 @@ other:
     name: Contactually, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 27
+  yes_rsvp_count: 30
 - created: 1457212385000
   description: "<p><a href=\"http://bit.ly/fehn-first-timers\" class=\"linkified\"\
     >http://bit.ly/fehn-first-timers</a></p> <p>Front End Hack Lab (FEL) is a study\
@@ -345,7 +345,7 @@ other:
     lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 76
+  waitlist_count: 77
   yes_rsvp_count: 230
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
@@ -750,11 +750,9 @@ other:
     \ diagram</a>.</p> <p>\u2022\_<a href=\"https://christopherrung.com/\">Christopher\
     \ Rung</a> will\_show how he built his\_<a href=\"https://github.com/clrung/WMATAFetcher\"\
     >WMATAFetcher Swift Cocoapod</a>\_and\_<a href=\"https://github.com/clrung/DCMetroWidget\"\
-    >DC Metro macOS Today Extension</a>.</p> <p><br/>\u2022\_<a href=\"https://uncompiled.github.io/\"\
-    >Chris Nguyen</a> will demo his \"<a href=\"https://github.com/uncompiled/alexa-metro-status\"\
-    >DC Metro Status</a>\" Alexa Flash Briefing skill.</p> <p><br/>\u2022\_<a href=\"\
-    http://danielanoir.com/\">Daniela Noir</a> will demo her\_<a href=\"https://metrodc.herokuapp.com/\"\
-    >Metro pricing comparison map</a>.</p> <p><br/>\u2022\_Aaron Margolis, Paul Witt,\_\
+    >DC Metro macOS Today Extension</a>.\_</p> <p>\u2022\_<a href=\"http://danielanoir.com/\"\
+    >Daniela Noir</a> will demo her\_<a href=\"https://metrodc.herokuapp.com/\">Metro\
+    \ pricing comparison map</a>.</p> <p><br/>\u2022\_Aaron Margolis, Paul Witt,\_\
     Catherine Janis, and\_Sheila Haines\_will discuss how they used the WMATA Next\
     \ Train API with machine learning to better predict train delays and arrivals.</p>\
     \ <p><br/>\u2022\_Sanghong Yoo will present Metroview, WMATA's own internal tool\
@@ -783,14 +781,14 @@ other:
   rsvp_limit: 130
   status: upcoming
   time: 1481756400000
-  updated: 1479937516000
+  updated: 1480182129000
   utc_offset: -18000000
   venue: {address_1: 'Jackson Graham Building, 600 5th St NW', city: Washington, country: us,
     id: 24347865, lat: 38.897846000000001, localized_country_name: USA, lon: -77.019469999999998,
     name: WMATA HQ, repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 113
+  yes_rsvp_count: 112
 - created: 1476369329000
   description: "<p>Rails is a back-end framework that combines the\_Ruby\_programming\
     \ language with front-end languages such as HTML and CSS to create a web application\
