@@ -298,7 +298,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 71, 
+            "waitlist_count": 74, 
             "yes_rsvp_count": 230
         }, 
         {
@@ -607,7 +607,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 8
+            "yes_rsvp_count": 9
         }, 
         {
             "created": 1466889250000, 
@@ -645,7 +645,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 23
+            "yes_rsvp_count": 24
         }, 
         {
             "created": 1459265642000, 
@@ -716,7 +716,7 @@ calendar({
         }, 
         {
             "created": 1476369329000, 
-            "description": "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
+            "description": "<p>Rails is a back-end framework that combines the\u00a0Ruby\u00a0programming language with front-end languages such as HTML and CSS to create a web application that runs on a web server.\u00a0</p> <p>Ruby is a big language, and the subset needed to be productive as a Rails developer is relatively small. In this meetup, we\u2019ll start to cover only that subset and will look at how blocks and iterators work.</p> <p><b>Meetup Agenda</b><br/>\u2022\u00a0<b>6:30pm</b> - Setup and start working</p> <p>\u2022<b> 7pm</b> - Break for quick introductions</p> <p>\u2022 <b>7:15pm - 8:30 pm</b>\u00a0- Open Lab, tech talk, or project</p> <p><b>Contact policy at buildings that need access</b></p> <p>Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. Want to be a Ruby on Rails Lead? If you are passionate about learning ROR with fellow awesome women and want to help us, come on out! Drop us a message or email us and let us know that you are interested in helping us with the Rails study group!</p> <p><b>RESOURCES</b></p> <p>These are the resources that members have been following along, feel free to suggest if you have more to add!</p> <p><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\"><a href=\"https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md\" class=\"linkified\">https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md</a></a></p> <p><br/>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p> <p>Request to join our Slack channel for communication:</p> <p><a href=\"http://bit.ly/wwcdcslack\"><a href=\"http://bit.ly/wwcdcslack\" class=\"linkified\">http://bit.ly/wwcdcslack</a></a></p> <p><b><br/></b></p>", 
             "duration": 7200000, 
             "event_url": "https://www.meetup.com/Women-Who-Code-DC/events/235154410/", 
             "group": {
@@ -732,14 +732,14 @@ calendar({
             "headcount": 0, 
             "id": "bmvvbmyvqbsb", 
             "maybe_rsvp_count": 0, 
-            "name": "Ruby on Rails", 
+            "name": "Ruby on Rails Lab: Ruby Fundamentals w/ a Focus on Blocks & Iterators", 
             "status": "upcoming", 
             "time": 1481758200000, 
-            "updated": 1478130038000, 
+            "updated": 1480102597000, 
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 4
+            "yes_rsvp_count": 6
         }, 
         {
             "created": 1457965726000, 
@@ -850,7 +850,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 7
+            "yes_rsvp_count": 8
         }, 
         {
             "created": 1457212385000, 
