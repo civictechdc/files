@@ -279,17 +279,23 @@ other:
     id: 13508462, join_mode: open, name: Women Who Code DC, urlname: Women-Who-Code-DC,
     who: Coders}
   headcount: 0
+  how_to_find_us: Conference Room 2 on second floor (downstairs). Google Hangout Links
+    will also be provided for remote participants.
   id: pjkzrlyvpbmc
   maybe_rsvp_count: 0
   name: 'Android Lab: Build Forget Me Not App'
   rsvp_limit: 25
   status: upcoming
   time: 1480462200000
-  updated: 1479730840000
+  updated: 1480197131000
   utc_offset: -18000000
+  venue: {address_1: '3160 16th Street Northwest, 2 blocks from Columbia Heights metro',
+    city: Washington, country: us, id: 24589986, lat: 38.928534999999997, localized_country_name: USA,
+    lon: -77.033225999999999, name: Mt. Pleasant Neighborhood Library, repinned: false,
+    state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 13
+  yes_rsvp_count: 14
 - created: 1478871483000
   description: "<p>Come join us for a <a href=\"http://www.meetup.com/stats-prog-dc/\"\
     >Stats Programming</a> / <a href=\"http://www.meetup.com/Data-Science-DC/\">Data\
@@ -345,7 +351,7 @@ other:
     lat: 38.901629999999997, localized_country_name: USA, lon: -77.033028000000002,
     name: Booz Allen Hamilton - Innovation Center, repinned: false, state: DC}
   visibility: public
-  waitlist_count: 77
+  waitlist_count: 80
   yes_rsvp_count: 230
 - created: 1476369329000
   description: "<p><b>Meetup Agenda</b></p> <p><br/>\u2022\_<b>6:30pm</b> - Setup\
@@ -432,7 +438,7 @@ other:
     state: DC, zip: '20001'}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 39
+  yes_rsvp_count: 41
 - created: 1477514397000
   description: "<p>We're having a very special holiday edition of the API Meetup!\
     \ \_Go ahead and mark your calendars for Tuesday Dec. 6th. \_We'll come together\
@@ -829,7 +835,7 @@ other:
   utc_offset: -18000000
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1457965726000
   description: "<p>Front End Hack Night (FEHN) is a study group where women can come\
     \ together and help each other learn and understand web development. We welcome\
@@ -1014,7 +1020,7 @@ other:
     repinned: false, state: DC}
   visibility: public
   waitlist_count: 0
-  yes_rsvp_count: 6
+  yes_rsvp_count: 7
 - created: 1459265642000
   description: <p>Interested in learning how to build Android apps with an awesome
     group of women? Looking to build your first app or build on existing skills? Come

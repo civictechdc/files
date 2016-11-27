@@ -248,17 +248,30 @@ calendar({
                 "who": "Coders"
             }, 
             "headcount": 0, 
+            "how_to_find_us": "Conference Room 2 on second floor (downstairs). Google Hangout Links will also be provided for remote participants.", 
             "id": "pjkzrlyvpbmc", 
             "maybe_rsvp_count": 0, 
             "name": "Android Lab: Build Forget Me Not App", 
             "rsvp_limit": 25, 
             "status": "upcoming", 
             "time": 1480462200000, 
-            "updated": 1479730840000, 
+            "updated": 1480197131000, 
             "utc_offset": -18000000, 
+            "venue": {
+                "address_1": "3160 16th Street Northwest, 2 blocks from Columbia Heights metro", 
+                "city": "Washington", 
+                "country": "us", 
+                "id": 24589986, 
+                "lat": 38.928534999999997, 
+                "localized_country_name": "USA", 
+                "lon": -77.033225999999999, 
+                "name": "Mt. Pleasant Neighborhood Library", 
+                "repinned": false, 
+                "state": "DC"
+            }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 13
+            "yes_rsvp_count": 14
         }, 
         {
             "created": 1478871483000, 
@@ -298,7 +311,7 @@ calendar({
                 "state": "DC"
             }, 
             "visibility": "public", 
-            "waitlist_count": 77, 
+            "waitlist_count": 80, 
             "yes_rsvp_count": 230
         }, 
         {
@@ -366,7 +379,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 39
+            "yes_rsvp_count": 41
         }, 
         {
             "created": 1477514397000, 
@@ -739,7 +752,7 @@ calendar({
             "utc_offset": -18000000, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1457965726000, 
@@ -890,7 +903,7 @@ calendar({
             }, 
             "visibility": "public", 
             "waitlist_count": 0, 
-            "yes_rsvp_count": 6
+            "yes_rsvp_count": 7
         }, 
         {
             "created": 1459265642000, 
